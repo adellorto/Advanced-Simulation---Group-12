@@ -1,0 +1,2 @@
+# Ignore the entire .idea folder (PyCharm settings) when pushing to git
+.idea/
