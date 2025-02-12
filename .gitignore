@@ -7,3 +7,4 @@
 
 #ignore saving steps in jupyter notebook in a specific fodler
 notebook/.ipynb_checkpoints/venv/
+venv/
