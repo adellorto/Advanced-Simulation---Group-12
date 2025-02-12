@@ -2,3 +2,5 @@
 .idea/
 #Ignore MAC OS X .DS_Store files
 .DS_store
+#ignore saving steps in jupyter notebook
+.ipynb_checkpoints/
