@@ -1,11 +1,11 @@
 Created by:
 |Group Number|12|
 |:---:|:-------:|
-|Bettin Lorenzo| Student Number|
-|Dell'Orto Alessandro| Student Number|
-|Le Grand Tangui| Student Number|
+|Bettin Lorenzo| 6132928|
+|Dell'Orto Alessandro| 6129161|
+|Le Grand Tangui| 6172075|
 |Precup Ada | 5240719 |
-|van Engelen Ralph| Student Number|
+|van Engelen Ralph| 4964748|
 
 # Project Title: Initial Data Exploration Road Network
 ## Introduction
