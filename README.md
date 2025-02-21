@@ -17,10 +17,19 @@ The aim of this coding project is to improve the quality of data obtained about 
 Make sure you upload your own version or copy of the data file `road_network.csv` in the DIRECTORY NAMED "DATA\RAW" before running the code. 
 
 It is essential that the data file has the following format:
-**Roads File**
+
+### Roads File
 - each row should represent one continuous road segment
 - column 1 represents the road segment ID
 - the following columns repeat over groups of three explaining the name of the first LRP taken form the road, its latitude and its longitude. 
+
+#### Expected Format for `roads.tsv`:
+- **Road Segment ID**: Unique identifier for each road segment.
+- **Road Name**: Name of the road (standardized format recommended).
+- **Latitude**: Geographical latitude of the road segment.
+- **Longitude**: Geographical longitude of the road segment.
+- **LRP Name**: Linked Reference Point (LRP) for location reference.
+- **Other Attributes**: Additional metadata such as road type, condition rating, and number of lanes (if available).
 
 ### Bridges File
 - `bridges.tsv` should contain bridge information.
@@ -45,7 +54,7 @@ It is essential that the data file has the following format:
 
 The requirements.txt file is located in the directory "notebook" and contains all the necessary packages to run the code.
 
-
+### Data Preprocessing
 The code is divided into two main parts:
 - Road Network Preprocessing
 - Bridge Preprocessing
