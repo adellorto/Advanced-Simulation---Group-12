@@ -15,6 +15,7 @@ The aim of this coding project is to improve the quality of data obtained about 
 ## How to Use
 
 Make sure you upload your own version or copy of the data file `road_network.csv` in the DIRECTORY NAMED "DATA\RAW" before running the code. 
+
 It is essential that the data file has the following format:
 **Roads File**
 - each row should represent one continuous road segment
