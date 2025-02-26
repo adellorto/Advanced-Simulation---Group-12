@@ -10,7 +10,11 @@ Created by:
 # Project Title: Initial Data Exploration Road Network
 ## Introduction
 
+<<<<<<< HEAD
 The aim of this coding project is to improve the quality of data obtained about the road network of Bangladesh.. Ultimately the details about the road network are to be used to model the transport system of Bangladesh and conclude which arteries or bridges require immediate investments to secure stability in the country. In order to ensure that drawn conclusions are valid, this pre-processing steps is critical in securing validity to the ulterior simulation.
+=======
+The aim of this coding project is to improve the quality of data obtained about the road network of Bangladesh. Ultimately the details about the road network are to be used to model the transport system of Bangladesh and conclude which arteries or bridges require immediate investments to secure stability in the country. In order to ensure that drawn conclusions are valid, this pre-processing steps is critical in securing validity to the ulterior simulation..
+>>>>>>> 818ba2e7dd1969573e586692e959c879da7f6642
 
 ## How to Use
 
