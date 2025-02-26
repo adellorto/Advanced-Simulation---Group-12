@@ -215,6 +215,7 @@ class Vehicle(Agent):
         self.waiting_time = 0
         self.waited_at = None
         self.removed_at_step = None
+        self.travel_time = 0
 
     def __str__(self):
         return "Vehicle" + str(self.unique_id) + \
@@ -232,6 +233,8 @@ class Vehicle(Agent):
         """
         Vehicle waits or drives at each step
         """
+        self.travel_time += self.step_time
+
         if self.state == Vehicle.State.WAIT:
             self.waiting_time = max(self.waiting_time - 1, 0)
             if self.waiting_time == 0:
@@ -273,6 +276,7 @@ class Vehicle(Agent):
             # arrive at the sink
             self.arrive_at_next(next_infra, 0)
             self.removed_at_step = self.model.schedule.steps
+            self.model.travel_times.append(self.travel_time)
             self.location.remove(self)
             return
         elif isinstance(next_infra, Bridge):
