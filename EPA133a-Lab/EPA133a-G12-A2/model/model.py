@@ -63,6 +63,8 @@ class BangladeshModel(Model):
         self.space = None
         self.sources = []
         self.sinks = []
+        self.travel_times = [1]
+        
 
         self.generate_model()
 
