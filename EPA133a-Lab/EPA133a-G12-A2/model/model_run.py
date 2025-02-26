@@ -1,3 +1,4 @@
+import pandas as pd
 from model import BangladeshModel
 
 """
@@ -23,3 +24,6 @@ print("SEED " + str(sim_model._seed))
 # One run with given steps
 for i in range(run_length):
     sim_model.step()
+
+print(pd.Series(sim_model.travel_times).mean())
+
