@@ -4,7 +4,7 @@ import requests
 import math
 
 # ---------------------------------------------------------------
-#importing cleaned raw data sets
+#importing raw data sets
 clean_roads = pd.read_csv('../data/_roads3.csv')
 clean_bridges = pd.read_excel('../data/BMMS_overview.xlsx', engine="openpyxl")
 
@@ -22,10 +22,10 @@ bridge_data = clean_bridges[clean_bridges['road'] == road_name]
 
 
 
-# ---------------------------------------------------------------
-#Updating the model dataframe with components from roads & bridges dataset
 
-#The input dataframe for the model needs to extract only links from the roads dataset
+# ---------------------------------------------------------------
+#Updating the model input dataframe with components from roads and turning them into links
+
 #Since the roads data frame also includes bridges, which we will add later from a different dataset, we first eliminate those from the roads data frame
 
 bridge_LRPs = set(bridge_data['LRPName']) # Convert bridge LRP values into a set for fast lookup
@@ -33,32 +33,12 @@ bridge_LRPs = set(bridge_data['LRPName']) # Convert bridge LRP values into a set
 # Filter out rows where 'lrp' exists in bridge_LRPs
 road_data = road_data[~road_data['lrp'].isin(bridge_LRPs)]
 
-road_data.to_csv('../data/road_data.csv', index=False) #delte later
-bridge_data.to_csv('../data/bridge_data.csv', index=False) #delete later
-
-
-#We obtain these links by calculating the distance between each pair of points in the road dataset
+#We obtain the links by calculating the distance between each pair of LRPs in the road dataset
 #The coordinates of each link are the lat and lon information of the starting point of the link
-#The length of each link is the distance between the two points
-#The name of each link comes from the 'name' column of the starting point of the link
-
-# lengths = []
-# for i in range(len(road_data)-1):
-#     lat1 = road_data.iloc[i]['lat']
-#     lon1 = road_data.iloc[i]['lon']
-#     lat2 = road_data.iloc[i+1]['lat']
-#     lon2 = road_data.iloc[i+1]['lon']
-#     lengths.append(np.sqrt((lat2-lat1)**2 + (lon2-lon1)**2))
-
-# df_links = pd.DataFrame(columns=['road', 'id', 'model_type', 'name', 'lat', 'lon', 'length', 'quality_cat'])
+#The length of each link is the distance between the two points, calculated using the haversine function.
+#The name of each link comes from the 'name' column of the starting LRP of the link
 
 
-# for i in range(len(road_data)-1):
-#     df_links.loc[i] = [road_name, 0, 'link', road_data.iloc[i]['name'], road_data.iloc[i]['lat'], road_data.iloc[i]['lon'], lengths[i], 'Z']
-
-# df_links.to_csv('../data/links.csv', index=False) #delete later
-
-# Idk what format the links need to be but i put urs temporarily in comments and added a lil conversion to meters using chat
 def haversine(lat1, lon1, lat2, lon2):
     """Calculate the great-circle distance in meters between two points on Earth."""
     R = 6371000  # Radius of Earth in meters
@@ -96,13 +76,19 @@ for i in range(len(road_data) - 1):
         'Z'
     ]
 
-# Append `df_links` to `input_data`
-input_data = pd.concat([input_data, df_links], ignore_index=True)
-
-#next needed to append the bridges to the input_data dataframe in the right location, so in between the link where needed. So must find way to idenitfy where brigde fits, maybe based on lat/lon
+# Prepare a DataFrame for the final input data
+input_data = df_links.copy()
 
 # ---------------------------------------------------------------
-# Make a function that finds the shortest distance between a bridge and a link so that we can find the roads that correspond to the bridges
+
+
+
+
+
+
+# ---------------------------------------------------------------
+# Update input dataframe with bridge components
+# Make a function that finds the shortest distance between a bridge and a link so that we can find closest LRPs that correspond to the bridges
 def find_insertion_index(bridge_row, links_df):
     distances = np.sqrt(
         (links_df['lat'] - bridge_row['lat'])**2 +
@@ -110,9 +96,6 @@ def find_insertion_index(bridge_row, links_df):
     )
     # Find the index of the closest link
     return distances.idxmin()
-
-# Prepare a DataFrame for the final input data 
-input_data = df_links.copy()
 
 # Go through each bridge and insert it in the correct order
 # Create a list to hold the new rows with insertion index info
@@ -145,6 +128,9 @@ for insertion_idx, new_bridge_row in bridge_rows_with_index:
     before = input_data.iloc[:insertion_idx+1]
     after = input_data.iloc[insertion_idx+1:]
     input_data = pd.concat([before, pd.DataFrame([new_bridge_row]), after], ignore_index=True)
+# ---------------------------------------------------------------
+
+
 
 # --- Update IDs ---
 input_data['id'] = range(1000000, 1000000 + len(input_data))
@@ -153,9 +139,3 @@ input_data['id'] = range(1000000, 1000000 + len(input_data))
 # (Optional) Save the final DataFrame for inspection
 input_data.to_csv('../data/final_input_data.csv', index=False)
 
-
-# there is still a discrepancy between the lengths of the links and the bridges, maybe the roads should be converted to meters?
-# ---------------------------------------------------------------
-#Once all the data is introduced, we create the subsequential IDs and fill the empty names
-#input_data['id']= pd.Series(range(1000000,1000000+len(input_data)))
-# ---------------------------------------------------------------
