@@ -11,8 +11,8 @@ from model import BangladeshModel
 # run time 5 x 24 hours; 1 tick 1 minute
 # run_length = 5 * 24 * 60
 
-# run time 1000 ticks
-run_length = 1000
+# run time 5000 ticks
+run_length = 5000
 
 seed = 1234567
 
@@ -25,5 +25,5 @@ print("SEED " + str(sim_model._seed))
 for i in range(run_length):
     sim_model.step()
 
-print(pd.Series(sim_model.travel_times).mean())
-
+print("Avg. tiravel time: " + str(pd.Series(sim_model.travel_times).mean()) + "\n")
+print("Number of trucks arrived at destination: " + str(len(sim_model.travel_times)))
