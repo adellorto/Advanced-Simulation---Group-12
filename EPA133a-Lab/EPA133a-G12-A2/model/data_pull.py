@@ -33,10 +33,6 @@ bridge_LRPs = set(bridge_data['LRPName']) # Convert bridge LRP values into a set
 # Filter out rows where 'lrp' exists in bridge_LRPs
 road_data = road_data[~road_data['lrp'].isin(bridge_LRPs)]
 
-road_data.to_csv('../data/road_data.csv', index=False) #delte later
-bridge_data.to_csv('../data/bridge_data.csv', index=False) #delete later
-
-
 #We obtain the links by calculating the distance between each pair of LRPs in the road dataset
 #The coordinates of each link are the lat and lon information of the starting point of the link
 #The length of each link is the distance between the two points, calculated using the haversine function.
@@ -88,6 +84,8 @@ input_data = df_links.copy()
 
 
 
+
+
 # ---------------------------------------------------------------
 # Update input dataframe with bridge components
 # Make a function that finds the shortest distance between a bridge and a link so that we can find closest LRPs that correspond to the bridges
@@ -130,6 +128,9 @@ for insertion_idx, new_bridge_row in bridge_rows_with_index:
     before = input_data.iloc[:insertion_idx+1]
     after = input_data.iloc[insertion_idx+1:]
     input_data = pd.concat([before, pd.DataFrame([new_bridge_row]), after], ignore_index=True)
+# ---------------------------------------------------------------
+
+
 
 # --- Update IDs ---
 input_data['id'] = range(1000000, 1000000 + len(input_data))
@@ -138,9 +139,3 @@ input_data['id'] = range(1000000, 1000000 + len(input_data))
 # (Optional) Save the final DataFrame for inspection
 input_data.to_csv('../data/final_input_data.csv', index=False)
 
-
-# there is still a discrepancy between the lengths of the links and the bridges, maybe the roads should be converted to meters?
-# ---------------------------------------------------------------
-#Once all the data is introduced, we create the subsequential IDs and fill the empty names
-#input_data['id']= pd.Series(range(1000000,1000000+len(input_data)))
-# ---------------------------------------------------------------
