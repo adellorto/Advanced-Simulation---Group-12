@@ -64,7 +64,13 @@ class Bridge(Infra):
     def get_delay_time(self):
         return self.delay_time
 
-
+    def is_broken(self):
+    # Only check if the bridge is in condition 'D'
+        if self.condition == 'D':
+            # Generate a random float from 0 to 1 using model's random
+            if self.model.random.random() < 0.01:
+                return True
+        return False
 # ---------------------------------------------------------------
 class Link(Infra):
     pass
@@ -287,7 +293,22 @@ class Vehicle(Agent):
                 self.state = Vehicle.State.WAIT
                 return
             # else, continue driving
-
+         
+         # If the next infrastructure is a Bridge, check if it is broken
+        elif isinstance(next_infra, Bridge):
+            if next_infra.is_broken():
+                print(f"Bridge {next_infra.unique_id} is broken. Rerouting vehicle {self.unique_id}.")
+                # Reroute: Here, we reassign a new path.
+                # Implement your rerouting logic as needed.
+                self.set_path()
+                self.location_index = 0  # Reset the index to start at the new path's origin
+                return
+            else:
+                self.waiting_time = next_infra.get_delay_time()
+                if self.waiting_time > 0:
+                    self.arrive_at_next(next_infra, 0)
+                    self.state = Vehicle.State.WAIT
+                    return
         if next_infra.length > distance:
             # stay on this object:
             self.arrive_at_next(next_infra, distance)
@@ -303,6 +324,8 @@ class Vehicle(Agent):
         self.location = next_infra
         self.location_offset = location_offset
         self.location.vehicle_count += 1
+
+    
 
 # EOF -----------------------------------------------------------
 
