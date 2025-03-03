@@ -113,7 +113,7 @@ for idx, bridge in bridge_data.iterrows():
         'lat': bridge['lat'],
         'lon': bridge['lon'],
         'length': bridge['length'] if 'length' in bridge else 0,
-        'quality_cat': bridge['quality_cat'] if 'quality_cat' in bridge else 'B'
+        'quality_cat': bridge['condition'] if 'condition' in bridge else 'Z'
     }
     
     # Append a tuple with the insertion index and the new row

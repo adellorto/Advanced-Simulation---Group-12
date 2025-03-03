@@ -68,7 +68,7 @@ class Bridge(Infra):
     # Only check if the bridge is in condition 'D'
         if self.condition == 'D':
             # Generate a random float from 0 to 1 using model's random
-            if self.model.random.random() < 0.01:
+            if self.model.random.random() < 0.01: #to update the chance depending on scenario
                 return True
         return False
 # ---------------------------------------------------------------
