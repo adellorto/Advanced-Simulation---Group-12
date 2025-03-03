@@ -25,5 +25,5 @@ print("SEED " + str(sim_model._seed))
 for i in range(run_length):
     sim_model.step()
 
-print("Avg. tiravel time: " + str(pd.Series(sim_model.travel_times).mean()) + "\n")
+print("Avg. tiravel time: " + str(pd.Series(sim_model.travel_times).mean()) + " minutes\n")
 print("Number of trucks arrived at destination: " + str(len(sim_model.travel_times)))

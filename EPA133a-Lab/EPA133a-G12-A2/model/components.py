@@ -57,7 +57,8 @@ class Bridge(Infra):
         self.condition = condition
 
         # TODO
-        self.delay_time = self.random.randrange(0, 10)
+        #self.delay_time = self.random.randrange(0, 10)
+        self.delay_time = 0
         # print(self.delay_time)
 
     # TODO

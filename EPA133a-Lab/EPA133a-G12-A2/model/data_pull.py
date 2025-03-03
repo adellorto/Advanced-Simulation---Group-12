@@ -143,5 +143,25 @@ input_data.loc[len(input_data) - 1, 'model_type'] = 'sink'  # Last row → "sink
 
 
 # (Optional) Save the final DataFrame for inspection
-input_data.to_csv('../data/final_input_data.csv', index=False)
+#input_data.to_csv('../data/final_input_data.csv', index=False)
 
+link = True
+rows_to_drop = []  # Store indices of rows to drop
+
+for row in input_data.index:
+    if input_data.loc[row, 'model_type'] == 'link':
+        if link:
+            rows_to_drop.append(row)
+        else:
+            link = True
+    if input_data.loc[row, 'model_type'] == 'bridge':
+        if link:
+            link = False
+        else:
+            rows_to_drop.append(row)
+
+# Drop rows after the loop
+input_data.drop(rows_to_drop, inplace=True)
+
+print(input_data)
+input_data.to_csv('../data/test_input_data.csv', index=False)
