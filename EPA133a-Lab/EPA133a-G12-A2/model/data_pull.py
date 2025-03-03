@@ -132,8 +132,14 @@ for insertion_idx, new_bridge_row in bridge_rows_with_index:
 
 
 
+#Final formatting for data input
+
 # --- Update IDs ---
 input_data['id'] = range(1000000, 1000000 + len(input_data))
+
+input_data.loc[0, 'model_type'] = 'source'  # First row → "source"
+input_data.loc[len(input_data) - 1, 'model_type'] = 'sink'  # Last row → "sink"
+
 
 
 # (Optional) Save the final DataFrame for inspection
