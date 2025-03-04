@@ -68,6 +68,10 @@ To install the requirements, open a terminal/command line window in PyCharm and 
   In this file, you define model batch runs. The finalised version of this script saves the outputs of each simulation in the directory  'experiment' as a .csv file. 
   This script is also where you can control the scenario of the simulation and test its robustness by modifying the seed.
 
+- [data_pull.py](data_pull.py): Contains the data pull routines for the model. The data pull routines takes processed input from the real world and produces a fitting `.csv` file for the model. 
+
+  In this file, you define the data pull routines in case your real-world data has a different arrangement from the Bangladesh network of roads. Here we can also select which is the road of interest for the model generation.
+
 - [ContinuousSpace](ContinuousSpace): The directory contains files needed to visualize Python3 Mesa models on a continuous canvas with geo-coordinates, a functionality not contained in the current Mesa package.
 
   Editing files in this directory is NOT recommended for our assignment.

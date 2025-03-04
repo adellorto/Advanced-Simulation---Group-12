@@ -38,4 +38,4 @@ The rest of the information is used to instantiate the components (objects).
 
 You may change the data format and structure if the model generation (`generate_model`) routine is adapted accordingly.
 
-All data files contained in this directory are used as input for model generation. Files `demo-1.csv`, `demo-2.csv`, and `demo-3.csv` do not contain real data and are simply used for practice.
+All data files contained in this directory (except `_roads3.csv` and `BMMS_overview.xlsx`) can be used as input for model generation. Files `demo-1.csv`, `demo-2.csv`, and `demo-3.csv` do not contain real data and are simply used for practice.
