@@ -3,11 +3,13 @@
 Created by:
 Yilin HUANG
 
+Continued by Group 12 of EPA133a Advanced Simulation course (2024-2025)
+
 Email:
 y.huang@tudelft.nl
 
 Version:
-1.0
+1.1
 
 ## Introduction
 
@@ -36,4 +38,4 @@ The rest of the information is used to instantiate the components (objects).
 
 You may change the data format and structure if the model generation (`generate_model`) routine is adapted accordingly.
 
-All data files contained in this directory are used as demonstration for model generation. They are not based on real data.
+All data files contained in this directory are used as input for model generation. Files `demo-1.csv`, `demo-2.csv`, and `demo-3.csv` do not contain real data and are simply used for practice.
