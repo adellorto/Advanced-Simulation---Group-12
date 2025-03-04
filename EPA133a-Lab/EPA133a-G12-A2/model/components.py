@@ -55,22 +55,58 @@ class Bridge(Infra):
         super().__init__(unique_id, model, length, name, road_name)
 
         self.condition = condition
+        # Probabilities of breaking down accordingly with quality categories
+        self.breakdown_probabilities = {
+            'A': 0.0,
+            'B': 0.05,
+            'C': 0.10,
+            'D': 0.20,
+            'Z': 0.0  # 'Z' = no data => treat as 0% breakdown or handle differently
+        }
 
-        # TODO
-        self.delay_time = self.random.randrange(0, 10)
+        self.delay_time = 0
         # print(self.delay_time)
 
-    # TODO
+
     def get_delay_time(self):
+        """
+                Return the delay (in ticks/minutes) caused by this bridge
+                for the current crossing. If not broken, returns 0.
+                """
+        if self.is_broken(): # If the bridge is broken, the delay experienced by a truck is determined by the bridge’s length.
+            # Delay distribution depends on length
+            if self.length > 200:
+                # Triangular(1, 2, 4) hours => convert hours to minutes if 1 tick = 1 minute
+                delay_hours = self.model.random.triangular(1, 2, 4)
+                self.delay_time = delay_hours * 60
+            elif 50 < self.length <= 200:
+                # For bridges between 50 and 200 meters, the delay is sampled uniformly between 45 and 90 minutes.
+                self.delay_time = self.model.random.uniform(45, 90)
+            elif 10 < self.length <= 50:
+                # For bridges between 10 and 50 meters, the delay is sampled uniformly between 15 and 60 minutes.
+                self.delay_time = self.model.random.uniform(15, 60)
+            else:
+                # For bridges 10 meters or shorter, the delay is sampled uniformly between 10 and 20 minutes.
+                self.delay_time = self.model.random.uniform(10, 20)
+        else:
+            self.delay_time = 0
+
         return self.delay_time
 
     def is_broken(self):
-    # Only check if the bridge is in condition 'D'
-        if self.condition == 'D':
-            # Generate a random float from 0 to 1 using model's random
-            if self.model.random.random() < 0.01: #to update the chance depending on scenario
-                return True
+        """
+                Determine if the bridge is 'broken' for the current crossing,
+                (based on its quality category and a random check).
+                Return True if broken, False otherwise.
+                """
+        # Get the breakdown probability for this category
+        prob = self.breakdown_probabilities.get(self.condition, 0.0)
+        # If random < prob => it's broken
+        if self.model.random.random() < prob:
+            return True
         return False
+
+
 # ---------------------------------------------------------------
 class Link(Infra):
     pass
