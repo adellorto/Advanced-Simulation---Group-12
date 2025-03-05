@@ -51,21 +51,16 @@ class Bridge(Infra):
     """
 
     def __init__(self, unique_id, model, length=0,
-                 name='Unknown', road_name='Unknown', condition='Unknown'):
+                 name='Unknown', road_name='Unknown', condition='Unknown', broken = False):
         super().__init__(unique_id, model, length, name, road_name)
 
         self.condition = condition
         # Probabilities of breaking down accordingly with quality categories
-        self.breakdown_probabilities = {
-            'A': 0.0, #high quality bridges, 0% probability of braking down
-            'B': 0.05, #high-mid quality bridges, 5% probability of braking down
-            'C': 0.10, # mid-low quality bridges, 10% probability of braking down
-            'D': 0.20, #low quality bridges, 20% probability of braking down
-            'Z': 0.0  # 'Z' = no data => treat as 0% breakdown or handle differently
-        }
 
         self.delay_time = 0
         # print(self.delay_time)
+
+        self.broken = broken
 
 
     def get_delay_time(self):
@@ -333,13 +328,6 @@ class Vehicle(Agent):
          # If the next infrastructure is a Bridge, check if it is broken
         elif isinstance(next_infra, Bridge):
             if next_infra.is_broken():
-                print(f"Bridge {next_infra.unique_id} is broken. Rerouting vehicle {self.unique_id}.")
-                # Reroute: Here, we reassign a new path.
-                # Implement your rerouting logic as needed.
-                self.set_path()
-                self.location_index = 0  # Reset the index to start at the new path's origin
-                return
-            else:
                 self.waiting_time = next_infra.get_delay_time()
                 if self.waiting_time > 0:
                     self.arrive_at_next(next_infra, 0)
