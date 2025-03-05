@@ -50,20 +50,12 @@ class Bridge(Infra):
 
     """
 
-    def __init__(self, unique_id, model, length=0,
-                 name='Unknown', road_name='Unknown', condition='Unknown'):
+    def __init__(self, unique_id, model, length=0, name='Unknown', road_name='Unknown',
+                 condition='Unknown'):
         super().__init__(unique_id, model, length, name, road_name)
 
         self.condition = condition
         # Probabilities of breaking down accordingly with quality categories
-        self.breakdown_probabilities = {
-            'A': 0.0,
-            'B': 0.05,
-            'C': 0.10,
-            'D': 0.20,
-            'Z': 0.0  # 'Z' = no data => treat as 0% breakdown or handle differently
-        }
-
         self.delay_time = 0
         # print(self.delay_time)
 
@@ -100,7 +92,7 @@ class Bridge(Infra):
                 Return True if broken, False otherwise.
                 """
         # Get the breakdown probability for this category
-        prob = self.breakdown_probabilities.get(self.condition, 0.0)
+        prob = self.model.breakdown_probabilities.get(self.condition, 0.0)
         # If random < prob => it's broken
         if self.model.random.random() < prob:
             return True
