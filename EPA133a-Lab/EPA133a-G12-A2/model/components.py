@@ -100,7 +100,7 @@ class Bridge(Infra):
                 Return True if broken, False otherwise.
                 """
         # Get the breakdown probability for this category
-        prob = self.breakdown_probabilities.get(self.condition, 0.0)
+        prob = self.model.breakdown_probabilities.get(self.condition, 0.0)
         # If random < prob => it's broken
         if self.model.random.random() < prob:
             return True
