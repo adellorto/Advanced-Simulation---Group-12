@@ -98,6 +98,7 @@ class Bridge(Infra):
         prob = self.model.breakdown_probabilities.get(self.condition, 0.0)
         # If random < prob => it's broken
         if self.model.random.random() < prob:
+            self.model.broken_bridges = self.model.broken_bridges + 1
             return True
         return False
 
@@ -105,6 +106,7 @@ class Bridge(Infra):
         #print(self.condition)
         if not self.broken:
             self.broken = self.is_broken()
+
 
 
 # ---------------------------------------------------------------

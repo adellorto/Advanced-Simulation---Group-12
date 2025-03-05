@@ -64,6 +64,7 @@ class BangladeshModel(Model):
         self.sources = []
         self.sinks = []
         self.travel_times = []
+        self.broken_bridges = 0
         self.breakdown_probabilities = breakdown_probabilities
         self.generate_model()
 

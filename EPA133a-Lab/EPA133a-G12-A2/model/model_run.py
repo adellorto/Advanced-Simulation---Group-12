@@ -12,9 +12,9 @@ from model import BangladeshModel
 """
     Choose your own runtime
 """
-#run time 5 x 24 hours; 1 tick 1 minute
 
-#run_length = 5 * 24 * 60
+
+
 probabilities = pd.DataFrame({
     'A':[0,0,0,0,0,0,0,0.05,0.1],
     'B':[0,0,0,0,0,0.05,0.1,0.1,0.2],
@@ -25,8 +25,8 @@ probabilities = pd.DataFrame({
 
 probabilities.index = [f"Scenario {i}" for i in range(len(probabilities))]
 
-# run time 1000 ticks
-run_length = 3000
+#run time 5 x 24 hours; 1 tick 1 minute
+run_length = 7200
 
 #control sequence of random numbers from here to test sensitivity and applicability of different scenarios
 seed = 1234567
@@ -47,29 +47,28 @@ for scenario in probabilities.index:
         sim_model.step()
 
     # Calculate average travel time
-    avg_travel_time = pd.Series(sim_model.travel_times).mean()
+    avg_travel_time = round(pd.Series(sim_model.travel_times).mean(),2)
     num_trucks_arrived = len(sim_model.travel_times)
+    num_broken_bridges = sim_model.broken_bridges
 
     # Print results
-    print(f"\nScenario {scenario} - Seed {seed}: Avg. travel time = {round(avg_travel_time,2)} minutes")
+    print(f"\n{scenario} - Seed {seed}: Avg. travel time = {avg_travel_time} minutes")
     print(f"Number of trucks arrived at destination: {num_trucks_arrived}")
+    print(f"Number of broken bridges: {num_broken_bridges}")
 
     #Store results
-    results.append([scenario, avg_travel_time, num_trucks_arrived])
+    results.append([scenario, avg_travel_time, num_trucks_arrived, num_broken_bridges])
 
 
 """
     Save results to a uniquely named file
 """
 # Convert results to DataFrame
-df = pd.DataFrame(results, columns=["Scenario", "Avg_Travel_Time", "Num_Trucks"])
+df = pd.DataFrame(results, columns=["Scenario", "Avg_Travel_Time", "Num_Trucks", "Num_Broken_Bridges"])
 
 # Save results to CSV
 output_file = os.path.join(output_dir, f"experiment_seed_{seed}.csv")
 df.to_csv(output_file, index=False)
 
 print(f"\nResults saved to {output_file}")
-
-df_check = pd.read_csv("../experiment/experiment_seed_1234567.csv")
-print(df_check)
 
