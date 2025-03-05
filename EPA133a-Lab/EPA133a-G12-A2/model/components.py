@@ -316,18 +316,10 @@ class Vehicle(Agent):
             self.model.travel_times.append(self.travel_time)
             self.location.remove(self)
             return
+
+        # If the next infrastructure is a Bridge, check if it is broken
         elif isinstance(next_infra, Bridge):
-            self.waiting_time = next_infra.get_delay_time()
-            if self.waiting_time > 0:
-                # arrive at the bridge and wait
-                self.arrive_at_next(next_infra, 0)
-                self.state = Vehicle.State.WAIT
-                return
-            # else, continue driving
-         
-         # If the next infrastructure is a Bridge, check if it is broken
-        elif isinstance(next_infra, Bridge):
-            if next_infra.is_broken():
+            if next_infra.broken:
                 self.waiting_time = next_infra.get_delay_time()
                 if self.waiting_time > 0:
                     self.arrive_at_next(next_infra, 0)

@@ -14,7 +14,7 @@ from model import BangladeshModel
 #run time 5 x 24 hours; 1 tick 1 minute
 scenario_number = 0
 #run_length = 5 * 24 * 60
-breakdown_probabilities = {'A' : 0, 'B' : 0, 'C' : 0, 'D' : 0, 'Z' : 0}
+breakdown_probabilities = {'A' : 1, 'B' : 1, 'C' : 1, 'D' : 1, 'Z' : 0}
 # run time 1000 ticks
 run_length = 1000
 
