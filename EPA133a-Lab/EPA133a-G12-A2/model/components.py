@@ -68,7 +68,7 @@ class Bridge(Infra):
                 Return the delay (in ticks/minutes) caused by this bridge
                 for the current crossing. If not broken, returns 0.
                 """
-        if self.is_broken(): # If the bridge is broken, the delay experienced by a truck is determined by the bridge’s length.
+        if self.broken: # If the bridge is broken, the delay experienced by a truck is determined by the bridge’s length.
             # Delay distribution depends on length (m)
             if self.length > 200:
                 # Triangular(1, 2, 4) hours => convert hours to minutes if 1 tick = 1 minute
@@ -101,6 +101,11 @@ class Bridge(Infra):
             return True
         return False
 
+    def step(self):
+        #print(self.condition)
+        if not self.broken:
+            self.broken = self.is_broken()
+
 
 # ---------------------------------------------------------------
 class Link(Infra):
@@ -124,7 +129,7 @@ class Sink(Infra):
     def remove(self, vehicle):
         self.model.schedule.remove(vehicle)
         self.vehicle_removed_toggle = not self.vehicle_removed_toggle
-        print(str(self) + ' REMOVE ' + str(vehicle))
+        #print(str(self) + ' REMOVE ' + str(vehicle))
 
 
 # ---------------------------------------------------------------
@@ -171,7 +176,7 @@ class Source(Infra):
                 Source.truck_counter += 1
                 self.vehicle_count += 1
                 self.vehicle_generated_flag = True
-                print(str(self) + " GENERATE " + str(agent))
+                #print(str(self) + " GENERATE " + str(agent))
         except Exception as e:
             print("Oops!", e.__class__, "occurred.")
 
@@ -284,7 +289,7 @@ class Vehicle(Agent):
         """
         To print the vehicle trajectory at each step
         """
-        print(self)
+        #print(self)
 
     def drive(self):
 
