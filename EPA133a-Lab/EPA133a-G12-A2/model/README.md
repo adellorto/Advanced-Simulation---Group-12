@@ -3,11 +3,13 @@
 Created by:
 Yilin HUANG
 
+Continued by Group 12 of EPA133a Advanced Simulation course (2024-2025)
+
 Email:
 y.huang@tudelft.nl
 
 Version:
-1.1
+1.2
 
 ## Introduction
 
@@ -51,8 +53,8 @@ To install the requirements, open a terminal/command line window in PyCharm and 
 
 - [model.py](model.py): Contains the model `BangladeshModel` which is a subclass of Mesa `Model`. It reads a `csv` file with specific format for (transport) model generation. (See the README in the `data` directory for data format.) In addition to dynamic behavior, each model component instance (i.e., object) also has geo-location variables, i.e. latitude and longitude in Decimal Degrees (DD). The given bounds of the latitude and longitude of all objects are translated into the bounds of the HTML5 canvas, which is used in case the visualization is launched.
 
-  In this file, you modify the model generation and add your own routines.
-
+  In this file, you modify the model generation and add your own routines. 
+  
 - [components.py](components.py): Contains the model component definitions for the (main) model. Check the file carefully to see which components are already defined.
 
   In this file, you modify and add your own components.
@@ -63,7 +65,12 @@ To install the requirements, open a terminal/command line window in PyCharm and 
 
 - [model_run.py](model_run.py): Sets up the model run (conditions). Calls the model. Run the simulation without visualization.
 
-  In this file, you define model batch runs.
+  In this file, you define model batch runs. The finalised version of this script saves the outputs of each simulation in the directory  'experiment' as a .csv file. 
+  This script is also where you can control the scenario of the simulation and test its robustness by modifying the seed.
+
+- [data_pull.py](data_pull.py): Contains the data pull routines for the model. The data pull routines takes processed input from the real world and produces a fitting `.csv` file for the model. 
+
+  In this file, you define the data pull routines in case your real-world data has a different arrangement from the Bangladesh network of roads. Here we can also select which is the road of interest for the model generation.
 
 - [ContinuousSpace](ContinuousSpace): The directory contains files needed to visualize Python3 Mesa models on a continuous canvas with geo-coordinates, a functionality not contained in the current Mesa package.
 
