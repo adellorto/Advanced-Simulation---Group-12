@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 from model import BangladeshModel
 
@@ -11,49 +12,63 @@ from model import BangladeshModel
 """
     Choose your own runtime
 """
+
+
+
+probabilities = pd.DataFrame({
+    'A':[0,0,0,0,0,0,0,0.05,0.1],
+    'B':[0,0,0,0,0,0.05,0.1,0.1,0.2],
+    'C':[0,0,0,0.05,0.1,0.1,0.2,0.2,0.4],
+    'D':[0,0.05,0.1,0.1,0.2,0.2,0.4,0.4,0.8],
+    'Z':[0,0,0,0,0,0,0,0,0]
+})
+
+probabilities.index = [f"Scenario {i}" for i in range(len(probabilities))]
+
 #run time 5 x 24 hours; 1 tick 1 minute
-scenario_number = 0
-#run_length = 5 * 24 * 60
-breakdown_probabilities = {'A' : 1, 'B' : 1, 'C' : 1, 'D' : 1, 'Z' : 0}
-# run time 1000 ticks
-run_length = 1000
+run_length = 7200
 
 #control sequence of random numbers from here to test sensitivity and applicability of different scenarios
 seed = 1234567
 
-sim_model = BangladeshModel(seed=seed,breakdown_probabilities = breakdown_probabilities)
+#List for storing results
+results = []
 
-# Check if the seed is set
-print("SEED " + str(sim_model._seed))
+# Ensure output directory exists
+output_dir = "../experiment"
+os.makedirs(output_dir, exist_ok=True)
 
-# One run per index with given steps
-for i in range(run_length):
-    sim_model.step()
+for scenario in probabilities.index:
+    breakdown_probabilities = {key: value / run_length for key, value in probabilities.loc[scenario].items()}
+    sim_model = BangladeshModel(seed=seed,breakdown_probabilities = breakdown_probabilities)
 
-# Calculate average travel time
-avg_travel_time = pd.Series(sim_model.travel_times).mean()
-num_trucks_arrived = len(sim_model.travel_times)
+    # One run per index with given steps
+    for i in range(run_length):
+        sim_model.step()
 
-# Print results
-print(f"Scenario {scenario_number} - Seed {seed}: Avg. travel time = {avg_travel_time}")
-print(f"Number of trucks arrived at destination: {num_trucks_arrived}")
+    # Calculate average travel time
+    avg_travel_time = round(pd.Series(sim_model.travel_times).mean(),2)
+    num_trucks_arrived = len(sim_model.travel_times)
+    num_broken_bridges = sim_model.broken_bridges
+
+    # Print results
+    print(f"\n{scenario} - Seed {seed}: Avg. travel time = {avg_travel_time} minutes")
+    print(f"Number of trucks arrived at destination: {num_trucks_arrived}")
+    print(f"Number of broken bridges: {num_broken_bridges}")
+
+    #Store results
+    results.append([scenario, avg_travel_time, num_trucks_arrived, num_broken_bridges])
 
 
 """
     Save results to a uniquely named file
 """
-# Create directory if it doesn't exist
-output_dir = "../experiment"
+# Convert results to DataFrame
+df = pd.DataFrame(results, columns=["Scenario", "Avg_Travel_Time", "Num_Trucks", "Num_Broken_Bridges"])
 
-# Create a unique file name based on scenario number and seed
-output_file = f"{output_dir}/scenario_{scenario_number}_seed_{seed}.csv"
-
-# Create a DataFrame for this run
-df = pd.DataFrame([[scenario_number, seed, avg_travel_time, num_trucks_arrived]],
-                  columns=["Scenario", "Seed", "Avg_Travel_Time", "Num_Trucks"])
-
-# Save as a separate file for each scenario
+# Save results to CSV
+output_file = os.path.join(output_dir, f"experiment_seed_{seed}.csv")
 df.to_csv(output_file, index=False)
 
-print(f"Results saved to {output_file}")
+print(f"\nResults saved to {output_file}")
 

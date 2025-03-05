@@ -68,7 +68,7 @@ class Bridge(Infra):
                 Return the delay (in ticks/minutes) caused by this bridge
                 for the current crossing. If not broken, returns 0.
                 """
-        if self.is_broken(): # If the bridge is broken, the delay experienced by a truck is determined by the bridge’s length.
+        if self.broken: # If the bridge is broken, the delay experienced by a truck is determined by the bridge’s length.
             # Delay distribution depends on length (m)
             if self.length > 200:
                 # Triangular(1, 2, 4) hours => convert hours to minutes if 1 tick = 1 minute
@@ -98,8 +98,15 @@ class Bridge(Infra):
         prob = self.model.breakdown_probabilities.get(self.condition, 0.0)
         # If random < prob => it's broken
         if self.model.random.random() < prob:
+            self.model.broken_bridges = self.model.broken_bridges + 1
             return True
         return False
+
+    def step(self):
+        #print(self.condition)
+        if not self.broken:
+            self.broken = self.is_broken()
+
 
 
 # ---------------------------------------------------------------
@@ -124,7 +131,7 @@ class Sink(Infra):
     def remove(self, vehicle):
         self.model.schedule.remove(vehicle)
         self.vehicle_removed_toggle = not self.vehicle_removed_toggle
-        print(str(self) + ' REMOVE ' + str(vehicle))
+        #print(str(self) + ' REMOVE ' + str(vehicle))
 
 
 # ---------------------------------------------------------------
@@ -171,7 +178,7 @@ class Source(Infra):
                 Source.truck_counter += 1
                 self.vehicle_count += 1
                 self.vehicle_generated_flag = True
-                print(str(self) + " GENERATE " + str(agent))
+                #print(str(self) + " GENERATE " + str(agent))
         except Exception as e:
             print("Oops!", e.__class__, "occurred.")
 
@@ -272,6 +279,8 @@ class Vehicle(Agent):
         """
         self.travel_time += self.step_time
 
+        #print(self.state)
+
         if self.state == Vehicle.State.WAIT:
             self.waiting_time = max(self.waiting_time - 1, 0)
             if self.waiting_time == 0:
@@ -284,7 +293,7 @@ class Vehicle(Agent):
         """
         To print the vehicle trajectory at each step
         """
-        print(self)
+        #print(self)
 
     def drive(self):
 
@@ -320,11 +329,11 @@ class Vehicle(Agent):
         # If the next infrastructure is a Bridge, check if it is broken
         elif isinstance(next_infra, Bridge):
             if next_infra.broken:
+                #print(str(next_infra.name) + ": " + str(next_infra.get_delay_time()))
                 self.waiting_time = next_infra.get_delay_time()
-                if self.waiting_time > 0:
-                    self.arrive_at_next(next_infra, 0)
-                    self.state = Vehicle.State.WAIT
-                    return
+                self.state = Vehicle.State.WAIT
+                return
+
         if next_infra.length > distance:
             # stay on this object:
             self.arrive_at_next(next_infra, distance)
