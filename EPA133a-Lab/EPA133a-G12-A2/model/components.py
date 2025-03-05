@@ -277,6 +277,8 @@ class Vehicle(Agent):
         """
         self.travel_time += self.step_time
 
+        #print(self.state)
+
         if self.state == Vehicle.State.WAIT:
             self.waiting_time = max(self.waiting_time - 1, 0)
             if self.waiting_time == 0:
@@ -325,11 +327,11 @@ class Vehicle(Agent):
         # If the next infrastructure is a Bridge, check if it is broken
         elif isinstance(next_infra, Bridge):
             if next_infra.broken:
+                print(next_infra.get_delay_time())
                 self.waiting_time = next_infra.get_delay_time()
-                if self.waiting_time > 0:
-                    self.arrive_at_next(next_infra, 0)
-                    self.state = Vehicle.State.WAIT
-                    return
+                self.state = Vehicle.State.WAIT
+                return
+
         if next_infra.length > distance:
             # stay on this object:
             self.arrive_at_next(next_infra, distance)

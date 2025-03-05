@@ -14,9 +14,9 @@ from model import BangladeshModel
 #run time 5 x 24 hours; 1 tick 1 minute
 scenario_number = 0
 #run_length = 5 * 24 * 60
-breakdown_probabilities = {'A' : 0.1, 'B' : 0.2, 'C' : 0.1, 'D' : 0.5, 'Z' : 0}
+breakdown_probabilities = {'A' : 0.0, 'B' : 0.0, 'C' : 0.0, 'D' : 0.01, 'Z' : 0}
 # run time 1000 ticks
-run_length = 1000
+run_length = 3000
 
 #control sequence of random numbers from here to test sensitivity and applicability of different scenarios
 seed = 1234567
