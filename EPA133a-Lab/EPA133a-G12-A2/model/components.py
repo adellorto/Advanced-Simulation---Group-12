@@ -50,14 +50,16 @@ class Bridge(Infra):
 
     """
 
-    def __init__(self, unique_id, model, length=0, name='Unknown', road_name='Unknown',
-                 condition='Unknown', broken = False):
+    def __init__(self, unique_id, model, length=0,
+                 name='Unknown', road_name='Unknown', condition='Unknown', broken = False):
         super().__init__(unique_id, model, length, name, road_name)
 
         self.condition = condition
         # Probabilities of breaking down accordingly with quality categories
+
         self.delay_time = 0
         # print(self.delay_time)
+
         self.broken = broken
 
 
@@ -66,12 +68,12 @@ class Bridge(Infra):
                 Return the delay (in ticks/minutes) caused by this bridge
                 for the current crossing. If not broken, returns 0.
                 """
-        if self.broken: # If the bridge is broken, the delay experienced by a truck is determined by the bridge’s length.
-            # Delay distribution depends on length
+        if self.is_broken(): # If the bridge is broken, the delay experienced by a truck is determined by the bridge’s length.
+            # Delay distribution depends on length (m)
             if self.length > 200:
                 # Triangular(1, 2, 4) hours => convert hours to minutes if 1 tick = 1 minute
                 delay_hours = self.model.random.triangular(1, 2, 4)
-                self.delay_time = delay_hours * 60
+                self.delay_time = delay_hours * 60 # conversion in minutes
             elif 50 < self.length <= 200:
                 # For bridges between 50 and 200 meters, the delay is sampled uniformly between 45 and 90 minutes.
                 self.delay_time = self.model.random.uniform(45, 90)
@@ -82,7 +84,7 @@ class Bridge(Infra):
                 # For bridges 10 meters or shorter, the delay is sampled uniformly between 10 and 20 minutes.
                 self.delay_time = self.model.random.uniform(10, 20)
         else:
-            self.delay_time = 0
+            self.delay_time = 0 #in case the bridges are not compromised/broken
 
         return self.delay_time
 
@@ -97,14 +99,7 @@ class Bridge(Infra):
         # If random < prob => it's broken
         if self.model.random.random() < prob:
             return True
-        else:
-            return False
-
-    def step(self):
-        if not self.broken:
-            self.broken = self.is_broken()
-
-
+        return False
 
 
 # ---------------------------------------------------------------
@@ -321,16 +316,8 @@ class Vehicle(Agent):
             self.model.travel_times.append(self.travel_time)
             self.location.remove(self)
             return
-        elif isinstance(next_infra, Bridge):
-            self.waiting_time = next_infra.get_delay_time()
-            if self.waiting_time > 0:
-                # arrive at the bridge and wait
-                self.arrive_at_next(next_infra, 0)
-                self.state = Vehicle.State.WAIT
-                return
-            # else, continue driving
-         
-         # If the next infrastructure is a Bridge, check if it is broken
+
+        # If the next infrastructure is a Bridge, check if it is broken
         elif isinstance(next_infra, Bridge):
             if next_infra.broken:
                 self.waiting_time = next_infra.get_delay_time()
