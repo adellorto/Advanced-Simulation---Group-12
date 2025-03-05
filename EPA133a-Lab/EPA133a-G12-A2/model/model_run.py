@@ -13,15 +13,15 @@ from model import BangladeshModel
 """
 #run time 5 x 24 hours; 1 tick 1 minute
 scenario_number = 0
-run_length = 5 * 24 * 60
-
+#run_length = 5 * 24 * 60
+breakdown_probabilities = {'A' : 0, 'B' : 0, 'C' : 0, 'D' : 0, 'Z' : 0}
 # run time 1000 ticks
-# run_length = 1000
+run_length = 1000
 
-#control sequence of random numbers from here to test sensitivity and aplicability of different scenarios
+#control sequence of random numbers from here to test sensitivity and applicability of different scenarios
 seed = 1234567
 
-sim_model = BangladeshModel(seed=seed)
+sim_model = BangladeshModel(seed=seed,breakdown_probabilities = breakdown_probabilities)
 
 # Check if the seed is set
 print("SEED " + str(sim_model._seed))
