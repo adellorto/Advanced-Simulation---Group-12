@@ -327,7 +327,7 @@ class Vehicle(Agent):
         # If the next infrastructure is a Bridge, check if it is broken
         elif isinstance(next_infra, Bridge):
             if next_infra.broken:
-                print(next_infra.get_delay_time())
+                print(str(next_infra.name) + ": " + str(next_infra.get_delay_time()))
                 self.waiting_time = next_infra.get_delay_time()
                 self.state = Vehicle.State.WAIT
                 return
