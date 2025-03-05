@@ -57,10 +57,10 @@ class Bridge(Infra):
         self.condition = condition
         # Probabilities of breaking down accordingly with quality categories
         self.breakdown_probabilities = {
-            'A': 0.0,
-            'B': 0.05,
-            'C': 0.10,
-            'D': 0.20,
+            'A': 0.0, #high quality bridges, 0% probability of braking down
+            'B': 0.05, #high-mid quality bridges, 5% probability of braking down
+            'C': 0.10, # mid-low quality bridges, 10% probability of braking down
+            'D': 0.20, #low quality bridges, 20% probability of braking down
             'Z': 0.0  # 'Z' = no data => treat as 0% breakdown or handle differently
         }
 
@@ -74,11 +74,11 @@ class Bridge(Infra):
                 for the current crossing. If not broken, returns 0.
                 """
         if self.is_broken(): # If the bridge is broken, the delay experienced by a truck is determined by the bridge’s length.
-            # Delay distribution depends on length
+            # Delay distribution depends on length (m)
             if self.length > 200:
                 # Triangular(1, 2, 4) hours => convert hours to minutes if 1 tick = 1 minute
                 delay_hours = self.model.random.triangular(1, 2, 4)
-                self.delay_time = delay_hours * 60
+                self.delay_time = delay_hours * 60 # conversion in minutes
             elif 50 < self.length <= 200:
                 # For bridges between 50 and 200 meters, the delay is sampled uniformly between 45 and 90 minutes.
                 self.delay_time = self.model.random.uniform(45, 90)
@@ -89,7 +89,7 @@ class Bridge(Infra):
                 # For bridges 10 meters or shorter, the delay is sampled uniformly between 10 and 20 minutes.
                 self.delay_time = self.model.random.uniform(10, 20)
         else:
-            self.delay_time = 0
+            self.delay_time = 0 #in case the bridges are not compromised/broken
 
         return self.delay_time
 
