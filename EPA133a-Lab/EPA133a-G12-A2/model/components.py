@@ -51,13 +51,14 @@ class Bridge(Infra):
     """
 
     def __init__(self, unique_id, model, length=0, name='Unknown', road_name='Unknown',
-                 condition='Unknown'):
+                 condition='Unknown', broken = False):
         super().__init__(unique_id, model, length, name, road_name)
 
         self.condition = condition
         # Probabilities of breaking down accordingly with quality categories
         self.delay_time = 0
         # print(self.delay_time)
+        self.broken = broken
 
 
     def get_delay_time(self):
@@ -65,7 +66,7 @@ class Bridge(Infra):
                 Return the delay (in ticks/minutes) caused by this bridge
                 for the current crossing. If not broken, returns 0.
                 """
-        if self.is_broken(): # If the bridge is broken, the delay experienced by a truck is determined by the bridge’s length.
+        if self.broken: # If the bridge is broken, the delay experienced by a truck is determined by the bridge’s length.
             # Delay distribution depends on length
             if self.length > 200:
                 # Triangular(1, 2, 4) hours => convert hours to minutes if 1 tick = 1 minute
@@ -96,7 +97,14 @@ class Bridge(Infra):
         # If random < prob => it's broken
         if self.model.random.random() < prob:
             return True
-        return False
+        else:
+            return False
+
+    def step(self):
+        if not self.broken:
+            self.broken = self.is_broken()
+
+
 
 
 # ---------------------------------------------------------------
@@ -324,14 +332,7 @@ class Vehicle(Agent):
          
          # If the next infrastructure is a Bridge, check if it is broken
         elif isinstance(next_infra, Bridge):
-            if next_infra.is_broken():
-                print(f"Bridge {next_infra.unique_id} is broken. Rerouting vehicle {self.unique_id}.")
-                # Reroute: Here, we reassign a new path.
-                # Implement your rerouting logic as needed.
-                self.set_path()
-                self.location_index = 0  # Reset the index to start at the new path's origin
-                return
-            else:
+            if next_infra.broken:
                 self.waiting_time = next_infra.get_delay_time()
                 if self.waiting_time > 0:
                     self.arrive_at_next(next_infra, 0)
