@@ -59,7 +59,7 @@ EPA133a-G12-A2/
 │   ├── model.py         # Main simulation model
 │   ├── model_run.py     # Runs the simulation
 │   ├── model_viz.py     # Visualization (if needed)
-│── report/              # Final report & analysis
+│── report/              # Final report & analysis of results, including plotting script
 │── requirements.txt     # Dependencies
 │── README.md            # This file
 ```
