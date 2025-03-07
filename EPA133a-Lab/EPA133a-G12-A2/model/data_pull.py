@@ -132,16 +132,44 @@ for insertion_idx, new_bridge_row in bridge_rows_with_index:
 
 
 
-#Final formatting for data input
+
+# ---------------------------------------------------------------
+
+#Final formatting for data input for the Chittagong-Dhaka Route
+
+# Find the last occurrence of "Chittagong" in the 'name' column
+chittagong_matches = input_data[input_data['name'].str.contains("Chittagong", na=False, case=False)]
+
+if not chittagong_matches.empty:
+    chit_index = chittagong_matches.index.max()  # Get the last occurrence index
+    print(f"Last Chittagong LRP found at index: {chit_index}")
+
+    # Keep only the rows up to and including the last Chittagong entry
+    input_data_filtered = input_data.iloc[:chit_index + 1].copy()
+else:
+    print("Warning: No entry containing 'Chittagong' found in the 'name' column.")
+
+# Reverse the dataset so that Chittagong is first (source) and Dhaka is last (sink)
+input_data_filtered = input_data_filtered[::-1].reset_index(drop=True)
 
 # --- Update IDs ---
-input_data['id'] = range(1000000, 1000000 + len(input_data))
+input_data_filtered['id'] = range(1000000, 1000000 + len(input_data_filtered))
 
-input_data.loc[0, 'model_type'] = 'source'  # First row → "source"
-input_data.loc[len(input_data) - 1, 'model_type'] = 'sink'  # Last row → "sink"
+# Ensure correct sink and source assignment
+input_data_filtered.loc[0, 'model_type'] = 'source'  # First row → "source" (Chittagong)
+input_data_filtered.loc[len(input_data_filtered) - 1, 'model_type'] = 'sink'  # Last row → "sink" (Dhaka)
+
+# Set correct names for source and sink so the vizualization is intelligable
+input_data_filtered.loc[0, 'name'] = "Chittagong"
+input_data_filtered.loc[len(input_data_filtered) - 1, 'name'] = "Dhaka"
 
 
+# Checking the length of the road
+total_length_n1_filt = input_data_filtered["length"].sum() / 1000  # Convert to kilometers
+
+# Print the result
+print(f"Total length of road N1 (filtered): {total_length_n1_filt:.2f} kilometers")
 
 # (Optional) Save the final DataFrame for inspection
-input_data.to_csv('../data/final_input_data.csv', index=False)
+input_data_filtered.to_csv('../data/final_input_data.csv', index=False)
 
