@@ -57,9 +57,10 @@ class Bridge(Infra):
         self.condition = condition
         # Probabilities of breaking down accordingly with quality categories
 
+        #Initialize delay time
         self.delay_time = 0
-        # print(self.delay_time)
 
+        #Every bridge is not broken when created
         self.broken = broken
 
 
@@ -329,7 +330,6 @@ class Vehicle(Agent):
         # If the next infrastructure is a Bridge, check if it is broken
         elif isinstance(next_infra, Bridge):
             if next_infra.broken:
-                #print(str(next_infra.name) + ": " + str(next_infra.get_delay_time()))
                 self.waiting_time = next_infra.get_delay_time()
                 self.state = Vehicle.State.WAIT
                 return
