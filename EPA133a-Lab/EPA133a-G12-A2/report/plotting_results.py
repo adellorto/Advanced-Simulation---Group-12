@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import os
 
 # Load the data
-file_path = "../experiment/experiment_seed_1234567.csv"
+file_path = "../experiment/experiment_averages.csv"
 df = pd.read_csv(file_path)
 
 # Convert column names to consistent format (removing leading/trailing spaces if any)
