@@ -90,9 +90,9 @@ class Bridge(Infra):
 
     def is_broken(self):
         """
-                Determine if the bridge is 'broken' for the current crossing,
+                Determine if the brakes during this step,
                 (based on its quality category and a random check).
-                Return True if broken, False otherwise.
+                Return True if bridge brakes, False otherwise.
                 """
         # Get the breakdown probability for this category
         prob = self.model.breakdown_probabilities.get(self.condition, 0.0)
@@ -103,7 +103,7 @@ class Bridge(Infra):
         return False
 
     def step(self):
-        #print(self.condition)
+        #If the bridge is not yet broken, check if it brakes during this step
         if not self.broken:
             self.broken = self.is_broken()
 
