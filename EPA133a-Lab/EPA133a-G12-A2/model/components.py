@@ -57,9 +57,10 @@ class Bridge(Infra):
         self.condition = condition
         # Probabilities of breaking down accordingly with quality categories
 
+        #Initialize delay time
         self.delay_time = 0
-        # print(self.delay_time)
 
+        #Every bridge is not broken when created
         self.broken = broken
 
 
@@ -90,9 +91,9 @@ class Bridge(Infra):
 
     def is_broken(self):
         """
-                Determine if the bridge is 'broken' for the current crossing,
+                Determine if the brakes during this step,
                 (based on its quality category and a random check).
-                Return True if broken, False otherwise.
+                Return True if bridge brakes, False otherwise.
                 """
         # Get the breakdown probability for this category
         prob = self.model.breakdown_probabilities.get(self.condition, 0.0)
@@ -103,7 +104,7 @@ class Bridge(Infra):
         return False
 
     def step(self):
-        #print(self.condition)
+        #If the bridge is not yet broken, check if it brakes during this step
         if not self.broken:
             self.broken = self.is_broken()
 
@@ -235,8 +236,8 @@ class Vehicle(Agent):
 
     """
 
-    # 50 km/h translated into meter per min
-    speed = 50 * 1000 / 60
+    # 48 km/h translated into meter per min
+    speed = 48 * 1000 / 60
     # One tick represents 1 minute
     step_time = 1
 
@@ -277,9 +278,9 @@ class Vehicle(Agent):
         """
         Vehicle waits or drives at each step
         """
-        self.travel_time += self.step_time
 
-        #print(self.state)
+        #Update travel time by one tick (minute)
+        self.travel_time += self.step_time
 
         if self.state == Vehicle.State.WAIT:
             self.waiting_time = max(self.waiting_time - 1, 0)
@@ -319,7 +320,7 @@ class Vehicle(Agent):
         next_infra = self.model.schedule._agents[next_id]  # Access to protected member _agents
 
         if isinstance(next_infra, Sink):
-            # arrive at the sink
+            # arrive at the sink, update the model travel_times list and remove the vehicle
             self.arrive_at_next(next_infra, 0)
             self.removed_at_step = self.model.schedule.steps
             self.model.travel_times.append(self.travel_time)
@@ -329,7 +330,6 @@ class Vehicle(Agent):
         # If the next infrastructure is a Bridge, check if it is broken
         elif isinstance(next_infra, Bridge):
             if next_infra.broken:
-                #print(str(next_infra.name) + ": " + str(next_infra.get_delay_time()))
                 self.waiting_time = next_infra.get_delay_time()
                 self.state = Vehicle.State.WAIT
                 return
