@@ -277,9 +277,9 @@ class Vehicle(Agent):
         """
         Vehicle waits or drives at each step
         """
-        self.travel_time += self.step_time
 
-        #print(self.state)
+        #Update travel time by one tick (minute)
+        self.travel_time += self.step_time
 
         if self.state == Vehicle.State.WAIT:
             self.waiting_time = max(self.waiting_time - 1, 0)
@@ -319,7 +319,7 @@ class Vehicle(Agent):
         next_infra = self.model.schedule._agents[next_id]  # Access to protected member _agents
 
         if isinstance(next_infra, Sink):
-            # arrive at the sink
+            # arrive at the sink, update the model travel_times list and remove the vehicle
             self.arrive_at_next(next_infra, 0)
             self.removed_at_step = self.model.schedule.steps
             self.model.travel_times.append(self.travel_time)
