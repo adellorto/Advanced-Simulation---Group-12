@@ -66,7 +66,7 @@ To install the requirements, open a terminal/command line window in PyCharm and 
 - [model_run.py](model_run.py): Sets up the model run (conditions). Calls the model. Run the simulation without visualization.
 
   In this file, you define model batch runs. The finalised version of this script saves the outputs of each simulation in the directory  'experiment' as a .csv file. 
-  This script is also where you can control the scenario of the simulation and test its robustness by modifying the seed.
+  This script is also where you can control the scenario of the simulation and test its robustness by modifying the seed. The results from the run are saved in the `esperiment` directory. 
 
 - [data_pull.py](data_pull.py): Contains the data pull routines for the model. The data pull routines takes processed input from the real world and produces a fitting `.csv` file for the model. 
 

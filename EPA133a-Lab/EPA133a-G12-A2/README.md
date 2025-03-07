@@ -52,14 +52,14 @@ Scenarios define different breakdown probabilities for bridges. Each scenario ru
 ```
 EPA133a-G12-A2/
 │── data/                # Input CSVs (roads, bridges, network data)
-│── experiment/          # Output scenario results
+│── experiment/          # Output scenario results and averages over different seeds
 │── img/                 # Visualization images
 │── model/               # Core model files & components
 │   ├── components.py    # Defines agents (trucks, roads, bridges)
 │   ├── model.py         # Main simulation model
 │   ├── model_run.py     # Runs the simulation
 │   ├── model_viz.py     # Visualization (if needed)
-│── report/              # Final report & analysis of results, including plotting script
+│── report/              # Final report & analysis of results, including the script which creates the plots present in the report
 │── requirements.txt     # Dependencies
 │── README.md            # This file
 ```

@@ -61,7 +61,7 @@ output_file = os.path.join(output_dir, "experiment_results.csv")
 df.to_csv(output_file, index=False)
 print(f"\nAll results saved to {output_file}")
 
-# Compute average values per scenario
+# Compute average values per scenario for clarity
 df_avg = df.groupby("Scenario")[["Avg_Travel_Time", "Num_Trucks", "Num_Broken_Bridges"]].mean().reset_index()
 
 # Save average results to another CSV
