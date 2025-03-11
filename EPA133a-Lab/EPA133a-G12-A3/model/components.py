@@ -55,14 +55,57 @@ class Bridge(Infra):
         super().__init__(unique_id, model, length, name, road_name)
 
         self.condition = condition
+        # Probabilities of breaking down accordingly with quality categories
 
-        # TODO
-        self.delay_time = self.random.randrange(0, 10)
-        # print(self.delay_time)
+        self.delay_time = 0
+        # Initialize delay time
 
-    # TODO
+        self.broken = False
+        # Every bridge is not broken when created
+
     def get_delay_time(self):
+        """
+                Return the delay (in ticks/minutes) caused by this bridge
+                for the current crossing. If not broken, returns 0.
+                """
+        if self.broken:  # If the bridge is broken, the delay experienced by a truck is determined by the bridge’s length.
+            # Delay distribution depends on length (m)
+            if self.length > 200:
+                # Triangular(1, 2, 4) hours => convert hours to minutes if 1 tick = 1 minute
+                delay_hours = self.model.random.triangular(1, 2, 4)
+                self.delay_time = delay_hours * 60  # conversion in minutes
+            elif 50 < self.length <= 200:
+                # For bridges between 50 and 200 meters, the delay is sampled uniformly between 45 and 90 minutes.
+                self.delay_time = self.model.random.uniform(45, 90)
+            elif 10 < self.length <= 50:
+                # For bridges between 10 and 50 meters, the delay is sampled uniformly between 15 and 60 minutes.
+                self.delay_time = self.model.random.uniform(15, 60)
+            else:
+                # For bridges 10 meters or shorter, the delay is sampled uniformly between 10 and 20 minutes.
+                self.delay_time = self.model.random.uniform(10, 20)
+        else:
+            self.delay_time = 0  # in case the bridges are not compromised/broken
+
         return self.delay_time
+
+    def check_if_brakes(self):
+        """
+                Determine if the brakes during this step,
+                (based on its quality category and a random check).
+                Return True if bridge brakes, False otherwise.
+                """
+        # Get the breakdown probability for this category
+        prob = self.model.breakdown_probabilities.get(self.condition, 0.0)
+        # If random < prob => it's broken
+        if self.model.random.random() < prob:
+            self.model.broken_bridges = self.model.broken_bridges + 1
+            return True
+        return False
+
+    def step(self):
+        #If the bridge is not yet broken, check if it brakes during this step
+        if not self.broken:
+            self.broken = self.check_if_brakes()
 
 
 # ---------------------------------------------------------------
@@ -92,7 +135,7 @@ class Sink(Infra):
     def remove(self, vehicle):
         self.model.schedule.remove(vehicle)
         self.vehicle_removed_toggle = not self.vehicle_removed_toggle
-        print(str(self) + ' REMOVE ' + str(vehicle))
+        #print(str(self) + ' REMOVE ' + str(vehicle))
 
 
 # ---------------------------------------------------------------
@@ -139,7 +182,7 @@ class Source(Infra):
                 Source.truck_counter += 1
                 self.vehicle_count += 1
                 self.vehicle_generated_flag = True
-                print(str(self) + " GENERATE " + str(agent))
+                #print(str(self) + " GENERATE " + str(agent))
         except Exception as e:
             print("Oops!", e.__class__, "occurred.")
 
@@ -192,6 +235,9 @@ class Vehicle(Agent):
 
     removed_at_step: int
         the timestamp (number of ticks) that the vehicle is removed
+
+    travel_time: int
+
     ...
 
     """
@@ -249,7 +295,7 @@ class Vehicle(Agent):
         """
         To print the vehicle trajectory at each step
         """
-        print(self)
+        #print(self)
 
     def drive(self):
 
@@ -278,16 +324,16 @@ class Vehicle(Agent):
             # arrive at the sink
             self.arrive_at_next(next_infra, 0)
             self.removed_at_step = self.model.schedule.steps
+            self.model.travel_times.append(self.removed_at_step - self.generated_at_step)
             self.location.remove(self)
             return
+
+        # If the next infrastructure is a Bridge, check if it is broken
         elif isinstance(next_infra, Bridge):
-            self.waiting_time = next_infra.get_delay_time()
-            if self.waiting_time > 0:
-                # arrive at the bridge and wait
-                self.arrive_at_next(next_infra, 0)
+            if next_infra.broken:
+                self.waiting_time = next_infra.get_delay_time()
                 self.state = Vehicle.State.WAIT
                 return
-            # else, continue driving
 
         if next_infra.length > distance:
             # stay on this object:
