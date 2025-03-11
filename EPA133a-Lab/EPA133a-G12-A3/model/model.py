@@ -51,13 +51,22 @@ class BangladeshModel(Model):
     sinks: list
         all sinks in the network
 
+    travel_times: list
+        all travel times in minutes (ticks) of trucks that arrived at a sink
+
+    broken_bridges: int
+        number of bridges that have broken during the simulation
+
+    breakdown_probabilities: dictionary
+        probability to breakdown per each bridge category A-D
+        F is 0 for every scenario and is given to links, sources, sinks and intersections
     """
 
     step_time = 1
 
     file_name = '../data/demo-4.csv'
 
-    def __init__(self, seed=None, x_max=500, y_max=500, x_min=0, y_min=0):
+    def __init__(self, seed=None, x_max=500, y_max=500, x_min=0, y_min=0, breakdown_probabilities = {}):
 
         self.schedule = BaseScheduler(self)
         self.running = True
@@ -65,6 +74,9 @@ class BangladeshModel(Model):
         self.space = None
         self.sources = []
         self.sinks = []
+        self.travel_times = []
+        self.broken_bridges = 0
+        self.breakdown_probabilities = breakdown_probabilities
 
         self.generate_model()
 
