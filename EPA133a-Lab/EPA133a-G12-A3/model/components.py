@@ -237,6 +237,10 @@ class Vehicle(Agent):
         the timestamp (number of ticks) that the vehicle is removed
 
     travel_time: int
+        the total travel time of the vehicle
+
+    delay_time: int
+        the total waiting time of the vehicle
 
     ...
 
@@ -264,6 +268,7 @@ class Vehicle(Agent):
         self.state = Vehicle.State.DRIVE
         self.location_index = 0
         self.waiting_time = 0
+        self.delay_time = 0  # Track total delay time
         self.waited_at = None
         self.removed_at_step = None
 
@@ -325,6 +330,7 @@ class Vehicle(Agent):
             self.arrive_at_next(next_infra, 0)
             self.removed_at_step = self.model.schedule.steps
             self.model.travel_times.append(self.removed_at_step - self.generated_at_step)
+            self.model.delay_times.append(self.delay_time)  # Store accumulated delay time
             self.location.remove(self)
             return
 
@@ -332,6 +338,7 @@ class Vehicle(Agent):
         elif isinstance(next_infra, Bridge):
             if next_infra.broken:
                 self.waiting_time = next_infra.get_delay_time()
+                self.delay_time += self.waiting_time  # Accumulate delay time
                 self.state = Vehicle.State.WAIT
                 return
 
