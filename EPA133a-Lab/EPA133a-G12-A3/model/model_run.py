@@ -1,8 +1,9 @@
 from model import BangladeshModel
 
 """
-    Run simulation
-    Print output at terminal
+    Run simulation with different seeds for each scenario
+    Print output at terminal and save csv files for each scenario
+    Compute average values for the travel and delay times
 """
 
 # ---------------------------------------------------------------
