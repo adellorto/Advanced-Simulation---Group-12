@@ -180,6 +180,7 @@ class BangladeshModel(Model):
             nx.draw(G, pos)
             plt.show()
 
+
     def get_random_route(self, source):
         """
         pick up a random route given an origin
