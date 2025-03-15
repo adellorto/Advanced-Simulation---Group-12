@@ -188,8 +188,7 @@ class BangladeshModel(Model):
         pos = nx.get_node_attributes(G,'pos')
         nx.draw(G, pos, node_size = 0.5)
         plt.show()
-       
-       
+
 
 
     def get_random_route(self, source):
