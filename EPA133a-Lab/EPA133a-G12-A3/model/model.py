@@ -4,7 +4,8 @@ from mesa.space import ContinuousSpace
 from components import Source, Sink, SourceSink, Bridge, Link, Intersection
 import pandas as pd
 from collections import defaultdict
-
+import networkx as nx
+import matplotlib.pyplot as plt
 
 # ---------------------------------------------------------------
 def set_lat_lon_bound(lat_min, lat_max, lon_min, lon_max, edge_ratio=0.02):
@@ -169,6 +170,10 @@ class BangladeshModel(Model):
                     x = row['lon']
                     self.space.place_agent(agent, (x, y))
                     agent.pos = (x, y)
+
+    def generate_networkx_model(self):
+        G = nx.Graph()
+        
 
     def get_random_route(self, source):
         """
