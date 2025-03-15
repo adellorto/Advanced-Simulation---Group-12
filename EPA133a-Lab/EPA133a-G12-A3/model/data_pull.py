@@ -32,7 +32,7 @@ clean_bridges = pd.read_excel('../data/BMMS_overview.xlsx', engine="openpyxl")
 final_input_data = pd.DataFrame(columns=['road', 'id', 'model_type', 'condition', 'name', 'lat', 'lon', 'length'])
 
 starting_id = 1000000
-roads_to_process = ['N1','N2','N3'] #Insert list from Lorenzo here
+roads_to_process = ['N1','N2','N3','N4','N5','N6','N7'] #Insert list from Lorenzo here
 
 for road_name in roads_to_process:
     road_data = clean_roads[clean_roads['road'] == road_name]
@@ -84,6 +84,7 @@ for road_name in roads_to_process:
         after = input_data.iloc[insertion_idx + 1:]
         input_data = pd.concat([before, pd.DataFrame([new_bridge_row]), after], ignore_index=True)
 
+
     if road_name == 'N1':
         chittagong_matches = input_data[input_data['name'].str.contains("Chittagong", na=False, case=False)]
         if not chittagong_matches.empty:
@@ -95,10 +96,10 @@ for road_name in roads_to_process:
         input_data.loc[0, 'name'] = "Chittagong"
         input_data.loc[len(input_data) - 1, 'name'] = "Dhaka"
 
-
     input_data['id'] = range(starting_id, starting_id + len(input_data))
     starting_id += len(input_data)
 
     final_input_data = pd.concat([final_input_data, input_data], ignore_index=True)
 
 final_input_data.to_csv('../data/final_input_data.csv', index=False)
+
