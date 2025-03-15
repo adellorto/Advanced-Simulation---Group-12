@@ -173,8 +173,12 @@ class BangladeshModel(Model):
 
     def generate_networkx_model(self):
         G = nx.Graph()
-
-
+        df = pd.read_csv(self.file_name)
+        for _ in df.iterrows():
+            G.add_node(df['id'], pos = (df['lon'], df['lat']))
+            pos = nx.get_node_attributes(G,'pos')
+            nx.draw(G, pos)
+            plt.show()
 
     def get_random_route(self, source):
         """
@@ -202,5 +206,6 @@ class BangladeshModel(Model):
         Advance the simulation by one step.
         """
         self.schedule.step()
+
 
 # EOF -----------------------------------------------------------
