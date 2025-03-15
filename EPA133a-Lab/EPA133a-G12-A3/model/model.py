@@ -173,7 +173,8 @@ class BangladeshModel(Model):
 
     def generate_networkx_model(self):
         G = nx.Graph()
-        
+
+
 
     def get_random_route(self, source):
         """
