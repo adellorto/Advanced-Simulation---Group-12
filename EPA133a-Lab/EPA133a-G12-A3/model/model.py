@@ -182,9 +182,9 @@ class BangladeshModel(Model):
             current_row = df.iloc[i]
             next_row = df.iloc[i + 1]
         # Ensure we are on the same road
-        if current_row['road'] == next_row['road']:
-            # Add the edge between the current and next node
-            G.add_edge(current_row['id'], next_row['id'], weight=current_row['length'])
+            if current_row['road'] == next_row['road']:
+                # Add the edge between the current and next node
+                G.add_edge(current_row['id'], next_row['id'], weight=current_row['length'])
         pos = nx.get_node_attributes(G,'pos')
         nx.draw(G, pos, node_size = 0.5)
         plt.show()
