@@ -3,8 +3,11 @@ import pandas as pd
 import requests
 import math
 
+"""
+The first section of the data collector centralises the needed procssing functions in one place.
+"""
 
-def haversine(lat1, lon1, lat2, lon2):
+def haversine(lat1, lon1, lat2, lon2): # This function calculates the distance between two points on the earth in meters
     """Calculate the great-circle distance in meters between two points on Earth."""
     R = 6371000  # Radius of Earth in meters
     phi1, phi2 = math.radians(lat1), math.radians(lat2)
@@ -17,7 +20,7 @@ def haversine(lat1, lon1, lat2, lon2):
     return R * c
 
 
-def find_insertion_index(bridge_row, links_df):
+def find_insertion_index(bridge_row, links_df):  #This function finds the index of the link that is closest to the bridge to ensure that the bridge is inserted in the correct order
     distances = np.sqrt(
         (links_df['lat'] - bridge_row['lat']) ** 2 +
         (links_df['lon'] - bridge_row['lon']) ** 2
@@ -25,27 +28,83 @@ def find_insertion_index(bridge_row, links_df):
     return distances.idxmin()
 
 
-# Importing raw datasets
+def find_and_insert_intersections(input_data, distance_threshold=25):   #Modify the distance_treshold to fit the data
+                                    # check if it works using the model_viz.py and it the final output file to ensure no intersections are too close to each other
+    """
+    Identify intersections by finding the closest points between different roads.
+    If two objects (links or bridges) are within the threshold distance, an intersection is created.
+    """
+    intersection_data = []
+    processed_intersections = {}  # To track intersection IDs and reuse them across roads
+
+    # Convert lat/lon to numpy arrays for efficient distance calculation
+    coords = input_data[['lat', 'lon']].to_numpy()
+    roads = input_data['road'].to_numpy()
+    ids = input_data['id'].to_numpy()
+
+    # Iterate over each road and compare with all others
+    for i, (lat1, lon1, road1, id1) in enumerate(zip(coords[:, 0], coords[:, 1], roads, ids)):  #extracting coordinates from road1
+        for j, (lat2, lon2, road2, id2) in enumerate(zip(coords[:, 0], coords[:, 1], roads, ids)): #extracting coordinates from road2
+            if road1 == road2 or i >= j:
+                continue  # Skip same road and redundant comparisons
+
+            # Calculate distance using haversine function
+            distance = haversine(lat1, lon1, lat2, lon2)
+
+            if distance <= distance_threshold:  #check if the two points extractedn are close enough to be considered an intersection
+                intersection_key = tuple(sorted([road1, road2]))  # Unique key for the intersection for the pair of roads
+
+                if intersection_key in processed_intersections: #checks if the intersection has already been found in an earlier iteration
+                    intersection_id = processed_intersections[intersection_key] # Reuse existing intersection ID if already created for the same pair of roads and avoid duplication
+                else:
+                    intersection_id = starting_id + len(intersection_data)
+                    processed_intersections[intersection_key] = intersection_id
+
+                # Create intersection entries for both roads
+                for road, ref_id in [(road1, id1), (road2, id2)]: #storing the id of the objects used as ref_id to insert the intersection so that we can insert the intersection in the correct order
+                    intersection = {
+                        'road': road,
+                        'id': intersection_id,
+                        'model_type': 'intersection',
+                        'condition': 'N/A',
+                        'name': f"Intersection of {road1} and {road2}",
+                        'lat': (lat1 + lat2) / 2,  # Midpoint approximation of the location of the intersection
+                        'lon': (lon1 + lon2) / 2,
+                        'length': 20
+                    }
+                    intersection_data.append((ref_id, intersection))  # Store with ref_id for correct insertion
+
+
+    # Insert intersections in the correct order, by comparing the previous id_keys for the objects on the two roads used to find the intersection
+    for ref_id, intersection in sorted(intersection_data, key=lambda x: x[0], reverse=True):
+        before = input_data[input_data['id'] <= ref_id]
+        after = input_data[input_data['id'] > ref_id]
+        input_data = pd.concat([before, pd.DataFrame([intersection]), after], ignore_index=True)
+
+    return input_data
+
+
+# Import raw datasets
 clean_roads = pd.read_csv('../data/_roads3.csv')
 clean_bridges = pd.read_excel('../data/BMMS_overview.xlsx', engine="openpyxl")
 
 final_input_data = pd.DataFrame(columns=['road', 'id', 'model_type', 'condition', 'name', 'lat', 'lon', 'length'])
 
 starting_id = 1000000
-roads_to_process = ['N1','N2','N3','N4','N5','N6','N7','N8','N9'] #Insert list from Lorenzo here
+roads_to_process = ['N1', 'N2', 'N3', 'N4', 'N5', 'N6', 'N7', 'N8', 'N9'] #list of roads to process
 
 for road_name in roads_to_process:
     road_data = clean_roads[clean_roads['road'] == road_name]
     bridge_data = clean_bridges[clean_bridges['road'] == road_name]
 
-    bridge_LRPs = set(bridge_data['LRPName'])
-    road_data = road_data[~road_data['lrp'].isin(bridge_LRPs)]
+    bridge_LRPs = set(bridge_data['LRPName']) # Set for faster lookups
+    road_data = road_data[~road_data['lrp'].isin(bridge_LRPs)] #eliminateing the bridges from the road data to avoid duplication when inserting the bridges
 
     lengths = [
         haversine(road_data.iloc[i]['lat'], road_data.iloc[i]['lon'],
                   road_data.iloc[i + 1]['lat'], road_data.iloc[i + 1]['lon'])
         for i in range(len(road_data) - 1)
-    ]
+    ] #in meters
 
     df_links = pd.DataFrame({
         'road': road_name,
@@ -56,12 +115,12 @@ for road_name in roads_to_process:
         'lat': road_data.iloc[:-1]['lat'].values,
         'lon': road_data.iloc[:-1]['lon'].values,
         'length': lengths
-    })
+    })          #creating a dataframe with the links in the correct format
 
-    df_links.loc[0, 'model_type'] = 'sourcesink'
+    df_links.loc[0, 'model_type'] = 'sourcesink' #setting the first and last link to sourcesink ensuring vehicles can enter and exit the road
     df_links.loc[len(df_links) - 1, 'model_type'] = 'sourcesink'
 
-    input_data = df_links.copy()
+    input_data = df_links.copy() #append road data to input data
 
     bridge_rows_with_index = []
     for _, bridge in bridge_data.iterrows():
@@ -75,33 +134,32 @@ for road_name in roads_to_process:
             'lat': bridge['lat'],
             'lon': bridge['lon'],
             'length': bridge.get('length', 0)
-        }
-        bridge_rows_with_index.append((insertion_idx, new_bridge_row))
+        } #initiating the bridge data in the correct format
+        bridge_rows_with_index.append((insertion_idx, new_bridge_row)) #storing the bridge data with the index of the link closest to the bridge
 
     bridge_rows_with_index.sort(key=lambda x: x[0], reverse=True)
-    for insertion_idx, new_bridge_row in bridge_rows_with_index:
+    for insertion_idx, new_bridge_row in bridge_rows_with_index: #integrating the bridge data into the input data at the correct location
         before = input_data.iloc[:insertion_idx + 1]
         after = input_data.iloc[insertion_idx + 1:]
         input_data = pd.concat([before, pd.DataFrame([new_bridge_row]), after], ignore_index=True)
 
-    """
-    if road_name == 'N1':
-        chittagong_matches = input_data[input_data['name'].str.contains("Chittagong", na=False, case=False)]
-        if not chittagong_matches.empty:
-            chit_index = chittagong_matches.index.max()
-            input_data = input_data.iloc[:chit_index + 1].copy()
-        input_data = input_data[::-1].reset_index(drop=True)
-        input_data.loc[0, 'model_type'] = 'sourcesink'
-        input_data.loc[len(input_data) - 1, 'model_type'] = 'sourcesink'
-        input_data.loc[0, 'name'] = "Chittagong"
-        input_data.loc[len(input_data) - 1, 'name'] = "Dhaka"
-
-    """
-
-    input_data['id'] = range(starting_id, starting_id + len(input_data))
+    input_data['id'] = range(starting_id, starting_id + len(input_data)) #adding the unique ids to the input data
     starting_id += len(input_data)
 
     final_input_data = pd.concat([final_input_data, input_data], ignore_index=True)
 
-final_input_data.to_csv('../data/final_input_data.csv', index=False)
+# Find and insert intersections correctly
+final_input_data = find_and_insert_intersections(
+    final_input_data)  #finally inserting the intersections into the input data
 
+#since the intersections are added in between the correct obejcts in the file, but with the old id and without updating the rest of the file, we need to update the ids before rendering the final file
+
+# Update IDs to be sequential
+
+# Reassign IDs sequentially after intersections are inserted
+final_input_data = final_input_data.sort_values(by=['road', 'lat', 'lon']).reset_index(drop=True)  #ensuring thee file is grouped by rows and ordered by lat and lon
+final_input_data['id'] = range(starting_id, starting_id + len(final_input_data)) #updating the ids to be sequential
+
+
+# Save final updated input data
+final_input_data.to_csv('../data/final_input_data.csv', index=False)
