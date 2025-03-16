@@ -1,11 +1,15 @@
-# Example README File
+**Created by:**
 
-Created by: EPA133a Group xx
+| Group Number | 12 |
+|:-----------:|:--:|
+| **Name** | **Student ID** |
+| Bettin Lorenzo | 6132928 |
+| Dell'Orto Alessandro | 6129161 |
+| Le Grand Tangui | 6172075 |
+| Precup Ada | 5240719 |
+| van Engelen Ralph | 4964748 |
 
-|    Name     | Student Number |
-| :---------: | :------------- |
-| Mary White  | 1234567        |
-| David Brown | 7654321        |
+
 
 ## Introduction
 
