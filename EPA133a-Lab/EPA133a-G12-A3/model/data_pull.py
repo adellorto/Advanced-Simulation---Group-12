@@ -21,6 +21,8 @@ def haversine(lat1, lon1, lat2, lon2): # This function calculates the distance b
 
 
 def find_insertion_index(bridge_row, links_df):  #This function finds the index of the link that is closest to the bridge to ensure that the bridge is inserted in the correct order
+    """" Store the information that will help insert the bridges in geographical order between the links """
+
     distances = np.sqrt(
         (links_df['lat'] - bridge_row['lat']) ** 2 +
         (links_df['lon'] - bridge_row['lon']) ** 2
@@ -28,7 +30,7 @@ def find_insertion_index(bridge_row, links_df):  #This function finds the index 
     return distances.idxmin()
 
 
-def find_and_insert_intersections(input_data, distance_threshold=25):   #Modify the distance_treshold to fit the data
+def find_and_insert_intersections(input_data):   #This function finds the intersections between the roads and inserts them in the correct order
                                     # check if it works using the model_viz.py and it the final output file to ensure no intersections are too close to each other
     """
     Identify intersections by finding the closest points between different roads.
@@ -44,9 +46,14 @@ def find_and_insert_intersections(input_data, distance_threshold=25):   #Modify 
 
     # Iterate over each road and compare with all others
     for i, (lat1, lon1, road1, id1) in enumerate(zip(coords[:, 0], coords[:, 1], roads, ids)):  #extracting coordinates from road1
+        threshold1 = road_thresholds.get(road1, road_thresholds["default"])  # Get threshold for road1
+
         for j, (lat2, lon2, road2, id2) in enumerate(zip(coords[:, 0], coords[:, 1], roads, ids)): #extracting coordinates from road2
             if road1 == road2 or i >= j:
                 continue  # Skip same road and redundant comparisons
+
+            threshold2 = road_thresholds.get(road2, road_thresholds["default"])  # Get threshold for road2
+            distance_threshold = min(threshold1, threshold2)  # Use the higher threshold
 
             # Calculate distance using haversine function
             distance = haversine(lat1, lon1, lat2, lon2)
@@ -91,7 +98,15 @@ clean_bridges = pd.read_excel('../data/BMMS_overview.xlsx', engine="openpyxl")
 final_input_data = pd.DataFrame(columns=['road', 'id', 'model_type', 'condition', 'name', 'lat', 'lon', 'length'])
 
 starting_id = 1000000
-roads_to_process = ['N1', 'N2', 'N3', 'N4', 'N5', 'N6', 'N7', 'N8', 'N9'] #list of roads to process
+roads_to_process = ['N1', 'N102','N104', 'N105', 'N106', 'N2', 'N204', 'N207', 'N208'] #list of roads to process
+
+#creating the tresholds to find intersections between roads
+# creating separate tresholds from the main roads as their coordinates are further away from each other than compared to their side roads.
+road_thresholds = {
+    "N1": 25, # Threshold for larger roads
+    "N2": 25, # Threshold for larger roads
+    "default": 15  # Default threshold for smaller roads
+}
 
 for road_name in roads_to_process:
     road_data = clean_roads[clean_roads['road'] == road_name]
