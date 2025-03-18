@@ -1,0 +1,10 @@
+Scenario,Avg_Travel_Time,Num_Trucks,Num_Broken_Bridges
+Scenario 0,14.0,792.0,0.0
+Scenario 1,14.0,792.0,0.0
+Scenario 2,14.0,792.0,0.0
+Scenario 3,14.0,792.0,0.0
+Scenario 4,14.0,792.0,0.0
+Scenario 5,14.0,792.0,0.0
+Scenario 6,19.381,786.5,0.1
+Scenario 7,23.122,781.8,0.5
+Scenario 8,33.834,763.4,1.3
