@@ -36,8 +36,8 @@ def find_and_insert_intersections(input_data):   #This function finds the inters
     Identify intersections by finding the closest points between different roads.
     If two objects (links or bridges) are within the threshold distance, an intersection is created.
     """
+
     intersection_data = []
-    processed_intersections = {}  # To track intersection IDs and reuse them across roads
 
     # Convert lat/lon to numpy arrays for efficient distance calculation
     coords = input_data[['lat', 'lon']].to_numpy()
@@ -58,14 +58,12 @@ def find_and_insert_intersections(input_data):   #This function finds the inters
             # Calculate distance using haversine function
             distance = haversine(lat1, lon1, lat2, lon2)
 
-            if distance <= distance_threshold:  #check if the two points extractedn are close enough to be considered an intersection
+            if distance <= distance_threshold:  #check if the two points extracted are close enough to be considered an intersection
                 intersection_key = tuple(sorted([road1, road2]))  # Unique key for the intersection for the pair of roads
 
-                if intersection_key in processed_intersections: #checks if the intersection has already been found in an earlier iteration
-                    intersection_id = processed_intersections[intersection_key] # Reuse existing intersection ID if already created for the same pair of roads and avoid duplication
-                else:
-                    intersection_id = starting_id + len(intersection_data)
-                    processed_intersections[intersection_key] = intersection_id
+                print(intersection_key)
+
+                intersection_id = starting_id + len(intersection_data)
 
                 # Create intersection entries for both roads
                 for road, ref_id in [(road1, id1), (road2, id2)]: #storing the id of the objects used as ref_id to insert the intersection so that we can insert the intersection in the correct order
@@ -79,6 +77,7 @@ def find_and_insert_intersections(input_data):   #This function finds the inters
                         'lon': (lon1 + lon2) / 2,
                         'length': 20
                     }
+                    #print(intersection)
                     intersection_data.append((ref_id, intersection))  # Store with ref_id for correct insertion
 
 
@@ -87,6 +86,10 @@ def find_and_insert_intersections(input_data):   #This function finds the inters
         before = input_data[input_data['id'] <= ref_id]
         after = input_data[input_data['id'] > ref_id]
         input_data = pd.concat([before, pd.DataFrame([intersection]), after], ignore_index=True)
+
+        # Reassign IDs sequentially after intersections are inserted
+        input_data = input_data.sort_values(by=['road', 'lat', 'lon']).reset_index(drop=True)  # ensuring the file is grouped by rows and ordered by lat and lon
+        input_data['id'] = range(starting_id, starting_id + len(input_data))  # updating the ids to be sequential
 
     return input_data
 
@@ -159,7 +162,6 @@ for road_name in roads_to_process:
         input_data = pd.concat([before, pd.DataFrame([new_bridge_row]), after], ignore_index=True)
 
     input_data['id'] = range(starting_id, starting_id + len(input_data)) #adding the unique ids to the input data
-    starting_id += len(input_data)
 
     final_input_data = pd.concat([final_input_data, input_data], ignore_index=True)
 
@@ -169,11 +171,8 @@ final_input_data = find_and_insert_intersections(
 
 #since the intersections are added in between the correct obejcts in the file, but with the old id and without updating the rest of the file, we need to update the ids before rendering the final file
 
-# Update IDs to be sequential
 
-# Reassign IDs sequentially after intersections are inserted
-final_input_data = final_input_data.sort_values(by=['road', 'lat', 'lon']).reset_index(drop=True)  #ensuring thee file is grouped by rows and ordered by lat and lon
-final_input_data['id'] = range(starting_id, starting_id + len(final_input_data)) #updating the ids to be sequential
+print(final_input_data.loc[final_input_data['model_type'] == 'intersection', ['road', 'id', 'name']])
 
 
 # Save final updated input data
