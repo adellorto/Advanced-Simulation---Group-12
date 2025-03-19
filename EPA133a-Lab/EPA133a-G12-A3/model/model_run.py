@@ -10,7 +10,7 @@ from model import BangladeshModel
 """
 
 #Add here proper input files (standard and bonus)
-input_files = ["../data/demo-4.csv", "../data/demo-4.csv"]
+input_files = ["../data/demo-4.csv", "../data/final_input_data.csv"]
 
 # Probabilities for different scenarios
 probabilities = pd.DataFrame({
@@ -56,19 +56,21 @@ for input_file in input_files:
             avg_travel_time = round(pd.Series(sim_model.travel_times).mean(), 2)
             num_trucks_arrived = len(sim_model.travel_times)
             num_broken_bridges = sim_model.broken_bridges
+            avg_delay_time = round(pd.Series(sim_model.delay_times).mean(), 2)
 
             # Print results
             print(f"\n{scenario} - {file_identifier} - Seed {seed}: Avg. travel time = {avg_travel_time} minutes")
             print(f"Number of trucks arrived at destination: {num_trucks_arrived}")
             print(f"Number of broken bridges: {num_broken_bridges}")
+            print(f"Average delay time: {avg_delay_time}")
 
             # Store results
-            result_row = [seed, avg_travel_time, num_trucks_arrived, num_broken_bridges]
-            all_results.append([seed, scenario, avg_travel_time, num_trucks_arrived, num_broken_bridges])
+            result_row = [seed, avg_travel_time, num_trucks_arrived, num_broken_bridges, avg_delay_time]
+            all_results.append([seed, scenario, avg_travel_time, num_trucks_arrived, num_broken_bridges, avg_delay_time])
             scenario_results[scenario].append(result_row)
 
     # Save all results to a single CSV
-    df = pd.DataFrame(all_results, columns=["Seed", "Scenario", "Avg_Travel_Time", "Num_Trucks", "Num_Broken_Bridges"])
+    df = pd.DataFrame(all_results, columns=["Seed", "Scenario", "Avg_Travel_Time", "Num_Trucks", "Num_Broken_Bridges", "Avg_Delay_Time"])
     output_file = os.path.join(output_dir, f"experiment_results_{file_identifier}{bonus_suffix}.csv")
     df.to_csv(output_file, index=False)
     print(f"\nAll results saved to {output_file}")
@@ -77,6 +79,7 @@ for input_file in input_files:
     for scenario, data in scenario_results.items():
         scenario_filename = f"scenario{scenario.split(' ')[-1]}{bonus_suffix}.csv"
         scenario_output_path = os.path.join(output_dir, scenario_filename)
-        scenario_df = pd.DataFrame(data, columns=["Seed", "Avg_Travel_Time", "Num_Trucks", "Num_Broken_Bridges"])
+        scenario_df = pd.DataFrame(data, columns=["Seed", "Avg_Travel_Time", "Num_Trucks", "Num_Broken_Bridges", "Avg_Delay_Time"])
         scenario_df.to_csv(scenario_output_path, index=False)
         print(f"\nScenario {scenario} results saved to {scenario_output_path}")
+
