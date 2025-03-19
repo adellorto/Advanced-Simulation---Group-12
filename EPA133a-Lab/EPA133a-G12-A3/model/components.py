@@ -282,7 +282,7 @@ class Vehicle(Agent):
         """
         Set the origin destination path of the vehicle
         """
-        self.path_ids = self.model.get_route(self.generated_by.unique_id)
+        self.path_ids = self.model.get_route(self.generated_by.unique_id) 
 
     def step(self):
         """

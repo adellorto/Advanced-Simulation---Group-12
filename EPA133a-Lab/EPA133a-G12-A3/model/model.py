@@ -102,7 +102,7 @@ class BangladeshModel(Model):
 
             if not df_objects_on_road.empty:
                 df_objects_all.append(df_objects_on_road)
-
+ 
                 """
                 Set the path 
                 1. get the serie of object IDs on a given road in the cvs in the original order
@@ -186,12 +186,41 @@ class BangladeshModel(Model):
                 # Add the edge between the current and next node
                 G.add_edge(current_row['id'], next_row['id'], weight=current_row['length'])
         pos = nx.get_node_attributes(G,'pos')
-        labels = nx.get_edge_attributes(G, 'weight')
-        nx.draw(G, pos, node_size = 0.01)
-        nx.draw_networkx_edge_labels(G, pos, edge_labels=labels)	
+        #labels = nx.get_edge_attributes(G, 'weight')
+        nx.draw(G, pos, node_size = 0.01)	
         plt.show()
+    
+    def get_shortest_path(self, origin, destination):
+        """
+        Returns the shortest path between origin and destination.
+        Uses the dictionary for lookup to avoid redundant computations.
+        """
+        key = (origin, destination)
+        
+        # Check if path is already computed
+        if key in self.path_ids_dict:
+            return self.path_ids_dict[key]
+        
+        # Compute shortest path if not found in dictionary
+        if self.G.has_node(origin) and self.G.has_node(destination):
+            try:
+                shortest_path = nx.shortest_path(self.G, source=origin, target=destination, weight='weight')
+                self.path_ids_dict[key] = shortest_path  # Store for future use
+                return shortest_path
+            except nx.NetworkXNoPath:
+                return None  # No path available
+            else:
+                return None  # Nodes do not exist
 
+        # Example Usage
+        network = BangladeshModel("road_data.csv")  # Replace with your actual file
+        network.generate_networkx_model()
 
+        # Compute shortest path
+        origin, destination = 1, 10  # Example node IDs
+        path = network.get_shortest_path(origin, destination)
+        
+        
 
     def get_random_route(self, source):
         """
@@ -205,8 +234,18 @@ class BangladeshModel(Model):
         return self.path_ids_dict[source, sink]
 
     # TODO
-    def get_route(self, source):
-        return self.get_straight_route(source)
+    # def get_route(self, source):
+    #     return self.get_straight_route(source)
+    
+    def get_route(self, source):    
+        # Choose a random sink to ensure a valid destination
+        while True:
+            sink = self.random.choice(self.sinks)
+            if sink != source:
+                break
+        return self.get_shortest_path(source, sink)
+
+
 
     def get_straight_route(self, source):
         """
