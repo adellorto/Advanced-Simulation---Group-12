@@ -174,7 +174,7 @@ class BangladeshModel(Model):
     def generate_networkx_model(self):
         G = nx.Graph()
         df = pd.read_csv(self.file_name)
-        for columns,row in df.iterrows():
+        for _,row in df.iterrows():
             G.add_node(row['id'], pos = (row['lon'], row['lat']))
         
         # Second loop: Add edges between consecutive nodes on the same road
@@ -186,7 +186,9 @@ class BangladeshModel(Model):
                 # Add the edge between the current and next node
                 G.add_edge(current_row['id'], next_row['id'], weight=current_row['length'])
         pos = nx.get_node_attributes(G,'pos')
+        labels = nx.get_edge_attributes(G, 'weight')
         nx.draw(G, pos, node_size = 0.01)
+        nx.draw_networkx_edge_labels(G, pos, edge_labels=labels)	
         plt.show()
 
 
