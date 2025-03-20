@@ -30,6 +30,33 @@ def find_insertion_index(bridge_row, links_df):  #This function finds the index 
     return distances.idxmin()
 
 
+def assign_intersection_ids(input_data):
+    """
+    Ensures intersections with the same last word in the name and road get the same ID.
+    The first encountered intersection ID is assigned to the second one.
+
+    Parameters:
+        df (pd.DataFrame): DataFrame with columns ['road', 'id', 'model_type', 'name']
+
+    Returns:
+        pd.DataFrame: Updated DataFrame with consistent intersection IDs.
+    """
+    intersections = input_data.loc[input_data['model_type'] == 'intersection',['road', 'id','name']]
+
+    intersections['road1'] = intersections['name'].str.split().str[-1]
+    intersections['road2'] = intersections['name'].str.split().str[-3]
+    intersections['to update'] = intersections['road'] == intersections['road2']
+
+    for _, road_1 in intersections.iterrows():
+        if not road_1['to update']:
+            for index, road_2 in intersections.iterrows():
+                if road_2['to update']:
+                    if (road_1['road'] == road_2['road1'] and road_1['road2'] == road_2['road']):
+                        input_data.loc[index, 'id'] = road_1['id']
+
+    return input_data  # Return updated DataFrame while preserving original order
+
+
 def find_and_insert_intersections(input_data):   #This function finds the intersections between the roads and inserts them in the correct order
                                     # check if it works using the model_viz.py and it the final output file to ensure no intersections are too close to each other
     """
@@ -61,7 +88,7 @@ def find_and_insert_intersections(input_data):   #This function finds the inters
             if distance <= distance_threshold:  #check if the two points extracted are close enough to be considered an intersection
                 intersection_key = tuple(sorted([road1, road2]))  # Unique key for the intersection for the pair of roads
 
-                print(intersection_key)
+                #print(intersection_key)
 
                 intersection_id = starting_id + len(intersection_data)
 
@@ -87,9 +114,10 @@ def find_and_insert_intersections(input_data):   #This function finds the inters
         after = input_data[input_data['id'] > ref_id]
         input_data = pd.concat([before, pd.DataFrame([intersection]), after], ignore_index=True)
 
-        # Reassign IDs sequentially after intersections are inserted
-        input_data = input_data.sort_values(by=['road', 'lat', 'lon']).reset_index(drop=True)  # ensuring the file is grouped by rows and ordered by lat and lon
-        input_data['id'] = range(starting_id, starting_id + len(input_data))  # updating the ids to be sequential
+    # Reassign IDs sequentially after intersections are inserted
+    input_data = input_data.sort_values(by=['road', 'lat', 'lon']).reset_index(drop=True)  # ensuring the file is grouped by rows and ordered by lat and lon
+    input_data['id'] = range(starting_id, starting_id + len(input_data))  # updating the ids to be sequential
+    input_data = assign_intersection_ids(input_data)
 
     return input_data
 
@@ -172,7 +200,7 @@ final_input_data = find_and_insert_intersections(
 #since the intersections are added in between the correct obejcts in the file, but with the old id and without updating the rest of the file, we need to update the ids before rendering the final file
 
 
-print(final_input_data.loc[final_input_data['model_type'] == 'intersection', ['road', 'id', 'name']])
+print(final_input_data.loc[final_input_data['model_type'] == 'intersection', ['id','road','name']])
 
 
 # Save final updated input data
