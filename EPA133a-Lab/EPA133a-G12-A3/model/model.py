@@ -79,8 +79,10 @@ class BangladeshModel(Model):
         self.delay_times = []
         self.broken_bridges = 0
         self.breakdown_probabilities = breakdown_probabilities
+        self.G = nx.Graph()
 
         self.generate_model()
+        self.generate_networkx_model()
 
     def generate_model(self):
         """
@@ -172,10 +174,9 @@ class BangladeshModel(Model):
                     agent.pos = (x, y)
 
     def generate_networkx_model(self):
-        G = nx.Graph()
         df = pd.read_csv(self.file_name)
         for _,row in df.iterrows():
-            G.add_node(row['id'], pos = (row['lon'], row['lat']))
+            self.G.add_node(row['id'], pos = (row['lon'], row['lat']))
         
         # Second loop: Add edges between consecutive nodes on the same road
         for i in range(len(df) - 1):
@@ -184,43 +185,29 @@ class BangladeshModel(Model):
         # Ensure we are on the same road
             if current_row['road'] == next_row['road']:
                 # Add the edge between the current and next node
-                G.add_edge(current_row['id'], next_row['id'], weight=current_row['length'])
-        pos = nx.get_node_attributes(G,'pos')
+                self.G.add_edge(current_row['id'], next_row['id'], weight=current_row['length'])
+        pos = nx.get_node_attributes(self.G,'pos')
         #labels = nx.get_edge_attributes(G, 'weight')
-        nx.draw(G, pos, node_size = 0.01)	
-        plt.show()
+        #nx.draw(self.G, pos, node_size = 0.01)	
+        #plt.show()
     
-    def get_shortest_path(self, origin, destination):
+    def get_shortest_path(self, source, sink):
         """
         Returns the shortest path between origin and destination.
         Uses the dictionary for lookup to avoid redundant computations.
         """
-        key = (origin, destination)
+        key = (source, sink)
         
         # Check if path is already computed
         if key in self.path_ids_dict:
             return self.path_ids_dict[key]
         
-        # Compute shortest path if not found in dictionary
-        if self.G.has_node(origin) and self.G.has_node(destination):
-            try:
-                shortest_path = nx.shortest_path(self.G, source=origin, target=destination, weight='weight')
-                self.path_ids_dict[key] = shortest_path  # Store for future use
-                return shortest_path
-            except nx.NetworkXNoPath:
-                return None  # No path available
-            else:
-                return None  # Nodes do not exist
+        shortest_path = nx.shortest_path(self.G, source=source, target=sink, weight='weight')
+        self.path_ids_dict[key] = pd.Series(shortest_path)   # Store for future use
+        return self.path_ids_dict[key]
+            
 
-        # Example Usage
-        network = BangladeshModel("road_data.csv")  # Replace with your actual file
-        network.generate_networkx_model()
-
-        # Compute shortest path
-        origin, destination = 1, 10  # Example node IDs
-        path = network.get_shortest_path(origin, destination)
-        
-        
+           
 
     def get_random_route(self, source):
         """
@@ -261,4 +248,3 @@ class BangladeshModel(Model):
 
 
 # EOF -----------------------------------------------------------
-BangladeshModel().generate_networkx_model()

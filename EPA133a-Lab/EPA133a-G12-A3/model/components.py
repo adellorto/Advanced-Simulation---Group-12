@@ -329,7 +329,7 @@ class Vehicle(Agent):
             # arrive at the sink
             self.arrive_at_next(next_infra, 0)
             self.removed_at_step = self.model.schedule.steps
-            self.model.travel_times.append(self.removed_at_step - self.generated_at_step)
+            self.model.travel_times.append(self.removed_at_step - self.generated_at_step) 
             self.model.delay_times.append(self.delay_time)  # Store accumulated delay time
             self.location.remove(self)
             return
