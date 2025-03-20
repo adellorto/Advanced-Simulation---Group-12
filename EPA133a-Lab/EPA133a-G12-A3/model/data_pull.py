@@ -29,6 +29,35 @@ def find_insertion_index(bridge_row, links_df):  #This function finds the index 
     )
     return distances.idxmin()
 
+def remove_misplaced_objects(input_data):
+
+    start_end = 0
+    roads = input_data['road'].unique()
+    print(roads)
+
+    for road in roads:
+        for index, row in input_data.loc[input_data['road'] == road].iterrows():
+            if row['model_type'] == 'sourcesink':
+                start_end = start_end + 1
+            elif start_end == 0:
+                input_data.iloc[[index,index+1]] = input_data.iloc[[index+1,index]].values
+            elif start_end == 2:
+                input_data.iloc[[index-1,index]] = input_data.iloc[[index,index-1]].values
+        start_end = 0
+
+    """
+    for road in roads:
+        for index, row in input_data.loc[input_data['road'] == road].iterrows():
+            if start_end == 0 and row['model_type'] == 'sourcesink':
+                input_data = pd.concat([input_data.loc[index], input_data.drop(index)])
+                start_end = start_end + 1
+            elif start_end == 1:
+                input_data = pd.concat([input_data.drop(index), input_data.loc[index]])
+        start_end = 0
+    """
+
+    return input_data
+
 
 def assign_intersection_ids(input_data):
     """
@@ -41,6 +70,9 @@ def assign_intersection_ids(input_data):
     Returns:
         pd.DataFrame: Updated DataFrame with consistent intersection IDs.
     """
+
+    input_data['id'] = range(starting_id, starting_id + len(input_data))  # updating the ids to be sequential
+
     intersections = input_data.loc[input_data['model_type'] == 'intersection',['road', 'id','name']]
 
     intersections['road1'] = intersections['name'].str.split().str[-1]
@@ -116,7 +148,7 @@ def find_and_insert_intersections(input_data):   #This function finds the inters
 
     # Reassign IDs sequentially after intersections are inserted
     input_data = input_data.sort_values(by=['road', 'lat', 'lon']).reset_index(drop=True)  # ensuring the file is grouped by rows and ordered by lat and lon
-    input_data['id'] = range(starting_id, starting_id + len(input_data))  # updating the ids to be sequential
+    input_data = remove_misplaced_objects(input_data)
     input_data = assign_intersection_ids(input_data)
 
     return input_data
