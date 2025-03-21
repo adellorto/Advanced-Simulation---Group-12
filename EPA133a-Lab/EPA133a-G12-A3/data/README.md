@@ -35,3 +35,8 @@ The `model_type` column specifies the type of the model component to be generate
 All data files contained in this directory (except `_roads3.csv`, `roads.shp` and `BMMS_overview.xlsx` ) include the pre-procesed information about the roads and bridges in Bangladesh, and use as input to generate `final_input_data.csv`. The file `final_input_data.csv` is generated in `../model/data_pull.py` and is used for the final model generation and scenario analysis. The file `demo-4.csv`does not contain real data and can simply used for practice with model generation.
 
 The files `_roads3.csv`, `roads.shp` and `BMMS_overview.xlsx` include the raw data from the Bangladesh Bridge Management System (BMMS) and are used to generate the pre-processed data files.
+
+`datacleaning.ipynb`was created to perform the data cleaning that took as input `_roads3.csv` to list all the unique roads that are longer than 25km and that are connected to N1 and N2.
+
+Following, a list of all the roads with their attributes was printed as csv in the document `filtered_roads_gt_25km.csv` which contain all the information regarding these roads.
+

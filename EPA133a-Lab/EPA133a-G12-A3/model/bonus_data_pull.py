@@ -1,8 +1,14 @@
+
 import numpy as np
 import pandas as pd
 import requests
 import math
 import geopandas as gpd
+import matplotlib.pyplot as plt
+import pyogrio
+import os
+from shapely.geometry import Point
+
 
 """
 The first section of the data collector centralises the needed procssing functions in one place.
@@ -179,3 +185,127 @@ final_input_data['id'] = range(starting_id, starting_id + len(final_input_data))
 
 # Save final updated input data
 final_input_data.to_csv('../data/bonus_final_input_data.csv', index=False)
+
+
+
+
+
+
+
+
+
+#  BONUS ASSIGNMENT - geospatial analysis
+os.environ["SHAPE_RESTORE_SHX"] = "YES" #as the crs is missing, we sets an environment variable telling the underlying file reader (pyogrio) to try to restore or recreate the .shx index file
+roads_gdf = gpd.read_file("../data/roads.shp") #read the shapefile
+roads_gdf = roads_gdf.set_crs("EPSG:4326") #here we manually assign it a coordinate reference system (CRS). EPSG:4326 corresponds to WGS84, a common geographic coordinate system using latitude and longitude.
+
+# Check and reproject CRS for accurate distance calculations.
+
+if roads_gdf.crs.is_geographic:
+   roads_gdf = roads_gdf.to_crs(epsg=32646) #here  we reproject the data to a projected CRS—specifically UTM zone 46N (EPSG:32646), which is suitable for Bangladesh.
+
+# --- Compute Accurate Intersections ---
+# We will compute pairwise intersections between road segments.
+# For efficiency, we use a spatial index provided by GeoPandas.
+
+accurate_intersections = []  # To store intersection geometries
+
+# Build spatial index for the roads GeoDataFrame
+sindex = roads_gdf.sindex
+
+# Iterate over each road segment and check for intersections with others
+for idx, road in roads_gdf.iterrows():
+    # Get possible intersecting segments using bounding box query
+    possible_matches_index = list(sindex.intersection(road.geometry.bounds))
+    possible_matches = roads_gdf.iloc[possible_matches_index]
+
+    for jdx, other_road in possible_matches.iterrows():
+        # Avoid self-intersection and duplicate comparisons
+        if idx >= jdx:
+            continue
+
+        # Check if the two geometries intersect
+        if road.geometry.intersects(other_road.geometry):
+            inter_geom = road.geometry.intersection(other_road.geometry)
+            # Depending on the geometry type, extract point(s)
+            if inter_geom.geom_type == 'Point':
+                accurate_intersections.append(inter_geom)
+            elif inter_geom.geom_type in ['MultiPoint', 'GeometryCollection']:
+                # Extract points from a multipoint or collection
+                for geom in inter_geom.geoms:
+                    if geom.geom_type == 'Point':
+                        accurate_intersections.append(geom)
+            # For line intersections (overlapping segments) we choose a representative point:
+            elif inter_geom.geom_type == 'LineString':
+                accurate_intersections.append(Point(inter_geom.coords[len(inter_geom.coords)//2]))
+
+# Create a GeoDataFrame for accurate intersections
+accurate_intersections_gdf = gpd.GeoDataFrame(geometry=accurate_intersections, crs=roads_gdf.crs)
+
+###############################################################################
+# PART 3: COMPARISON OF APPROXIMATE VS. ACCURATE INTERSECTIONS
+###############################################################################
+
+# For approximate intersections, we create a GeoDataFrame from the midpoints computed earlier.
+# We assume these are stored in final_input_data with model_type == 'intersection'
+approx_intersections_df = final_input_data[final_input_data['model_type'] == 'intersection']
+approx_intersections_gdf = gpd.GeoDataFrame(
+    approx_intersections_df,
+    geometry=[Point(xy) for xy in zip(approx_intersections_df['lon'], approx_intersections_df['lat'])],
+    crs="EPSG:4326"  # Assuming original data is in geographic coordinates
+)
+
+# Reproject approximate intersections to the same CRS as accurate intersections if needed
+if approx_intersections_gdf.crs != roads_gdf.crs:
+    approx_intersections_gdf = approx_intersections_gdf.to_crs(roads_gdf.crs)
+
+# Visualization
+fig, ax = plt.subplots(figsize=(10, 10))
+
+# Plot road geometries
+roads_gdf.plot(ax=ax, color='gray', linewidth=0.5, label='Road Segments')
+
+# Plot accurate intersections (in red)
+accurate_intersections_gdf.plot(ax=ax, color='red', marker='o', markersize=2, label='Accurate Intersection')
+
+# Plot approximate intersections (in blue)
+approx_intersections_gdf.plot(ax=ax, color='blue', marker='x', markersize=50, label='Approximate Intersection')
+
+plt.title("Comparison of Intersection Locations")
+plt.legend()
+plt.xlabel("Easting")
+plt.ylabel("Northing")
+plt.show()
+
+
+
+
+
+# 1) Filter approximate intersections in the region of interest
+
+minx, maxx = 200000, 500000
+miny, maxy = 2.5e6, 2.8e6
+
+# 2) Create a new figure
+fig, ax = plt.subplots(figsize=(10, 10))
+
+# 3) Plot layers as usual
+roads_gdf.plot(ax=ax, color='gray', linewidth=0.5, label='Road Segments')
+accurate_intersections_gdf.plot(ax=ax, color='red', marker='o', markersize=3, label='Accurate Intersection')
+approx_intersections_gdf.plot(ax=ax, color='blue', marker='x', markersize=70, label='Approximate Intersection')
+
+# 4) Set the plot limits to the bounding box
+ax.set_xlim(minx, maxx)
+ax.set_ylim(miny, maxy)
+
+plt.title("Zoomed-In View of Intersections")
+plt.legend()
+plt.xlabel("Easting")
+plt.ylabel("Northing")
+plt.show()
+
+
+
+
+
+
