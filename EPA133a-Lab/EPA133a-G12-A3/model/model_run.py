@@ -10,7 +10,8 @@ from model import BangladeshModel
 """
 
 #Add here proper input files (standard and bonus)
-input_files = ["../data/demo-4.csv", "../data/demo-4.csv"]
+#input_files = ["../data/demo-4.csv", "../data/demo-4.csv"]
+input_files = ["../data/final_input_data.csv", "../data/final_input_data.csv"]
 
 # Probabilities for different scenarios
 probabilities = pd.DataFrame({

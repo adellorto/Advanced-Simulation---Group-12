@@ -226,6 +226,9 @@ for road_name in roads_to_process:
 
     final_input_data = pd.concat([final_input_data, input_data], ignore_index=True)
 
+    bridges_df = final_input_data[final_input_data['model_type'] == 'bridge']
+    average_bridge_value = bridges_df['length'].mean()
+    final_input_data['length'].fillna(average_bridge_value, inplace=True)
 # Find and insert intersections correctly
 final_input_data = find_and_insert_intersections(
     final_input_data)  #finally inserting the intersections into the input data
