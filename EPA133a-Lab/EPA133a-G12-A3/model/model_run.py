@@ -23,7 +23,7 @@ probabilities = pd.DataFrame({
 probabilities.index = [f"Scenario {i}" for i in range(len(probabilities))]
 
 # Run time: 5 x 24 hours; 1 tick = 1 minute
-run_length = 72000
+run_length = 7200
 
 # Ensure output directory exists
 output_dir = "../experiment"
