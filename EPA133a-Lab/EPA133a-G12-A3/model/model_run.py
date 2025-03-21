@@ -3,8 +3,7 @@ import pandas as pd
 from model import BangladeshModel
 
 """
-    Run simulation twice with two different input files (standard and bonus runs)
-    Each simulation runs 10 times with predefined seeds
+    Run simulation 10 times with predefined seeds
     Store all results in separate files for each input file
     Save scenario-specific results over 10 iterations in separate CSV files
 """
