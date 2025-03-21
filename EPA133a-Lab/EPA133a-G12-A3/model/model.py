@@ -83,7 +83,7 @@ class BangladeshModel(Model):
 
         self.generate_model()
         self.generate_networkx_model()
-
+        
     def generate_model(self):
         """
         generate the simulation model according to the csv file component information
@@ -92,6 +92,7 @@ class BangladeshModel(Model):
         """
 
         df = pd.read_csv(self.file_name)
+    
 
         # a list of names of roads to be generated
         # TODO You can also read in the road column to generate this list automatically
@@ -172,6 +173,7 @@ class BangladeshModel(Model):
                     x = row['lon']
                     self.space.place_agent(agent, (x, y))
                     agent.pos = (x, y)
+        
 
     def generate_networkx_model(self):
         df = pd.read_csv(self.file_name)
@@ -187,9 +189,8 @@ class BangladeshModel(Model):
                 # Add the edge between the current and next node
                 self.G.add_edge(current_row['id'], next_row['id'], weight=current_row['length'])
         pos = nx.get_node_attributes(self.G,'pos')
-        #labels = nx.get_edge_attributes(G, 'weight')
-        #nx.draw(self.G, pos, node_size = 0.01)	
-        #plt.show()
+
+
     
     def get_shortest_path(self, source, sink):
         """
@@ -201,11 +202,14 @@ class BangladeshModel(Model):
         # Check if path is already computed
         if key in self.path_ids_dict:
             return self.path_ids_dict[key]
-        
-        shortest_path = nx.shortest_path(self.G, source=source, target=sink, weight='weight')
-        self.path_ids_dict[key] = pd.Series(shortest_path)   # Store for future use
-        return self.path_ids_dict[key]
-            
+        try:
+            shortest_path = nx.shortest_path(self.G, source=source, target=sink, weight='weight')
+            self.path_ids_dict[key] = pd.Series(shortest_path)   # Store for future use
+            return self.path_ids_dict[key]
+        except nx.NetworkXNoPath:
+            print(f"No path exists between {source} and {sink}.")
+            return None
+                
 
            
 
@@ -245,6 +249,8 @@ class BangladeshModel(Model):
         Advance the simulation by one step.
         """
         self.schedule.step()
+        
 
 
 # EOF -----------------------------------------------------------
+BangladeshModel()
