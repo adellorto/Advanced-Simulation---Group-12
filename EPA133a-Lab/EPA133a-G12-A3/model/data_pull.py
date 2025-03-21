@@ -161,7 +161,7 @@ clean_bridges = pd.read_excel('../data/BMMS_overview.xlsx', engine="openpyxl")
 final_input_data = pd.DataFrame(columns=['road', 'id', 'model_type', 'condition', 'name', 'lat', 'lon', 'length'])
 
 starting_id = 1000000
-roads_to_process = ['N1', 'N102','N104', 'N105', 'N106', 'N2', 'N204', 'N207', 'N208'] #list of roads to process
+roads_to_process = ['N1', 'N102', 'N105', 'N2'] #list of roads to process
 
 #creating the tresholds to find intersections between roads
 # creating separate tresholds from the main roads as their coordinates are further away from each other than compared to their side roads.
