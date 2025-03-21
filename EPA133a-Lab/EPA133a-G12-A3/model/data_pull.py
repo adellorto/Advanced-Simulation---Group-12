@@ -30,6 +30,68 @@ def find_insertion_index(bridge_row, links_df):  #This function finds the index 
     return distances.idxmin()
 
 
+def remove_misplaced_objects(input_data):
+    # Sort data by road, lat, lon
+    input_data = input_data.sort_values(by=['road', 'lat', 'lon']).reset_index(drop=True)
+
+    # Process each road separately
+    updated_data = []
+    roads = input_data['road'].unique()
+
+    for road in roads:
+        road_data = input_data[input_data['road'] == road].copy()  # Isolate data for each road
+        sourcesink_rows = road_data[road_data['model_type'] == 'sourcesink']
+        non_sourcesink_rows = road_data[road_data['model_type'] != 'sourcesink']
+
+        if not sourcesink_rows.empty:
+            first_sourcesink = sourcesink_rows.iloc[0]  # First encountered 'sourcesink'
+            last_sourcesink = sourcesink_rows.iloc[-1]  # Last encountered 'sourcesink'
+
+            # Ensure distinct first and last
+            if len(sourcesink_rows) == 1:
+                road_data = pd.concat([pd.DataFrame([first_sourcesink]), non_sourcesink_rows])
+            else:
+                road_data = pd.concat([
+                    pd.DataFrame([first_sourcesink]),  # Move first 'sourcesink' to first position
+                    non_sourcesink_rows,  # All other non-'sourcesink' rows
+                    pd.DataFrame([last_sourcesink])  # Move last 'sourcesink' to last position
+                ])
+
+        updated_data.append(road_data)
+
+    return pd.concat(updated_data).reset_index(drop=True)
+
+
+def assign_intersection_ids(input_data):
+    """
+    Ensures intersections with the same last word in the name and road get the same ID.
+    The first encountered intersection ID is assigned to the second one.
+
+    Parameters:
+        df (pd.DataFrame): DataFrame with columns ['road', 'id', 'model_type', 'name']
+
+    Returns:
+        pd.DataFrame: Updated DataFrame with consistent intersection IDs.
+    """
+
+    input_data['id'] = range(starting_id, starting_id + len(input_data))  # updating the ids to be sequential
+
+    intersections = input_data.loc[input_data['model_type'] == 'intersection',['road', 'id','name']]
+
+    intersections['road1'] = intersections['name'].str.split().str[-1]
+    intersections['road2'] = intersections['name'].str.split().str[-3]
+    intersections['to update'] = intersections['road'] == intersections['road2']
+
+    for _, road_1 in intersections.iterrows():
+        if not road_1['to update']:
+            for index, road_2 in intersections.iterrows():
+                if road_2['to update']:
+                    if (road_1['road'] == road_2['road1'] and road_1['road2'] == road_2['road']):
+                        input_data.loc[index, 'id'] = road_1['id']
+
+    return input_data  # Return updated DataFrame while preserving original order
+
+
 def find_and_insert_intersections(input_data):   #This function finds the intersections between the roads and inserts them in the correct order
                                     # check if it works using the model_viz.py and it the final output file to ensure no intersections are too close to each other
     """
@@ -44,52 +106,59 @@ def find_and_insert_intersections(input_data):   #This function finds the inters
     roads = input_data['road'].to_numpy()
     ids = input_data['id'].to_numpy()
 
+    # Store already detected intersections
+    existing_intersections = set()
+
     # Iterate over each road and compare with all others
-    for i, (lat1, lon1, road1, id1) in enumerate(zip(coords[:, 0], coords[:, 1], roads, ids)):  #extracting coordinates from road1
+    for i, (lat1, lon1, road1, id1) in enumerate(zip(coords[:, 0], coords[:, 1], roads, ids)):
         threshold1 = road_thresholds.get(road1, road_thresholds["default"])  # Get threshold for road1
 
-        for j, (lat2, lon2, road2, id2) in enumerate(zip(coords[:, 0], coords[:, 1], roads, ids)): #extracting coordinates from road2
+        for j, (lat2, lon2, road2, id2) in enumerate(zip(coords[:, 0], coords[:, 1], roads, ids)):
             if road1 == road2 or i >= j:
                 continue  # Skip same road and redundant comparisons
 
             threshold2 = road_thresholds.get(road2, road_thresholds["default"])  # Get threshold for road2
-            distance_threshold = min(threshold1, threshold2)  # Use the higher threshold
+            distance_threshold = min(threshold1, threshold2)  # Use the smaller threshold
 
             # Calculate distance using haversine function
             distance = haversine(lat1, lon1, lat2, lon2)
 
-            if distance <= distance_threshold:  #check if the two points extracted are close enough to be considered an intersection
-                intersection_key = tuple(sorted([road1, road2]))  # Unique key for the intersection for the pair of roads
+            if distance <= distance_threshold:  # Check if they should be considered an intersection
+                road_pair = (min(road1, road2), max(road1, road2))  # Normalize ordering
 
-                print(intersection_key)
+                if road_pair in existing_intersections:
+                    continue  # Skip if intersection already exists
 
+                # Mark this road pair as having an intersection
+                existing_intersections.add(road_pair)
+
+                # Generate a unique intersection ID
                 intersection_id = starting_id + len(intersection_data)
 
                 # Create intersection entries for both roads
-                for road, ref_id in [(road1, id1), (road2, id2)]: #storing the id of the objects used as ref_id to insert the intersection so that we can insert the intersection in the correct order
+                for road, ref_id in [(road1, id1), (road2, id2)]:
                     intersection = {
                         'road': road,
                         'id': intersection_id,
                         'model_type': 'intersection',
                         'condition': 'N/A',
                         'name': f"Intersection of {road1} and {road2}",
-                        'lat': (lat1 + lat2) / 2,  # Midpoint approximation of the location of the intersection
+                        'lat': (lat1 + lat2) / 2,  # Midpoint approximation
                         'lon': (lon1 + lon2) / 2,
                         'length': 20
                     }
-                    #print(intersection)
-                    intersection_data.append((ref_id, intersection))  # Store with ref_id for correct insertion
+                    intersection_data.append((ref_id, intersection))  # Store with ref_id
 
 
-    # Insert intersections in the correct order, by comparing the previous id_keys for the objects on the two roads used to find the intersection
+# Insert intersections in the correct order, by comparing the previous id_keys for the objects on the two roads used to find the intersection
     for ref_id, intersection in sorted(intersection_data, key=lambda x: x[0], reverse=True):
         before = input_data[input_data['id'] <= ref_id]
         after = input_data[input_data['id'] > ref_id]
         input_data = pd.concat([before, pd.DataFrame([intersection]), after], ignore_index=True)
 
-        # Reassign IDs sequentially after intersections are inserted
-        input_data = input_data.sort_values(by=['road', 'lat', 'lon']).reset_index(drop=True)  # ensuring the file is grouped by rows and ordered by lat and lon
-        input_data['id'] = range(starting_id, starting_id + len(input_data))  # updating the ids to be sequential
+    # Reassign IDs sequentially after intersections are inserted
+    input_data = remove_misplaced_objects(input_data)
+    input_data = assign_intersection_ids(input_data)
 
     return input_data
 
@@ -101,14 +170,17 @@ clean_bridges = pd.read_excel('../data/BMMS_overview.xlsx', engine="openpyxl")
 final_input_data = pd.DataFrame(columns=['road', 'id', 'model_type', 'condition', 'name', 'lat', 'lon', 'length'])
 
 starting_id = 1000000
-roads_to_process = ['N1', 'N102', 'N104', 'N105', 'N106', 'N2', 'N204', 'N207', 'N208']   #list of roads to process
+
+roads_to_process = ['N1', 'N102', 'N104', 'N105', 'N106', 'N2', 'N204', 'N207', 'N208'] #list of roads to process
+# Generate the list of all roads to process for the visualization
+#roads_to_process = ['N1', 'N101', 'N102', 'N103', 'N104', 'N105', 'N106', 'N107', 'N108', 'N109', 'N110', 'N111', 'N112', 'N119', 'N120', 'N123', 'N128', 'N129', 'N2', 'N204', 'N205', 'N206', 'N207', 'N208', 'N209', 'N210'] #list of roads to process
 
 #creating the tresholds to find intersections between roads
 # creating separate tresholds from the main roads as their coordinates are further away from each other than compared to their side roads.
 road_thresholds = {
-    "N1": 25, # Threshold for larger roads
-    "N2": 25, # Threshold for larger roads
-    "default": 15  # Default threshold for smaller roads
+    "N1": 10000, # Threshold for larger roads
+    "N2": 10000, # Threshold for larger roads
+    "default": 5000  # Default threshold for smaller roads
 }
 
 for road_name in roads_to_process:
@@ -165,6 +237,10 @@ for road_name in roads_to_process:
 
     final_input_data = pd.concat([final_input_data, input_data], ignore_index=True)
 
+bridges_df = final_input_data[final_input_data['model_type'] == 'bridge']
+average_bridge_value = bridges_df['length'].mean()
+final_input_data['length'].fillna(average_bridge_value,inplace=True)
+
 # Find and insert intersections correctly
 final_input_data = find_and_insert_intersections(
     final_input_data)  #finally inserting the intersections into the input data
@@ -172,7 +248,7 @@ final_input_data = find_and_insert_intersections(
 #since the intersections are added in between the correct obejcts in the file, but with the old id and without updating the rest of the file, we need to update the ids before rendering the final file
 
 
-print(final_input_data.loc[final_input_data['model_type'] == 'intersection', ['road', 'id', 'name']])
+print(final_input_data.loc[final_input_data['model_type'] == 'intersection', ['id','road','name']])
 
 
 # Save final updated input data

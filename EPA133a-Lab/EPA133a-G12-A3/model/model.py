@@ -76,12 +76,15 @@ class BangladeshModel(Model):
         self.sources = []
         self.sinks = []
         self.travel_times = []
-        self.delay_times = []
+        self.delay_times_truck = []
+        self.delay_times_bridge = {}
         self.broken_bridges = 0
         self.breakdown_probabilities = breakdown_probabilities
+        self.G = nx.Graph()
 
         self.generate_model()
-
+        self.generate_networkx_model()
+        
     def generate_model(self):
         """
         generate the simulation model according to the csv file component information
@@ -90,9 +93,9 @@ class BangladeshModel(Model):
         """
 
         df = pd.read_csv(self.file_name)
+    
 
         # a list of names of roads to be generated
-        # TODO You can also read in the road column to generate this list automatically
         roads = df['road'].unique()
 
         df_objects_all = []
@@ -102,7 +105,7 @@ class BangladeshModel(Model):
 
             if not df_objects_on_road.empty:
                 df_objects_all.append(df_objects_on_road)
-
+ 
                 """
                 Set the path 
                 1. get the serie of object IDs on a given road in the cvs in the original order
@@ -170,12 +173,12 @@ class BangladeshModel(Model):
                     x = row['lon']
                     self.space.place_agent(agent, (x, y))
                     agent.pos = (x, y)
+        
 
     def generate_networkx_model(self):
-        G = nx.Graph()
         df = pd.read_csv(self.file_name)
         for _,row in df.iterrows():
-            G.add_node(row['id'], pos = (row['lon'], row['lat']))
+            self.G.add_node(row['id'], pos = (row['lon'], row['lat']))
         
         # Second loop: Add edges between consecutive nodes on the same road
         for i in range(len(df) - 1):
@@ -184,14 +187,31 @@ class BangladeshModel(Model):
         # Ensure we are on the same road
             if current_row['road'] == next_row['road']:
                 # Add the edge between the current and next node
-                G.add_edge(current_row['id'], next_row['id'], weight=current_row['length'])
-        pos = nx.get_node_attributes(G,'pos')
-        labels = nx.get_edge_attributes(G, 'weight')
-        nx.draw(G, pos, node_size = 0.01)
-        nx.draw_networkx_edge_labels(G, pos, edge_labels=labels)	
-        plt.show()
+                self.G.add_edge(current_row['id'], next_row['id'], weight=current_row['length'])
+        pos = nx.get_node_attributes(self.G,'pos')
 
 
+    
+    def get_shortest_path(self, source, sink):
+        """
+        Returns the shortest path between origin and destination.
+        Uses the dictionary for lookup to avoid redundant computations.
+        """
+        key = (source, sink)
+        
+        # Check if path is already computed
+        if key in self.path_ids_dict:
+            return self.path_ids_dict[key]
+        try:
+            shortest_path = nx.shortest_path(self.G, source=source, target=sink, weight='weight')
+            self.path_ids_dict[key] = pd.Series(shortest_path)   # Store for future use
+            return self.path_ids_dict[key]
+        except nx.NetworkXNoPath:
+            print(f"No path exists between {source} and {sink}.")
+            return None
+                
+
+           
 
     def get_random_route(self, source):
         """
@@ -205,8 +225,18 @@ class BangladeshModel(Model):
         return self.path_ids_dict[source, sink]
 
     # TODO
-    def get_route(self, source):
-        return self.get_straight_route(source)
+    # def get_route(self, source):
+    #     return self.get_straight_route(source)
+    
+    def get_route(self, source):    
+        # Choose a random sink to ensure a valid destination
+        while True:
+            sink = self.random.choice(self.sinks)
+            if sink != source:
+                break
+        return self.get_shortest_path(source, sink)
+
+
 
     def get_straight_route(self, source):
         """
@@ -219,7 +249,8 @@ class BangladeshModel(Model):
         Advance the simulation by one step.
         """
         self.schedule.step()
+        
 
 
 # EOF -----------------------------------------------------------
-BangladeshModel().generate_networkx_model()
+BangladeshModel()
