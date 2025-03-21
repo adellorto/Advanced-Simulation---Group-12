@@ -29,34 +29,37 @@ def find_insertion_index(bridge_row, links_df):  #This function finds the index 
     )
     return distances.idxmin()
 
+
 def remove_misplaced_objects(input_data):
+    # Sort data by road, lat, lon
+    input_data = input_data.sort_values(by=['road', 'lat', 'lon']).reset_index(drop=True)
 
-    start_end = 0
+    # Process each road separately
+    updated_data = []
     roads = input_data['road'].unique()
-    print(roads)
 
     for road in roads:
-        for index, row in input_data.loc[input_data['road'] == road].iterrows():
-            if row['model_type'] == 'sourcesink':
-                start_end = start_end + 1
-            elif start_end == 0:
-                input_data.iloc[[index,index+1]] = input_data.iloc[[index+1,index]].values
-            elif start_end == 2:
-                input_data.iloc[[index-1,index]] = input_data.iloc[[index,index-1]].values
-        start_end = 0
+        road_data = input_data[input_data['road'] == road].copy()  # Isolate data for each road
+        sourcesink_rows = road_data[road_data['model_type'] == 'sourcesink']
+        non_sourcesink_rows = road_data[road_data['model_type'] != 'sourcesink']
 
-    """
-    for road in roads:
-        for index, row in input_data.loc[input_data['road'] == road].iterrows():
-            if start_end == 0 and row['model_type'] == 'sourcesink':
-                input_data = pd.concat([input_data.loc[index], input_data.drop(index)])
-                start_end = start_end + 1
-            elif start_end == 1:
-                input_data = pd.concat([input_data.drop(index), input_data.loc[index]])
-        start_end = 0
-    """
+        if not sourcesink_rows.empty:
+            first_sourcesink = sourcesink_rows.iloc[0]  # First encountered 'sourcesink'
+            last_sourcesink = sourcesink_rows.iloc[-1]  # Last encountered 'sourcesink'
 
-    return input_data
+            # Ensure distinct first and last
+            if len(sourcesink_rows) == 1:
+                road_data = pd.concat([pd.DataFrame([first_sourcesink]), non_sourcesink_rows])
+            else:
+                road_data = pd.concat([
+                    pd.DataFrame([first_sourcesink]),  # Move first 'sourcesink' to first position
+                    non_sourcesink_rows,  # All other non-'sourcesink' rows
+                    pd.DataFrame([last_sourcesink])  # Move last 'sourcesink' to last position
+                ])
+
+        updated_data.append(road_data)
+
+    return pd.concat(updated_data).reset_index(drop=True)
 
 
 def assign_intersection_ids(input_data):
@@ -154,7 +157,6 @@ def find_and_insert_intersections(input_data):   #This function finds the inters
         input_data = pd.concat([before, pd.DataFrame([intersection]), after], ignore_index=True)
 
     # Reassign IDs sequentially after intersections are inserted
-    input_data = input_data.sort_values(by=['road', 'lat', 'lon']).reset_index(drop=True)  # ensuring the file is grouped by rows and ordered by lat and lon
     input_data = remove_misplaced_objects(input_data)
     input_data = assign_intersection_ids(input_data)
 
@@ -168,11 +170,11 @@ clean_bridges = pd.read_excel('../data/BMMS_overview.xlsx', engine="openpyxl")
 final_input_data = pd.DataFrame(columns=['road', 'id', 'model_type', 'condition', 'name', 'lat', 'lon', 'length'])
 
 starting_id = 1000000
-#roads_to_process = ['N1', 'N102', 'N105', 'N2'] #list of roads to process
-#roads_to_process = ['N1', 'N102', 'N105', 'N106', 'N2', 'N204', 'N207', 'N208'] #list of roads to process
+
 roads_to_process = ['N1', 'N102', 'N105', 'N2', 'N204', 'N207', 'N208'] #list of roads to process
 # Generate the list of all roads to process for the visualization
 #roads_to_process = ['N1', 'N101', 'N102', 'N103', 'N104', 'N105', 'N106', 'N107', 'N108', 'N109', 'N110', 'N111', 'N112', 'N119', 'N120', 'N123', 'N128', 'N129', 'N2', 'N204', 'N205', 'N206', 'N207', 'N208', 'N209', 'N210'] #list of roads to process
+
 #creating the tresholds to find intersections between roads
 # creating separate tresholds from the main roads as their coordinates are further away from each other than compared to their side roads.
 road_thresholds = {
