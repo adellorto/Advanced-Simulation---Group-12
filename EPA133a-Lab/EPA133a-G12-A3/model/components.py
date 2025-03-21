@@ -63,6 +63,9 @@ class Bridge(Infra):
         self.broken = False
         # Every bridge is not broken when created
 
+        self.model.delay_times_bridge[self.unique_id] = 0
+        # Initialize overall delay
+
     def get_delay_time(self):
         """
                 Return the delay (in ticks/minutes) caused by this bridge
@@ -330,7 +333,7 @@ class Vehicle(Agent):
             self.arrive_at_next(next_infra, 0)
             self.removed_at_step = self.model.schedule.steps
             self.model.travel_times.append(self.removed_at_step - self.generated_at_step) 
-            self.model.delay_times.append(self.delay_time)  # Store accumulated delay time
+            self.model.delay_times_truck.append(self.delay_time)  # Store accumulated delay time
             self.location.remove(self)
             return
 
@@ -338,6 +341,7 @@ class Vehicle(Agent):
         elif isinstance(next_infra, Bridge):
             if next_infra.broken:
                 self.waiting_time = next_infra.get_delay_time()
+                self.model.delay_times_bridge[next_infra.unique_id] += self.waiting_time
                 self.delay_time += self.waiting_time  # Accumulate delay time
                 self.state = Vehicle.State.WAIT
                 return

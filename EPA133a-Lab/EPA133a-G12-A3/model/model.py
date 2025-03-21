@@ -76,7 +76,8 @@ class BangladeshModel(Model):
         self.sources = []
         self.sinks = []
         self.travel_times = []
-        self.delay_times = []
+        self.delay_times_truck = []
+        self.delay_times_bridge = {}
         self.broken_bridges = 0
         self.breakdown_probabilities = breakdown_probabilities
         self.G = nx.Graph()
