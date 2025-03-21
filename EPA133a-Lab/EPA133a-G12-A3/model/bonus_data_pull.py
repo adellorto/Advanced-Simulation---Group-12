@@ -194,13 +194,13 @@ final_input_data.to_csv('../data/bonus_final_input_data.csv', index=False)
 
 
 
-#geospatial analysis
+#  BONUS ASSIGNMENT - geospatial analysis
 os.environ["SHAPE_RESTORE_SHX"] = "YES" #as the crs is missing, we sets an environment variable telling the underlying file reader (pyogrio) to try to restore or recreate the .shx index file
 roads_gdf = gpd.read_file("../data/roads.shp") #read the shapefile
 roads_gdf = roads_gdf.set_crs("EPSG:4326") #here we manually assign it a coordinate reference system (CRS). EPSG:4326 corresponds to WGS84, a common geographic coordinate system using latitude and longitude.
 
 # Check and reproject CRS for accurate distance calculations.
-# For example, reproject to a UTM projection (adjust EPSG code as needed).
+
 if roads_gdf.crs.is_geographic:
    roads_gdf = roads_gdf.to_crs(epsg=32646) #here  we reproject the data to a projected CRS—specifically UTM zone 46N (EPSG:32646), which is suitable for Bangladesh.
 
