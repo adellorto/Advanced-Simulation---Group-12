@@ -194,7 +194,7 @@ final_input_data.to_csv('../data/bonus_final_input_data.csv', index=False)
 
 
 
-
+#geospatial analysis
 os.environ["SHAPE_RESTORE_SHX"] = "YES" #as the crs is missing, we sets an environment variable telling the underlying file reader (pyogrio) to try to restore or recreate the .shx index file
 roads_gdf = gpd.read_file("../data/roads.shp") #read the shapefile
 roads_gdf = roads_gdf.set_crs("EPSG:4326") #here we manually assign it a coordinate reference system (CRS). EPSG:4326 corresponds to WGS84, a common geographic coordinate system using latitude and longitude.
@@ -235,7 +235,7 @@ for idx, road in roads_gdf.iterrows():
                 for geom in inter_geom.geoms:
                     if geom.geom_type == 'Point':
                         accurate_intersections.append(geom)
-            # For line intersections (overlapping segments) you may choose a representative point:
+            # For line intersections (overlapping segments) we choose a representative point:
             elif inter_geom.geom_type == 'LineString':
                 accurate_intersections.append(Point(inter_geom.coords[len(inter_geom.coords)//2]))
 
@@ -282,15 +282,14 @@ plt.show()
 
 
 # 1) Filter approximate intersections in the region of interest
-#    (You might do this by bounding lat/lon or easting/northing.)
-#    For instance, let's say you know a rough bounding box:
+
 minx, maxx = 200000, 500000
 miny, maxy = 2.5e6, 2.8e6
 
 # 2) Create a new figure
 fig, ax = plt.subplots(figsize=(10, 10))
 
-# 3) Plot your layers as usual
+# 3) Plot layers as usual
 roads_gdf.plot(ax=ax, color='gray', linewidth=0.5, label='Road Segments')
 accurate_intersections_gdf.plot(ax=ax, color='red', marker='o', markersize=3, label='Accurate Intersection')
 approx_intersections_gdf.plot(ax=ax, color='blue', marker='x', markersize=70, label='Approximate Intersection')
