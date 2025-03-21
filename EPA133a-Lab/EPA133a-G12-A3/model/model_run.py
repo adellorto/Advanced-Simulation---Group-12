@@ -58,7 +58,7 @@ for run_id, seed in enumerate(seeds):
         delay_data = sim_model.delay_times_bridge
 
         # Print results
-        #print(f"\n{scenario} - {file_identifier} - Seed {seed}: Avg. travel time = {avg_travel_time} minutes")
+        print(f"\n{scenario} - {file_identifier} - Seed {seed}: Avg. travel time = {avg_travel_time} minutes")
         #print(f"Number of trucks arrived at destination: {num_trucks_arrived}")
         #print(f"Number of broken bridges: {num_broken_bridges}")
         #print(f"Average delay time: {avg_delay_time}")
