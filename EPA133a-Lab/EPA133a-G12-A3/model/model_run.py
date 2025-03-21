@@ -56,13 +56,14 @@ for input_file in input_files:
             avg_travel_time = round(pd.Series(sim_model.travel_times).mean(), 2)
             num_trucks_arrived = len(sim_model.travel_times)
             num_broken_bridges = sim_model.broken_bridges
-            avg_delay_time = round(pd.Series(sim_model.delay_times).mean(), 2)
+            avg_delay_time = round(pd.Series(sim_model.delay_times_truck).mean(), 2)
 
             # Print results
             print(f"\n{scenario} - {file_identifier} - Seed {seed}: Avg. travel time = {avg_travel_time} minutes")
             print(f"Number of trucks arrived at destination: {num_trucks_arrived}")
             print(f"Number of broken bridges: {num_broken_bridges}")
             print(f"Average delay time: {avg_delay_time}")
+            print(sim_model.delay_times_bridge)
 
             # Store results
             result_row = [seed, avg_travel_time, num_trucks_arrived, num_broken_bridges, avg_delay_time]
