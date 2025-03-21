@@ -162,7 +162,8 @@ final_input_data = pd.DataFrame(columns=['road', 'id', 'model_type', 'condition'
 
 starting_id = 1000000
 roads_to_process = ['N1', 'N102', 'N105', 'N2'] #list of roads to process
-
+# Generate the list of all roads to process for the visualization
+#roads_to_process = ['N1', 'N101', 'N102', 'N103', 'N104', 'N105', 'N106', 'N107', 'N108', 'N109', 'N110', 'N111', 'N112', 'N119', 'N120', 'N123', 'N128', 'N129', 'N2', 'N204', 'N205', 'N206', 'N207', 'N208', 'N209', 'N210'] #list of roads to process
 #creating the tresholds to find intersections between roads
 # creating separate tresholds from the main roads as their coordinates are further away from each other than compared to their side roads.
 road_thresholds = {
