@@ -1,16 +1,31 @@
-import numpy as np
+from bs4 import BeautifulSoup
 import pandas as pd
-import requests
-import math
 
-clean_bridges = pd.read_excel('../data/_overview.xlsx', engine="openpyxl")
+# Specify the file path
+file_path = '../data/RMMS/N2.traffic.htm'
 
-#initiating dataframe in the right format as described in README.md
-input_data = pd.DataFrame(columns=['road', 'name', 'length', 'start', 'end'])
+# Open and read the HTML file
+with open(file_path, 'r', encoding='utf-8') as file:
+    soup = BeautifulSoup(file, 'html.parser')
 
-#Selecting which row's components we are studying, ensuring that the code is easily applicable to other rows
-road_name = 'N1'
+# Find all tables in the HTML
+tables = soup.find_all('table')
 
-#Selecting the road and bridge data for the selected road
-road_data = clean_roads[clean_roads['road'] == road_name]
-bridge_data = clean_bridges[clean_bridges['road'] == road_name]
+# Check if tables are found
+if tables:
+    # Parse the first table (or iterate through all tables if needed)
+    table = tables[0]
+    rows = table.find_all('tr')
+
+    # Extract headers
+    headers = [header.text.strip() for header in rows[0].find_all('th')]
+
+    # Extract rows
+    data = []
+    for row in rows[1:]:
+        cells = row.find_all(['td', 'th'])
+        data.append([cell.text.strip() for cell in cells])
+
+    # Create a DataFrame
+    df = pd.DataFrame(data, columns=headers)
+    print(df.head())
