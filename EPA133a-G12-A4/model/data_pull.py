@@ -1,7 +1,12 @@
-clean_bridges = pd.read_excel('../data/BMMS_overview.xlsx', engine="openpyxl")
+import numpy as np
+import pandas as pd
+import requests
+import math
+
+clean_bridges = pd.read_excel('../data/_overview.xlsx', engine="openpyxl")
 
 #initiating dataframe in the right format as described in README.md
-input_data = pd.DataFrame(columns=['road', 'id', 'model_type', 'name', 'lat' , 'lon'   , 'length' , 'quality_cat'])
+input_data = pd.DataFrame(columns=['road', 'name', 'length', 'start', 'end'])
 
 #Selecting which row's components we are studying, ensuring that the code is easily applicable to other rows
 road_name = 'N1'
