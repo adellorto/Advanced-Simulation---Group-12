@@ -1,31 +1,45 @@
-from bs4 import BeautifulSoup
+import os
 import pandas as pd
 
-# Specify the file path
-file_path = '../data/RMMS/N2.traffic.htm'
+folder_path = "../data/RMMS"  # Adjust this if needed
 
-# Open and read the HTML file
-with open(file_path, 'r', encoding='utf-8') as file:
-    soup = BeautifulSoup(file, 'html.parser')
+combined_dfs = []
 
-# Find all tables in the HTML
-tables = soup.find_all('table')
+for filename in os.listdir(folder_path):
+    if (filename.startswith("N") or filename.startswith("R")) and filename.endswith("traffic.htm"):
+        file_path = os.path.join(folder_path, filename)
+        try:
+            # Read all tables
+            tables = pd.read_html(file_path, header=None)
 
-# Check if tables are found
-if tables:
-    # Parse the first table (or iterate through all tables if needed)
-    table = tables[0]
-    rows = table.find_all('tr')
+            # Use Table 3 (includes metadata/data type info)
+            df_raw = tables[3]
 
-    # Extract headers
-    headers = [header.text.strip() for header in rows[0].find_all('th')]
+            # Row 3 has actual headers
+            df_raw.columns = df_raw.iloc[3]
 
-    # Extract rows
-    data = []
-    for row in rows[1:]:
-        cells = row.find_all(['td', 'th'])
-        data.append([cell.text.strip() for cell in cells])
+            # Drop the first four rows
+            df = df_raw.drop(index=[0, 1, 2, 3]).reset_index(drop=True)
 
-    # Create a DataFrame
-    df = pd.DataFrame(data, columns=headers)
-    print(df.head())
+            # Optional: Add source file column
+            df["source_file"] = filename
+
+            # Save to CSV
+            csv_name = filename.replace(".htm", ".csv")
+            df.to_csv(os.path.join(folder_path, csv_name), index=False)
+
+            # Add to combined list
+            combined_dfs.append(df)
+
+            # Preview
+            print(f"\nProcessed: {filename}")
+            #print(df.head())
+
+        except Exception as e:
+            print(f"Could not process {filename}: {e}")
+
+
+combined_df = pd.concat(combined_dfs, ignore_index=True)
+combined_df.to_csv(os.path.join(folder_path, "combined_traffic.csv"), index=False)
+print("\n Traffic files combined into 'combined_traffic.csv'")
+

@@ -1,0 +1,7 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),R601.traffic.htm
+R601-1,Pabna-Sujanagar (int.with Z6030),LRPS,0,0,LRP019,204,18.384,18.384,8.0,184.0,212.0,0.0,72.0,62.0,17.0,18.0,1390.0,990.0,974.0,1068.0,11.0,2953.0,2053.0,5006.0,5006.0,R601.traffic.htm
+R601-2,Sujanagar (int.with Z6030)-Nazirganj (int.with R602),LRP019,204,18.384,LRP037,748,36.928,18.544,8.0,184.0,212.0,0.0,72.0,62.0,17.0,18.0,1390.0,990.0,974.0,1068.0,11.0,2953.0,2053.0,5006.0,5006.0,R601.traffic.htm
+R601-3,Nazirganj (int.with R602)-Baderhat,LRP037,748,36.928,LRP053,11,52.435,15.507,8.0,184.0,212.0,0.0,72.0,62.0,17.0,18.0,1390.0,990.0,974.0,1068.0,11.0,2953.0,2053.0,5006.0,5006.0,R601.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,R601.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,R601.traffic.htm

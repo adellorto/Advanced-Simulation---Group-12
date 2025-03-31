@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),N504.traffic.htm
+N504-1,Nagarbari Ferry Ghat-Kashinathpur,LRPS,0,0,LRP004,2986,6.653,6.653,92.0,376.0,365.0,146.0,252.0,162.0,6.0,47.0,2052.0,1215.0,524.0,1241.0,11.0,4713.0,1776.0,6489.0,6489.0,N504.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,N504.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,N504.traffic.htm

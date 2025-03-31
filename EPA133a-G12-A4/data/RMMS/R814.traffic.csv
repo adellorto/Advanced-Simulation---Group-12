@@ -1,0 +1,7 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),R814.traffic.htm
+R814-1,Int with R812(Dhaka End)-Muktarpur Ferry Ghat End,LRPS,0,0,LRPS,1285,1.285,1.285,65.0,1082.0,407.0,0.0,741.0,616.0,106.0,617.0,3589.0,600.0,612.0,1442.0,0.0,7823.0,2054.0,9877.0,9877.0,R814.traffic.htm
+R814-2,Muktarpur Ferry Ghat-End-Int.with R813,LRPS,1285,1.285,LRPS,1295,1.295,0.010,65.0,1082.0,407.0,0.0,741.0,616.0,106.0,617.0,3589.0,600.0,612.0,1442.0,0.0,7823.0,2054.0,9877.0,9877.0,R814.traffic.htm
+R814-3,Int.with R813-Int.with R812 at Muktarpur,LRPS,1295,1.295,LRPE,0,2.034,0.739,65.0,1082.0,407.0,0.0,741.0,616.0,106.0,617.0,3589.0,600.0,612.0,1442.0,0.0,7823.0,2054.0,9877.0,9877.0,R814.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,R814.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,R814.traffic.htm

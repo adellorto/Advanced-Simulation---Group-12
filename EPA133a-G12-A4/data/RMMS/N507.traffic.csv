@@ -1,0 +1,9 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),N507.traffic.htm
+N507-1,Hatikamrul (Int.with N5)-Int.with Z5046,LRPS,0,0,LRP015,930,15.04,15.040,53.0,1519.0,659.0,683.0,102.0,220.0,212.0,121.0,828.0,453.0,226.0,178.0,0.0,4850.0,404.0,5254.0,5254.0,N507.traffic.htm
+N507-2,Int.with Z5046-Hamkuria (Int.with R604 and Z6034),LRP015,930,15.04,LRP021,220,20.36,5.320,53.0,1519.0,659.0,683.0,102.0,220.0,212.0,121.0,828.0,453.0,226.0,178.0,0.0,4850.0,404.0,5254.0,5254.0,N507.traffic.htm
+N507-3,Hamkuria (Int.with R604 and Z6034)-Int.with Z5209,LRP021,220,20.36,LRP028,930,28.11,7.750,53.0,1519.0,659.0,683.0,102.0,220.0,212.0,121.0,828.0,453.0,226.0,178.0,0.0,4850.0,404.0,5254.0,5254.0,N507.traffic.htm
+N507-4,Int.with Z5209-Laxmikul (Int.with Z6015),LRP028,930,28.11,LRP043,1130,43.33,15.220,53.0,1519.0,659.0,683.0,102.0,220.0,212.0,121.0,828.0,453.0,226.0,178.0,0.0,4850.0,404.0,5254.0,5254.0,N507.traffic.htm
+N507-5,Laxmikul (Int.with Z6015)-Banpara,LRP043,1130,43.33,LRP051,0,50.25,6.920,53.0,1519.0,659.0,683.0,102.0,220.0,212.0,121.0,828.0,453.0,226.0,178.0,0.0,4850.0,404.0,5254.0,5254.0,N507.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,N507.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,N507.traffic.htm

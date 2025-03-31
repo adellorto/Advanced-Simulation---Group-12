@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),R450.traffic.htm
+R450-1,"Saidabad (road start, int with N405) - Sirajganj, Old Zail Khana more",LRPS,0,0,LRP007,2870,8.99,8.990,11.0,669.0,508.0,63.0,280.0,314.0,152.0,188.0,2115.0,1151.0,1461.0,1638.0,0.0,5451.0,3099.0,8550.0,8550.0,R450.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,R450.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,R450.traffic.htm

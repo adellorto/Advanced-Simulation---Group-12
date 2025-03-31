@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),R143.traffic.htm
+R143-1,Maijdee (int with N104) - Chandraganj (int with R140),LRPS,0,0,LRP020,815,20.26,20.260,0.0,103.0,127.0,0.0,0.0,166.0,36.0,36.0,2464.0,387.0,546.0,464.0,28.0,3319.0,1038.0,4357.0,4357.0,R143.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,R143.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,R143.traffic.htm

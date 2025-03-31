@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),R241.traffic.htm
+R241-1,"Auskandi (road start, int with N2) - Pagla (road end, int with R280)",LRPS,0,0,LRP044,1018,45.015,45.015,0.0,136.0,175.0,0.0,190.0,171.0,27.0,126.0,324.0,186.0,118.0,289.0,8.0,1335.0,415.0,1750.0,1750.0,R241.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,R241.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,R241.traffic.htm

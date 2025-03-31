@@ -1,0 +1,7 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),N702.traffic.htm
+N702-1,Jessore (Daratana More)-Khajura(Int.with Z7057),LRPS,0,0,LRP015,374,14.364,14.364,73.0,381.0,288.0,558.0,153.0,139.0,33.0,159.0,1096.0,1358.0,1629.0,864.0,0.0,4238.0,2493.0,6731.0,6731.0,N702.traffic.htm
+N702-2,Khajura(Int.with Z7057)-Arpara (Int.with Z7021),LRP015,374,14.364,LRP030,1645,30.62,16.256,73.0,381.0,288.0,558.0,153.0,139.0,33.0,159.0,1096.0,1358.0,1629.0,864.0,0.0,4238.0,2493.0,6731.0,6731.0,N702.traffic.htm
+N702-3,Arpara(Int.with Z7021)-Magura (Vaina More),LRP030,1645,30.62,LRPE,0,43.75,13.130,73.0,381.0,288.0,558.0,153.0,139.0,33.0,159.0,1096.0,1358.0,1629.0,864.0,0.0,4238.0,2493.0,6731.0,6731.0,N702.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,N702.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,N702.traffic.htm

@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),R810.traffic.htm
+R810-1,Postagola-Panchaboti (Int.with R812),LRPS,0,0,LRPS,8070,8.07,8.070,60.0,2749.0,1536.0,58.0,1188.0,1138.0,131.0,1514.0,2908.0,1416.0,995.0,1762.0,0.0,12698.0,2757.0,15455.0,15455.0,R810.traffic.htm
+R810-2,Panchaboti (Int.with R812)-Chashara,LRPS,8070,8.07,LRPE,0,10.642,2.572,60.0,2749.0,1536.0,58.0,1188.0,1138.0,131.0,1514.0,2908.0,1416.0,995.0,1762.0,0.0,12698.0,2757.0,15455.0,15455.0,R810.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,R810.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,R810.traffic.htm

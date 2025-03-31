@@ -1,0 +1,7 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),R172.traffic.htm
+R172-1,"Chokoria (road start, int with N1) - Eidmoni (int with R170)",LRPS,0,0,LRP004,3995,7.955,7.955,0.0,68.0,199.0,0.0,36.0,269.0,30.0,15.0,2023.0,389.0,71.0,198.0,0.0,3029.0,269.0,3298.0,3298.0,R172.traffic.htm
+R172-2,Eidmoni (int with R170) - Illisha Bazar (int with Z1128),LRP004,3995,7.955,LRP009,1960,10.905,2.950,0.0,68.0,199.0,0.0,36.0,269.0,30.0,15.0,2023.0,389.0,71.0,198.0,0.0,3029.0,269.0,3298.0,3298.0,R172.traffic.htm
+R172-3,Illisha Bazar (int with Z1128) - Badarkhali (Moheshkhali bridge),LRP009,1960,10.905,LRP016,1350,17.27,6.365,0.0,68.0,199.0,0.0,36.0,269.0,30.0,15.0,2023.0,389.0,71.0,198.0,0.0,3029.0,269.0,3298.0,3298.0,R172.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,R172.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,R172.traffic.htm

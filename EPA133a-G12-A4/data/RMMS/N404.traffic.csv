@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),N404.traffic.htm
+N404-1,Nagarjalphai-Tangail Old Bus Stand(Int.with R506),LRPS,0,0,LRPS,2528,2.528,2.528,0.0,645.0,332.0,887.0,199.0,324.0,131.0,479.0,6335.0,1263.0,959.0,1136.0,0.0,10595.0,2095.0,12690.0,12690.0,N404.traffic.htm
+N404-2,Tangail Old Bus Stand(Int.with R506)-Balia (Int.with N4),LRPS,2528,2.528,LRPE,0,6.489,3.961,0.0,645.0,332.0,887.0,199.0,324.0,131.0,479.0,6335.0,1263.0,959.0,1136.0,0.0,10595.0,2095.0,12690.0,12690.0,N404.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,N404.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,N404.traffic.htm

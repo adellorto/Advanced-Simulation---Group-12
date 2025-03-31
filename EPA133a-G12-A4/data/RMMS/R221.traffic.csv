@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),R221.traffic.htm
+R221-1,Kamrapur(int.with Z2403)-Int.with R220,LRPS,0,0,LRPS,2672,2.672,2.672,0.0,68.0,142.0,28.0,33.0,37.0,7.0,16.0,3303.0,418.0,430.0,535.0,0.0,4052.0,965.0,5017.0,5017.0,R221.traffic.htm
+R221-2,Int.with R220- Int.with N2 at Nasratpur.,LRPS,2672,2.672,LRPE,0,14.442,11.770,0.0,68.0,142.0,28.0,33.0,37.0,7.0,16.0,3303.0,418.0,430.0,535.0,0.0,4052.0,965.0,5017.0,5017.0,R221.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,R221.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,R221.traffic.htm

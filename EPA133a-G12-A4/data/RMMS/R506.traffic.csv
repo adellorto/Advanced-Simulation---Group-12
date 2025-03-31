@@ -1,0 +1,8 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),R506.traffic.htm
+R506-1,Barangail(int.with N5)-Duburia (int.with Z4009),LRPS,0,0,LRP017,6000,22.619,22.619,0.0,116.0,142.0,0.0,0.0,62.0,24.0,45.0,1233.0,419.0,160.0,146.0,36.0,2041.0,342.0,2383.0,2383.0,R506.traffic.htm
+R506-2,Duburia(int.with Z4009)-Elasin(Int.with Z4007),LRP017,6000,22.619,LRP031,9822,39.881,17.262,0.0,116.0,142.0,0.0,0.0,62.0,24.0,45.0,1233.0,419.0,160.0,146.0,36.0,2041.0,342.0,2383.0,2383.0,R506.traffic.htm
+R506-3,Elasin(Int.with Z4007)-Tangail (Int.with Z4015),LRP031,9822,39.881,LRP052,1816,52.51,12.629,0.0,116.0,142.0,0.0,0.0,62.0,24.0,45.0,1233.0,419.0,160.0,146.0,36.0,2041.0,342.0,2383.0,2383.0,R506.traffic.htm
+R506-4,Tangail (Int.with Z4015)-Tangail Old Bus stand(int.with N404),LRP052,1816,52.51,LRPE,0,53.733,1.223,0.0,116.0,142.0,0.0,0.0,62.0,24.0,45.0,1233.0,419.0,160.0,146.0,36.0,2041.0,342.0,2383.0,2383.0,R506.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,R506.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,R506.traffic.htm
