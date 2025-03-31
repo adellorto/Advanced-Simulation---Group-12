@@ -1,0 +1,8 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),N712.traffic.htm
+N712-1,Jhenaidaha bus terminal-Arappur (Int with N704),LRPS,0,0,LRP002,190,2.19,2.190,214.0,1977.0,589.0,332.0,39.0,390.0,34.0,183.0,2273.0,1512.0,864.0,173.0,0.0,7543.0,1037.0,8580.0,8580.0,N712.traffic.htm
+N712-2,Arappur (Int with N704) - Int with R745,LRP002,190,2.19,LRP002,1530,3.53,1.340,214.0,1977.0,589.0,332.0,39.0,390.0,34.0,183.0,2273.0,1512.0,864.0,173.0,0.0,7543.0,1037.0,8580.0,8580.0,N712.traffic.htm
+N712-3,Int with R745-Int with N703,LRP002,1530,3.53,LRP002,3150,5.15,1.620,214.0,1977.0,589.0,332.0,39.0,390.0,34.0,183.0,2273.0,1512.0,864.0,173.0,0.0,7543.0,1037.0,8580.0,8580.0,N712.traffic.htm
+N712-4,Int with N703-Alhera bus Stand,LRP002,3150,5.15,LRPE,0,6.15,1.000,214.0,1977.0,589.0,332.0,39.0,390.0,34.0,183.0,2273.0,1512.0,864.0,173.0,0.0,7543.0,1037.0,8580.0,8580.0,N712.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,N712.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,N712.traffic.htm

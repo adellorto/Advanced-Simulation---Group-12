@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),N802.traffic.htm
+N802-1,Start of 2nd Buriganga Bridge-Kadamtoli (Int.with R820),LRPS,0,0,LRPS,1480,1.48,1.480,0.0,236.0,1872.0,0.0,157.0,75.0,6.0,52.0,1754.0,1275.0,1543.0,1368.0,0.0,5427.0,2911.0,8338.0,8338.0,N802.traffic.htm
+N802-2,Kadamtoli (Int.with R820)-Int.with N8,LRPS,1480,1.48,LRPE,0,4.552,3.072,0.0,236.0,1872.0,0.0,157.0,75.0,6.0,52.0,1754.0,1275.0,1543.0,1368.0,0.0,5427.0,2911.0,8338.0,8338.0,N802.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,N802.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,N802.traffic.htm

@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),N710.traffic.htm
+N710-1,Ferryghat-Dakbangla More,LRPS,0,0,LRP001,25,0.4,0.400,0.0,28.0,71.0,5.0,12.0,484.0,276.0,627.0,4122.0,1420.0,674.0,4568.0,65.0,7045.0,5307.0,12352.0,12352.0,N710.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,N710.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,N710.traffic.htm

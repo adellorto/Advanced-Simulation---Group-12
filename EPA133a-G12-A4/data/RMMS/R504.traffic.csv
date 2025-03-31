@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),R504.traffic.htm
+R504-1,Hemayetpur(int.with N5)-Manikganj(int.with N5),LRPS,0,0,LRPE,0,33.907,33.907,0.0,155.0,185.0,0.0,196.0,193.0,25.0,121.0,1833.0,695.0,427.0,467.0,0.0,3403.0,894.0,4297.0,4297.0,R504.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,R504.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,R504.traffic.htm

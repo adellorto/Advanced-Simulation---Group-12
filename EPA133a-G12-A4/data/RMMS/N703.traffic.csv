@@ -1,0 +1,7 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),N703.traffic.htm
+N703-1,Bus Terminal-Int more N704,LRPS,0,0,LRP001,986,1.986,1.986,10.0,327.0,245.0,180.0,205.0,174.0,35.0,165.0,1625.0,1193.0,1064.0,837.0,0.0,4159.0,1901.0,6060.0,6060.0,N703.traffic.htm
+N703-2,Int more N704-Int more R745,LRP001,986,1.986,LRP001,1070,2.07,0.084,10.0,327.0,245.0,180.0,205.0,174.0,35.0,165.0,1625.0,1193.0,1064.0,837.0,0.0,4159.0,1901.0,6060.0,6060.0,N703.traffic.htm
+N703-3,Int with R745-Hamdah (Int with N712),LRP001,1070,2.07,LRPE,0,3.49,1.420,10.0,327.0,245.0,180.0,205.0,174.0,35.0,165.0,1625.0,1193.0,1064.0,837.0,0.0,4159.0,1901.0,6060.0,6060.0,N703.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,N703.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,N703.traffic.htm

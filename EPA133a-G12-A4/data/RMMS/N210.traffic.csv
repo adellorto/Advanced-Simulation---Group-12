@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),N210.traffic.htm
+N210-1,Khadimnagar Bypass More (Int.with N2)- Int.with R250,LRPS,0,0,LRP007,1075,7.045,7.045,1.0,499.0,1030.0,1134.0,1805.0,1694.0,225.0,936.0,4844.0,1243.0,369.0,5282.0,74.0,13411.0,5725.0,19136.0,19136.0,N210.traffic.htm
+N210-2,Int.with R250-Int. With N208 at Royal City Chottor,LRP007,1075,7.045,LRPE,0,10.844,3.799,1.0,499.0,1030.0,1134.0,1805.0,1694.0,225.0,936.0,4844.0,1243.0,369.0,5282.0,74.0,13411.0,5725.0,19136.0,19136.0,N210.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,N210.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,N210.traffic.htm

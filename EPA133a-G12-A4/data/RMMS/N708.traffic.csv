@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),N708.traffic.htm
+N708-1,Palbari-Board Office (Int.with N702),LRPS,0,0,LRP003,163,2.513,2.513,41.0,222.0,187.0,165.0,156.0,264.0,60.0,336.0,753.0,1316.0,1043.0,1699.0,0.0,3500.0,2742.0,6242.0,6242.0,N708.traffic.htm
+N708-2,Board Office (Int.with N702)-Monihar,LRP003,163,2.513,LRPE,0,4.75,2.237,41.0,222.0,187.0,165.0,156.0,264.0,60.0,336.0,753.0,1316.0,1043.0,1699.0,0.0,3500.0,2742.0,6242.0,6242.0,N708.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,N708.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,N708.traffic.htm

@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),R586.traffic.htm
+R586-1,Fulbari Bus Stand-Kumarpara (Int.with Z5025),LRPS,0,0,LRPS,1160,1.16,1.160,158.0,899.0,403.0,264.0,265.0,284.0,98.0,163.0,1530.0,1551.0,1265.0,1335.0,0.0,5615.0,2600.0,8215.0,8215.0,R586.traffic.htm
+R586-2,Kumarpara (Int.with Z5025)-Govt.College More,LRPS,1160,1.16,LRPE,0,3.266,2.106,158.0,899.0,403.0,264.0,265.0,284.0,98.0,163.0,1530.0,1551.0,1265.0,1335.0,0.0,5615.0,2600.0,8215.0,8215.0,R586.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,R586.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,R586.traffic.htm

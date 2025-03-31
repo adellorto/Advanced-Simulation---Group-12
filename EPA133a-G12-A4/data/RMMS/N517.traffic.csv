@@ -1,0 +1,10 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),N517.traffic.htm
+N517-1,Rangpur (Modern More)-Int with N506,LRPS,0,0,LRPS,805,0.805,0.805,0.0,877.0,673.0,910.0,525.0,623.0,233.0,484.0,2139.0,1483.0,1296.0,1058.0,0.0,7947.0,2354.0,10301.0,10301.0,N517.traffic.htm
+N517-2,Rangpur(Int.with N506)-Rangpur (Shapla Chattar),LRPS,805,0.805,LRPS,3880,3.88,3.075,0.0,877.0,673.0,910.0,525.0,623.0,233.0,484.0,2139.0,1483.0,1296.0,1058.0,0.0,7947.0,2354.0,10301.0,10301.0,N517.traffic.htm
+N517-3L,Rangpur (Shapla Chattar)-Int.with Z5010 (Left),LRPS,3880,3.88,LRPS,5075,5.075,1.195,0.0,877.0,673.0,910.0,525.0,623.0,233.0,484.0,2139.0,1483.0,1296.0,1058.0,0.0,7947.0,2354.0,10301.0,10301.0,N517.traffic.htm
+N517-3R,Rangpur (Shapla Chattar)-Int.with Z5010 (Right),LRPS,3880,3.88,LRPS,5075,5.075,1.195,22.0,635.0,344.0,508.0,260.0,265.0,116.0,210.0,1169.0,817.0,668.0,543.0,0.0,4346.0,1211.0,5557.0,5557.0,N517.traffic.htm
+N517-4L,Int.with Z5010-Rangpur (Medical More) (Left),LRPS,5075,5.075,LRPS,8210,8.21,3.135,22.0,635.0,344.0,508.0,260.0,265.0,116.0,210.0,1169.0,817.0,668.0,543.0,0.0,4346.0,1211.0,5557.0,5557.0,N517.traffic.htm
+N517-4R,Int.with Z5010-Rangpur (Medical More) (Right),LRPS,5075,5.075,LRPS,8210,8.21,3.135,22.0,635.0,344.0,508.0,260.0,265.0,116.0,210.0,1169.0,817.0,668.0,543.0,0.0,4346.0,1211.0,5557.0,5557.0,N517.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,N517.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,N517.traffic.htm
