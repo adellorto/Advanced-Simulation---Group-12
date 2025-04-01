@@ -1,0 +1,22 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,Road start from N4,24.2425552,89.9404719,,N404.lrps.htm
+,LRPSa,0.233,Culvert,Box Culvert,24.2429441,89.9383052,,N404.lrps.htm
+,LRP001,1,Km Post,Km post missing,24.2474441,89.933166,,N404.lrps.htm
+,LRP001a,1.229,Bridge,Bridge start,24.2489441,89.9318327,,N404.lrps.htm
+,LRP001b,1.236,Bridge,Bridge End,24.2489719,89.9318049,,N404.lrps.htm
+,LRP001c,1.598,Bridge,Bridge start,24.2493608,89.9283882,,N404.lrps.htm
+,LRP001d,1.62,Bridge,Bridge End,24.2493608,89.9281938,,N404.lrps.htm
+,LRP002,2,Km Post,Km post missing,24.2496108,89.9244716,,N404.lrps.htm
+,LRP002a,2.041,Bridge,Bridge start,24.2496663,89.9240827,,N404.lrps.htm
+,LRP002b,2.048,Bridge,Bridge end,24.2496941,89.9240271,,N404.lrps.htm
+,LRP002c,2.528,"Side Road, Left",Intersection with R506,24.2515,89.9198049,,N404.lrps.htm
+,LRP003,3,Km Post,Km post missing,24.2553611,89.9215827,,N404.lrps.htm
+,LRP003a,3.15,Culvert,Box Culvert,24.2568333,89.9218604,,N404.lrps.htm
+,LRP004,3.533,Km Post,Jamalpur 94 km,24.2601111,89.9221382,,N404.lrps.htm
+,LRP005,4.533,Km Post,Km post missing,24.2681382,89.9252771,,N404.lrps.htm
+,LRP006,5.527,Km Post,Maymonshing 92 km,24.2755549,89.920166,,N404.lrps.htm
+,LRP006a,5.766,Bridge,Bridge Start,24.2774993,89.9192493,,N404.lrps.htm
+,LRP006b,5.817,Bridge,Bridge End,24.277916,89.9190549,,N404.lrps.htm
+,LRPE,6.489,Others,Road end with N4 at Bypass more.,24.2836386,89.9172771,,N404.lrps.htm
+,,,,,,,,N404.lrps.htm
+,,,,,,,,N404.lrps.htm

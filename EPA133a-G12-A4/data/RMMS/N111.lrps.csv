@@ -1,0 +1,48 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,Start of road from N1,22.3934441,91.7491386,,N111.lrps.htm
+,LRPSa,0.744,Culvert,Box culvert,22.3904997,91.7533889,,N111.lrps.htm
+,LRP001,0.905,Km Post,Bandar 1 km,22.3891663,91.7538889,,N111.lrps.htm
+,LRP001a,1.01,Culvert,Box culvert,22.3882219,91.7541944,,N111.lrps.htm
+,LRP001b,1.509,Culvert,Box culvert,22.3838886,91.7557222,,N111.lrps.htm
+,LRP002,1.905,Km Post,Km post missing,22.3801938,91.7566667,,N111.lrps.htm
+,LRP002a,2,Culvert,Box culvert,22.3798327,91.7570278,,N111.lrps.htm
+,LRP002b,2.269,Culvert,Box culvert,22.3774993,91.7576944,,N111.lrps.htm
+,LRP002c,2.45,Culvert,Box culvert,22.3759993,91.7582222,,N111.lrps.htm
+,LRP002d,2.617,Culvert,Box culvert,22.3746382,91.75875,,N111.lrps.htm
+,LRP003,2.905,Km Post,Km post missing,22.3719993,91.7588889,,N111.lrps.htm
+,LRP003a,2.954,Culvert,Box culvert,22.3716938,91.7591389,,N111.lrps.htm
+,LRP003b,3.14,Culvert,Box culvert,22.3700827,91.7591111,,N111.lrps.htm
+,LRP003c,3.72,Culvert,Box culvert,22.3648889,91.7598056,,N111.lrps.htm
+,LRP004,3.905,Km Post,Km post missing,22.3627778,91.7600278,,N111.lrps.htm
+,LRP004a,4.03,Culvert,Box culvert,22.3622222,91.7603056,,N111.lrps.htm
+,LRP004b,4.44,Culvert,Box culvert,22.3586389,91.7604722,,N111.lrps.htm
+,LRP005,4.95,Km Post,Bandar 5 km,22.3549444,91.76075,,N111.lrps.htm
+,LRP005a,5.155,Culvert,Box culvert,22.3523333,91.7601667,,N111.lrps.htm
+,LRP005b,5.702,Culvert,Box culvert,22.3474719,91.7611389,,N111.lrps.htm
+,LRP006,5.988,Km Post,Bandar 6 km,22.3452219,91.7617222,,N111.lrps.htm
+,LRP006a,6.258,Culvert,Box culvert,22.3427497,91.7625278,,N111.lrps.htm
+,LRP006b,6.619,Culvert,Box culvert,22.3396108,91.7635,,N111.lrps.htm
+,LRP007,6.988,Km Post,Km post missing,22.3372774,91.76425,,N111.lrps.htm
+,LRP007a,7.147,Culvert,Box culvert,22.3353052,91.7655278,,N111.lrps.htm
+,LRP007b,7.379,Culvert,Box culvert,22.3336386,91.7675827,,N111.lrps.htm
+,LRP007c,7.964,Culvert,Box culvert,22.3309993,91.7715549,,N111.lrps.htm
+,LRP008,8,Km Post,Bandar 4 km,22.3308327,91.7718327,,N111.lrps.htm
+,LRP008a,8.07,Culvert,Box culvert,22.3306938,91.7723882,,N111.lrps.htm
+,LRP008b,8.408,Culvert,Box culvert,22.328666,91.774666,,N111.lrps.htm
+,LRP008c,8.84,Culvert,Box culvert,22.3253882,91.7770549,,N111.lrps.htm
+,LRP009,9,Km Post,Km post missing,22.3242771,91.7780827,,N111.lrps.htm
+,LRP009a,9.065,Culvert,Box culvert,22.3239993,91.7785827,,N111.lrps.htm
+,LRP009b,9.613,Culvert,Box culvert,22.3205271,91.7823882,,N111.lrps.htm
+,LRP009c,9.891,Culvert,Box culvert,22.3187771,91.7842219,,N111.lrps.htm
+,LRP009d,9.932,Culvert,Box culvert,22.3185827,91.7844719,,N111.lrps.htm
+,LRP010,10.04,Km Post,Bandar 4 km,22.317916,91.7852219,,N111.lrps.htm
+,LRP010a,10.18,Others,Toll plaza,22.3170827,91.7861663,,N111.lrps.htm
+,LRP010b,10.79,Bridge,Bridge start,22.314,91.7906941,,N111.lrps.htm
+,LRP010c,10.921,Bridge,Bridge end,22.3132778,91.7916663,,N111.lrps.htm
+,LRP011,11.04,Km Post,Km post missing,22.3123056,91.7923052,,N111.lrps.htm
+,LRP011a,11.44,Bridge,Flyover start,22.3072778,91.7944163,,N111.lrps.htm
+,LRP012,12.04,Km Post,Km post missing,22.3132778,91.7916663,,N111.lrps.htm
+,LRP012a,12.434,Bridge,Flyover end,22.2992219,91.7925274,,N111.lrps.htm
+,LRPE,12.66,Others,End od road at Chittagong port.,21.2984719,91.7922219,,N111.lrps.htm
+,,,,,,,,N111.lrps.htm
+,,,,,,,,N111.lrps.htm

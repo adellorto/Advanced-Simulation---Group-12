@@ -1,0 +1,97 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,Start of road from N1 at Keranirhat,22.1021389,92.0740827,,N108.lrps.htm
+,LRPSa,0.886,Culvert,Box Culvert,22.10375,92.082416,,N108.lrps.htm
+,LRP001,1.019,Km Post,Bandarban 21 km,22.1039722,92.0836108,,N108.lrps.htm
+,LRP001a,1.214,Bridge,Bridge start,22.1045278,92.0852774,,N108.lrps.htm
+,LRP001b,1.26,Bridge,Bridge end,22.1046111,92.0854163,,N108.lrps.htm
+,LRP001c,1.586,Culvert,Box Culvert,22.1064167,92.0879163,,N108.lrps.htm
+,LRP001d,2.031,Culvert,Box Culvert,22.1088056,92.0913052,,N108.lrps.htm
+,LRP002,2.042,Km Post,Bandarban 20 km,22.1090556,92.0915552,,N108.lrps.htm
+,LRP002a,2.316,Bridge,Bridge start,22.1096667,92.0940552,,N108.lrps.htm
+,LRP002b,2.348,Bridge,Bridge end,22.1097222,92.094333,,N108.lrps.htm
+,LRP002c,2.573,Bridge,Bridge start,22.1100556,92.0964997,,N108.lrps.htm
+,LRP002d,2.598,Bridge,Bridge end,22.1100556,92.0967219,,N108.lrps.htm
+,LRP003,3.042,Km Post,Km post missing,22.1111389,92.1008333,,N108.lrps.htm
+,LRP004,4.042,Km Post,Km post missing,22.1164167,92.1084722,,N108.lrps.htm
+,LRP004a,4.991,Bridge,Bridge Start,22.1225549,92.1147778,,N108.lrps.htm
+,LRP004b,5.089,Bridge,Bridge end,22.123166,92.1153889,,N108.lrps.htm
+,LRP005,5.092,Km Post,Bandarban 17 km,22.1231938,92.1153611,,N108.lrps.htm
+,LRP005a,5.378,Culvert,Box Culvert,22.1245549,92.1175827,,N108.lrps.htm
+,LRP005b,5.524,Culvert,Box Culvert,22.124666,92.1190271,,N108.lrps.htm
+,LRP005c,5.793,Culvert,Box Culvert,22.1248604,92.1216104,,N108.lrps.htm
+,LRP006,6.092,Km Post,Km post missing,22.1255827,92.124416,,N108.lrps.htm
+,LRP006a,6.212,Bridge,Bridge start,22.1262771,92.1252771,,N108.lrps.htm
+,LRP006b,6.249,Bridge,Bridge end,22.1264716,92.1255271,,N108.lrps.htm
+,LRP006c,7.036,Bridge,Bridge start,22.1276104,92.1327493,,N108.lrps.htm
+,LRP006d,7.087,Bridge,Bridge end,22.127666,92.1332216,,N108.lrps.htm
+,LRP007,7.088,Km Post,Bandarban 15 km,22.127666,92.1332493,,N108.lrps.htm
+,LRP007a,7.1,Culvert,Box Culvert,22.1277771,92.1348608,,N108.lrps.htm
+,LRP007b,7.248,Culvert,Box Culvert,22.1273882,92.1395274,,N108.lrps.htm
+,LRP007c,7.748,Culvert,Box Culvert,22.1273882,92.1395274,,N108.lrps.htm
+,LRP008,8.079,Km Post,Bandarban 14 km,22.1268327,92.1426108,,N108.lrps.htm
+,LRP008a,8.431,Bridge,Bridge start,22.1278049,92.145833,,N108.lrps.htm
+,LRP008b,8.451,Bridge,Bridge end,22.1278049,92.1459997,,N108.lrps.htm
+,LRP009,9.079,Km Post,Km post missing,22.1286382,92.1520833,,N108.lrps.htm
+,LRP010,10.099,Km Post,Bandarban 12 km,22.1312493,92.1608889,,N108.lrps.htm
+,LRP010a,10.112,Culvert,Box Culvert,22.1313604,92.1608889,,N108.lrps.htm
+,LRP010b,10.58,Culvert,Box Culvert,22.1349441,92.1621389,,N108.lrps.htm
+,LRP011,11.114,Km Post,Bandarban 11 km,22.1359719,92.16625,,N108.lrps.htm
+,LRP011a,12.009,Bridge,Bridge start,22.1405274,92.1709716,,N108.lrps.htm
+,LRP011b,12.083,Bridge,Bridge end,22.1406663,92.171666,,N108.lrps.htm
+,LRP012,12.144,Km Post,Bandarban 10 km,22.1408608,92.1722216,,N108.lrps.htm
+,LRP012a,12.327,Culvert,Box Culvert,22.1421941,92.1733049,,N108.lrps.htm
+,LRP012b,12.462,Bridge,Bridge start,22.1426386,92.1743327,,N108.lrps.htm
+,LRP012c,12.478,Bridge,Bridge end,22.1426108,92.1744993,,N108.lrps.htm
+,LRP012d,12.633,Bridge,Bridge start,22.1427774,92.1757771,,N108.lrps.htm
+,LRP012e,12.648,Bridge,Bridge end,22.142833,92.1758049,,N108.lrps.htm
+,LRP012f,12.72,Bridge,Bridge start,22.1435552,92.1765271,,N108.lrps.htm
+,LRP012g,12.734,Bridge,Bridge end,22.1436108,92.1765827,,N108.lrps.htm
+,LRP012h,12.79,Bridge,Bridge start,22.143833,92.1768604,,N108.lrps.htm
+,LRP012i,12.804,Bridge,Bridge end,22.1439163,92.1769438,,N108.lrps.htm
+,LRP012j,13.109,Bridge,Bridge start,22.1461108,92.1779438,,N108.lrps.htm
+,LRP012k,13.132,Bridge,Bridge end,22.1461941,92.1780827,,N108.lrps.htm
+,LRP013,13.156,Km Post,Bandarban 9 km,22.1464163,92.1782771,,N108.lrps.htm
+,LRP013a,13.299,Bridge,Bridge start,22.147583,92.1786382,,N108.lrps.htm
+,LRP013b,13.314,Bridge,Bridge end,22.1476941,92.1786382,,N108.lrps.htm
+,LRP013c,13.518,Culvert,Box Culvert,22.1521944,92.1803882,,N108.lrps.htm
+,LRP013d,13.871,Culvert,Box Culvert,22.1521944,92.1803882,,N108.lrps.htm
+,LRP013e,13.951,Culvert,Box Culvert,22.1527778,92.1801938,,N108.lrps.htm
+,LRP013f,14.086,Culvert,Box Culvert,22.1539722,92.1797493,,N108.lrps.htm
+,LRP014,14.156,Km Post,Km post missing,22.1545833,92.1794993,,N108.lrps.htm
+,LRP014a,14.178,Culvert,Box Culvert,22.1547222,92.1794716,,N108.lrps.htm
+,LRP014b,14.19,Culvert,Box Culvert,22.1551389,92.1791382,,N108.lrps.htm
+,LRP014c,14.202,Culvert,Box Culvert,22.1559444,92.1788604,,N108.lrps.htm
+,LRP014d,14.321,Culvert,Box Culvert,22.1556667,92.178916,,N108.lrps.htm
+,LRP014e,14.385,Culvert,Box Culvert,22.1562778,92.1785827,,N108.lrps.htm
+,LRP014f,14.756,Culvert,Box Culvert,22.1591667,92.1768882,,N108.lrps.htm
+,LRP014g,14.812,Culvert,Box Culvert,22.1596389,92.1766382,,N108.lrps.htm
+,LRP014h,14.908,Culvert,Box Culvert,22.1603056,92.1762771,,N108.lrps.htm
+,LRP015,15.201,Km Post,Bandarban 7 km,22.1623056,92.1769993,,N108.lrps.htm
+,LRP015a,15.288,Bridge,Bridge start,22.16275,92.1775827,,N108.lrps.htm
+,LRP015b,15.333,Bridge,Bridge end,22.1631111,92.1777771,,N108.lrps.htm
+,LRP016,16.219,Km Post,Bandarban 6 km,22.1684993,92.181916,,N108.lrps.htm
+,LRP017,17.221,Km Post,Bandarban 5 km,22.1742493,92.1862774,,N108.lrps.htm
+,LRP018,18.215,Km Post,Bandarban 4 km,22.1813604,92.1911108,,N108.lrps.htm
+,LRP018a,18.857,Bridge,Bridge start,22.1822771,92.1957219,,N108.lrps.htm
+,LRP018b,18.874,Bridge,Bridge end,22.1823327,92.195833,,N108.lrps.htm
+,LRP019,19.216,Km Post,Bandarban 3 km,22.1846108,92.1977497,,N108.lrps.htm
+,LRP020,20.21,Km Post,Inf missing,22.1837774,92.2051944,,N108.lrps.htm
+,LRP020a,20.342,Bridge,Bridge start,22.1831938,92.2061944,,N108.lrps.htm
+,LRP020b,20.377,Bridge,Bridge end,22.1831104,92.2065556,,N108.lrps.htm
+,LRP020c,20.652,Bridge,Bridge start,22.1846941,92.2083333,,N108.lrps.htm
+,LRP020d,20.664,Bridge,Bridge end,22.1847219,92.2084167,,N108.lrps.htm
+,LRP020e,20.89,Culvert,Box Culvert,22.1850274,92.2103611,,N108.lrps.htm
+,LRP020f,21.153,Culvert,Box Culvert,22.1868608,92.2119167,,N108.lrps.htm
+,LRP021,21.222,Km Post,Inf missing,22.1866941,92.2123889,,N108.lrps.htm
+,LRP021a,21.287,Culvert,Box Culvert,22.186333,92.2128889,,N108.lrps.htm
+,LRP021b,21.587,Bridge,Bridge start,22.1878608,92.21375,,N108.lrps.htm
+,LRP021c,21.593,Bridge,Bridge end,22.1878608,92.2138333,,N108.lrps.htm
+,LRP021d,21.71,Bridge,Bridge start,22.1887219,92.2143889,,N108.lrps.htm
+,LRP021e,21.74,Bridge,Bridge end,22.1889441,92.2145278,,N108.lrps.htm
+,LRP021f,21.863,Bridge,Bridge start,22.1899163,92.2150833,,N108.lrps.htm
+,LRP021g,21.907,Bridge,Bridge end,22.1901941,92.2151944,,N108.lrps.htm
+,LRP021h,22.01,"Side Road, Right","Z 1811, Bandarban-Thanchi road",22.1911663,92.215,,N108.lrps.htm
+,LRP022,22.231,Km Post,Bandarban 0 km,22.1930274,92.2156111,,N108.lrps.htm
+,LRPE,22.541,Others,End of road Intersecting R161 at Bandarban,22.1960552,92.2176104,,N108.lrps.htm
+,,,,,,,,N108.lrps.htm
+,,,,,,,,N108.lrps.htm

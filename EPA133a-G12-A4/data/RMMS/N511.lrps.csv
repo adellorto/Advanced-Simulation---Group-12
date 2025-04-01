@@ -1,0 +1,26 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,Road start from N 501 at Birulia,23.8508611,90.3410552,,N511.lrps.htm
+,LRPSa,0.162,Bridge,Start of bridge,23.8515,90.339583,,N511.lrps.htm
+,LRPSb,0.362,Bridge,End of bridge,23.8521944,90.3379441,,N511.lrps.htm
+,LRPSc,0.718,Bridge,Start of bridge,23.8537778,90.3348052,,N511.lrps.htm
+,LRPSd,0.754,Bridge,End of bridge,23.8539167,90.3400274,,N511.lrps.htm
+,LRP001,1,Km Post,Km post missing,23.8543333,90.332166,,N511.lrps.htm
+,LRP001a,1.432,Culvert,Box Culvert,23.8560278,90.3287771,,N511.lrps.htm
+,LRP001b,1.555,Culvert,Box Culvert,23.8568056,90.3279716,,N511.lrps.htm
+,LRP001c,1.654,Culvert,Box Culvert,23.8572778,90.3271938,,N511.lrps.htm
+,LRP001d,1.775,Culvert,Box Culvert,23.8576389,90.3260827,,N511.lrps.htm
+,LRP001e,1.955,Culvert,Box Culvert,23.8578333,90.3243604,,N511.lrps.htm
+,LRP002,2.12,Km Post,Ashulia 8 km,23.858,90.3224716,,N511.lrps.htm
+,LRP002a,2.432,Culvert,Box Culvert,23.8579444,90.3194716,,N511.lrps.htm
+,LRP003,3.115,Km Post,Ashulia 6 km,23.8650833,90.3105278,,N511.lrps.htm
+,LRP004,4.115,Km Post,Ashulia 6 km,23.8650833,90.3105278,,N511.lrps.htm
+,LRP005,5.12,Km Post,Ashulia 5 km,23.8739993,90.3103889,,N511.lrps.htm
+,LRP005a,5.535,Culvert,Box Culvert,23.8776104,90.3106111,,N511.lrps.htm
+,LRP006,6.12,Km Post,Ashulia 4 km,23.8827493,90.3102222,,N511.lrps.htm
+,LRP007,7.12,Km Post,Km post broken,23.8879441,91.3167493,,N511.lrps.htm
+,LRP008,8.12,Km Post,Km post missing,23.8902774,90.3233882,,N511.lrps.htm
+,LRP009,9.12,Km Post,Km post missing,23.8962219,90.3322771,,N511.lrps.htm
+,LRP009a,9.248,Culvert,Box Culvert,23.8967219,90.3317771,,N511.lrps.htm
+,LRPE,9.462,Others,Road end with N 302 at Ashulia Bazar Bus stand.,23.8976108,90.3313327,,N511.lrps.htm
+,,,,,,,,N511.lrps.htm
+,,,,,,,,N511.lrps.htm

@@ -1,0 +1,15 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,"Road start from N4 at Bypass more ,Deohata Mirzapur,Tangail.",24.0964997,90.1162222,,N403.lrps.htm
+,LRPSa,0.357,Bridge,Bridge start,24.0961941,90.1125833,,N403.lrps.htm
+,LRPSb,0.39,Bridge,Bridge end,24.0961941,90.1124444,,N403.lrps.htm
+,LRP001,1,Km Post,Km post missing,24.0986108,90.1071667,,N403.lrps.htm
+,LRP001a,1.87,Bridge,Bridge start,24.0993608,90.0989719,,N403.lrps.htm
+,LRP001b,1.944,Bridge,Bridge end,24.0993886,90.0982774,,N403.lrps.htm
+,LRP002,2,Km Post,Km post missing,24.0994441,90.0976386,,N403.lrps.htm
+,LRP003,3,Km Post,Km post missing,24.1022778,90.0888886,,N403.lrps.htm
+,LRP003a,3.245,"Side Road, Left","Z5061, Kamalpur Busstand- Mirzapur road",24.1029722,90.0871386,,N403.lrps.htm
+,LRP003b,3.353,Bridge,Bridge start,24.1042222,90.0864719,,N403.lrps.htm
+,LRP003c,3.396,Bridge,Bridge end,24.1045278,90.0863886,,N403.lrps.htm
+,LRPE,3.732,Others,"Road End with N4 at Kustokumari,Chorpara,Tangail",24.1073611,90.0856108,,N403.lrps.htm
+,,,,,,,,N403.lrps.htm
+,,,,,,,,N403.lrps.htm

@@ -1,0 +1,213 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,"Start of road From N205,Chandipool-Keen Bridge road at Keen Bridge.",24.8859997,91.8681382,,R250.lrps.htm
+,LRP001,1,Km Post,Km post missing,24.8818327,91.8754438,,R250.lrps.htm
+,LRP001a,1.002,Culvert,Box culvert,24.8823049,91.8701938,,R250.lrps.htm
+,LRP001b,1.003,Culvert,Box culvert,24.8818049,91.8728882,,R250.lrps.htm
+,LRP002,1.315,Km Post,Golapganj 15 km,24.8793882,91.8768604,,R250.lrps.htm
+,LRP002a,1.389,Cross Road,N2 (Over pass),24.8788604,91.8772493,,R250.lrps.htm
+,LRP002b,1.431,Culvert,Box Culvert,24.8786382,91.8774993,,R250.lrps.htm
+,LRP002c,1.948,Culvert,Box Culvert,24.8761104,91.881666,,R250.lrps.htm
+,LRP003,2.315,Km Post,Golapganj 14 km,24.8755827,91.885333,,R250.lrps.htm
+,LRP004,3.325,Km Post,Golapganj 13 km,24.8742493,91.8952774,,R250.lrps.htm
+,LRP004a,4.062,Culvert,Box culvert,24.8729438,91.9023611,,R250.lrps.htm
+,LRP005,4.325,Km Post,Golapganj 12 km,24.872416,91.9049444,,R250.lrps.htm
+,LRP006,5.325,Km Post,Golapganj 11 km,24.868416,91.9136389,,R250.lrps.htm
+,LRP006a,5.4,Culvert,Box culvert,24.8679716,91.9142222,,R250.lrps.htm
+,LRP007,6.325,Km Post,Golapganj 10 km,24.8627778,91.9213882,,R250.lrps.htm
+,LRP007a,7.145,Cross Road,"N210,Sylhet town Bypass road",24.8581944,91.9277216,,R250.lrps.htm
+,LRP008,7.325,Km Post,Golapganj 09 km,24.8571111,91.9291104,,R250.lrps.htm
+,LRP008a,8.07,Culvert,Box culvert,24.8524722,91.9343052,,R250.lrps.htm
+,LRP009,8.28,Km Post,Golapganj 08 km,24.8511389,91.9357774,,R250.lrps.htm
+,LRP010,9.28,Km Post,Golapganj 07 km,24.8473052,91.9444997,,R250.lrps.htm
+,LRP011,10.31,Km Post,Information missing,24.8479441,91.9546944,,R250.lrps.htm
+,LRP012,11.305,Km Post,Golapganj 05 km,24.849083,91.9644444,,R250.lrps.htm
+,LRP013,12.305,Km Post,Golapganj 04 km,24.8522222,91.9738327,,R250.lrps.htm
+,LRP013a,12.59,Culvert,Box culvert,24.8536667,91.975916,,R250.lrps.htm
+,LRP014,13.305,Km Post,Golapganj 03 km,24.8566667,91.9821104,,R250.lrps.htm
+,LRP014a,13.972,Culvert,Box culvert,24.8573611,91.9886108,,R250.lrps.htm
+,LRP015,14.305,Km Post,Golapganj 02 km,24.8567222,91.993333,,R250.lrps.htm
+,LRP015a,14.501,Culvert,Box culvert,24.85625,91.9936386,,R250.lrps.htm
+,LRP015b,15.258,Culvert,Box culvert,24.8543889,91.9841663,,R250.lrps.htm
+,LRP016,15.305,Km Post,Jakiganj 75 km,24.8542778,92.0013611,,R250.lrps.htm
+,LRP017,16.195,Km Post,Jakiganj 74 km,24.8551389,92.01,,R250.lrps.htm
+,LRP017a,16.641,"Side Road, Right","R251 ,Golapganj-Vadeswar road",24.8575,92.0135833,,R250.lrps.htm
+,LRP017b,17.18,Culvert,Box culvert,24.8599722,92.0172493,,R250.lrps.htm
+,LRP018,17.195,Km Post,Jakiganj 73 km,24.8604167,92.0179716,,R250.lrps.htm
+,LRP018a,17.638,Culvert,Box culvert,24.8627222,92.0213604,,R250.lrps.htm
+,LRP018b,17.921,Culvert,Box culvert,24.8642222,92.0234993,,R250.lrps.htm
+,LRP019,18.225,Km Post,Jakiganj 72 km,24.8662222,92.0254438,,R250.lrps.htm
+,LRP020,19.225,Km Post,Jakiganj 71 km,24.8746104,92.0287493,,R250.lrps.htm
+,LRP021,20.225,Km Post,Jakiganj 70 km,24.8790549,92.0368052,,R250.lrps.htm
+,LRP021a,21.185,Culvert,Box culvert,24.8819438,92.0458052,,R250.lrps.htm
+,LRP022,21.245,Km Post,Jakiganj 69 km,24.8821104,92.0463052,,R250.lrps.htm
+,LRP023,22.245,Km Post,Jakiganj 68 km,24.8849719,92.0558056,,R250.lrps.htm
+,LRP024,23.245,Km Post,Jakiganj 67 km,24.885333,92.0658056,,R250.lrps.htm
+,LRP024a,23.975,Culvert,Box culvert,24.8848886,92.0729438,,R250.lrps.htm
+,LRP025,24.245,Km Post,Jakiganj 66 km,24.8854997,92.0673049,,R250.lrps.htm
+,LRP025a,25.011,Culvert,Box culvert,24.8858052,92.0831382,,R250.lrps.htm
+,LRP025b,25.208,Culvert,Box culvert,24.8858608,92.0850552,,R250.lrps.htm
+,LRP026,25.305,Km Post,Jakiganj 65 km,24.8858886,92.0854441,,R250.lrps.htm
+,LRP027,26.305,Km Post,Jakiganj 64 km,24.8863608,92.096083,,R250.lrps.htm
+,LRP028,27.305,Km Post,Jakiganj 63 km,24.888083,92.1058056,,R250.lrps.htm
+,LRP028a,27.887,Culvert,Box culvert,24.8900552,92.1110556,,R250.lrps.htm
+,LRP029,28.305,Km Post,Jakiganj 62 km,24.8915552,92.1148611,,R250.lrps.htm
+,LRP029a,28.463,Culvert,Box culvert,24.8921108,92.11625,,R250.lrps.htm
+,LRP029b,29.1,Culvert,Box culvert,24.8940274,92.1221938,,R250.lrps.htm
+,LRP030,29.22,Km Post,Jakiganj 61 km,24.891583,92.1233049,,R250.lrps.htm
+,LRP031,30.22,Km Post,Jakiganj 60 km,24.8973608,92.1325549,,R250.lrps.htm
+,LRP031a,30.28,Culvert,Box culvert,24.8975552,92.1331382,,R250.lrps.htm
+,LRP031b,30.793,Culvert,Box culvert,24.8991108,92.137833,,R250.lrps.htm
+,LRP032,31.23,Km Post,Jakiganj 59 km,24.9004444,92.1419441,,R250.lrps.htm
+,LRP032a,31.439,Culvert,Box culvert,24.9011389,92.1439163,,R250.lrps.htm
+,LRP032b,31.882,"Side Road, Right","R281(Rajnagar,Baralekha)",24.9025833,92.1478608,,R250.lrps.htm
+,LRP033,32.23,Km Post,Jakiganj 58 km,24.9044167,92.1505833,,R250.lrps.htm
+,LRP033a,32.593,Bridge,Bridge start,24.9068611,92.153,,R250.lrps.htm
+,LRP033b,32.608,Bridge,Bridge end,24.9069444,92.1530833,,R250.lrps.htm
+,LRP034,33.23,Km Post,Jakiganj 57 km,24.9113333,92.157,,R250.lrps.htm
+,LRP034a,33.24,Bridge,Bridge start,24.9113889,92.1570833,,R250.lrps.htm
+,LRP034b,33.267,Bridge,Bridge end,24.9115556,92.15725,,R250.lrps.htm
+,LRP035,34.23,Km Post,Jakiganj 56 km,24.9180827,92.1635556,,R250.lrps.htm
+,LRP035a,34.271,Bridge,Bridge start,24.9182771,92.1638889,,R250.lrps.htm
+,LRP035b,34.304,Bridge,Bridge end,24.9184716,92.1641111,,R250.lrps.htm
+,LRP036,35.23,Km Post,Jakiganj 55 km,24.9217216,92.1724438,,R250.lrps.htm
+,LRP036a,35.545,Bridge,Bridge start,24.9223604,92.1754438,,R250.lrps.htm
+,LRP036b,35.565,Bridge,Bridge end,24.922416,92.1756382,,R250.lrps.htm
+,LRP036c,36.13,Bridge,Baily bridge start,24.9236104,92.1810549,,R250.lrps.htm
+,LRP036d,36.208,Bridge,Baily bridge end,24.9238049,92.1818049,,R250.lrps.htm
+,LRP037,36.23,Km Post,Jakiganj 54 km,24.9238604,92.1820549,,R250.lrps.htm
+,LRP037a,36.941,Culvert,Box culvert,24.9253604,92.1888886,,R250.lrps.htm
+,LRP037b,37.18,Culvert,Box culvert,24.9258604,92.1911663,,R250.lrps.htm
+,LRP038,37.23,Km Post,Jakiganj 53 km,24.9259716,92.1916663,,R250.lrps.htm
+,LRP039,38.23,Km Post,Jakiganj 52 km,24.9280827,92.2012778,,R250.lrps.htm
+,LRP039a,38.873,Bridge,Bridge start,24.9295271,92.2074167,,R250.lrps.htm
+,LRP039b,38.893,Bridge,Bridge end,24.9295271,92.2076389,,R250.lrps.htm
+,LRP040,39.23,Km Post,Jakiganj 51 km,24.9308604,92.2107222,,R250.lrps.htm
+,LRP041,40.225,Km Post,Jakiganj 50 km,24.9357774,92.218916,,R250.lrps.htm
+,LRP041a,41.115,Culvert,Box culvert,24.9403052,92.226166,,R250.lrps.htm
+,LRP042,41.225,Km Post,Jakiganj 47 km,24.9408608,92.2272216,,R250.lrps.htm
+,LRP042a,42.165,Bridge,Bridge start,24.9456941,92.2348608,,R250.lrps.htm
+,LRP042b,42.21,Bridge,Bridge end,24.9459163,92.2351941,,R250.lrps.htm
+,LRP043,42.225,Km Post,Jakiganj 46 km,24.9462219,91.2354163,,R250.lrps.htm
+,LRP043a,42.715,Bridge,Bridge start,24.9488886,92.2392497,,R250.lrps.htm
+,LRP043b,42.741,Bridge,Bridge end,24.9489997,92.2394163,,R250.lrps.htm
+,LRP044,43.2,Km Post,Jakiganj 45 km,24.9514722,92.2430552,,R250.lrps.htm
+,LRP045,44.2,Km Post,Km post broken,24.9570556,92.2508611,,R250.lrps.htm
+,LRP045a,44.512,Bridge,Bridge start,24.9588611,92.2532222,,R250.lrps.htm
+,LRP045b,44.574,Bridge,Bridge end,24.9592222,92.2536944,,R250.lrps.htm
+,LRP046,45.2,Km Post,Jakiganj 42 km,24.9628889,92.2583889,,R250.lrps.htm
+,LRP046a,45.581,Culvert,Box culvert,24.9650833,92.2612778,,R250.lrps.htm
+,LRP046b,45.982,"Side Road, Left",Z2011 Shahabag Bazar 0 km,24.9674716,92.2642778,,R250.lrps.htm
+,LRP047,46.2,Km Post,Jakiganj 41 km,24.9686938,92.2658889,,R250.lrps.htm
+,LRP048,47.2,Km Post,Jakiganj 40 km,24.973916,92.2741938,,R250.lrps.htm
+,LRP048a,47.247,Bridge,Bridge start,24.9741382,92.2745827,,R250.lrps.htm
+,LRP048b,47.271,Bridge,Bridge end,24.9742216,92.2747771,,R250.lrps.htm
+,LRP049,48.2,Km Post,Jakiganj 39 km,24.9783604,92.2827771,,R250.lrps.htm
+,LRP049a,48.294,Bridge,Bridge start,24.9786938,92.2834163,,R250.lrps.htm
+,LRP049b,48.357,Bridge,Bridge end,24.9789716,92.2839441,,R250.lrps.htm
+,LRP050,49.23,Km Post,Jakiganj 38 km,24.9821382,92.2919719,,R250.lrps.htm
+,LRP050a,49.966,Bridge,Bridge start,24.9838608,92.2989441,,R250.lrps.htm
+,LRP050b,50.036,Bridge,Bridge end,24.9839441,92.2992497,,R250.lrps.htm
+,LRP051,50.23,Km Post,Km post broken,24.9846386,92.3014444,,R250.lrps.htm
+,LRP051a,50.622,Bridge,Bridge start,24.9856663,92.3050833,,R250.lrps.htm
+,LRP051b,50.687,Bridge,Bridge end,24.9858052,92.3056944,,R250.lrps.htm
+,LRP052,51.24,Km Post,Jakiganj 36 km,24.9872219,92.3110278,,R250.lrps.htm
+,LRP052a,52.22,Bridge,Bridge start,24.9897497,92.3203327,,R250.lrps.htm
+,LRP052b,52.24,Bridge,Bridge end,24.9898052,92.3205271,,R250.lrps.htm
+,LRP053,52.26,Km Post,Jakiganj 35 km,24.989833,92.3207216,,R250.lrps.htm
+,LRP053a,53.139,Bridge,Bridge start,24.9919997,92.3290827,,R250.lrps.htm
+,LRP053b,53.158,Bridge,Bridge end,24.9920274,92.3292493,,R250.lrps.htm
+,LRP054,53.245,Km Post,Jakiganj 36 km,24.9920552,92.3300827,,R250.lrps.htm
+,LRP055,54.24,Km Post,Jakiganj 35 km,24.9914719,92.3398886,,R250.lrps.htm
+,LRP055a,54.475,Culvert,Box culvert,24.9913052,92.3421941,,R250.lrps.htm
+,LRP056,55.24,Km Post,Jakiganj 34 km,24.9908608,92.3498052,,R250.lrps.htm
+,LRP056a,55.296,Bridge,Bridge start,24.9909163,92.3502222,,R250.lrps.htm
+,LRP056b,55.316,Bridge,Bridge end,24.9909441,92.3504444,,R250.lrps.htm
+,LRP056c,55.985,Bridge,Bridge start,24.9928886,92.3566667,,R250.lrps.htm
+,LRP056d,56.027,Bridge,Bridge end,24.9929719,92.3570278,,R250.lrps.htm
+,LRP057,56.24,Km Post,Jakiganj 33 km,24.9937219,92.35925,,R250.lrps.htm
+,LRP058,57.24,Km Post,Jakiganj 32 km,24.993083,92.3688882,,R250.lrps.htm
+,LRP058a,57.828,Bridge,Bridge start,24.9917219,92.3744993,,R250.lrps.htm
+,LRP058b,57.84,Bridge,Bridge end,24.9916941,92.3745827,,R250.lrps.htm
+,LRP059,58.24,Km Post,Jakiganj 31km,24.9907219,92.3784438,,R250.lrps.htm
+,LRP059a,58.307,Culvert,Box culvert,24.990583,92.3790549,,R250.lrps.htm
+,LRP060,59.24,Km Post,Jakiganj 30 km,24.9848052,92.3848886,,R250.lrps.htm
+,LRP060a,59.964,Culvert,Box culvert,24.9789438,92.3878608,,R250.lrps.htm
+,LRP061,60.26,Km Post,Jakiganj 29 km,24.9779716,92.3904441,,R250.lrps.htm
+,LRP061a,60.477,Culvert,Box culvert,24.9775827,92.3897219,,R250.lrps.htm
+,LRP061b,60.974,Culvert,Box culvert,24.9766104,92.3980552,,R250.lrps.htm
+,LRP062,61.26,Km Post,Jakiganj 28 km,24.9760549,92.4000833,,R250.lrps.htm
+,LRP062a,61.764,Bridge,Bridge start,24.9750549,92.4054722,,R250.lrps.htm
+,LRP062b,61.795,Bridge,Bridge end,24.9749993,92.4052222,,R250.lrps.htm
+,LRP063,62.26,Km Post,Jakiganj 25 km,24.9737493,92.4096111,,R250.lrps.htm
+,LRP063a,62.647,Culvert,Box culvert,24.9705827,92.411,,R250.lrps.htm
+,LRP063b,62.988,Culvert,Box culvert,24.9676382,92.41175,,R250.lrps.htm
+,LRP064,63.26,Km Post,Jakiganj 26 km,24.9651944,92.4123889,,R250.lrps.htm
+,LRP064a,64.25,Bridge,Bridge start,24.9565833,92.4147778,,R250.lrps.htm
+,LRP064b,64.277,Bridge,Bridge end,24.9563889,92.4148889,,R250.lrps.htm
+,LRP065,64.29,Km Post,Jakiganj 25 km,24.95625,92.4149722,,R250.lrps.htm
+,LRP065a,64.605,Bridge,Bridge start,24.9545833,92.4174438,,R250.lrps.htm
+,LRP065b,64.635,Bridge,Bridge end,24.9544722,92.417666,,R250.lrps.htm
+,LRP066,65.27,Km Post,Jakiganj 24 km,24.9513889,92.4228604,,R250.lrps.htm
+,LRP066a,65.52,Culvert,Box culvert,24.9501667,92.4248604,,R250.lrps.htm
+,LRP066b,65.784,Bridge,Bridge start,24.9488608,92.4270827,,R250.lrps.htm
+,LRP066c,65.803,Bridge,Bridge end,24.9487497,92.4271938,,R250.lrps.htm
+,LRP067,66.27,Km Post,Jakiganj 23 km,24.9464163,92.4311104,,R250.lrps.htm
+,LRP068,67.27,Km Post,Jakiganj 22 km,24.9414441,92.4393608,,R250.lrps.htm
+,LRP069,68.28,Km Post,Jakiganj 21 km,24.934333,92.4447497,,R250.lrps.htm
+,LRP070,69.28,Km Post,Jakiganj 20 km,24.9254438,92.4461386,,R250.lrps.htm
+,LRP070a,69.736,Bridge,Bridge start,24.9222493,92.4484719,,R250.lrps.htm
+,LRP070b,69.76,Bridge,Bridge end,24.9220549,92.4487219,,R250.lrps.htm
+,LRP071,70.27,Km Post,Jakiganj 19 km,24.9192771,92.4525278,,R250.lrps.htm
+,LRP071a,70.316,Culvert,Box culvert,24.9190271,92.4528889,,R250.lrps.htm
+,LRP071b,70.81,Bridge,Baily bridge start,24.9160278,92.4564444,,R250.lrps.htm
+,LRP071c,70.835,Bridge,Baily bridge end,24.9158889,92.4566389,,R250.lrps.htm
+,LRP072,71.31,Km Post,Jakiganj 18 km,24.9132778,92.4603611,,R250.lrps.htm
+,LRP073,72.35,Km Post,Jakiganj 17 km,24.9074722,92.4685271,,R250.lrps.htm
+,LRP073a,72.637,Bridge,Bridge start,24.9059722,92.4708049,,R250.lrps.htm
+,LRP073b,72.669,Bridge,Bridge end,24.9058056,92.4710549,,R250.lrps.htm
+,LRP074,73.35,Km Post,Jakiganj 16 km,24.9013333,92.4754993,,R250.lrps.htm
+,LRP075,74.37,Km Post,Jakiganj 15 km,24.8932774,92.4803882,,R250.lrps.htm
+,LRP075a,74.977,Bridge,Bridge start,24.8887219,92.4833049,,R250.lrps.htm
+,LRP075b,74.999,Bridge,Bridge end,24.888583,92.4833608,,R250.lrps.htm
+,LRP076,75.37,Km Post,Jakiganj 14 km,24.8854163,92.4850274,,R250.lrps.htm
+,LRP077,76.41,Km Post,Jakiganj 13 km,24.8797493,92.4823604,,R250.lrps.htm
+,LRP077a,76.531,Culvert,Box culvert,24.8796938,92.481166,,R250.lrps.htm
+,LRP077b,76.947,Bridge,Bridge start,24.8795549,92.4770549,,R250.lrps.htm
+,LRP077c,76.977,Bridge,Bridge end,24.8795549,92.4768327,,R250.lrps.htm
+,LRP077d,77.226,Culvert,Box culvert,24.8794716,92.4743604,,R250.lrps.htm
+,LRP078,77.42,Km Post,Jakiganj 12 km,24.8793882,92.4722771,,R250.lrps.htm
+,LRP078a,77.715,Culvert,Box culvert,24.8792493,92.4693327,,R250.lrps.htm
+,LRP078b,78.308,Culvert,Box culvert,24.8790271,92.4634444,,R250.lrps.htm
+,LRP079,78.43,Km Post,Jakiganj 11 km,24.878916,92.4621944,,R250.lrps.htm
+,LRP079a,79.324,Bridge,Bridge start,24.8793882,92.4534167,,R250.lrps.htm
+,LRP079b,79.343,Bridge,Bridge end,24.8793882,92.4533056,,R250.lrps.htm
+,LRP080,79.43,Km Post,Jakiganj 10 km,24.8794438,92.4523889,,R250.lrps.htm
+,LRP080a,79.965,Culvert,Box culvert,24.879916,92.447083,,R250.lrps.htm
+,LRP081,80.43,Km Post,Jakiganj 9 km,24.8784993,92.4426386,,R250.lrps.htm
+,LRP081a,80.53,Culvert,Box culvert,24.8781938,92.441833,,R250.lrps.htm
+,LRP081b,80.837,Culvert,Box culvert,24.8769438,92.4391108,,R250.lrps.htm
+,LRP081c,80.954,Culvert,Box culvert,24.8764993,92.438083,,R250.lrps.htm
+,LRP082,81.415,Km Post,Jakiganj 8 km,24.8742771,92.4342497,,R250.lrps.htm
+,LRP082a,81.828,Culvert,Box culvert,24.8720549,92.4310827,,R250.lrps.htm
+,LRP083,82.415,Km Post,Jakiganj 7km,24.8702493,92.425666,,R250.lrps.htm
+,LRP084,83.35,Km Post,Jakiganj 06 km,24.867666,92.4169438,,R250.lrps.htm
+,LRP084a,83.554,Culvert,Box culvert,24.8674438,92.4149722,,R250.lrps.htm
+,LRP084b,83.943,Bridge,Bridge start,24.8669438,92.4111667,,R250.lrps.htm
+,LRP084c,83.973,Bridge,Bridge end,24.8668604,92.4109444,,R250.lrps.htm
+,LRP085,84.36,Km Post,Jakiganj 05 km,24.8670549,92.4072778,,R250.lrps.htm
+,LRP085a,84.714,Culvert,Box culvert,24.868166,92.4041389,,R250.lrps.htm
+,LRP085b,85.038,Culvert,Box culvert,24.8683882,92.4009167,,R250.lrps.htm
+,LRP086,85.36,Km Post,Jakiganj 04 km,24.8677771,92.397833,,R250.lrps.htm
+,LRP086a,85.55,Culvert,Box Culvert,24.8673604,92.3967219,,R250.lrps.htm
+,LRP087,86.36,Km Post,Jakiganj 03 km,24.8671382,92.3881386,,R250.lrps.htm
+,LRP087a,86.656,Bridge,Bridge start,24.8674716,92.3852497,,R250.lrps.htm
+,LRP087b,86.691,Bridge,Bridge end,24.8675271,92.3849719,,R250.lrps.htm
+,LRP088,87.36,Km Post,Jakiganj 02 km,24.8718049,92.3804438,,R250.lrps.htm
+,LRP088a,87.562,Culvert,Box culvert,24.8733882,92.3800549,,R250.lrps.htm
+,LRP088b,88.355,Culvert,Box culvert,24.8767216,92.3740549,,R250.lrps.htm
+,LRP089,88.385,Km Post,Jakiganj 01 km,24.8768049,92.3735549,,R250.lrps.htm
+,LRP089a,88.77,Culvert,Box culvert,24.8773327,92.3698049,,R250.lrps.htm
+,LRP090,89.385,Km Post,Jakiganj 0 km,24.8743604,92.3658333,,R250.lrps.htm
+,LRPE,89.7,Others,Road end with Customs at Jakiganj,24.8731382,92.3650278,,R250.lrps.htm
+,,,,,,,,R250.lrps.htm
+,,,,,,,,R250.lrps.htm

@@ -1,0 +1,81 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,Startt of road from N3 at Tongi,23.8927774,90.4020278,,R301.lrps.htm
+,LRPSa,0.469,Others,Start of Ahsanullah Master Flyover,24.8951386,90.4056389,,R301.lrps.htm
+,LRP001,1,Km Post,Km post missing,23.8974719,90.4091389,,R301.lrps.htm
+,LRP001a,1.048,Others,End Flyover,23.8978886,90.4091667,,R301.lrps.htm
+,LRP002,2.032,Km Post,Kaliganj 18 km Gorashal,23.9045278,90.4150833,,R301.lrps.htm
+,LRP003,3.032,Km Post,Km post missing,23.9115278,90.4211382,,R301.lrps.htm
+,LRP003a,3.307,Rail Road Crossing,Rail Road Crossing,23.9135833,90.4223882,,R301.lrps.htm
+,LRP003b,3.594,Bridge,Bridge start,23.9149722,90.4246382,,R301.lrps.htm
+,LRP003c,3.652,Bridge,Bridge end,23.9151667,90.4251382,,R301.lrps.htm
+,LRP004,4.032,Km Post,Km post missing,23.9169438,90.4284438,,R301.lrps.htm
+,LRP005,5.048,Km Post,Info missing,23.9228604,90.4356108,,R301.lrps.htm
+,LRP006,6.048,Km Post,KM post missing,23.9265271,90.4447774,,R301.lrps.htm
+,LRP006a,6.946,Cross Road,"N105, Madanpur- Joydevpur",23.9300271,90.4525833,,R301.lrps.htm
+,LRP007,7.048,Km Post,Km post missing,23.9302216,90.4534167,,R301.lrps.htm
+,LRP008,8.048,Km Post,Km post missing,23.9328049,90.4626389,,R301.lrps.htm
+,LRP008a,8.815,Rail Road Crossing,Rail Road Crossing,23.9348886,90.4697216,,R301.lrps.htm
+,LRP009,9.048,Km Post,Km post missing,23.9353608,90.4719993,,R301.lrps.htm
+,LRP010,10.048,Km Post,Km post missing,23.9362219,90.4818882,,R301.lrps.htm
+,LRP010a,10.846,Bridge,Bridge start,23.934833,90.4894719,,R301.lrps.htm
+,LRP010b,10.948,Bridge,Bridge end,23.9345552,90.4904163,,R301.lrps.htm
+,LRP011,11.048,Km Post,Km post missing,23.9342497,90.4911663,,R301.lrps.htm
+,LRP011a,11.384,Rail Road Crossing,Rail Road Crossing,23.9337219,90.494333,,R301.lrps.htm
+,LRP012,12.048,Km Post,Km post missing,23.9359997,90.5003333,,R301.lrps.htm
+,LRP012a,12.501,Bridge,Bridge start,23.9368886,90.5046111,,R301.lrps.htm
+,LRP012b,12.516,Bridge,Bridge end,23.9368608,90.50475,,R301.lrps.htm
+,LRP013,13.048,Km Post,Km post missing,23.9357497,90.5097222,,R301.lrps.htm
+,LRP013a,13.391,Bridge,Bridge start,23.9348052,90.5129167,,R301.lrps.htm
+,LRP013b,13.424,Bridge,Bridge end,23.9346386,90.5131944,,R301.lrps.htm
+,LRP014,14.064,Km Post,Tongi 14 km,23.9330549,90.5192216,,R301.lrps.htm
+,LRP014a,14.219,Rail Road Crossing,Rail Road Crossing,23.9323049,90.5204438,,R301.lrps.htm
+,LRP014b,15.083,Culvert,Box Culvert,23.9288882,90.5278882,,R301.lrps.htm
+,LRP015,15.105,Km Post,Kaliganj 5 km Gorashal 19 km,23.9288327,90.5280549,,R301.lrps.htm
+,LRP015a,15.569,Culvert,Box Culvert,23.9278049,90.5324438,,R301.lrps.htm
+,LRP016,16.105,Km Post,Km post missing,23.9269993,90.5376386,,R301.lrps.htm
+,LRP016a,16.655,"Side Road, Right","Z3010, Kaliganj- Tumulia- Ulukhola Road",23.927166,90.5430552,,R301.lrps.htm
+,LRP016b,16.885,Bridge,Bridge start,23.9272771,90.5452774,,R301.lrps.htm
+,LRP016c,16.93,Bridge,Bridge end,23.9272771,90.5456386,,R301.lrps.htm
+,LRP017,17.105,Km Post,Km post missing,23.9273049,90.5473052,,R301.lrps.htm
+,LRP017a,17.165,Culvert,Box Culvert,23.9273327,90.5478886,,R301.lrps.htm
+,LRP017b,17.247,"Side Road, Left","Z3025, Kapsia- Kaliganj Road",23.9273604,90.5487774,,R301.lrps.htm
+,LRP018,18.138,Km Post,Info missing,23.9260549,90.5568056,,R301.lrps.htm
+,LRP018a,18.22,"Side Road, Right",Kaliganj Bazar Road (R302),23.9258049,90.5575278,,R301.lrps.htm
+,LRP018b,18.829,Culvert,Box Culvert,23.9282216,90.5626944,,R301.lrps.htm
+,LRP019,19.138,Km Post,Km post missing,23.9283882,90.5665,,R301.lrps.htm
+,LRP019a,19.498,Culvert,Box Culvert,23.9283604,90.570916,,R301.lrps.htm
+,LRP020,20.138,Km Post,Km post missing,23.9283604,90.5754993,,R301.lrps.htm
+,LRP021,21.15,Km Post,Gorashal 4 km,23.9286938,90.5853886,,R301.lrps.htm
+,LRP021a,21.763,Culvert,Box Culvert,23.9311104,90.5907497,,R301.lrps.htm
+,LRP022,22.153,Km Post,Gorashal 3 km,23.9327493,90.5941386,,R301.lrps.htm
+,LRP022a,22.581,Culvert,Box Culvert,23.9345552,90.597833,,R301.lrps.htm
+,LRP023,23.153,Km Post,Km post missing,23.9702771,90.6028333,,R301.lrps.htm
+,LRP023a,23.984,"Side Road, Left","R302, Kaliganj bazar Road",23.9406108,90.6111111,,R301.lrps.htm
+,LRP024,24.153,Km Post,Km post missing,23.9406386,90.6117778,,R301.lrps.htm
+,LRP024a,24.391,Bridge,"Shalid Moyez udddin Bridge, Narsinghdi RHD Start",23.9404441,90.6140278,,R301.lrps.htm
+,LRP024a,24.391,Bridge,"Shalid Moyez udddin Bridge, Narsinghdi RHD Start",23.9404441,90.6140278,,R301.lrps.htm
+,LRP024b,24.93,Bridge,Bridge end,23.9394719,90.619166,,R301.lrps.htm
+,LRP025,25.153,Km Post,Km post missing,23.9391108,90.6212493,,R301.lrps.htm
+,LRP025a,25.175,Culvert,Box Culvert,23.939083,90.6214438,,R301.lrps.htm
+,LRP026,26.153,Km Post,Km post missing,23.9380552,90.630916,,R301.lrps.htm
+,LRP026a,26.789,"Side Road, Left",Road to Palash (Z2037),23.9368886,90.6369997,,R301.lrps.htm
+,LRP026b,26.827,Culvert,Box Culvert,23.9367497,90.6373608,,R301.lrps.htm
+,LRP027,27.153,Km Post,Km post missing,23.9346941,90.6395274,,R301.lrps.htm
+,LRP027a,27.4,Culvert,Box Culvert,23.9328604,90.6408886,,R301.lrps.htm
+,LRP027b,28.145,Culvert,Box Culvert,23.9273049,90.6448608,,R301.lrps.htm
+,LRP028,28.153,Km Post,Km post missing,23.9271938,90.6449163,,R301.lrps.htm
+,LRP029,29.084,Km Post,Pachdona 4 km Norshindi 13 km,23.920166,90.6497774,,R301.lrps.htm
+,LRP029a,29.1,Bridge,Bridge start,23.9200549,90.6498608,,R301.lrps.htm
+,LRP029b,29.115,Bridge,Bridge end,23.9199438,90.6499441,,R301.lrps.htm
+,LRP029c,29.519,Culvert,Box Culvert,23.917666,90.6528056,,R301.lrps.htm
+,LRP029d,29.993,Culvert,Box Culvert,23.91575,90.6569722,,R301.lrps.htm
+,LRP030,30.136,Km Post,Pachdona 3 km Norshindi 17 km,23.9152222,90.6581389,,R301.lrps.htm
+,LRP030a,30.471,Culvert,Box Culvert,23.9139167,90.661,,R301.lrps.htm
+,LRP031,31.12,Km Post,Info Vanished,23.9106667,90.666,,R301.lrps.htm
+,LRP031a,31.145,Culvert,Box Culvert,23.9105833,90.6660278,,R301.lrps.htm
+,LRP031b,31.208,"Side Road, Left","Z2045, Panchdona- Charsindur Road",23.9093056,90.6663333,,R301.lrps.htm
+,LRP031c,31.947,Culvert,Box Culvert,23.9034722,90.6646111,,R301.lrps.htm
+,LRP032,32.12,Km Post,Km post missing,23.9019167,90.6642778,,R301.lrps.htm
+,LRPE,33.037,Others,"End of road at Pachdona intersecting N2, Dhaka- Sylhet- Jaflong Road",23.8935552,90.6645833,,R301.lrps.htm
+,,,,,,,,R301.lrps.htm
+,,,,,,,,R301.lrps.htm

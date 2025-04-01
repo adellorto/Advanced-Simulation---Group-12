@@ -1,0 +1,80 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,"Road Start from Tebunia Bazar Intersection at N6, infront of Momtaz Pharmacy .",24.0716382,89.2078611,,R604.lrps.htm
+,LRP001,0.007,Km Post,Chatmohor 12 km,24.0716104,89.2073889,,R604.lrps.htm
+,LRP002,1.005,Km Post,Athgoria 5 km,24.0788327,89.2137778,,R604.lrps.htm
+,LRP003,2.008,Km Post,Mannanagar 37 km,24.0861663,89.2195827,,R604.lrps.htm
+,LRP004,3.008,Km Post,Bhangura 54 km,24.0934441,89.225416,,R604.lrps.htm
+,LRP005,4.01,Km Post,Faridpur 33 km,24.0999163,89.232166,,R604.lrps.htm
+,LRP005a,4.554,Culvert,R.C.C Culvert,24.1034444,89.2362219,,R604.lrps.htm
+,LRP006,5.008,Km Post,Bagabari Bazar 52 km,24.1065556,89.2389163,,R604.lrps.htm
+,LRP007,6.008,Km Post,Hasticamrul 52 km,24.1143056,89.2436386,,R604.lrps.htm
+,LRP007a,6.415,Culvert,Box Culvert,24.1174438,89.2454719,,R604.lrps.htm
+,LRP008,7.008,Km Post,Bhangura 24 km,24.1223327,89.2482497,,R604.lrps.htm
+,LRP009,8.008,Km Post,Bagabari 49 km,24.1312216,89.2497774,,R604.lrps.htm
+,LRP009a,8.343,Culvert,R C C Culvert,24.1341663,89.2503611,,R604.lrps.htm
+,LRP010,9.008,Km Post,Km post missing,24.140583,89.25175,,R604.lrps.htm
+,LRP010a,9.169,Culvert,Box Culvert,24.1415552,89.2519167,,R604.lrps.htm
+,LRP010b,9.375,Culvert,Box Culvert,24.1433608,89.2523056,,R604.lrps.htm
+,LRP011,10.004,Km Post,Chatmohor 11 km,24.1467219,89.2567778,,R604.lrps.htm
+,LRP011a,10.032,Culvert,Box Culvert,24.1466941,89.25675,,R604.lrps.htm
+,LRP011b,10.607,Bridge,R.C.C Bridge Start,24.1494163,89.2617778,,R604.lrps.htm
+,LRP011c,10.639,Bridge,R.C.C Bridge End,24.149583,89.2620556,,R604.lrps.htm
+,LRP012,11.004,Km Post,Chatmohor10 km,24.1513333,89.2651111,,R604.lrps.htm
+,LRP012a,11.31,Culvert,Box Culvert,24.1532778,89.2673049,,R604.lrps.htm
+,LRP013,12.004,Km Post,Bhangura 19 km,24.1590833,89.2685827,,R604.lrps.htm
+,LRP013a,12.049,Bridge,PC G Bridge Start,24.1595278,89.268666,,R604.lrps.htm
+,LRP013b,12.129,Bridge,PCG Bridge End,24.16025,89.2688049,,R604.lrps.htm
+,LRP014,13.004,Km Post,Bagabari 44km,24.1682216,89.2708049,,R604.lrps.htm
+,LRP014a,13.223,Culvert,PCC Culvert,24.1698327,89.2713327,,R604.lrps.htm
+,LRP015,14.002,Km Post,Hasticamrul 43 km,24.1766104,89.2734438,,R604.lrps.htm
+,LRP015a,14.294,Culvert,Box Culvert,24.1791382,89.2737493,,R604.lrps.htm
+,LRP016,15.004,Km Post,Bhangura 16 km,24.1855552,89.2744993,,R604.lrps.htm
+,LRP016a,15.686,Rail Road Crossing,Ishwradi - Dhaka Rail,24.1877774,89.2704438,,R604.lrps.htm
+,LRP017,15.999,Km Post,Chatmohor 5 km,24.1889997,89.2727493,,R604.lrps.htm
+,LRP017a,16.415,Culvert,Box culvert,24.1919441,89.2736104,,R604.lrps.htm
+,LRP018,16.999,Km Post,Bagabari 40 km,24.1970274,89.2725827,,R604.lrps.htm
+,LRP018a,17.269,Bridge,Bridge Start,24.1993886,89.2720827,,R604.lrps.htm
+,LRP018b,17.295,Bridge,Bridge End,24.1996386,89.2720271,,R604.lrps.htm
+,LRP019,17.996,Km Post,Hatikamrul 39 km,24.2061667,89.2737493,,R604.lrps.htm
+,LRP019a,18.624,"Side Road, Right",Z 6021,24.2118056,89.276166,,R604.lrps.htm
+,LRP019b,18.663,Culvert,Box culvert,24.2114444,89.2759716,,R604.lrps.htm
+,LRP020,18.996,Km Post,Km post missing,24.2148333,89.277416,,R604.lrps.htm
+,LRP020a,19.406,Culvert,Box Culvert,24.218166,89.2788882,,R604.lrps.htm
+,LRP020b,19.926,Culvert,Box Culvert,24.2225827,89.2808327,,R604.lrps.htm
+,LRP021,19.996,Km Post,Km post missing,24.2232493,89.2811382,,R604.lrps.htm
+,LRP021a,20.304,"Side Road, Left",Z6029,24.2257771,89.2823327,,R604.lrps.htm
+,LRP022,20.996,Km Post,Km post missing,24.2303604,89.2862774,,R604.lrps.htm
+,LRP023,21.996,Km Post,Km post missing,24.2291382,89.2919163,,R604.lrps.htm
+,LRP023a,22.034,"Side Road, Left",Z5209,24.2292771,89.2922219,,R604.lrps.htm
+,LRP024,22.996,Km Post,Km post missing,24.2263882,89.2997774,,R604.lrps.htm
+,LRP025,23.996,Km Post,Km post missing,24.2283882,89.3076389,,R604.lrps.htm
+,LRP026,24.996,Km Post,Km post missing,24.2359997,89.3123611,,R604.lrps.htm
+,LRP026a,25.276,Culvert,Box Culvert,24.2463608,89.3139167,,R604.lrps.htm
+,LRP027,25.996,Km Post,Km post missing,24.243583,89.3183049,,R604.lrps.htm
+,LRP027a,26.106,Culvert,Box Culvert,24.2434997,89.3183049,,R604.lrps.htm
+,LRP027b,26.506,Culvert,Box Culvert,24.2469997,89.3212771,,R604.lrps.htm
+,LRP027c,26.916,Culvert,Box Culvert,24.2501111,89.3235549,,R604.lrps.htm
+,LRP028,26.996,Km Post,Km post missing,24.2510278,89.3242216,,R604.lrps.htm
+,LRP028a,27.126,Culvert,Box Culvert,24.2520833,89.3249716,,R604.lrps.htm
+,LRP028b,27.768,Culvert,Box Culvert,24.2568889,89.3279716,,R604.lrps.htm
+,LRP029,27.996,Km Post,Km post missing,24.2592222,89.3293049,,R604.lrps.htm
+,LRP029a,28.566,Bridge,Bridge under Construction,24.2633056,89.3331382,,R604.lrps.htm
+,LRP030,28.996,Km Post,Not Accessible,24.2590833,89.3245827,,R604.lrps.htm
+,LRP031,29.996,Km Post,Servey noy done,0,0,,R604.lrps.htm
+,LRP032,29.996,Km Post,Survey not done,0,0,,R604.lrps.htm
+,LRP033,31.996,Km Post,Survey not done,0,0,,R604.lrps.htm
+,LRP033a,32.781,Others,Not Accessible,24.2996108,89.3464163,,R604.lrps.htm
+,LRP034,32.996,Km Post,Km post missing,24.3016389,89.3470274,,R604.lrps.htm
+,LRP035,33.996,Km Post,Km post missing,24.31,89.3506111,,R604.lrps.htm
+,LRP036,34.996,Km Post,Km post missing,24.3185549,89.3533056,,R604.lrps.htm
+,LRP036a,35.113,Culvert,Box Culvert,24.3195549,89.3531944,,R604.lrps.htm
+,LRP037,35.996,Km Post,Km post missing,24.3274438,89.3534722,,R604.lrps.htm
+,LRP037a,36.109,Culvert,Box Culvert,24.3283604,89.3533333,,R604.lrps.htm
+,LRP038,36.996,Km Post,Km post missing,24.3364997,89.3533889,,R604.lrps.htm
+,LRP039,37.996,Km Post,Km post missing,24.3453608,89.3551389,,R604.lrps.htm
+,LRP039a,38.746,Culvert,Box Culvert,24.3513056,89.3585,,R604.lrps.htm
+,LRP040,38.996,Km Post,Km post missing,24.3535556,89.3592778,,R604.lrps.htm
+,LRP041,39.996,Km Post,Km post missing,24.3621111,89.3615556,,R604.lrps.htm
+,LRPE,40.58,Others,"End of road N507 at Hamkuria (Mannanagar)Chowrasta Right side Towards Zilla road Z6032,Taras Sirajganj.",24.3669716,89.3621111,,R604.lrps.htm
+,,,,,,,,R604.lrps.htm
+,,,,,,,,R604.lrps.htm

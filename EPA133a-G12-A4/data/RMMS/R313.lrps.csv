@@ -1,0 +1,109 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,Start of road N 3 at Mawna.,24.2205549,90.4125,,R313.lrps.htm
+,LRPSa,0.02,Others,End of Bituminous road,24.2205271,90.4126944,,R313.lrps.htm
+,LRPSb,0.539,Others,start of Bituminous road,24.2190271,90.4172771,,R313.lrps.htm
+,LRP001,1.033,Km Post,Sripur 7 km,24.2008333,90.4218882,,R313.lrps.htm
+,LRP002,2.033,Km Post,Sripur 5 km,24.2145556,90.4312493,,R313.lrps.htm
+,LRP003,3.033,Km Post,Km post missing,24.2114444,90.4405552,,R313.lrps.htm
+,LRP003a,3.266,Culvert,Box Culvert,24.2107778,90.4426941,,R313.lrps.htm
+,LRP004,4.024,Km Post,Sripur 3 km,24.2084444,90.4497219,,R313.lrps.htm
+,LRP005,5.028,Km Post,Sripur 2 km,24.2054722,90.4590556,,R313.lrps.htm
+,LRP005a,5.173,Culvert,Box Culvert,24.2050278,90.4603889,,R313.lrps.htm
+,LRP006,6.031,Km Post,Sripur 1 km,24.2023889,90.4683049,,R313.lrps.htm
+,LRP006a,6.116,Culvert,Box culvert,24.2021667,90.4691104,,R313.lrps.htm
+,LRP006b,6.593,"Side Road, Right",Road to Bairagirchala (Z3009),24.2008056,90.4736104,,R313.lrps.htm
+,LRP007,7.039,Km Post,Sripur 0 km,24.1991663,90.4774716,,R313.lrps.htm
+,LRP007a,7.248,Rail Road Crossing,Sripur Railgate,24.1984719,90.4793604,,R313.lrps.htm
+,LRP008,8.041,Km Post,Gusinga 5 km,24.1956663,90.4865552,,R313.lrps.htm
+,LRP009,9.041,Km Post,Gusinga 4 km,24.192083,90.4956108,,R313.lrps.htm
+,LRP009a,9.117,Culvert,Box Culvert,24.1918608,90.4963052,,R313.lrps.htm
+,LRP009b,9.631,Bridge,26.6 km (manually),24.1899997,90.5009722,,R313.lrps.htm
+,LRP009c,9.657,Bridge,Bridge end,24.1899163,90.5011944,,R313.lrps.htm
+,LRP010,10.04,Km Post,Info missing,24.1884719,90.5046111,,R313.lrps.htm
+,LRP010a,10.912,Culvert,Box Culvert,24.1852774,90.5124444,,R313.lrps.htm
+,LRP011,11.246,Km Post,Gusinga 2 km,24.1841941,90.5155833,,R313.lrps.htm
+,LRP011a,11.527,Culvert,Box Culvert,24.1834441,90.5182216,,R313.lrps.htm
+,LRP012,12.041,Km Post,Gusinga 1 km,24.1825549,90.5231382,,R313.lrps.htm
+,LRP012a,12.914,Culvert,Box Culvert,24.1813327,90.5316382,,R313.lrps.htm
+,LRP013,13.061,Km Post,Gusinga 0 km,24.1813882,90.5329438,,R313.lrps.htm
+,LRP014,14.062,Km Post,Kapasia 9 km,24.1786938,90.5402219,,R313.lrps.htm
+,LRP015,14.694,Km Post,Info missing,24.1739438,90.5427497,,R313.lrps.htm
+,LRP015a,15.533,Bridge,21.6 km (manually),24.1681104,90.5475552,,R313.lrps.htm
+,LRP015b,15.555,Bridge,Bridge end,24.1679716,90.5476663,,R313.lrps.htm
+,LRP016,15.694,Km Post,Km post missing,24.1668882,90.5483608,,R313.lrps.htm
+,LRP017,16.694,Km Post,Km post missing,24.1587222,90.5498052,,R313.lrps.htm
+,LRP018,17.694,Km Post,Km post missing,24.1518056,90.5436663,,R313.lrps.htm
+,LRP018a,18.145,Bridge,30.6 Km (manually),24.1486386,90.5409997,,R313.lrps.htm
+,LRP018b,18.176,Bridge,Bridge end,24.1483608,90.5409441,,R313.lrps.htm
+,LRP018c,18.651,Bridge,Bridge start,24.1441108,90.540583,,R313.lrps.htm
+,LRP018d,18.659,Bridge,Bridge end,24.1440274,90.540583,,R313.lrps.htm
+,LRP019,18.694,Km Post,Km post missing,24.1437497,90.5406663,,R313.lrps.htm
+,LRP020,19.559,Km Post,Info missing,24.1379997,90.5441941,,R313.lrps.htm
+,LRP020a,19.642,Bridge,Bridge start,24.1376386,90.5447497,,R313.lrps.htm
+,LRP020b,19.655,Bridge,Bridge end,24.137583,90.5448886,,R313.lrps.htm
+,LRP021,20.133,Km Post,Kapasia 3 km,24.1360274,90.5492497,,R313.lrps.htm
+,LRP022,21.133,Km Post,Km post missing,24.1280827,90.5541944,,R313.lrps.htm
+,LRP022a,21.336,Bridge,Bridge start,24.126416,90.5549167,,R313.lrps.htm
+,LRP022b,21.343,Bridge,Bridge end,24.1263604,90.5549444,,R313.lrps.htm
+,LRP023,22.03,Km Post,Kapasia 1 km,24.1207216,90.5575278,,R313.lrps.htm
+,LRP023a,22.473,Culvert,Box Culvert,24.1173604,90.5598056,,R313.lrps.htm
+,LRP024,22.904,Km Post,Kapasia 0 km,24.1144444,90.5624444,,R313.lrps.htm
+,LRP024a,23.032,"Side Road, Right",Road to Rajendrapur (R312),24.11425,90.5611389,,R313.lrps.htm
+,LRP024b,23.203,Bridge,Fakir majnu shah Bridge,24.1152778,90.56225,,R313.lrps.htm
+,LRP024c,23.598,Bridge,Bridge end,24.1174993,90.5652222,,R313.lrps.htm
+,LRP025,23.698,Km Post,Toke bazar 18 km,24.1180827,90.5659722,,R313.lrps.htm
+,LRP025a,24.109,"Side Road, Left","R312,Rajendrapur-Motkhola road",24.120416,90.5689438,,R313.lrps.htm
+,LRP026,24.698,Km Post,Km post missing,24.1225827,90.574166,,R313.lrps.htm
+,LRP026a,25.656,Culvert,Box Culvert,24.1278604,90.5811938,,R313.lrps.htm
+,LRP027,25.698,Km Post,Km post missing,24.1280827,90.581416,,R313.lrps.htm
+,LRP028,26.12,Km Post,Monohardi 12 km,24.1293049,90.5852497,,R313.lrps.htm
+,LRP028a,26.419,Bridge,Bridge start,24.1301382,90.5879441,,R313.lrps.htm
+,LRP028b,26.438,Bridge,Bridge end,24.1302216,90.5881108,,R313.lrps.htm
+,LRP028c,26.63,Bridge,Bridge start,24.1313049,90.5896663,,R313.lrps.htm
+,LRP028d,26.657,Bridge,Bridge end,24.1313049,90.589833,,R313.lrps.htm
+,LRP029,27.12,Km Post,Km post missing,24.1314993,90.5944163,,R313.lrps.htm
+,LRP030,28.081,Km Post,Monohardi 10 km,24.1377497,90.599833,,R313.lrps.htm
+,LRP030a,28.162,Bridge,Bridge start,24.1384441,90.6001389,,R313.lrps.htm
+,LRP030b,28.185,Bridge,Bridge end,24.1386108,90.6002222,,R313.lrps.htm
+,LRP030c,28.876,Bridge,Bridge start,24.1423886,90.6055278,,R313.lrps.htm
+,LRP030d,28.913,Bridge,Bridge end,24.1424997,90.6058611,,R313.lrps.htm
+,LRP031,29.081,Km Post,Km post missing,24.142583,90.6070556,,R313.lrps.htm
+,LRP032,30.081,Km Post,Km post missing,24.1361386,90.6136111,,R313.lrps.htm
+,LRP032a,30.287,Culvert,Box Culvert,24.1347497,90.6149444,,R313.lrps.htm
+,LRP033,31.081,Km Post,Km post missing,24.1291382,90.6189993,,R313.lrps.htm
+,LRP034,32.052,Km Post,Info missing,24.1206104,90.6203327,,R313.lrps.htm
+,LRP035,33.044,Km Post,Hityirdia 10 km,24.1118889,90.6198604,,R313.lrps.htm
+,LRP035a,33.686,Bridge,Bridge start,24.1115278,90.6260271,,R313.lrps.htm
+,LRP035b,33.72,Bridge,Bridge end,24.1114444,90.6263604,,R313.lrps.htm
+,LRP035c,34.022,Bridge,Bridge start,24.1106667,90.629166,,R313.lrps.htm
+,LRP035d,34.035,Bridge,Bridge end,24.1106667,90.6292771,,R313.lrps.htm
+,LRP036,34.044,Km Post,Info missing,23.1106111,90.6293882,,R313.lrps.htm
+,LRP036a,34.479,Culvert,Box Culvert,24.1094722,90.6334719,,R313.lrps.htm
+,LRP037,35.053,Km Post,Hitirdia 8 km,24.1080556,90.6388608,,R313.lrps.htm
+,LRP038,35.725,Km Post,Iakhpur 4 km,24.109,90.6444719,,R313.lrps.htm
+,LRP038a,36.312,Bridge,Bridge start,24.1114444,90.649333,,R313.lrps.htm
+,LRP038b,36.323,Bridge,Bridge end,24.1447219,90.6493886,,R313.lrps.htm
+,LRP039,36.71,Km Post,Info missing,24.112,90.6531667,,R313.lrps.htm
+,LRP039a,36.72,Culvert,Box Culvert,24.1120278,90.65325,,R313.lrps.htm
+,LRP040,37.032,Km Post,Hitirdia 6 km,24.1131944,90.6560278,,R313.lrps.htm
+,LRP040a,37.368,Culvert,Pipe Culvert,24.1142222,90.6591111,,R313.lrps.htm
+,LRP040b,37.805,Culvert,Pipe Culvert,24.1158889,90.6628611,,R313.lrps.htm
+,LRP040c,37.961,Culvert,Pipe Culvert,24.1161111,90.6643889,,R313.lrps.htm
+,LRP041,37.999,Km Post,Hitirdia 5 km,24.1161667,90.6647222,,R313.lrps.htm
+,LRP041a,38.292,Culvert,Pipe Culvert,24.11625,90.6676104,,R313.lrps.htm
+,LRP041b,38.598,Culvert,Pipe Culvert,24.1165,90.6705827,,R313.lrps.htm
+,LRP041c,38.861,Culvert,Pipe Culvert,24.1169438,90.6732771,,R313.lrps.htm
+,LRP042,39.038,Km Post,Hitirdia 4 km,24.1174438,90.6747493,,R313.lrps.htm
+,LRP042a,39.296,Others,End of Bituminous road,24.1163889,90.6763049,,R313.lrps.htm
+,LRP042b,39.441,Bridge,Bridge start,24.1165278,90.677666,,R313.lrps.htm
+,LRP042c,39.548,Bridge,Bridge end,24.1164444,90.6786938,,R313.lrps.htm
+,LRP042d,39.781,Others,Start of Bituminus road,24.1168327,90.6808604,,R313.lrps.htm
+,LRP043,40.038,Km Post,Km post missing,24.1168049,90.6831938,,R313.lrps.htm
+,LRP044,41.038,Km Post,Km post missing,24.1172493,90.6905552,,R313.lrps.htm
+,LRP044a,41.307,Culvert,Box Culvert,24.1161667,90.6927774,,R313.lrps.htm
+,LRP044b,41.354,Culvert,Box Culvert,24.1158889,90.6930274,,R313.lrps.htm
+,LRP045,42.038,Km Post,Box Culvert,24.1163056,90.6988608,,R313.lrps.htm
+,LRP045a,42.166,Culvert,Box Culvert,24.1168049,90.6998608,,R313.lrps.htm
+,LRPE,42.352,Others,The road ends Intersecting R211 at Monohardi,24.1172493,90.7015833,,R313.lrps.htm
+,,,,,,,,R313.lrps.htm
+,,,,,,,,R313.lrps.htm

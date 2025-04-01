@@ -1,0 +1,317 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,Road Start at Comilla Zero Point Any Round About at Kandirpar,23.4604722,91.1807216,,R140.lrps.htm
+,LRPSa,0.515,Culvert,Box culvert,23.456,91.1799438,,R140.lrps.htm
+,LRP001,1,Km Post,Km post missing,23.4517222,91.1790549,,R140.lrps.htm
+,LRP001a,1.23,"Side Road, Right",Road to Barura (Z1052),23.4496941,91.1785827,,R140.lrps.htm
+,LRP001b,1.835,Culvert,Slab culvert,23.4448052,91.1760271,,R140.lrps.htm
+,LRP002,2.03,Km Post,Chandpur 66 km,23.4431663,91.1749716,,R140.lrps.htm
+,LRP002a,2.084,Culvert,Slab Culvert,23.4427497,91.1747216,,R140.lrps.htm
+,LRP002b,2.224,Culvert,Pipe culvert,23.4416108,91.1743882,,R140.lrps.htm
+,LRP003,3.02,Km Post,Km post broken,23.434833,91.1717771,,R140.lrps.htm
+,LRP004,4.02,Km Post,Chandpur 64 km,23.425666,91.171916,,R140.lrps.htm
+,LRP004a,4.745,Cross Road,Intersection N1 at Paduar Bazar,23.419166,91.1723327,,R140.lrps.htm
+,LRP005,5.02,Km Post,Km post missing,23.4166111,91.1727771,,R140.lrps.htm
+,LRP005a,5.86,Culvert,Box culvert,23.4091389,91.1732493,,R140.lrps.htm
+,LRP006,6.15,Km Post,Chandpur 62 km,23.4064167,91.1730549,,R140.lrps.htm
+,LRP007,7.15,Km Post,Chandpur 61 km,23.3984163,91.1686104,,R140.lrps.htm
+,LRP007a,8.09,Culvert,Box culvert,23.3914163,91.1634444,,R140.lrps.htm
+,LRP008,8.15,Km Post,Km post missing,23.3909719,91.1631389,,R140.lrps.htm
+,LRP009,9.15,Km Post,Km post missing,23.3827216,91.1590556,,R140.lrps.htm
+,LRP009a,9.18,Rail Road Crossing,Rail Road Crossing,23.3826382,91.15875,,R140.lrps.htm
+,LRP009b,9.41,Bridge,Bridge start,23.3808604,91.1578333,,R140.lrps.htm
+,LRP009c,9.442,Bridge,Bridge end,23.3805827,91.1575,,R140.lrps.htm
+,LRP010,10.15,Km Post,Km post missing,23.374666,91.1551944,,R140.lrps.htm
+,LRP010a,10.84,Cross Road,Intersection with Z1423,23.368916,91.15275,,R140.lrps.htm
+,LRP010b,11.1,Culvert,Box culvert,23.3666938,91.152,,R140.lrps.htm
+,LRP011,11.15,Km Post,Chandpur 57 km,23.3662778,91.1518333,,R140.lrps.htm
+,LRP011a,11.69,Culvert,Box culvert,23.3617778,91.149833,,R140.lrps.htm
+,LRP012,12.15,Km Post,Km post missing,23.3579444,91.1476941,,R140.lrps.htm
+,LRP012a,12.342,"Side Road, Left",Road to Laksham (R141),23.3564722,91.1467497,,R140.lrps.htm
+,LRP012b,12.395,Culvert,Box culvert,23.3562778,91.1462774,,R140.lrps.htm
+,LRP013,13.15,Km Post,Km post missing,23.35425,91.1391386,,R140.lrps.htm
+,LRP013a,13.215,"Side Road, Right",Road to Barura (Z1401),23.3540833,91.1385274,,R140.lrps.htm
+,LRP013b,14.07,Culvert,Box culvert,23.3498886,91.1318882,,R140.lrps.htm
+,LRP014,14.15,Km Post,Km post missing,23.3494997,91.1312216,,R140.lrps.htm
+,LRP014a,14.27,"Side Road, Right",Road to Mogbari (Z1423),23.3488608,91.1302216,,R140.lrps.htm
+,LRP014b,14.275,"Side Road, Left",Road to Bagmara (Z1049),23.348833,91.130166,,R140.lrps.htm
+,LRP015,15.13,Km Post,Information missing,23.3444163,90.1233604,,R140.lrps.htm
+,LRP016,16.13,Km Post,Information missing,23.3383608,91.1162222,,R140.lrps.htm
+,LRP017,17.125,Km Post,Chandpur 48 km,23.3317771,91.1103056,,R140.lrps.htm
+,LRP018,18.12,Km Post,Information missing,23.3268882,91.1021944,,R140.lrps.htm
+,LRP019,19.14,Km Post,Information missing,23.3210549,91.0944719,,R140.lrps.htm
+,LRP020,20.14,Km Post,Information missing,23.3142778,91.087833,,R140.lrps.htm
+,LRP020a,20.69,"Side Road, Left",Z1047,23.3105556,91.0843608,,R140.lrps.htm
+,LRP021,21.11,Km Post,Information missing,23.3076389,91.0825549,,R140.lrps.htm
+,LRP021a,21.39,Culvert,Box culvert,23.3054722,91.0801938,,R140.lrps.htm
+,LRP022,22.105,Km Post,Chandpur 46 km,23.3006111,91.0758049,,R140.lrps.htm
+,LRP023,23.115,Km Post,Chandpur 45 km,23.2936108,91.0695827,,R140.lrps.htm
+,LRP024,24.115,Km Post,Chandpur 44 km,23.285833,91.0646111,,R140.lrps.htm
+,LRP025,25.115,Km Post,Km post missing,23.278666,91.05875,,R140.lrps.htm
+,LRP026,26.115,Km Post,Chandpur 41 km,23.2733882,91.0507778,,R140.lrps.htm
+,LRP026a,26.645,Culvert,Box culvert,23.2708049,91.0464997,,R140.lrps.htm
+,LRP026b,26.7,"Side Road, Left",Road to Sawsan Ghat (Z1414),23.2705271,91.0460552,,R140.lrps.htm
+,LRP026c,26.77,"Side Road, Right",Road to Chistosi (Z1407),23.270166,91.045583,,R140.lrps.htm
+,LRP026d,27.065,Bridge,Bridge start,23.269166,91.0429719,,R140.lrps.htm
+,LRP026e,27.09,Bridge,Bridge end,23.2691104,91.0427219,,R140.lrps.htm
+,LRP027,27.115,Km Post,Km post missing,23.2691104,91.0423608,,R140.lrps.htm
+,LRP027a,27.265,Culvert,Box culvert,23.2690271,91.0408886,,R140.lrps.htm
+,LRP028,28.115,Km Post,Km post missing,23.2676104,91.0327216,,R140.lrps.htm
+,LRP029,29.115,Km Post,Km post missing,23.2658333,91.0231382,,R140.lrps.htm
+,LRP029a,29.335,Culvert,Box culvert,23.26525,91.0210549,,R140.lrps.htm
+,LRP029b,29.844,Culvert,Box culvert,23.2643333,91.0161944,,R140.lrps.htm
+,LRP030,30.115,Km Post,Km post missing,23.2636111,91.0136111,,R140.lrps.htm
+,LRP030a,30.335,Culvert,Box culvert,23.2630556,90.0113611,,R140.lrps.htm
+,LRP030b,30.63,Others,Chandpur RHD Starts,0,0,,R140.lrps.htm
+,LRP030b,30.63,Others,Chandpur RHD Starts,0,0,,R140.lrps.htm
+,LRP030c,30.83,"Side Road, Right",Road to Baruea (Z1411),23.2628056,91.0067778,,R140.lrps.htm
+,LRP030d,31.003,Culvert,Box culvert,23.2627222,91.0050556,,R140.lrps.htm
+,LRP031,31.095,Km Post,Chandpur 37 km,23.2626944,91.00425,,R140.lrps.htm
+,LRP031a,32.05,Culvert,Box culvert,23.262,90.9949441,,R140.lrps.htm
+,LRP031b,32.057,"Side Road, Right",Road to Jhalam (Z1401),23.262,90.9948886,,R140.lrps.htm
+,LRP032,32.425,Km Post,Chandpur 36 km,23.2612778,90.9913608,,R140.lrps.htm
+,LRP032a,32.437,Culvert,Box culvert,23.26125,90.9912774,,R140.lrps.htm
+,LRP032b,33.115,Culvert,Box culvert,23.2601667,91.9847497,,R140.lrps.htm
+,LRP032c,33.405,Culvert,Box culvert,23.2593056,90.9989163,,R140.lrps.htm
+,LRP033,33.425,Km Post,Chandpur 35 km,23.2591389,90.9820271,,R140.lrps.htm
+,LRP033a,33.985,Culvert,Box culvert,23.2564167,90.9774993,,R140.lrps.htm
+,LRP034,34.425,Km Post,Chandpur 34 km,23.2559722,90.9732771,,R140.lrps.htm
+,LRP034a,34.635,Culvert,Box culvert,23.2551389,91.9714993,,R140.lrps.htm
+,LRP035,35.465,Km Post,Chandpur 33 km,23.2506944,90.9652778,,R140.lrps.htm
+,LRP035a,35.689,Culvert,Box culvert,23.2502778,90.9631667,,R140.lrps.htm
+,LRP035b,36.315,Culvert,Box culvert,23.2491386,90.9571667,,R140.lrps.htm
+,LRP035c,36.335,"Side Road, Right",Road to Kachua (Z1050),23.2491108,90.9570278,,R140.lrps.htm
+,LRP036,36.465,Km Post,Chandpur 32 km,23.2489163,90.9557222,,R140.lrps.htm
+,LRP036a,37.14,"Side Road, Left",Road to Shahrasti Z1824),23.2479997,90.9492219,,R140.lrps.htm
+,LRP036b,37.325,Culvert,Box culvert,23.2477497,90.9474163,,R140.lrps.htm
+,LRP037,37.475,Km Post,Chandpur 31 km,23.2474441,90.9458052,,R140.lrps.htm
+,LRP037a,38.015,Culvert,Box culvert,23.2462497,90.9399441,,R140.lrps.htm
+,LRP038,38.44,Km Post,Chandpur 30 km,23.2466386,90.9366108,,R140.lrps.htm
+,LRP039,39.44,Km Post,Chandpur 29 km,23.2479163,90.926916,,R140.lrps.htm
+,LRP039a,39.502,Culvert,Box culvert,23.2479719,90.9263327,,R140.lrps.htm
+,LRP040,40.44,Km Post,Chandpur 28 km,23.2485552,90.917166,,R140.lrps.htm
+,LRP040a,40.518,Culvert,Box culvert,23.2484997,90.9164444,,R140.lrps.htm
+,LRP040b,40.695,Rail Road Crossing,Rail Road Crossing,23.2483052,90.91475,,R140.lrps.htm
+,LRP040c,41.105,Culvert,Box culvert,23.2481663,90.9109722,,R140.lrps.htm
+,LRP041,41.43,Km Post,Chandpur 27 km,23.2478052,90.9078333,,R140.lrps.htm
+,LRP042,42.43,Km Post,Chandpur 26 km,23.2482497,90.8982497,,R140.lrps.htm
+,LRP042a,43.175,Culvert,Box culvert,23.2474719,90.891083,,R140.lrps.htm
+,LRP043,43.415,Km Post,Chandpur 25 km,23.2473886,90.8888052,,R140.lrps.htm
+,LRP043a,43.59,Culvert,Box culvert,23.2471941,90.8871386,,R140.lrps.htm
+,LRP043b,44.003,Bridge,Bridge start,23.2471941,90.8828327,,R140.lrps.htm
+,LRP043c,44.083,Bridge,Bridge end,23.2471108,90.8824716,,R140.lrps.htm
+,LRP044,44.415,Km Post,Chandpur 24 km,23.247083,90.8792493,,R140.lrps.htm
+,LRP044a,44.985,Culvert,Box culvert,23.2498052,90.8749993,,R140.lrps.htm
+,LRP045,45.365,Km Post,Chandpur 23 km,23.2507222,90.8714993,,R140.lrps.htm
+,LRP045a,45.575,Culvert,Box culvert,23.2508611,90.8694716,,R140.lrps.htm
+,LRP046,46.375,Km Post,Chandpur 22 km,23.2514722,90.8618611,,R140.lrps.htm
+,LRP046a,46.805,Bridge,Bridge start,23.2513056,90.8576389,,R140.lrps.htm
+,LRP046b,46.863,Bridge,Bridge end,23.25125,90.8571667,,R140.lrps.htm
+,LRP047,47.395,Km Post,Chandpur 21 km,23.2508611,90.8519722,,R140.lrps.htm
+,LRP047a,47.624,"Side Road, Right",Road to Ramganj (Z1422),23.2508611,90.8497774,,R140.lrps.htm
+,LRP047b,47.628,"Side Road, Left",Road to Kachua (Z1044),23.2508611,90.8497219,,R140.lrps.htm
+,LRP048,48.395,Km Post,Chandpur 20 km,23.2507222,90.8422219,,R140.lrps.htm
+,LRP048a,48.501,Bridge,Bridge start,23.2505278,90.8408886,,R140.lrps.htm
+,LRP048b,48.568,Bridge,Bridge end,23.2505,90.8406386,,R140.lrps.htm
+,LRP049,49.395,Km Post,Chandpur 19 km,23.2506389,90.8323604,,R140.lrps.htm
+,LRP049a,50.01,Culvert,Box culvert,23.25075,90.8263882,,R140.lrps.htm
+,LRP050,50.395,Km Post,Chandpur 18 km,23.2508056,90.8226382,,R140.lrps.htm
+,LRP050a,50.9,Culvert,Box culvert,23.2508611,90.8177216,,R140.lrps.htm
+,LRP050b,51.38,Culvert,Box culvert,23.2509444,90.813,,R140.lrps.htm
+,LRP051,51.395,Km Post,Chandpur 17 km,23.2509167,90.8129167,,R140.lrps.htm
+,LRP051a,51.72,Culvert,Box culvert,23.2508611,90.8097222,,R140.lrps.htm
+,LRP051b,52.045,Culvert,Box culvert,23.2508056,90.8065278,,R140.lrps.htm
+,LRP052,52.395,Km Post,Chandpur 16 km,23.2508056,90.8031667,,R140.lrps.htm
+,LRP052a,52.555,Culvert,Box culvert,23.2507778,90.8015833,,R140.lrps.htm
+,LRP052b,52.997,Rail Road Crossing,Rail Road Crossing,23.25075,90.8140833,,R140.lrps.htm
+,LRP052c,53.27,Culvert,Box culvert,23.2506111,90.7947219,,R140.lrps.htm
+,LRP053,53.395,Km Post,Chandpur 15 km,23.2505833,90.7935552,,R140.lrps.htm
+,LRP053a,54.245,"Side Road, Right",Road to Narayanpur(Z1482),23.2506111,90.7852497,,R140.lrps.htm
+,LRP054,54.395,Km Post,Km post missing,23.2505556,91.7837774,,R140.lrps.htm
+,LRP054a,55.365,Culvert,Box culvert,23.2511111,90.7909997,,R140.lrps.htm
+,LRP055,55.395,Km Post,Chandpur 13 km,23.2511389,90.7738604,,R140.lrps.htm
+,LRP055a,56.32,Culvert,Box culvert,23.2514444,90.7815271,,R140.lrps.htm
+,LRP056,56.395,Km Post,Chandpur 12 km,23.2514722,90.7641111,,R140.lrps.htm
+,LRP056a,56.913,Bridge,Bridge start,23.25175,90.7589167,,R140.lrps.htm
+,LRP056b,56.952,Bridge,Bridge end,23.2518056,90.7587222,,R140.lrps.htm
+,LRP057,57.395,Km Post,Km post missing,23.2525833,90.7546944,,R140.lrps.htm
+,LRP057a,57.455,Culvert,Box culvert,23.2526667,90.7540556,,R140.lrps.htm
+,LRP057b,58.34,Culvert,Box culvert,23.25475,90.7457774,,R140.lrps.htm
+,LRP058,58.405,Km Post,Chandpur 10 km,23.2549167,90.7450274,,R140.lrps.htm
+,LRP059,59.405,Km Post,Chandpur 9 km,23.2573889,90.7356386,,R140.lrps.htm
+,LRP059a,59.47,Culvert,Box culvert,23.2575,90.7350274,,R140.lrps.htm
+,LRP059b,60.315,Culvert,Box culvert,23.2594722,90.7271104,,R140.lrps.htm
+,LRP060,60.545,Km Post,Chandpur 8 km,23.2600556,90.7247493,,R140.lrps.htm
+,LRP061,61.405,Km Post,Chandpur 7 km,23.2635556,90.7173604,,R140.lrps.htm
+,LRP061a,61.56,Culvert,Box culvert,23.264,90.716,,R140.lrps.htm
+,LRP062,62.405,Km Post,Chandpur 6 km,23.2624722,90.7081111,,R140.lrps.htm
+,LRP062a,62.603,Culvert,Box culvert,23.2619167,90.7062222,,R140.lrps.htm
+,LRP063,63.405,Km Post,Chandpur 5 km,23.2602778,90.6986386,,R140.lrps.htm
+,LRP063a,63.653,"Side Road, Right",Road to Matlab(Z1402),23.2593333,90.6964997,,R140.lrps.htm
+,LRP063b,63.765,Culvert,Box culvert,23.2586667,90.6957219,,R140.lrps.htm
+,LRP064,64.405,Km Post,Chandpur 4 km,23.2544444,90.6914719,,R140.lrps.htm
+,LRP064a,64.97,Culvert,Box culvert,23.2496108,90.6895552,,R140.lrps.htm
+,LRP065,65.405,Km Post,Chandpur 3 km,23.2463052,90.6873052,,R140.lrps.htm
+,LRP065a,66.013,Culvert,Box culvert,23.242333,90.6833608,,R140.lrps.htm
+,LRP066,66.405,Km Post,Chandpur 2 km,23.2396386,90.6808327,,R140.lrps.htm
+,LRP066a,66.741,"Side Road, Right","R146, to Chandpur Town",23.2370552,90.6790549,,R140.lrps.htm
+,LRP066b,66.748,Rail Road Crossing,Rail Road Crossing,23.2309993,90.6800271,,R140.lrps.htm
+,LRP067,67.485,Km Post,Roypur 27 km,23.2304993,90.680166,,R140.lrps.htm
+,LRP067a,67.913,Bridge,Bridge start,23.2267771,90.680166,,R140.lrps.htm
+,LRP067b,68.167,Bridge,Bridge end,23.2246104,90.6794716,,R140.lrps.htm
+,LRP068,68.465,Km Post,Roypur 26 km,23.2222493,90.6802493,,R140.lrps.htm
+,LRP069,69.465,Km Post,Roypur 25 km,23.2142778,90.6837497,,R140.lrps.htm
+,LRP069a,69.835,Culvert,Box culvert,23.2113611,90.6853608,,R140.lrps.htm
+,LRP070,70.465,Km Post,Roypur 24 km,23.2070556,90.688833,,R140.lrps.htm
+,LRP070a,70.525,Cross Road,Intersection with Z1412,23.2065,90.6888886,,R140.lrps.htm
+,LRP070b,70.534,"Side Road, Right",Road to Harina Ferry Ghat (Z1403),23.2064444,90.6888608,,R140.lrps.htm
+,LRP070c,70.555,Bridge,Bridge start,23.20625,90.6888886,,R140.lrps.htm
+,LRP070d,70.582,Bridge,Bridge end,23.2060278,90.6889441,,R140.lrps.htm
+,LRP070e,71.103,Culvert,Box culvert,23.2014444,90.6897219,,R140.lrps.htm
+,LRP071,71.44,Km Post,Roypur 23 km,23.1986941,90.6908886,,R140.lrps.htm
+,LRP071a,72.36,Culvert,Box culvert,23.1919441,90.6954441,,R140.lrps.htm
+,LRP072,72.44,Km Post,Roypur 22 km,23.1914719,90.695583,,R140.lrps.htm
+,LRP072a,72.88,Culvert,Box culvert,23.1894997,90.6991941,,R140.lrps.htm
+,LRP073,73.395,Km Post,Roypur 21 km,23.1873886,90.7036667,,R140.lrps.htm
+,LRP074,74.395,Km Post,Roypur 20 km,23.1712216,90.7052222,,R140.lrps.htm
+,LRP074a,74.407,Culvert,Box culvert,23.1794438,90.70525,,R140.lrps.htm
+,LRP074b,74.985,Culvert,Box culvert,23.1763604,90.7091111,,R140.lrps.htm
+,LRP075,75.395,Km Post,Km post missing,23.1748882,90.7120556,,R140.lrps.htm
+,LRP075a,75.409,Culvert,Box culvert,23.1748604,90.7120833,,R140.lrps.htm
+,LRP076,76.405,Km Post,Roypur 18 km,23.1668604,90.7163889,,R140.lrps.htm
+,LRP077,77.395,Km Post,Km post missing,23.1599167,90.7222771,,R140.lrps.htm
+,LRP077a,77.647,Culvert,Box culvert,23.1578333,90.7231938,,R140.lrps.htm
+,LRP077b,78.11,Culvert,Box culvert,23.1538611,90.7239716,,R140.lrps.htm
+,LRP078,78.405,Km Post,Roypur 16 km,23.1513889,90.7250827,,R140.lrps.htm
+,LRP078a,78.967,Culvert,Box culvert,23.1469997,90.7276382,,R140.lrps.htm
+,LRP078b,79.204,"Side Road, Right",Road to Chandpur (R860),23.1449997,90.7283604,,R140.lrps.htm
+,LRP079,79.405,Km Post,Roypur 15 km,23.3099167,90.7289993,,R140.lrps.htm
+,LRP079a,79.51,Culvert,Box culvert,23.142333,90.7293049,,R140.lrps.htm
+,LRP080,80.405,Km Post,Km post broken,23.1361663,90.7345552,,R140.lrps.htm
+,LRP080a,80.565,Bridge,Bridge start,23.1352497,90.7357497,,R140.lrps.htm
+,LRP080b,80.667,Bridge,Bridge end,23.1345552,90.7363886,,R140.lrps.htm
+,LRP081,81.405,Km Post,Roypur 13 km,23.132666,90.7419719,,R140.lrps.htm
+,LRP082,82.405,Km Post,Km post missing,23.1290549,90.7512778,,R140.lrps.htm
+,LRP083,83.385,Km Post,Roypur 11 km,23.1219716,90.7561667,,R140.lrps.htm
+,LRP083a,84.385,Culvert,Box culvert,23.1167493,90.7587222,,R140.lrps.htm
+,LRP084,84.42,Km Post,Km post broken,23.1138889,90.7601944,,R140.lrps.htm
+,LRP084a,84.63,Culvert,Box culvert,23.1136389,90.7603056,,R140.lrps.htm
+,LRP084b,84.765,Culvert,Box culvert,23.1108611,90.7618056,,R140.lrps.htm
+,LRP085,85.375,Km Post,Roypur 9 km,23.1059722,90.7644444,,R140.lrps.htm
+,LRP085a,86.1,Culvert,Box culvert,23.0998052,90.7663056,,R140.lrps.htm
+,LRP085b,86.275,Culvert,Box culvert,23.0982219,90.7664722,,R140.lrps.htm
+,LRP086,86.375,Km Post,Roypur 8 km,23.0972774,90.7666111,,R140.lrps.htm
+,LRP086a,86.89,Culvert,Box culvert,23.0927219,90.7670827,,R140.lrps.htm
+,LRP087,87.385,Km Post,Roypur 7 km,23.0882497,90.7681938,,R140.lrps.htm
+,LRP087a,88.195,Culvert,Box culvert,23.0811938,90.769416,,R140.lrps.htm
+,LRP088,88.385,Km Post,Km post missing,23.0793882,90.7695549,,R140.lrps.htm
+,LRP088a,88.75,"Side Road, Left",Road to Fatchpur (Z1466),23.0763327,90.7707493,,R140.lrps.htm
+,LRP088b,89.4,Others,Laxmipur RHD Start,0,0,,R140.lrps.htm
+,LRP088b,89.4,Others,Laxmipur RHD Start,0,0,,R140.lrps.htm
+,LRP089,89.855,Km Post,Roypur 6 km,23.0755271,90.7711938,,R140.lrps.htm
+,LRP089a,89.873,Bridge,Bridge start,23.0753604,90.7712493,,R140.lrps.htm
+,LRP089b,89.885,Bridge,Bridge end,23.0752771,90.7712771,,R140.lrps.htm
+,LRP090,90.915,Km Post,Roypur 4 km,23.0666938,90.772166,,R140.lrps.htm
+,LRP091,91.915,Km Post,Roypur 3 km,23.0579167,90.7727771,,R140.lrps.htm
+,LRP091a,92.785,Bridge,Bridge start,23.0501667,90.7733327,,R140.lrps.htm
+,LRP091b,92.8,Bridge,Bridge end,23.0500278,90.7733882,,R140.lrps.htm
+,LRP092,92.915,Km Post,Roypur 2 km,23.0489997,90.7737493,,R140.lrps.htm
+,LRP092a,93.85,Bridge,Bridge start,23.0420552,90.7717493,,R140.lrps.htm
+,LRP092b,93.875,Bridge,Bridge end,23.0419163,90.7715549,,R140.lrps.htm
+,LRP093,93.925,Km Post,Roypur 1 km,23.0416386,90.7710827,,R140.lrps.htm
+,LRP093a,94.575,"Side Road, Left",Road to Clear Bhyrobi (Z1463)Intersection at R140 Saherbari Road,23.0366108,90.7681104,,R140.lrps.htm
+,LRP093b,94.576,"Side Road, Right",Road to Sarderbari (Z1472),23.0366108,90.7681104,,R140.lrps.htm
+,LRP094,94.925,Km Post,Information missing,23.033833,90.7667493,,R140.lrps.htm
+,LRP095,95.395,Km Post,Lakhmipur 15 km,23.0301938,92.7643889,,R140.lrps.htm
+,LRP095a,95.569,Bridge,Bridge start,23.0290827,90.7633889,,R140.lrps.htm
+,LRP095b,95.595,Bridge,Bridge end,23.0288882,90.76325,,R140.lrps.htm
+,LRP096,96.405,Km Post,Lakhmipur 14 km,23.0218882,90.7621111,,R140.lrps.htm
+,LRP096a,96.96,Culvert,Box culvert,23.0170549,90.7620556,,R140.lrps.htm
+,LRP097,97.39,Km Post,Lakhmipur 13 km,23.0051111,90.7625,,R140.lrps.htm
+,LRP098,98.39,Km Post,Lakhmipur 12 km,23.0049444,90.7655833,,R140.lrps.htm
+,LRP099,99.385,Km Post,Lakhmipur 11 km,22.9971108,90.7690827,,R140.lrps.htm
+,LRP099a,99.475,Culvert,Box culvert,22.9966663,90.7696382,,R140.lrps.htm
+,LRP100,100.405,Km Post,Lakhmipur 10 km,22.992083,90.7775271,,R140.lrps.htm
+,LRP100a,100.925,Culvert,Box culvert,22.9919997,90.782416,,R140.lrps.htm
+,LRP101,101.415,Km Post,Lakhmipur 9 km,22.9909163,90.7872774,,R140.lrps.htm
+,LRP101a,101.655,"Side Road, Left",Road to Roypur (Z1472),22.9895274,90.7888886,,R140.lrps.htm
+,LRP102,102.415,Km Post,Lakhmipur 8 km,22.9837774,90.7928886,,R140.lrps.htm
+,LRP103,103.405,Km Post,Lakhmipur 7 km,22.9755271,90.7958608,,R140.lrps.htm
+,LRP104,104.385,Km Post,Lakhmipur 6 km,22.9726382,90.8044722,,R140.lrps.htm
+,LRP105,105.435,Km Post,Lakhmipur 5 km,22.9659167,90.80975,,R140.lrps.htm
+,LRP105a,105.525,Culvert,Box culvert,22.9651111,90.8097778,,R140.lrps.htm
+,LRP106,106.435,Km Post,Km post missing,22.9568611,90.8091111,,R140.lrps.htm
+,LRP106a,106.893,Bridge,Bridge start,22.9527222,90.8089167,,R140.lrps.htm
+,LRP106b,106.922,Bridge,Bridge end,22.9525,90.8088889,,R140.lrps.htm
+,LRP107,107.4,Km Post,Lakhmipur 2 km,22.9482774,90.8086111,,R140.lrps.htm
+,LRP107a,107.576,"Side Road, Right",Road to Khasherhat (Z1463)Intersection with R140 Iterpull Road,22.9467497,90.8085833,,R140.lrps.htm
+,LRP107b,107.606,Culvert,Box culvert,22.9466941,90.8089722,,R140.lrps.htm
+,LRP107c,107.895,"Side Road, Right",Road to Maju Chowdhuari (N809),22.9463608,90.8136944,,R140.lrps.htm
+,LRP108,108.4,Km Post,Lakhmipur 2 km,22.9459719,90.8166938,,R140.lrps.htm
+,LRP108a,108.466,Culvert,Box culvert,22.9459441,90.8172493,,R140.lrps.htm
+,LRP108b,108.739,Bridge,Bridge start,22.9456108,90.8198327,,R140.lrps.htm
+,LRP108c,108.769,Bridge,Bridge end,22.945583,90.8201104,,R140.lrps.htm
+,LRP109,109.44,Km Post,Lakhmipur 1 km,22.9449719,90.8267493,,R140.lrps.htm
+,LRP109a,109.554,"Side Road, Right",Road to Lakhmipur (R145),22.9448052,90.828166,,R140.lrps.htm
+,LRP109b,110.175,"Side Road, Left",Road to Fatehpur (Z1422),22.9440274,90.8337774,,R140.lrps.htm
+,LRP110,110.46,Km Post,Begumganj 28 km,22.9429719,90.8364719,,R140.lrps.htm
+,LRP110a,110.563,"Side Road, Left",Road to Chatkhali (Z1510),22.9425274,90.8373608,,R140.lrps.htm
+,LRP110b,110.63,Bridge,Bridge start,22.942333,90.8379719,,R140.lrps.htm
+,LRP110c,110.866,Bridge,Bridge end,22.9421663,90.8384997,,R140.lrps.htm
+,LRP110d,111.451,"Side Road, Right",Road to Begumganj (Z1405),22.942083,90.8417497,,R140.lrps.htm
+,LRP110e,112,Culvert,Box culvert,22.942083,90.8446386,,R140.lrps.htm
+,LRP111,112.455,Km Post,Begumganj 27 km,22.9421386,90.8456663,,R140.lrps.htm
+,LRP112,112.456,Km Post,Begumganj 26 km,22.9420552,90.8553056,,R140.lrps.htm
+,LRP112a,113.01,Culvert,Box culvert,22.9416941,90.8604722,,R140.lrps.htm
+,LRP113,113.605,Km Post,Begumganj 25 km,22.9408886,90.8664722,,R140.lrps.htm
+,LRP113a,113.925,Culvert,Box culvert,22.9408886,90.8693882,,R140.lrps.htm
+,LRP113b,114.615,Culvert,Box culvert,22.9413608,90.8749716,,R140.lrps.htm
+,LRP114,114.825,Km Post,Feni 60 km,22.941583,90.876166,,R140.lrps.htm
+,LRP115,115.615,Km Post,Feni 59 km,22.9425274,90.8858608,,R140.lrps.htm
+,LRP115a,115.745,Culvert,Box culvert,22.9425552,90.8871108,,R140.lrps.htm
+,LRP116,116.185,Km Post,Feni 58 km,22.9426663,90.8954441,,R140.lrps.htm
+,LRP116a,116.6,Culvert,Box culvert,22.9419719,90.9008889,,R140.lrps.htm
+,LRP117,117.61,Km Post,Feni 57 km,22.9416386,90.9051389,,R140.lrps.htm
+,LRP117a,117.995,"Side Road, Right",Road to Daserhat (Z1432),22.9404441,90.9086944,,R140.lrps.htm
+,LRP117b,118.08,Bridge,Bridge start,22.9404441,90.9095,,R140.lrps.htm
+,LRP117c,118.118,Bridge,Bridge end,22.9404163,90.9098611,,R140.lrps.htm
+,LRP118,118.62,Km Post,Feni 56 km,22.9417219,90.9145556,,R140.lrps.htm
+,LRP119,119.621,Km Post,Feni 55 km,22.9439163,90.9238604,,R140.lrps.htm
+,LRP119a,119.985,Bridge,Bridge start,22.9440552,90.927416,,R140.lrps.htm
+,LRP119b,119.994,Bridge,Bridge end,22.944083,90.9274716,,R140.lrps.htm
+,LRP120,120.62,Km Post,Feni 54 km,22.9436941,90.933583,,R140.lrps.htm
+,LRP121,121.62,Km Post,Feni 53 km,22.9426941,90.9432774,,R140.lrps.htm
+,LRP121a,122.138,Culvert,Box culvert,22.9424719,90.9482219,,R140.lrps.htm
+,LRP122,122.56,Km Post,Feni 52 km,22.9416386,90.9530278,,R140.lrps.htm
+,LRP122a,122.63,Culvert,Box culvert,22.9399441,90.9619722,,R140.lrps.htm
+,LRP123,123.63,Km Post,Feni 51 km,22.9398608,90.9625,,R140.lrps.htm
+,LRP124,124.63,Km Post,Feni 50 km,22.9397497,90.9719716,,R140.lrps.htm
+,LRP124a,124.805,Culvert,Box culvert,22.9405274,90.9733327,,R140.lrps.htm
+,LRP124b,125.575,"Side Road, Right",Road to Maijdee(R143),22.9414163,90.9806104,,R140.lrps.htm
+,LRP125,125.68,Km Post,Feni 49 km,22.9413886,90.9815827,,R140.lrps.htm
+,LRP126,126.65,Km Post,Feni 48 km,22.944333,90.9903886,,R140.lrps.htm
+,LRP126a,126.78,"Side Road, Left",Road to Chatkhali (Z1426),22.9449441,90.991333,,R140.lrps.htm
+,LRP126b,127.441,Bridge,Bridge start,22.9473608,90.9970274,,R140.lrps.htm
+,LRP126c,127.65,Bridge,"Bridge end, RHD Noakhali Start",22.9474997,90.9974441,,R140.lrps.htm
+,LRP126c,127.65,Bridge,"Bridge end, RHD Noakhali Start",22.9474997,90.9974441,,R140.lrps.htm
+,LRP127,127.785,Km Post,Feni 47 km,22.9479997,90.9991663,,R140.lrps.htm
+,LRP128,128.645,Km Post,Feni 46 km,22.9493052,91.0087222,,R140.lrps.htm
+,LRP128a,128.83,Culvert,Box culvert,22.949333,91.0103889,,R140.lrps.htm
+,LRP129,129.645,Km Post,Km post missing,22.9480552,91.0015278,,R140.lrps.htm
+,LRP130,130.645,Km Post,Km post missing,22.9453886,91.0275549,,R140.lrps.htm
+,LRP130a,131.073,Bridge,Bridge start,22.9443886,90.0315271,,R140.lrps.htm
+,LRP130b,131.094,Bridge,Bridge end,22.9443886,91.0316938,,R140.lrps.htm
+,LRP131,131.655,Km Post,Feni 43 km,22.9441386,91.0372497,,R140.lrps.htm
+,LRP132,132.665,Km Post,Feni 42 km,22.9441108,91.0302493,,R140.lrps.htm
+,LRP132a,132.946,Bridge,Bridge start,22.9441663,91.0496386,,R140.lrps.htm
+,LRP132b,132.957,Bridge,Bridge end,22.9441663,91.0497219,,R140.lrps.htm
+,LRP133,133.665,Km Post,Km post missing,22.9435274,91.0567778,,R140.lrps.htm
+,LRP134,134.665,Km Post,Km post missing,22.9454441,91.0661944,,R140.lrps.htm
+,LRP134a,134.985,Culvert,Box culvert,22.9453608,91.0692771,,R140.lrps.htm
+,LRP135,135.64,Km Post,Feni 39 km,22.9452497,91.0756938,,R140.lrps.htm
+,LRP136,136.64,Km Post,Km post missing,22.9448886,91.0853052,,R140.lrps.htm
+,LRP137,137.615,Km Post,Feni 37 km,22.9449997,91.0947774,,R140.lrps.htm
+,LRP137a,138.335,Culvert,Box culvert,22.9445552,91.10175,,R140.lrps.htm
+,LRP138,138.615,Km Post,Km post missing,22.9447219,91.1045556,,R140.lrps.htm
+,LRPE,138.63,Others,Road End with Intersection at N104 & R142 (Begumganj Zero Point),22.9447774,91.1047222,,R140.lrps.htm
+,,,,,,,,R140.lrps.htm
+,,,,,,,,R140.lrps.htm

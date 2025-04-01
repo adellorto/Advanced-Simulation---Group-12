@@ -1,0 +1,71 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,Start of road from R211 at Akdaria,24.0808882,90.7333608,,R212.lrps.htm
+,LRP001,1.007,Km Post,Puradia 15 km,24.0895274,90.7351108,,R212.lrps.htm
+,LRP001a,1.198,Culvert,Box Culvert,24.091083,90.7344163,,R212.lrps.htm
+,LRP002,2.011,Km Post,Agarpur 22 km Puradia 14 km,24.0982497,90.7333608,,R212.lrps.htm
+,LRP002a,2.962,Culvert,Pipe Culvert,24.1066944,90.7498608,,R212.lrps.htm
+,LRP003,3.027,Km Post,Shekher bazar 6 km Agarpur 21 km,24.1071944,90.7333886,,R212.lrps.htm
+,LRP004,4.027,Km Post,Puradia 12 km Agarpur 20 km,24.1159444,90.7352219,,R212.lrps.htm
+,LRP004a,4.642,Culvert,Pipe Culvert,24.1211382,90.7361108,,R212.lrps.htm
+,LRP005,5.035,Km Post,Shekher bazar 4 km,24.124416,90.7373052,,R212.lrps.htm
+,LRP006,6.046,Km Post,Shekher bazar 3 km Puradia 9 km,24.1309993,90.7432219,,R212.lrps.htm
+,LRP006a,6.352,Culvert,Pipe Culvert,24.1330271,90.7432219,,R212.lrps.htm
+,LRP007,7.042,Km Post,Puradia 8 km,24.1391108,90.7470274,,R212.lrps.htm
+,LRP007a,8.021,Culvert,Pipe Culvert,24.1469997,90.7500556,,R212.lrps.htm
+,LRP008,8.042,Km Post,Info missing,24.1474997,90.7501667,,R212.lrps.htm
+,LRP008a,8.196,Bridge,Bridge start,24.1488886,90.7500556,,R212.lrps.htm
+,LRP008b,8.222,Bridge,Bridge end,24.1491108,90.7500556,,R212.lrps.htm
+,LRP008c,8.61,Culvert,Pipe Culvert,24.1445552,90.7568056,,R212.lrps.htm
+,LRP008d,8.892,Culvert,Pipe Culvert,24.1546111,90.7499163,,R212.lrps.htm
+,LRP009,9.07,Km Post,Info missing,24.1565556,90.7502778,,R212.lrps.htm
+,LRP009a,9.24,"Side Road, Left",Road to Chalakchar (Z2122),24.1580278,90.7506389,,R212.lrps.htm
+,LRP009b,9.754,Culvert,Pipe Culvert,24.1586667,90.7546389,,R212.lrps.htm
+,LRP010,10.209,Km Post,Info missing,24.1581111,90.7599444,,R212.lrps.htm
+,LRP010a,10.427,Culvert,Box Culvert,24.1578333,90.7620833,,R212.lrps.htm
+,LRP010b,11.151,Bridge,25.2m (manually),24.1566389,90.7689438,,R212.lrps.htm
+,LRP010c,11.177,Bridge,Bridge end,24.1565,90.769166,,R212.lrps.htm
+,LRP011,11.209,Km Post,Km post missing,24.1563333,90.7694438,,R212.lrps.htm
+,LRP011a,11.452,Culvert,Box Culvert,24.1558889,90.7705549,,R212.lrps.htm
+,LRP011b,11.81,Culvert,Pipe Culvert,24.1558056,90.7736938,,R212.lrps.htm
+,LRP011c,12.103,Culvert,Box Culvert,24.1569444,90.7775827,,R212.lrps.htm
+,LRP012,12.209,Km Post,Km post missing,24.1569722,90.7789716,,R212.lrps.htm
+,LRP012a,12.259,Culvert,Box Culvert,24.157,90.7793327,,R212.lrps.htm
+,LRP013,13.209,Km Post,Km post missing,24.1609722,90.7873608,,R212.lrps.htm
+,LRP013a,13.462,Culvert,Pipe Culvert,24.1611944,90.7881386,,R212.lrps.htm
+,LRP013b,14.12,Bridge,7.1m Manually,24.1616667,90.7961108,,R212.lrps.htm
+,LRP013c,14.127,Bridge,Bridge end,24.1616111,90.7961941,,R212.lrps.htm
+,LRP014,14.196,Km Post,Info missing,24.1613333,90.7966941,,R212.lrps.htm
+,LRP014a,14.762,Culvert,Pipe Culvert,24.1536111,90.7996386,,R212.lrps.htm
+,LRP014b,15.11,Culvert,Pipe Culvert,24.1583333,90.80275,,R212.lrps.htm
+,LRP015,15.201,Km Post,Agarpur 8 km Belabo 8 km,24.1584444,90.8053333,,R212.lrps.htm
+,LRP015a,15.396,"Side Road, Right",Road to Belabo (Z2121),24.1585278,90.8072778,,R212.lrps.htm
+,LRP015b,15.757,Bridge,260.6m (manually),24.1596944,90.8104722,,R212.lrps.htm
+,LRP015c,16.022,Bridge,Bridge end,24.1601667,90.813,,R212.lrps.htm
+,LRP015d,16.06,Bridge,Bridge start,24.1602222,90.8133333,,R212.lrps.htm
+,LRP015e,16.069,Bridge,Bridge end,24.16025,90.8134167,,R212.lrps.htm
+,LRP016,16.201,Km Post,Km post missing,24.1602778,90.8146389,,R212.lrps.htm
+,LRP016a,16.501,Culvert,Pipe Culvert,24.1599722,90.8154167,,R212.lrps.htm
+,LRP016b,16.521,Others,Start of Earth Road,24.1597778,90.817666,,R212.lrps.htm
+,LRP016c,16.677,Culvert,Box Culvert,24.1598056,90.819166,,R212.lrps.htm
+,LRP016d,17.109,Culvert,Box Culvert,24.1601944,90.8232493,,R212.lrps.htm
+,LRP017,17.201,Km Post,Km post missing,24.1605833,90.8239993,,R212.lrps.htm
+,LRP017a,17.245,Bridge,Bridge under constnuction,24.1607778,90.8243327,,R212.lrps.htm
+,LRP017b,17.414,Bridge,Bridge end/ Start of Kishoreganj road Division,24.1615556,90.8256938,,R212.lrps.htm
+,LRP017b,17.414,Bridge,Bridge end/ Start of Kishoreganj road Division,24.1615556,90.8256938,,R212.lrps.htm
+,LRP017c,17.812,Bridge,Bridge start,24.1632778,90.8289993,,R212.lrps.htm
+,LRP017d,17.819,Bridge,Bridge end,24.1632778,90.8290271,,R212.lrps.htm
+,LRP017e,17.919,Others,Start of Bituminous Road,24.1632778,90.8290271,,R212.lrps.htm
+,LRP017f,18.047,Bridge,Bridge start,24.1640278,90.8310271,,R212.lrps.htm
+,LRP017g,18.059,Bridge,Bridge end,24.1640278,90.8310827,,R212.lrps.htm
+,LRP018,18.201,Km Post,Km post missing,24.1642778,90.8324993,,R212.lrps.htm
+,LRP019,19.201,Km Post,Km post missing,24.1693049,90.8380552,,R212.lrps.htm
+,LRP019a,19.294,Culvert,Box Culvert,24.169666,90.8389163,,R212.lrps.htm
+,LRP019b,19.516,Bridge,Bridge start,24.1703327,90.8409441,,R212.lrps.htm
+,LRP019c,19.566,Bridge,Bridge end,24.170416,90.8414163,,R212.lrps.htm
+,LRP020,20.201,Km Post,Km post missing,24.1718049,90.8474997,,R212.lrps.htm
+,LRP021,21.201,Km Post,Km post missing,24.1745271,90.8566389,,R212.lrps.htm
+,LRP022,22.201,Km Post,Km post missing,24.1781938,90.8655833,,R212.lrps.htm
+,LRP023,23.201,Km Post,Km post missing,24.1831104,90.8739438,,R212.lrps.htm
+,LRPE,23.409,Others,End of road intersecting R360 at Agarpur.,24.1842497,90.8757216,,R212.lrps.htm
+,,,,,,,,R212.lrps.htm
+,,,,,,,,R212.lrps.htm

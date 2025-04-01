@@ -1,0 +1,53 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,"Start from N5 at Palashbari,in front of dak bangla market, chowmataha.",25.2815549,89.3533333,,R555.lrps.htm
+,LRPSa,0.496,Culvert,Box Culvert,25.284583,89.3565833,,R555.lrps.htm
+,LRP001,0.84,Km Post,Gaibandah 20 Km,25.2856386,89.35975,,R555.lrps.htm
+,LRP002,1.98,Km Post,Gaibandah 19 Km,26.2881941,89.370916,,R555.lrps.htm
+,LRP003,2.98,Km Post,Km post missing,25.2904719,89.380916,,R555.lrps.htm
+,LRP004,3.98,Km Post,Km post missing,25.2926941,89.3906941,,R555.lrps.htm
+,LRP004a,4.205,Culvert,Box Culvert,25.2930274,89.3921386,,R555.lrps.htm
+,LRP004b,4.65,Culvert,Box Culvert,25.2937219,89.3963052,,R555.lrps.htm
+,LRP005,4.9,Km Post,Km post broken,25.2946108,89.3987219,,R555.lrps.htm
+,LRP005a,4.954,Culvert,Box Culvert start,25.2947219,89.3990274,,R555.lrps.htm
+,LRP005b,4.969,Culvert,Bo Culvert end,25.2946941,89.3991663,,R555.lrps.htm
+,LRP005c,5.747,Culvert,Box Culvert,25.2944163,89.4068611,,R555.lrps.htm
+,LRP006,5.98,Km Post,Gaibandha 15 km,25.2956663,89.4091667,,R555.lrps.htm
+,LRP007,6.832,Km Post,Gaibandah 14 Km,25.2999719,89.4154722,,R555.lrps.htm
+,LRP007a,7.032,Bridge,Start of Bridge(RCC),25.3005278,89.4174438,,R555.lrps.htm
+,LRP007b,7.059,Bridge,End of Bridge(RCC),25.3005833,89.4176938,,R555.lrps.htm
+,LRP008,7.872,Km Post,Inform missing,25.3019444,89.4256104,,R555.lrps.htm
+,LRP008a,8.378,Culvert,Slab culvert,25.3027778,89.4304993,,R555.lrps.htm
+,LRP008b,8.765,Bridge,B . B start,25.3034167,89.4342774,,R555.lrps.htm
+,LRP008c,8.805,Bridge,B. B end,25.3034444,89.4346108,,R555.lrps.htm
+,LRP009,8.872,Km Post,Km post broken,25.3036944,89.4354163,,R555.lrps.htm
+,LRP010,9.872,Km Post,Km post missing,25.3053889,89.4454997,,R555.lrps.htm
+,LRP010a,9.97,Culvert,Box Culvert,25.3053611,89.4460552,,R555.lrps.htm
+,LRP011,10.758,Km Post,Gaibandah 10 Km,25.3066111,89.4537222,,R555.lrps.htm
+,LRP011a,11.252,Culvert,Box culvert,25.3075278,89.4585556,,R555.lrps.htm
+,LRP012,11.99,Km Post,Gaibandah 8 Km,25.3100278,89.46575,,R555.lrps.htm
+,LRP013,12.99,Km Post,Gaibandah 7 Km,25.3133056,89.4749993,,R555.lrps.htm
+,LRP013a,13.725,Bridge,Start of Bidge,25.3149722,89.4819993,,R555.lrps.htm
+,LRP013b,13.738,Bridge,End of Bridge,25.3149722,89.4820827,,R555.lrps.htm
+,LRP014,13.99,Km Post,Km post missing,25.3155556,89.4844719,,R555.lrps.htm
+,LRP014a,14.54,Bridge,Start of Bridge(RCC),25.3167493,89.4896941,,R555.lrps.htm
+,LRP014b,14.552,Bridge,End of Bridge(RCC),25.3168049,89.4898052,,R555.lrps.htm
+,LRP015,14.825,Km Post,Gaibandah 6 Km,25.3173882,89.4923052,,R555.lrps.htm
+,LRP016,15.774,Km Post,Gaibandah 5 Km,25.3197493,89.5011944,,R555.lrps.htm
+,LRP016a,16.508,Culvert,Box Culvert,25.3227493,89.5075278,,R555.lrps.htm
+,LRP017,16.774,Km Post,Km post missing,25.323916,89.5101944,,R555.lrps.htm
+,LRP017a,16.9,"Side Road, Right",Right Z 5558,25.3260827,89.5192771,,R555.lrps.htm
+,LRP018,17.774,Km Post,Km post missing,25.3261382,89.5194716,,R555.lrps.htm
+,LRP018a,18.4,Culvert,Cross drain,25.3277493,89.525666,,R555.lrps.htm
+,LRP019,18.774,Km Post,Km post missing,25.3283604,89.5294438,,R555.lrps.htm
+,LRP019a,18.943,Culvert,Box Culvert,25.3284993,89.531166,,R555.lrps.htm
+,LRP020,19.774,Km Post,Km post missing,25.3293049,89.5393886,,R555.lrps.htm
+,LRP020a,19.957,"Side Road, Left",Left Z 5553,25.3294438,89.540833,,R555.lrps.htm
+,LRP020b,20.155,"Side Road, Right",Right Z5554,25.3295271,89.5426663,,R555.lrps.htm
+,LRP020c,20.175,Rail Road Crossing,Rail road crossing,25.3296382,89.5429163,,R555.lrps.htm
+,LRP020d,20.28,Culvert,Cross drain,25.3298327,89.5436108,,R555.lrps.htm
+,LRP020e,20.524,Monument,Monument,25.3300271,89.5459997,,R555.lrps.htm
+,LRP020f,20.67,Culvert,Cross drain,25.3306104,89.5472219,,R555.lrps.htm
+,LRP021,20.774,Km Post,Km post missing,25.3310271,89.5481663,,R555.lrps.htm
+,LRPE,21.015,Others,"End at Zehikhana more, at intersection & Z5613,Z5555 , Z 5552 at Gaibandah .",25.3309438,89.5501111,,R555.lrps.htm
+,,,,,,,,R555.lrps.htm
+,,,,,,,,R555.lrps.htm

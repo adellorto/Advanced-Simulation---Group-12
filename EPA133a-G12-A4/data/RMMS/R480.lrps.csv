@@ -1,0 +1,63 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,The roads start from N4 at Elenga.,24.3348052,89.9248604,,R480.lrps.htm
+,LRP001,1,Km Post,Km post missing,24.3399441,89.9207493,,R480.lrps.htm
+,LRP001a,1.516,Cross Road,"Crossing N405,Elenga-Nalka-Hatikamrul road",24.3443886,89.9210549,,R480.lrps.htm
+,LRP001b,1.822,Bridge,Bridge start,24.3468608,89.9221938,,R480.lrps.htm
+,LRP001c,1.849,Bridge,Bridge end,24.3471108,89.9223049,,R480.lrps.htm
+,LRP002,2.04,Km Post,Bhuapur 15 km,24.3488608,89.9229993,,R480.lrps.htm
+,LRP002a,2.095,Rail Road Crossing,Rail Crossing,24.3492774,89.9232771,,R480.lrps.htm
+,LRP002b,2.228,Bridge,Bridge start,24.3504444,89.9235549,,R480.lrps.htm
+,LRP002c,2.283,Bridge,Bridge end,24.3509167,89.9237216,,R480.lrps.htm
+,LRP003,3.07,Km Post,Km post broken,24.3578333,89.9258882,,R480.lrps.htm
+,LRP003a,3.508,Culvert,Box Culvert,24.3616111,89.9270827,,R480.lrps.htm
+,LRP003b,3.696,Bridge,Bridge start,24.3631667,89.9276382,,R480.lrps.htm
+,LRP003c,3.728,Bridge,Bridge end,24.3634167,89.9277216,,R480.lrps.htm
+,LRP004,4.06,Km Post,Bhuapur 13 km,24.3662778,89.9287216,,R480.lrps.htm
+,LRP005,5.075,Km Post,Bhuapur 12 km,24.3734716,89.9342219,,R480.lrps.htm
+,LRP005a,5.27,Bridge,Bridge start,24.3751104,89.9344719,,R480.lrps.htm
+,LRP005b,5.321,Bridge,Bridge end,24.3755549,89.9345274,,R480.lrps.htm
+,LRP006,6.075,Km Post,Bhuapur 11km,24.3799716,89.9302771,,R480.lrps.htm
+,LRP006a,6.417,Bridge,Bridge start,24.3818604,89.9276382,,R480.lrps.htm
+,LRP006b,6.434,Bridge,Bridge end,24.3819438,89.9274993,,R480.lrps.htm
+,LRP006c,7.068,Bridge,Bridge start,24.3857497,89.9229993,,R480.lrps.htm
+,LRP006d,7.085,Bridge,Bridge end,24.3858052,89.9228882,,R480.lrps.htm
+,LRP007,7.1,Km Post,Bhuapur 10 km,24.3858886,89.9226938,,R480.lrps.htm
+,LRP008,8.095,Km Post,Bhuapur 9 km,24.3931386,89.9171938,,R480.lrps.htm
+,LRP008a,9.049,Bridge,Bridge start,24.4007778,89.9133056,,R480.lrps.htm
+,LRP008b,9.064,Bridge,Bridge end,24.4008889,89.91325,,R480.lrps.htm
+,LRP009,9.105,Km Post,Bhuapur 8 km,24.4012778,89.9131389,,R480.lrps.htm
+,LRP009a,9.77,Bridge,Bridge start,24.4066111,89.9104167,,R480.lrps.htm
+,LRP009b,9.824,Bridge,Bridge end,24.4069722,89.9101389,,R480.lrps.htm
+,LRP010,10.105,Km Post,Km post missing,24.4086667,89.908,,R480.lrps.htm
+,LRP010a,10.771,Bridge,Bridge start,24.4127778,89.9037222,,R480.lrps.htm
+,LRP010b,10.802,Bridge,Bridge end,24.4130278,89.9035278,,R480.lrps.htm
+,LRP011,11.105,Km Post,Km post missing,24.4146667,89.9013889,,R480.lrps.htm
+,LRP012,12.105,Km Post,Bhuapur 5 km,24.4194716,89.893583,,R480.lrps.htm
+,LRP013,13.105,Km Post,Bhuapur 4 km,24.4312216,89.8879163,,R480.lrps.htm
+,LRP013a,13.537,Bridge,Bridge start,24.4312216,89.8879163,,R480.lrps.htm
+,LRP013b,13.581,Bridge,Bridge end,24.4315549,89.8877219,,R480.lrps.htm
+,LRP014,14.105,Km Post,Bhuapur 3 km,24.4359997,89.8856941,,R480.lrps.htm
+,LRP014a,14.585,Bridge,Bridge start,24.4401941,89.8849163,,R480.lrps.htm
+,LRP014b,14.624,Bridge,Bridge end,24.4405552,89.8849163,,R480.lrps.htm
+,LRP015,15.115,Km Post,Bhuapur 2 km,24.4445552,89.8830827,,R480.lrps.htm
+,LRP015a,15.915,"Side Road, Right","Z3037,Bharadoba-Ghatail-Bhuapur road",24.4507778,89.8796938,,R480.lrps.htm
+,LRP015b,16.024,Bridge,Bridge start,24.4518056,89.8791382,,R480.lrps.htm
+,LRP015c,16.066,Bridge,Bridge end,24.4521111,89.878916,,R480.lrps.htm
+,LRP016,16.115,Km Post,Km post missing,24.4525833,89.878666,,R480.lrps.htm
+,LRP016a,16.863,"Side Road, Left","Z4801,Bhuapur-Tarakandi road",24.4585,89.8751382,,R480.lrps.htm
+,LRP017,17.03,Km Post,Km post missing,24.4589167,89.8738882,,R480.lrps.htm
+,LRP017a,17.782,Rail Road Crossing,Rail crossing,24.4609722,89.8669716,,R480.lrps.htm
+,LRP018,18.164,Km Post,Char Gabsar 5 km,24.4605278,89.8632222,,R480.lrps.htm
+,LRP018a,18.253,Culvert,Box Culvert,24.4603333,89.8619167,,R480.lrps.htm
+,LRP018b,18.836,Culvert,Box Culvert,24.4597222,89.8568611,,R480.lrps.htm
+,LRP018c,19.092,Culvert,Box Culvert,24.4594167,89.8543056,,R480.lrps.htm
+,LRP019,19.194,Km Post,Char Gabsar 4 km,24.4593056,89.8534167,,R480.lrps.htm
+,LRP019a,19.873,Bridge,Start of Baily Bridge,24.4583611,89.8468886,,R480.lrps.htm
+,LRP019b,19.892,Bridge,End of Baily Bridge,24.4583333,89.8444441,,R480.lrps.htm
+,LRP020,20.196,Km Post,Char Gabsar 3 km,24.4580278,89.8413608,,R480.lrps.htm
+,LRP020a,20.34,Culvert,Box Culvert,24.4578056,89.8412774,,R480.lrps.htm
+,LRP021,21.196,Km Post,Km post missing,24.4557222,89.8346941,,R480.lrps.htm
+,LRP022,22.196,Km Post,Km post missing,24.4508611,89.8258327,,R480.lrps.htm
+,LRPE,22.402,Others,The road ends near the Jamuna River Bank at Gobindashi,24.4510833,89.8242771,,R480.lrps.htm
+,,,,,,,,R480.lrps.htm
+,,,,,,,,R480.lrps.htm

@@ -1,0 +1,102 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,Road Start at Intersection of N 105 & R 114 at Nayapur.,23.7314716,90.5878608,,R114.lrps.htm
+,LRP001,1,Km Post,Km post missing,23.7376941,90.5950274,,R114.lrps.htm
+,LRP001a,1.31,"Side Road, Left",Intersection with Z1090 (Borpa-Mahajanpur Road),23.7396663,90.597333,,R114.lrps.htm
+,LRP001b,1.748,Bridge,Bridge start,23.7423886,90.6004167,,R114.lrps.htm
+,LRP001c,1.763,Bridge,Bridge end,23.7424719,90.6005,,R114.lrps.htm
+,LRP002,2,Km Post,Km post missing,23.743833,90.6020556,,R114.lrps.htm
+,LRP003,2.379,Km Post,Info missing,23.7461663,90.6047778,,R114.lrps.htm
+,LRP004,3.41,Km Post,Info missing,23.7525278,90.6120833,,R114.lrps.htm
+,LRP004a,3.474,Bridge,Bridge start,23.7525,90.6125833,,R114.lrps.htm
+,LRP004b,3.512,Bridge,Bridge end,23.7527778,90.6127778,,R114.lrps.htm
+,LRP005,4.41,Km Post,Km post missing,23.7584444,90.6189716,,R114.lrps.htm
+,LRP005a,4.985,Culvert,Box Culvert,23.762,90.6229993,,R114.lrps.htm
+,LRP006,5.231,Km Post,Norshingdi 23 km Ariahazar 4 km,23.7635556,90.6247493,,R114.lrps.htm
+,LRP007,6.235,Km Post,Norshingdi 22 km Araihazar 3 km,23.7696938,90.6318049,,R114.lrps.htm
+,LRP008,7.247,Km Post,Norshingdi 21 km Araihazar 2 km,23.7759438,90.6389441,,R114.lrps.htm
+,LRP008a,7.823,Culvert,Box Culvert,23.7795549,90.6429997,,R114.lrps.htm
+,LRP009,8.265,Km Post,Norshingdi 20 km Araihazar 1 km,23.7822493,90.6461108,,R114.lrps.htm
+,LRP010,9.265,Km Post,Km post missing,23.7886386,90.6533056,,R114.lrps.htm
+,LRP010a,9.403,Cross Road,Intersection with R 203 (Bhulta-Ramchandri road) at Araihazar.,23.7894163,90.6541667,,R114.lrps.htm
+,LRP010b,9.924,Culvert,Box culvert,23.7926108,90.6578056,,R114.lrps.htm
+,LRP011,10.265,Km Post,Km post missing,23.794833,90.6603611,,R114.lrps.htm
+,LRP011a,10.69,Bridge,Bridge start,23.7973886,90.6632222,,R114.lrps.htm
+,LRP011b,10.738,Bridge,Bridge end,23.7977497,90.6636389,,R114.lrps.htm
+,LRP012,11.264,Km Post,Infor .missing,23.8010278,90.6673327,,R114.lrps.htm
+,LRP012a,11.293,Culvert,Box Culvert,23.8023889,90.6687771,,R114.lrps.htm
+,LRP013,12.264,Km Post,Km post missing,23.8068611,90.6747216,,R114.lrps.htm
+,LRP013a,13.165,Culvert,Box Culvert,23.8095278,90.6829993,,R114.lrps.htm
+,LRP014,13.264,Km Post,Km post missing,23.8098333,90.6839441,,R114.lrps.htm
+,LRP014a,14.073,Culvert,Box Culvert,23.8145833,90.6894163,,R114.lrps.htm
+,LRP015,14.236,Km Post,Info missing,23.816,90.6900552,,R114.lrps.htm
+,LRP015a,15.237,Others,RHD Narsingdi Start,0,0,,R114.lrps.htm
+,LRP015a,15.237,Others,RHD Narsingdi Start,0,0,,R114.lrps.htm
+,LRP016,15.257,Km Post,Info missing,23.8244438,90.6939441,,R114.lrps.htm
+,LRP017,16.257,Km Post,Norshingdi 13 km,23.8327216,90.6911108,,R114.lrps.htm
+,LRP017a,16.435,Bridge,Bridge start,23.8340274,90.6903052,,R114.lrps.htm
+,LRP017b,16.678,Bridge,Bridge end,23.8344441,90.6900552,,R114.lrps.htm
+,LRP018,17.294,Km Post,Norshingdi 12 km,23.8407497,90.6866108,,R114.lrps.htm
+,LRP019,18.316,Km Post,Norshingdi 11 km,23.8491386,90.6829716,,R114.lrps.htm
+,LRP020,19.328,Km Post,Norshingdi 10 km,23.8579444,90.6807216,,R114.lrps.htm
+,LRP020a,19.967,Culvert,Box Culvert,23.8635556,90.6803049,,R114.lrps.htm
+,LRP021,20.351,Km Post,Norshingdi 9 km,23.8668049,90.681416,,R114.lrps.htm
+,LRP021a,21.142,Culvert,Box Culvert,23.8735827,90.6837497,,R114.lrps.htm
+,LRP022,21.291,Km Post,Norshingdi 8 km,23.8748604,90.6841663,,R114.lrps.htm
+,LRP022a,21.729,Culvert,Box Culvert,23.8785827,90.6854719,,R114.lrps.htm
+,LRP023,22.308,Km Post,Norshingdi 7 km,23.8834719,90.6871941,,R114.lrps.htm
+,LRP023a,23.057,Bridge,Bridge start,23.8897774,90.6893608,,R114.lrps.htm
+,LRP023b,23.08,Bridge,Bridge end,23.8899441,90.6894163,,R114.lrps.htm
+,LRP024,23.337,Km Post,Norshingdi 6 km,23.8921108,90.6901663,,R114.lrps.htm
+,LRP025,24.349,Km Post,Norshingdi 5 km,23.9007222,90.6931386,,R114.lrps.htm
+,LRP025a,24.41,Culvert,Box Culvert,23.90125,90.693333,,R114.lrps.htm
+,LRP026,25.36,Km Post,Norshingdi 4 km,23.9088056,90.6973608,,R114.lrps.htm
+,LRP027,25.789,Km Post,Norshingdi 3 km,23.9121111,90.699583,,R114.lrps.htm
+,LRP027a,25.92,Cross Road,Intersection with R 210 at Shahepratap,23.9130833,90.7002222,,R114.lrps.htm
+,LRP028,26.789,Km Post,Km post missing,23.9197493,90.7047778,,R114.lrps.htm
+,LRP029,27.789,Km Post,Km post missing,23.9275549,90.71,,R114.lrps.htm
+,LRP029a,28.583,Culvert,Box Culvert,23.9308604,90.7163333,,R114.lrps.htm
+,LRP030,28.789,Km Post,Km post missing,23.9309438,90.7183882,,R114.lrps.htm
+,LRP030a,29.414,Cross Road,Right R210 to Shahepratap,23.9313049,90.7245271,,R114.lrps.htm
+,LRP030b,29.434,Others,Earthen road start,23.931166,90.7246938,,R114.lrps.htm
+,LRP030c,29.583,Culvert,Box Culvert,23.9311938,90.7262216,,R114.lrps.htm
+,LRP031,29.789,Km Post,Km post missing,23.9311938,90.7282493,,R114.lrps.htm
+,LRP031a,30.725,Bridge,Start of Bridge,23.9314438,90.7376108,,R114.lrps.htm
+,LRP032,30.789,Km Post,Km post missing,23.9314438,90.7379719,,R114.lrps.htm
+,LRP032a,30.795,Bridge,End of Bridge,23.9314716,90.7380552,,R114.lrps.htm
+,LRP033,31.789,Km Post,Km post missing,23.9317771,90.7471108,,R114.lrps.htm
+,LRP033a,32.314,Bridge,Start of Bridge ( Under construction),23.931916,90.7528611,,R114.lrps.htm
+,LRP033b,32.444,Bridge,End of Bridge (Under construction),23.931916,90.7535556,,R114.lrps.htm
+,LRP034,32.789,Km Post,Km post missing,23.9322216,90.7569167,,R114.lrps.htm
+,LRP035,33.789,Km Post,Km post missing,23.9341941,90.7666111,,R114.lrps.htm
+,LRP036,34.789,Km Post,Km post missing,23.936833,90.7757771,,R114.lrps.htm
+,LRP036a,34.927,Bridge,Start of Bridge,23.9373886,90.7769438,,R114.lrps.htm
+,LRP036b,34.952,Bridge,End of Bridge,23.9377219,90.7773327,,R114.lrps.htm
+,LRP036c,35.547,Others,Start Bituminous road,23.9409997,90.781916,,R114.lrps.htm
+,LRP037,35.789,Km Post,Km post missing,23.9424163,90.783833,,R114.lrps.htm
+,LRP037a,36.127,Bridge,Start of Bridge,23.9441941,90.7864997,,R114.lrps.htm
+,LRP037b,36.152,Bridge,End fo Bridge,23.9443886,90.7867774,,R114.lrps.htm
+,LRP038,36.789,Km Post,Km post missing,23.9479997,90.7916108,,R114.lrps.htm
+,LRP038a,37.081,Culvert,Box Culvert,23.9496663,90.793833,,R114.lrps.htm
+,LRP039,37.789,Km Post,Km post missing,23.9535278,90.7992497,,R114.lrps.htm
+,LRP039a,38.324,Culvert,Pipe Culvert,23.9565556,90.8034444,,R114.lrps.htm
+,LRP040,38.789,Km Post,Km post missing,23.9592778,90.8071111,,R114.lrps.htm
+,LRP040a,38.847,Culvert,Pipe Culvert,23.9595278,90.8074722,,R114.lrps.htm
+,LRP040b,39.591,Culvert,Box Culvert,23.9633056,90.8135278,,R114.lrps.htm
+,LRP041,39.789,Km Post,Km post missing,23.9642778,90.8151944,,R114.lrps.htm
+,LRP041a,40.048,Others,Start Earthen road,23.9654722,90.8172771,,R114.lrps.htm
+,LRP042,40.789,Km Post,Km post missing,23.969166,90.823666,,R114.lrps.htm
+,LRP042a,41.391,Culvert,Box Culvert,23.9719716,90.8286104,,R114.lrps.htm
+,LRP042b,41.45,Others,Bituminous road start,23.9722771,90.8290827,,R114.lrps.htm
+,LRP043,41.789,Km Post,Km post missing,23.9738882,90.831916,,R114.lrps.htm
+,LRP043a,42.191,Culvert,Box Culvert,23.9757771,90.8353052,,R114.lrps.htm
+,LRP044,42.789,Km Post,Km post missing,23.9786938,90.8404163,,R114.lrps.htm
+,LRP044a,42.924,Bridge,Start of Bridge,23.9792493,90.8415552,,R114.lrps.htm
+,LRP044b,42.949,Bridge,End of Bridge/ start Earthen road,23.9794438,90.8417774,,R114.lrps.htm
+,LRP045,43.789,Km Post,Km post missing,23.9834719,90.8486941,,R114.lrps.htm
+,LRP045a,44.163,Culvert,Box Culvert,23.9851941,90.8518889,,R114.lrps.htm
+,LRP045b,44.437,Others,Start of Bituminous road,23.9867219,90.8540556,,R114.lrps.htm
+,LRP046,44.789,Km Post,Km post missing,23.9883052,90.8571389,,R114.lrps.htm
+,LRP047,45.789,Km Post,Km post missing,23.9921941,90.8658333,,R114.lrps.htm
+,LRPE,46.436,Others,End of Road at Raipura and intersect with Z2041,23.9942774,90.8717771,,R114.lrps.htm
+,,,,,,,,R114.lrps.htm
+,,,,,,,,R114.lrps.htm

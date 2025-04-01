@@ -1,0 +1,136 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,Road start from N2 at Kutra para more Sarail,24.0576389,91.1150556,,R220.lrps.htm
+,LRPSa,0.082,Bridge,Bridge start,24.0583611,91.1161944,,R220.lrps.htm
+,LRPSb,0.136,Bridge,Bridge end,24.0588333,91.1151667,,R220.lrps.htm
+,LRPSc,0.96,Culvert,Box Culvert,24.0659444,91.1171104,,R220.lrps.htm
+,LRP001,1,Km Post,Nasirnagar 18 km,24.0663056,91.1169993,,R220.lrps.htm
+,LRP002,2,Km Post,Nasirnagar 17 km,24.0749716,91.1178327,,R220.lrps.htm
+,LRP002a,2.11,Culvert,Box Culvert,24.0759716,91.1179438,,R220.lrps.htm
+,LRP002b,2.735,Culvert,Box Culvert,24.0815271,91.1181938,,R220.lrps.htm
+,LRP003,3,Km Post,Nasirnagar 16 km,24.083833,91.1188882,,R220.lrps.htm
+,LRP003a,3.34,Culvert,BoxCulvert,24.086833,91.1193604,,R220.lrps.htm
+,LRP004,3.965,Km Post,Nasirnagar 15 km,24.0924441,91.1198604,,R220.lrps.htm
+,LRP004a,4.405,Culvert,Box Culvert,24.0957219,91.1207493,,R220.lrps.htm
+,LRP005,5.015,Km Post,Nasirnagar 14 km,24.101,91.122916,,R220.lrps.htm
+,LRP006,6.015,Km Post,Nasirnagar 13 km,24.1093611,91.1263049,,R220.lrps.htm
+,LRP006a,6.53,Culvert,Box Culvert,24.1137222,91.127916,,R220.lrps.htm
+,LRP007,7.015,Km Post,Nasirnagar 12 km,24.1176938,91.1300549,,R220.lrps.htm
+,LRP007a,7.603,Bridge,Bridge start,24.122416,91.1325271,,R220.lrps.htm
+,LRP007b,7.756,Bridge,Bridge end,24.123666,91.1331382,,R220.lrps.htm
+,LRP008,8.015,Km Post,Nasirnagar 11 km,24.1258882,91.1341663,,R220.lrps.htm
+,LRP009,9.015,Km Post,Nasirnagar 10 km,24.1336663,91.1390552,,R220.lrps.htm
+,LRP009a,9.461,Bridge,Bridge start,24.1361108,91.1422497,,R220.lrps.htm
+,LRP009b,9.556,Bridge,Bridge end,24.1363052,91.1431663,,R220.lrps.htm
+,LRP010,10.015,Km Post,Nasirnagar 9 km,24.1394441,91.1458886,,R220.lrps.htm
+,LRP010a,10.083,Culvert,Box Culvert,24.1399441,91.1462219,,R220.lrps.htm
+,LRP011,11.015,Km Post,Nasirnagar 8 km,24.1474441,91.1502778,,R220.lrps.htm
+,LRP011a,11.163,Culvert,Box Culvert,24.1486108,91.1508889,,R220.lrps.htm
+,LRP012,12.015,Km Post,Nasirnagar 7 km,24.1554167,91.1548611,,R220.lrps.htm
+,LRP012a,12.249,Culvert,Box Culvert,24.1573056,91.1558611,,R220.lrps.htm
+,LRP012b,12.85,Culvert,Box Culvert,24.1619722,91.1590833,,R220.lrps.htm
+,LRP013,13.015,Km Post,Nasirnagar 6 km,24.1631389,91.1596389,,R220.lrps.htm
+,LRP013a,13.6,Culvert,Box Culvert,24.166916,91.1636111,,R220.lrps.htm
+,LRP013b,13.8,Culvert,Box Culvert,24.1681938,91.1649722,,R220.lrps.htm
+,LRP014,13.995,Km Post,Km post Broken,24.1694993,91.1663056,,R220.lrps.htm
+,LRP014a,14.19,Culvert,Box Culvert,24.1707493,91.1675549,,R220.lrps.htm
+,LRP014b,14.85,Culvert,Box Culvert,24.1746938,91.1724438,,R220.lrps.htm
+,LRP015,15.025,Km Post,Info missing,24.1757771,91.1737771,,R220.lrps.htm
+,LRP015a,15.785,Bridge,Bridge start,24.1809438,91.1785271,,R220.lrps.htm
+,LRP015b,15.84,Bridge,Bridge end,24.181166,91.1788604,,R220.lrps.htm
+,LRP016,16.025,Km Post,Info missing,24.1822216,91.1802771,,R220.lrps.htm
+,LRP017,17.025,Km Post,Nasirnagar 2 km,24.1866386,91.1888886,,R220.lrps.htm
+,LRP017a,17.485,Culvert,Box Culvert,24.1893052,91.1922774,,R220.lrps.htm
+,LRP018,18.025,Km Post,Nasirangar 1 km,24.1927497,91.1960552,,R220.lrps.htm
+,LRP018a,18.182,Culvert,Box Culvert,24.1938052,91.1969719,,R220.lrps.htm
+,LRP018b,18.985,Bridge,Bridge start,24.1997219,91.2015,,R220.lrps.htm
+,LRP018c,19.025,Bridge,Bridge end,24.1999719,91.20175,,R220.lrps.htm
+,LRP019,19.035,Km Post,Fandaowk 6 km,24.2001111,91.2018056,,R220.lrps.htm
+,LRP019a,19.68,Culvert,Box Culvert,24.2050556,91.205,,R220.lrps.htm
+,LRP020,20.035,Km Post,Fandaowk 5 km,24.2071667,91.2075833,,R220.lrps.htm
+,LRP020a,20.107,Culvert,Box Culvert,24.2073889,91.20825,,R220.lrps.htm
+,LRP020b,20.571,Bridge,Bridge start,24.2097778,91.2118333,,R220.lrps.htm
+,LRP020c,20.597,Bridge,Bridge end,24.2099167,91.2120278,,R220.lrps.htm
+,LRP021,21.035,Km Post,Info missing,24.2125,91.2152778,,R220.lrps.htm
+,LRP021a,21.124,Culvert,Box Culvert,24.2131667,91.2157222,,R220.lrps.htm
+,LRP021b,21.141,Culvert,Box Culvert,24.2132778,91.2160556,,R220.lrps.htm
+,LRP021c,21.84,Culvert,Box Culvert,24.2155833,91.2221104,,R220.lrps.htm
+,LRP022,22.035,Km Post,Fandaowk 3 km,24.2166938,91.2236104,,R220.lrps.htm
+,LRP022a,22.175,Culvert,Box Culvert,24.2175549,91.2246382,,R220.lrps.htm
+,LRP022b,22.569,Culvert,Box Culvert,24.2202493,91.2270827,,R220.lrps.htm
+,LRP023,23.035,Km Post,Fandaowk 2 km,24.2233604,91.2301382,,R220.lrps.htm
+,LRP023a,23.423,Bridge,Bridge start,24.2251382,91.2332771,,R220.lrps.htm
+,LRP023b,23.463,Bridge,Bridge end,24.2252216,91.2336386,,R220.lrps.htm
+,LRP023c,23.635,Culvert,Box Culvert,24.2257493,91.2356941,,R220.lrps.htm
+,LRP024,24.035,Km Post,Fandaowk 1 km,24.2278049,91.2381663,,R220.lrps.htm
+,LRP024a,24.183,Culvert,Box Culvert,24.2120278,91.2393052,,R220.lrps.htm
+,LRP025,24.29,Km Post,Fandaowk 0 km,24.2288882,91.2402497,,R220.lrps.htm
+,LRP025a,24.445,Culvert,Start of under construction Bridge approach road,24.2290827,91.2419163,,R220.lrps.htm
+,LRP025b,24.91,Bridge,Bridge start,24.2325549,91.2413608,,R220.lrps.htm
+,LRP025c,25.128,Bridge,Bridge end/ Start of Habiganj road Division,24.2342219,91.2401386,,R220.lrps.htm
+,LRP025c,25.128,Bridge,Bridge end/ Start of Habiganj road Division,24.2342219,91.2401386,,R220.lrps.htm
+,LRP026,25.29,Km Post,Km post missing,24.2356108,91.2404163,,R220.lrps.htm
+,LRP026a,25.72,Culvert,Box Culvert,24.2389441,91.2393608,,R220.lrps.htm
+,LRP026b,26.175,Culvert,Box Culvert,24.2426941,91.2411663,,R220.lrps.htm
+,LRP027,26.29,Km Post,Km post missing,24.2437219,91.2416386,,R220.lrps.htm
+,LRP027a,26.732,Culvert,Box Culvert,24.2467774,91.2444719,,R220.lrps.htm
+,LRP028,27.29,Km Post,Km post missing,24.2521111,91.2457219,,R220.lrps.htm
+,LRP028a,27.875,Culvert,Box Culvert,24.2561667,91.2466108,,R220.lrps.htm
+,LRP029,28.29,Km Post,Km post missing,24.26,91.247333,,R220.lrps.htm
+,LRP029a,28.465,Culvert,Box Culvert,24.2615278,91.2477497,,R220.lrps.htm
+,LRP029b,28.555,Culvert,Box Culvert,24.2623056,91.2479719,,R220.lrps.htm
+,LRP029c,28.828,Culvert,Box Culvert,24.265,91.2481386,,R220.lrps.htm
+,LRP030,29.29,Km Post,Km post missing,24.2687771,91.2484719,,R220.lrps.htm
+,LRP030a,29.665,Culvert,Box Culvert,24.2720549,91.2486386,,R220.lrps.htm
+,LRP031,30.29,Km Post,Km post missing,24.2778327,91.2486941,,R220.lrps.htm
+,LRP031a,30.958,Culvert,Box Culvert,24.2837219,91.2494163,,R220.lrps.htm
+,LRP032,31.29,Km Post,Km post missing,24.2834997,91.2526389,,R220.lrps.htm
+,LRP032a,31.625,Culvert,Box Culvert,24.283333,91.2559167,,R220.lrps.htm
+,LRP032b,31.98,Culvert,Box Culvert,24.2841386,91.2592222,,R220.lrps.htm
+,LRP032c,32.127,Culvert,Box Culvert,24.2847774,91.26025,,R220.lrps.htm
+,LRP033,32.29,Km Post,Km post missing,24.2851386,91.262,,R220.lrps.htm
+,LRP033a,32.385,Culvert,Box Culvert,24.2853052,91.2629167,,R220.lrps.htm
+,LRP033b,32.63,Culvert,Box Culvert,24.2861941,91.2651667,,R220.lrps.htm
+,LRP034,33.29,Km Post,Km post missing,24.2889997,91.2711938,,R220.lrps.htm
+,LRP034a,33.555,Culvert,Box Culvert,24.2900274,91.2735271,,R220.lrps.htm
+,LRP034b,33.935,Culvert,Box Culvert,24.2922219,91.2761938,,R220.lrps.htm
+,LRP035,34.29,Km Post,Km post missing,24.2950274,91.278166,,R220.lrps.htm
+,LRP036,35.29,Km Post,Km post missing,24.3024444,91.2841663,,R220.lrps.htm
+,LRP036a,36.105,Bridge,Bridge start,24.306,91.2911108,,R220.lrps.htm
+,LRP036b,36.168,Bridge,Bridge end,24.3061111,91.2917219,,R220.lrps.htm
+,LRP037,36.29,Km Post,Km post missing,24.3063889,91.2929441,,R220.lrps.htm
+,LRP037a,36.948,Culvert,Box Culvert,24.3081667,91.2991663,,R220.lrps.htm
+,LRP038,37.29,Km Post,Km post missing,24.3103333,91.3015556,,R220.lrps.htm
+,LRP038a,37.33,Bridge,Bridge start,24.3105278,91.3018889,,R220.lrps.htm
+,LRP038b,37.347,Bridge,Bridge end,24.3103056,91.3019167,,R220.lrps.htm
+,LRP038c,37.998,Culvert,Box Culvert,24.31175,91.3081389,,R220.lrps.htm
+,LRP039,38.29,Km Post,Km post missing,24.31225,91.3111944,,R220.lrps.htm
+,LRP039a,38.714,Culvert,Box Culvert,24.3128889,91.3151667,,R220.lrps.htm
+,LRP040,39.29,Km Post,Km post missing,24.3155556,91.3198049,,R220.lrps.htm
+,LRP040a,39.798,Culvert,Box Culvert,24.318666,91.3231938,,R220.lrps.htm
+,LRP041,40.29,Km Post,Km post missing,24.3218882,91.3266938,,R220.lrps.htm
+,LRP041a,41.025,Culvert,Box Culvert,24.3264438,91.3317216,,R220.lrps.htm
+,LRP042,41.29,Km Post,Km post missing,24.3267771,91.3341108,,R220.lrps.htm
+,LRP042a,41.475,Culvert,Box Culvert,24.3268049,91.336083,,R220.lrps.htm
+,LRP042b,42.242,Bridge,Baily Bridge start,24.3269438,91.3433886,,R220.lrps.htm
+,LRP043,42.29,Km Post,Km post missing,24.3266382,91.344083,,R220.lrps.htm
+,LRP043a,42.314,Bridge,Baily Bridge end,24.3268882,91.3441941,,R220.lrps.htm
+,LRP044,43.29,Km Post,Km post missing,24.331416,91.3523889,,R220.lrps.htm
+,LRP044a,44.16,Culvert,Box Culvert,24.3364997,91.3585833,,R220.lrps.htm
+,LRP045,44.29,Km Post,Km post missing,24.3375552,91.3593056,,R220.lrps.htm
+,LRP046,45.29,Km Post,Km post missing,24.345583,91.3638611,,R220.lrps.htm
+,LRP047,46.29,Km Post,Km post missing,24.3519722,91.3699716,,R220.lrps.htm
+,LRP047a,46.295,Bridge,Baily Bridge start,24.352,91.3699993,,R220.lrps.htm
+,LRP047b,46.334,Bridge,Baily Bridge end,24.35225,91.3702216,,R220.lrps.htm
+,LRP047c,47.096,Culvert,Box Culvert,24.3561667,91.3763327,,R220.lrps.htm
+,LRP048,47.29,Km Post,Km post missing,24.3574444,91.3777216,,R220.lrps.htm
+,LRP049,48.29,Km Post,Km post missing,24.3626944,91.3853886,,R220.lrps.htm
+,LRP049a,48.572,Bridge,Baily Bridge start,24.3636389,91.3878052,,R220.lrps.htm
+,LRP049b,48.614,Bridge,Baily Bridge end,24.3638611,91.3881386,,R220.lrps.htm
+,LRP050,49.29,Km Post,Km post missing,24.3650833,91.3946941,,R220.lrps.htm
+,LRP050a,50.285,Culvert,Box Culvert,24.3668049,91.4043889,,R220.lrps.htm
+,LRP051,50.29,Km Post,Km post missing,24.3668327,91.4046111,,R220.lrps.htm
+,LRP051a,51.232,Cross Road,"R221, Bir Muktijoddah commandant Manik Chowdhury road",24.3697771,91.4112222,,R220.lrps.htm
+,LRP052,51.29,Km Post,Km post missing,24.3716938,91.4135556,,R220.lrps.htm
+,LRPE,51.772,Others,"Road end with R240 at muktijoddha chotor infront of zila porisad, Habiganj",24.373166,91.4161389,,R220.lrps.htm
+,,,,,,,,R220.lrps.htm
+,,,,,,,,R220.lrps.htm

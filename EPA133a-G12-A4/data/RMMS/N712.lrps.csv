@@ -1,0 +1,23 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,"Start of road at Central busterminal more intersect N 7, N 730.",23.5427774,89.1904997,,N712.lrps.htm
+,LRP001,1,Km Post,Km post missing,23.5494719,89.1842497,,N712.lrps.htm
+,LRP001a,1.825,Bridge,Start of Bridge,23.5528611,89.1774716,,N712.lrps.htm
+,LRP001b,1.895,Bridge,End of bridge,23.5530278,89.1768049,,N712.lrps.htm
+,LRP002,2,Km Post,Chuadaga 37 km Kustia 47 km,23.5533056,89.1757771,,N712.lrps.htm
+,LRP002a,2.19,Cross Road,N 704,23.5537222,89.1740827,,N712.lrps.htm
+,LRP002b,2.875,Bridge,Start of Bridge,23.5665556,89.1689438,,N712.lrps.htm
+,LRP002c,2.965,Bridge,End of Bridge,23.5494163,89.1683049,,N712.lrps.htm
+,LRP002d,2.99,Culvert,Under pass,23.5492497,89.1681104,,N712.lrps.htm
+,LRP003,3,Km Post,Km post missing,23.5491941,89.1680549,,N712.lrps.htm
+,LRP003a,3.1,Culvert,Slab Culvert,23.548583,89.1673327,,N712.lrps.htm
+,LRP003b,3.43,"Side Road, Right",Jhinaidah Harinakunda link rd,23.5472219,89.1672216,,N712.lrps.htm
+,LRP003c,3.53,Cross Road,R 745,23.5455552,89.1651944,,N712.lrps.htm
+,LRP004,4,Km Post,Km post missing,23.5416108,89.1654722,,N712.lrps.htm
+,LRP005,5,Km Post,Km post missing,23.533583,89.1702493,,N712.lrps.htm
+,LRP005a,5.15,"Side Road, Left",N 703,23.5325827,89.170916,,N712.lrps.htm
+,LRP005b,5.466,Culvert,Box Culvert,23.5299438,89.1714716,,N712.lrps.htm
+,LRP005c,5.982,Culvert,Box Culvert,23.5254438,89.1701104,,N712.lrps.htm
+,LRP006,6,Km Post,Info missing,23.5249716,89.1699438,,N712.lrps.htm
+,LRPE,6.15,Others,End at By pass more inter sect with N 7,23.5230549,89.1696104,,N712.lrps.htm
+,,,,,,,,N712.lrps.htm
+,,,,,,,,N712.lrps.htm

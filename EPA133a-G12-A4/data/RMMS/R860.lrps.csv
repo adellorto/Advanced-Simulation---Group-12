@@ -1,0 +1,226 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,Start at Mostafapur Traffic island And From N 8 Madaripur,23.1543056,90.1391108,,R860.lrps.htm
+,LRPSa,0.04,Culvert,Box culvert,23.1543889,90.1394719,,R860.lrps.htm
+,LRPSb,0.81,Bridge,Start of Bridge,23.1549444,90.1470274,,R860.lrps.htm
+,LRPSc,0.832,Bridge,End of Bridge,23.1549722,90.1472219,,R860.lrps.htm
+,LRP001,1,Km Post,Sariatpur 25km Madaripur 07km,23.1550556,90.1488886,,R860.lrps.htm
+,LRP001a,1.514,Culvert,Box culvert,23.1554722,90.1538611,,R860.lrps.htm
+,LRP002,2,Km Post,Sariatpur 24km Madaripur 06 km,23.1566944,90.1583889,,R860.lrps.htm
+,LRP002a,2.115,Bridge,Start of Bridge,23.1569722,90.1594722,,R860.lrps.htm
+,LRP002b,2.138,Bridge,End of Bridge,23.1570556,90.1596667,,R860.lrps.htm
+,LRP002c,2.32,Culvert,Box culvert,23.1574722,90.1613333,,R860.lrps.htm
+,LRP002d,2.805,Bridge,Start of Bridge,23.1586111,90.1658889,,R860.lrps.htm
+,LRP002e,2.827,Bridge,End of Bridge,23.1586667,90.1660556,,R860.lrps.htm
+,LRP002f,3.02,Culvert,Box culvert,23.1591389,90.1677771,,R860.lrps.htm
+,LRP003,3.05,Km Post,Chandpur 51km Madaripur 05km,23.1592778,90.1682771,,R860.lrps.htm
+,LRP003a,3.28,Culvert,Box culvert,23.1598333,90.1702216,,R860.lrps.htm
+,LRP004,4.036,Km Post,Sariatpur 22 km Madaripur 4 km,23.1618333,90.1771382,,R860.lrps.htm
+,LRP004a,4.055,Bridge,Start of Bridge,23.1618333,90.1772493,,R860.lrps.htm
+,LRP004b,4.067,Bridge,End of Bridge,23.1618611,90.1773327,,R860.lrps.htm
+,LRP004c,4.36,Culvert,Box culvert,23.1625556,90.1802216,,R860.lrps.htm
+,LRP004d,4.643,Culvert,Box culvert,23.16325,90.1828327,,R860.lrps.htm
+,LRP005,5.1,Km Post,Chandpur 49km Madaripur 03km,23.1643056,90.1868608,,R860.lrps.htm
+,LRP005a,5.21,Culvert,Box culvert,23.1645556,90.1880552,,R860.lrps.htm
+,LRP005b,6,"Side Road, Right",Z 8603 to lterpool,23.1673327,90.194833,,R860.lrps.htm
+,LRP005c,6.01,Bridge,Start of Bridge,23.1673049,90.1949163,,R860.lrps.htm
+,LRP005d,6.04,Bridge,End of Bridge,23.1673049,90.1952219,,R860.lrps.htm
+,LRP006,6.09,Km Post,Sariatpur 20km Madaripur 02km,23.1673049,90.1958886,,R860.lrps.htm
+,LRP006a,6.35,Culvert,Box culvert,23.1672771,90.1984997,,R860.lrps.htm
+,LRP006b,6.95,Culvert,Box Culvert,23.1672493,90.2043889,,R860.lrps.htm
+,LRP007,7.11,Km Post,Sariatpur 19km Chandpur 47km,23.1672216,90.2058611,,R860.lrps.htm
+,LRP007a,7.565,"Turn off, Left","Turn off, Left",23.1672771,90.2103611,,R860.lrps.htm
+,LRP007b,7.63,"Turn off, Right","Turn off, Right",23.1678604,90.2104167,,R860.lrps.htm
+,LRP008,8.098,Km Post,Chandpur 46km Shariatpur 18km,23.1684438,90.2146389,,R860.lrps.htm
+,LRP008a,8.518,"Side Road, Right",Z8604 to Bhurghata.,23.1695827,90.2183327,,R860.lrps.htm
+,LRP008b,8.578,Culvert,Box Culvert,23.1699716,90.2187216,,R860.lrps.htm
+,LRP009,9.128,Km Post,Chandpur 45km Shariatpur 17km,23.1725271,90.2234438,,R860.lrps.htm
+,LRP009a,9.428,Bridge,Start of Bridge,23.1740271,90.2258327,,R860.lrps.htm
+,LRP009b,9.44,Bridge,End of Bridge,23.1739993,90.2258327,,R860.lrps.htm
+,LRP010,10.128,Km Post,Km Post Missing,23.1779438,90.231166,,R860.lrps.htm
+,LRP010a,10.46,Culvert,Box Culvert,23.1796938,90.2338052,,R860.lrps.htm
+,LRP010b,11.018,Culvert,Box culvert,23.1829993,90.2378886,,R860.lrps.htm
+,LRP011,11.158,Km Post,Chandpur 43km Sariatpur 15km,23.1834163,90.2391941,,R860.lrps.htm
+,LRP011a,11.338,Others,Ferry Ghat Start,23.1837497,90.2404441,,R860.lrps.htm
+,LRP011b,11.758,Others,Ferry Ghat End,23.1847219,90.2443052,,R860.lrps.htm
+,LRP012,12.428,Km Post,Sariatpur 12km Chandpur 58km,23.1889441,90.2481941,,R860.lrps.htm
+,LRP012a,12.561,"Side Road, Left",Z8011 to Shibchar.,23.1890274,90.2493608,,R860.lrps.htm
+,LRP012b,12.915,Culvert,Box culvert,23.187333,90.2521944,,R860.lrps.htm
+,LRP013,13.448,Km Post,Sariatpur 11km Chandpur 57km,23.1848608,90.2566389,,R860.lrps.htm
+,LRP013a,13.714,Culvert,Box culvert,23.1836941,90.2588056,,R860.lrps.htm
+,LRP013b,14.338,Culvert,Box culvert,23.180666,90.2637778,,R860.lrps.htm
+,LRP014,14.41,Km Post,Sariatpur 10 km,23.1797493,90.2645833,,R860.lrps.htm
+,LRP014a,14.902,Culvert,Box culvert,23.1775271,90.2685827,,R860.lrps.htm
+,LRP015,15.405,Km Post,Sariatpur 09km Chandpur 55km,23.1784438,90.2732216,,R860.lrps.htm
+,LRP015a,15.943,Culvert,Box Culvert,23.177666,90.2781382,,R860.lrps.htm
+,LRP015b,16.285,Bridge,Start of Bridge and Start of Shariatpur Road Division,23.1774438,90.2814716,,R860.lrps.htm
+,LRP015b,16.285,Bridge,Start of Bridge and Start of Shariatpur Road Division,23.1774438,90.2814716,,R860.lrps.htm
+,LRP015c,16.306,Bridge,End Of Bridge,23.1773882,90.2816938,,R860.lrps.htm
+,LRP016,16.405,Km Post,Sariatpur 08km Chandpur 54km,23.177166,90.2827216,,R860.lrps.htm
+,LRP016a,16.669,Bridge,Start of Bridge,23.1768604,90.288583,,R860.lrps.htm
+,LRP016b,17.139,Bridge,End of Bridge,23.1769716,90.2896663,,R860.lrps.htm
+,LRP016c,17.31,Culvert,Box culvert,23.1770827,90.2911386,,R860.lrps.htm
+,LRP017,17.405,Km Post,Km Post Missing,23.177166,90.2919163,,R860.lrps.htm
+,LRP017a,17.472,Others,"Start Zilla Parishad, Shariatpur.",23.1771938,90.2926663,,R860.lrps.htm
+,LRP017b,17.474,Bridge,Start of Bridge,23.1771938,90.2926663,,R860.lrps.htm
+,LRP017c,17.515,Bridge,End of Bridge,23.1772216,90.2929163,,R860.lrps.htm
+,LRP017d,18.328,Culvert,Box Culvert,23.1790827,90.3001944,,R860.lrps.htm
+,LRP018,18.405,Km Post,Information missing,23.1795271,90.3009167,,R860.lrps.htm
+,LRP018a,19.051,Culvert,Box culvert,23.1832216,90.3049167,,R860.lrps.htm
+,LRP018b,19.235,Culvert,Box culvert,23.1844441,90.3065556,,R860.lrps.htm
+,LRP019,19.405,Km Post,Km Post Missing,23.1856941,90.3074167,,R860.lrps.htm
+,LRP019a,19.585,Culvert,Box Culvert,23.1871663,90.3084167,,R860.lrps.htm
+,LRP019b,19.602,Culvert,Box Culvert,23.1871386,90.3083889,,R860.lrps.htm
+,LRP019c,19.635,Culvert,Box Culvert,23.1879997,90.3104444,,R860.lrps.htm
+,LRP019d,19.843,Culvert,Box Culvert,23.1880274,90.3105278,,R860.lrps.htm
+,LRP020,20.405,Km Post,Km Post Missing,23.1905552,90.3149722,,R860.lrps.htm
+,LRP020a,20.664,Bridge,Start of Bridge,23.1904997,90.3173604,,R860.lrps.htm
+,LRP020b,20.82,Bridge,End Of Bridge,23.1909441,90.3188049,,R860.lrps.htm
+,LRP021,21.405,Km Post,Km Post Missing,23.1916663,90.3227493,,R860.lrps.htm
+,LRP021a,21.825,Culvert,Box Culvert,23.1903886,90.3263882,,R860.lrps.htm
+,LRP022,22.405,Km Post,Km post Missing,23.187833,90.3309716,,R860.lrps.htm
+,LRP022a,22.531,"Side Road, Left",R861 to Shariatpur,23.1870552,90.331916,,R860.lrps.htm
+,LRP022b,22.563,Bridge,Start of Bridge,23.1869163,90.3319716,,R860.lrps.htm
+,LRP022c,22.573,Bridge,End of Bridge,23.1869163,90.3319716,,R860.lrps.htm
+,LRP022d,22.992,Culvert,Box Culvert,23.1843608,90.3351941,,R860.lrps.htm
+,LRP023,23.28,Km Post,"Chittagong 257 km, Noakhali 106 km, Ibrahimpur Ferry 33 km ,Bhederganj 13 km.",23.1828049,90.3374719,,R860.lrps.htm
+,LRP023a,23.681,Culvert,Box Culvert,23.1811938,90.3409163,,R860.lrps.htm
+,LRP023b,24.136,Bridge,Start of Bridge,23.1801382,90.3450552,,R860.lrps.htm
+,LRP023c,24.148,Bridge,End of Bridge,23.1801104,90.3452219,,R860.lrps.htm
+,LRP024,24.28,Km Post,Info Missing,23.1801104,90.3464997,,R860.lrps.htm
+,LRP024a,24.593,Bridge,Start of Bridge,23.1800549,90.3495274,,R860.lrps.htm
+,LRP024b,24.606,Bridge,End of Bridge,23.1800827,90.3496663,,R860.lrps.htm
+,LRP024c,24.833,Culvert,Box Culvert,23.179916,90.3518611,,R860.lrps.htm
+,LRP025,25.013,Km Post,Chittagong 266 km ibrahimpurferry31 km Bhdderganj 11 km,23.1798882,90.3535556,,R860.lrps.htm
+,LRP025a,25.419,Bridge,Start of Bridge,23.1802771,90.3574722,,R860.lrps.htm
+,LRP025b,25.431,Bridge,End of Bridge,23.1803049,90.3576111,,R860.lrps.htm
+,LRP025c,25.928,Culvert,Box Culvert,23.1801382,90.3622778,,R860.lrps.htm
+,LRP025d,26.119,Culvert,Masonry Culvert,23.1804438,90.3641944,,R860.lrps.htm
+,LRP026,26.293,Km Post,"Chittagonj 254 km, Noakhali 104 km, Ibrahimpur Ferry 30 km, Bhederganj 10 km.",23.1803604,90.3631667,,R860.lrps.htm
+,LRP026a,26.4,Bridge,Start of Bridge,23.1805549,90.3669716,,R860.lrps.htm
+,LRP026b,26.413,Bridge,End of Bridge,23.1805549,90.3670827,,R860.lrps.htm
+,LRP026c,26.657,Culvert,Masonry Culvert,23.180666,90.3694716,,R860.lrps.htm
+,LRP026d,26.936,Culvert,Pipe Culvert,23.180666,90.372166,,R860.lrps.htm
+,LRP026e,27.11,Bridge,Start of Bridge,23.1805271,90.3738882,,R860.lrps.htm
+,LRP026f,27.124,Bridge,End of Bridge,23.1804993,90.3739716,,R860.lrps.htm
+,LRP027,27.323,Km Post,"Chittagong 253 km, Ibrahimpur Ferry 29 km, Bhederganj 9 km",23.1799438,90.3758604,,R860.lrps.htm
+,LRP027a,27.493,Culvert,Box culvert,23.1793882,90.3773604,,R860.lrps.htm
+,LRP027b,27.831,Culvert,Box culvert,23.1789438,90.3805549,,R860.lrps.htm
+,LRP027c,27.927,Culvert,Box Culvert,23.1790549,90.3814716,,R860.lrps.htm
+,LRP027d,28.089,Culvert,Box Culvert,23.1792216,90.3830271,,R860.lrps.htm
+,LRP028,28.314,Km Post,"Chittagong 252 km, Ibrahimpur ferry 28 km, Bhaderganj 8 km",23.1795827,90.3851663,,R860.lrps.htm
+,LRP028a,28.627,"Side Road, Right",Z8601 to Kaneswar,23.1808049,90.3869997,,R860.lrps.htm
+,LRP028b,29.052,Bridge,Start of Bridge,23.1828327,90.3894441,,R860.lrps.htm
+,LRP028c,29.065,Bridge,End of Bridge,23.182916,90.3894441,,R860.lrps.htm
+,LRP029,29.31,Km Post,"Chittagong 251 km, Ibrahimpur Ferry 27 km Bhederganj 7 km",23.1846108,90.3907497,,R860.lrps.htm
+,LRP029a,29.386,Culvert,Box Culvert,23.1851663,90.3912219,,R860.lrps.htm
+,LRP029b,29.405,Culvert,Box Culvert,23.185833,90.391583,,R860.lrps.htm
+,LRP029c,29.481,Culvert,Box Culvert,23.187833,90.3985274,,R860.lrps.htm
+,LRP029d,29.768,Bridge,Start of bridge,23.1878052,90.3931941,,R860.lrps.htm
+,LRP029e,29.797,Bridge,End Of Bridge,23.1878052,90.3933886,,R860.lrps.htm
+,LRP029f,30.068,Culvert,Box Culvert start,23.187583,90.3957219,,R860.lrps.htm
+,LRP029g,30.078,Culvert,Box Culvert end,23.1874997,90.3957497,,R860.lrps.htm
+,LRP029h,30.33,Culvert,Box Culvert,23.187833,90.3983886,,R860.lrps.htm
+,LRP030,30.34,Km Post,"Chittagong 250 km, Noakhali 99 km, Ibrahimpur Ferry 26 km, Bhederganj 6 km",23.187833,90.3984997,,R860.lrps.htm
+,LRP030a,30.669,Bridge,Start of Bridge,23.1874441,90.4015833,,R860.lrps.htm
+,LRP030b,30.678,Bridge,End of Bridge,23.1874441,90.4015833,,R860.lrps.htm
+,LRP031,31.34,Km Post,"Chittagong 249 km, Ibrahimpur Ferry 25 km, Bhederganj 5 km",23.1871386,90.4081111,,R860.lrps.htm
+,LRP031a,31.356,Bridge,Start of Bridge,23.1871941,90.4083333,,R860.lrps.htm
+,LRP031b,31.369,Bridge,End of Bridge,23.1872497,90.4083333,,R860.lrps.htm
+,LRP031c,31.962,Culvert,Box Culvert,23.189083,90.4133889,,R860.lrps.htm
+,LRP032,32.36,Km Post,"Chittagong 248 km, Ibrahimpur ferry 24 km, Bhederganj 4 km",23.1899163,90.4170271,,R860.lrps.htm
+,LRP032a,32.454,Bridge,Start of Bridge,23.1898886,90.4180549,,R860.lrps.htm
+,LRP032b,32.469,Bridge,Start of Bridge,23.1898886,90.4180827,,R860.lrps.htm
+,LRP032c,33.067,Bridge,End of Bridge,23.1916941,90.4221104,,R860.lrps.htm
+,LRP032d,33.101,Bridge,End of Bridge,23.1917219,90.4224438,,R860.lrps.htm
+,LRP033,33.38,Km Post,"Chittagong 247 km, Ibrahimpur Ferry 23 km, Bhederganj 3 km",23.1921108,90.4251104,,R860.lrps.htm
+,LRP033a,34.13,Bridge,Start of Bridge,23.192333,90.4325271,,R860.lrps.htm
+,LRP033b,34.168,Bridge,End of Bridge,23.192333,90.4327493,,R860.lrps.htm
+,LRP034,34.43,Km Post,"Chittagong 246 km, Ibrahimpur Ferry 22 km, Bhederganj 2 km",23.1921941,90.4355274,,R860.lrps.htm
+,LRP034a,34.779,Culvert,Box Culvert,23.1924163,90.4387774,,R860.lrps.htm
+,LRP035,35.408,Km Post,"Chittagong 245 km, Ibrahimpur Ferry 21 km, Bhederganj 1 km",23.1940552,90.4440552,,R860.lrps.htm
+,LRP035a,35.447,Others,Box Culvert Start,23.1942219,90.4443608,,R860.lrps.htm
+,LRP035b,35.461,Culvert,Box Culvert End,23.1942219,90.4444441,,R860.lrps.htm
+,LRP035c,35.878,"Turn off, Right",Right turn,23.1946386,90.4483886,,R860.lrps.htm
+,LRP036,36.548,Km Post,"Chittagong 244 km, Ibrahimpur Ferry 20 km, Bhederganj 0 km",23.188833,90.4480274,,R860.lrps.htm
+,LRP036a,36.855,Culvert,Box Culvert,23.186333,90.4485552,,R860.lrps.htm
+,LRP037,37.578,Km Post,"Chittagong 243 km, Ibrahimpur Ferry 19 km,",23.1866108,90.4551944,,R860.lrps.htm
+,LRP037a,37.621,Culvert,Box Culvert,23.186583,90.4556389,,R860.lrps.htm
+,LRP038,38.678,Km Post,"Chittagong 242 km, Noakhali 91 km, Ibrahimpur Ferry 18 km,",23.1780549,90.4563333,,R860.lrps.htm
+,LRP038a,38.961,Culvert,Box Culvert,23.1767216,90.4591944,,R860.lrps.htm
+,LRP039,39.676,Km Post,"Chittagong 241 km,Ibrahimpur Ferry 17 km",23.175416,90.4643611,,R860.lrps.htm
+,LRP039a,39.994,Culvert,Box Culvert,23.1759438,90.4666389,,R860.lrps.htm
+,LRP039b,40.317,Culvert,Box Culvert,23.1754716,90.4693604,,R860.lrps.htm
+,LRP040,40.726,Km Post,"Chittagong 240 km, Ibrahimpur Ferry 16 km",23.1740271,90.4722216,,R860.lrps.htm
+,LRP041,41.756,Km Post,"Chittagong 239 km, Ibrahimpur Ferry 15 km",23.1665278,90.4774438,,R860.lrps.htm
+,LRP041a,42.439,Culvert,Box Culvert,23.1659444,90.4790549,,R860.lrps.htm
+,LRP041b,42.691,Culvert,Box Culvert,23.1673604,90.4856386,,R860.lrps.htm
+,LRP042,42.786,Km Post,"Chittagong 238 km, Noakhali 87 km, Ibrahimpur Ferry 14 km",23.1680827,90.4861941,,R860.lrps.htm
+,LRP042a,43.098,Bridge,Start of Baily Bridge,23.1697493,90.4884997,,R860.lrps.htm
+,LRP042b,43.209,Bridge,End of Baily Bridge,23.1701938,90.4894719,,R860.lrps.htm
+,LRP043,43.846,Km Post,"Chittagong 237 km, Ibrahimpur Ferry 13 km",23.1726938,90.4950274,,R860.lrps.htm
+,LRP043a,43.914,Culvert,Box Culvert,23.1729716,90.4956108,,R860.lrps.htm
+,LRP044,44.856,Km Post,"Chittagong 236 km, Ibrahimpur Ferry 12 km",23.1718049,90.5046667,,R860.lrps.htm
+,LRP044a,44.965,"Turn off, Left",Turn off left,23.1717493,90.5063889,,R860.lrps.htm
+,LRP044b,45.348,Bridge,Start of Bridge,23.1742216,90.5058611,,R860.lrps.htm
+,LRP044c,45.36,Bridge,End Of Bridge,23.1742771,90.5058333,,R860.lrps.htm
+,LRP044d,45.684,Bridge,Start of Bridge,23.1769993,90.5049167,,R860.lrps.htm
+,LRP044e,45.728,Bridge,End Of Bridge,23.1773882,90.5049722,,R860.lrps.htm
+,LRP045,45.906,Km Post,"Chittagong 235 km, Ibrahimpur Ferry 11 km",23.1789716,90.5054444,,R860.lrps.htm
+,LRP045a,46.243,Bridge,Start of Bridge,23.1818327,90.5058611,,R860.lrps.htm
+,LRP045b,46.244,Bridge,End of Bridge,23.1819993,90.5058889,,R860.lrps.htm
+,LRP045c,46.875,Bridge,Start of Bridge,23.1874163,90.5070833,,R860.lrps.htm
+,LRP045d,46.891,Bridge,End of Bridge,23.1874163,90.5071111,,R860.lrps.htm
+,LRP046,46.956,Km Post,"Chittagong 234 km, Ibrahimpur ferry 10 km",23.188083,90.50725,,R860.lrps.htm
+,LRP047,47.996,Km Post,"Chittagong 233 km, Ibrahimpur Ferry 9 km,",23.1969997,90.5099444,,R860.lrps.htm
+,LRP047a,48.005,Culvert,Box Culvert,23.1981108,90.5101667,,R860.lrps.htm
+,LRP047b,48.198,Bridge,Start of Bridge,23.1984719,90.5106667,,R860.lrps.htm
+,LRP047c,48.236,Bridge,End of Bridge,23.1984163,90.5110278,,R860.lrps.htm
+,LRP047d,48.748,Culvert,Box Culvert,23.1979441,90.5158889,,R860.lrps.htm
+,LRP048,49.046,Km Post,"Chittagong 232 km, Ibrahimpur Ferry 8 km",23.1973608,90.5188049,,R860.lrps.htm
+,LRP048a,49.391,Bridge,Start of Bridge,23.1967219,90.5218882,,R860.lrps.htm
+,LRP048b,49.404,Bridge,End of Bridge,23.1966941,90.5219438,,R860.lrps.htm
+,LRP049,50.046,Km Post,"Chittagong 231 km, Ibrahimpur Ferry 7 km",23.1953608,90.5281938,,R860.lrps.htm
+,LRP049a,50.049,Bridge,Start of Bridge,23.1953886,90.5282771,,R860.lrps.htm
+,LRP049b,50.074,Bridge,End of Bridge,23.1953052,90.5284438,,R860.lrps.htm
+,LRP049c,50.149,Bridge,Start of Bridge,23.1949441,90.5291104,,R860.lrps.htm
+,LRP049d,50.162,Bridge,End of Bridge,23.1952774,90.529166,,R860.lrps.htm
+,LRP049e,50.542,Bridge,Start of Bridge,23.1939719,90.5326938,,R860.lrps.htm
+,LRP049f,50.554,Bridge,End of Bridge,23.1939719,90.5327216,,R860.lrps.htm
+,LRP050,51.086,Km Post,"Chittagong 230 km, Noakhali 79 km",23.1923052,90.5376941,,R860.lrps.htm
+,LRP050a,51.766,Bridge,Start of Bridge,23.1917219,90.5442774,,R860.lrps.htm
+,LRP050b,51.779,Bridge,End of Bridge,23.1917219,90.5444163,,R860.lrps.htm
+,LRP050c,51.971,Culvert,Box Culvert,23.1916941,90.5462219,,R860.lrps.htm
+,LRP051,52.106,Km Post,"Chittagong 229 km, Ibrahimpur Ferry 5 km",23.1917497,90.5438886,,R860.lrps.htm
+,LRP051a,52.2,Bridge,Start of Bridge,23.191833,90.5485552,,R860.lrps.htm
+,LRP051b,52.249,Bridge,End of Bridge,23.1917774,90.5494719,,R860.lrps.htm
+,LRP052,53.126,Km Post,"Chittagong 228 km, Ibrahimpur Ferry 4 km",23.1899719,90.5571389,,R860.lrps.htm
+,LRP052a,53.467,Bridge,Start of Bridge,23.187833,90.5595278,,R860.lrps.htm
+,LRP052b,53.485,Bridge,End of Bridge,23.1877219,90.5596389,,R860.lrps.htm
+,LRP053,54.136,Km Post,"Chittagong 227 km, Ibrahimpur ferry 3 km",23.1836108,90.5641944,,R860.lrps.htm
+,LRP053a,54.815,Bridge,Start of Bridge,23.1779993,90.5664722,,R860.lrps.htm
+,LRP053b,54.837,Bridge,End of Bridge,23.1778327,90.5665833,,R860.lrps.htm
+,LRP054,55.146,Km Post,"Chittagong 226 km, Noakhali 75 km Ibrahimp[ur Ferry 2 km",23.1774993,90.569666,,R860.lrps.htm
+,LRP055,56.156,Km Post,"Chittagong 225 km, Ibrahimpur Ferry 1 km",23.178166,90.5794716,,R860.lrps.htm
+,LRP056,56.574,Km Post,"Chittagong 224 km, Noakhali 73 km,Ibrahimpur Ferry 0 km",23.1818049,90.5803327,,R860.lrps.htm
+,LRP056a,56.674,Others,"Start Ibrahimpur Ferry ghat, Shariatpur and End of Shariatpur Road Division",23.1827216,90.5805271,,R860.lrps.htm
+,LRP062a,63.444,Others,Harina Ferry Ghat and Chandpur RHD Start,23.1642778,90.6429163,,R860.lrps.htm
+,LRP063,63.574,Km Post,Km post Missing,23.1643333,90.6442497,,R860.lrps.htm
+,LRP063a,63.829,"Side Road, Left",Z 1403 to Chandpur,23.1651667,90.6465274,,R860.lrps.htm
+,LRP064,64.574,Km Post,Km post Missing,23.1635833,90.6532222,,R860.lrps.htm
+,LRP065,65.574,Km Post,Km post Missing,23.15675,90.6575,,R860.lrps.htm
+,LRP066,66.574,Km Post,Km post Missing,23.1476941,90.65975,,R860.lrps.htm
+,LRP066a,67.024,"Side Road, Right",Z8699 to Haimchar,23.1438052,90.6593611,,R860.lrps.htm
+,LRP067,67.574,Km Post,Km post Missing,23.1423886,90.6645556,,R860.lrps.htm
+,LRP068,68.574,Km Post,Km post Missing,23.1458052,90.6733049,,R860.lrps.htm
+,LRP068a,69.204,Culvert,Box Culvert,23.1486663,90.6777771,,R860.lrps.htm
+,LRP068b,69.454,Culvert,Box Culvert,23.1478886,90.6800549,,R860.lrps.htm
+,LRP069,69.574,Km Post,Km post Missing,23.1477774,90.6812771,,R860.lrps.htm
+,LRP069a,70.384,Culvert,Box Culvert,23.1464719,90.6887219,,R860.lrps.htm
+,LRP070,71.574,Km Post,Km post Missing,23.1445274,90.6996941,,R860.lrps.htm
+,LRP070a,72.314,Culvert,Box Culvert,23.1453052,90.7066667,,R860.lrps.htm
+,LRP071,72.574,Km Post,Km post Missing,23.1451386,90.7091389,,R860.lrps.htm
+,LRP072,73.574,Km Post,Km post Missing,23.1441386,90.7186104,,R860.lrps.htm
+,LRP073,74.104,Km Post,Info Missing,23.143833,90.7235827,,R860.lrps.htm
+,LRPE,74.634,Others,End of road at Bhatialpur and meet with R140,23.1449997,90.7282216,,R860.lrps.htm
+,,,,,,,,R860.lrps.htm
+,,,,,,,,R860.lrps.htm

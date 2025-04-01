@@ -1,0 +1,135 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,The road starts from N802 at Kadamtoli More,23.7012222,90.3975274,,R820.lrps.htm
+,LRPSa,0.446,Culvert,Box Culvert,23.7011111,90.393583,,R820.lrps.htm
+,LRP001,1,Km Post,Km post missing,23.7023611,90.3884441,,R820.lrps.htm
+,LRP002,2,Km Post,Km post missing,23.7000278,90.3785827,,R820.lrps.htm
+,LRP003,3,Km Post,Km post missing,23.7000556,90.3763604,,R820.lrps.htm
+,LRP004,4,Km Post,Dohar 39km,23.6999719,90.3697216,,R820.lrps.htm
+,LRP005,4.402,Km Post,Km post missing,23.6994719,90.36,,R820.lrps.htm
+,LRP005a,4.646,Bridge,Bridge start,23.6993886,90.3585556,,R820.lrps.htm
+,LRP005b,4.672,Bridge,Bridge end,23.6993608,90.3583056,,R820.lrps.htm
+,LRP006,5.43,Km Post,Km post missing,23.6985552,90.3503333,,R820.lrps.htm
+,LRP006a,5.973,"Side Road, Right","Konakhola, Z8002",23.6979997,90.3449997,,R820.lrps.htm
+,LRP007,6.43,Km Post,Dohar 36Km,23.6978886,90.3403052,,R820.lrps.htm
+,LRP008,7.43,Km Post,Km post missing,23.6981108,90.330416,,R820.lrps.htm
+,LRP009,8.43,Km Post,Km post missing,23.696333,90.320916,,R820.lrps.htm
+,LRP010,9.43,Km Post,Km post missing,23.6936663,90.3117222,,R820.lrps.htm
+,LRP010a,10,"Side Road, Left","Road to Turag, Z5069",23.6904163,90.3081667,,R820.lrps.htm
+,LRP010b,10.166,Others,Start Munshiganj Div.,23.6897774,90.3082778,,R820.lrps.htm
+,LRP010b,10.166,Others,Start Munshiganj Div.,23.6897774,90.3082778,,R820.lrps.htm
+,LRP011,10.43,Km Post,Km post missing,23.6864441,90.3083611,,R820.lrps.htm
+,LRP011a,10.948,Culvert,Box Culvert,23.6843886,90.3083056,,R820.lrps.htm
+,LRP012,11.99,Km Post,Dohar 31Km,23.6784438,90.3033611,,R820.lrps.htm
+,LRP013,12.99,Km Post,Km post missing,23.6727493,90.3060833,,R820.lrps.htm
+,LRP013a,13.394,Culvert,Box Culvert,23.667666,90.3062222,,R820.lrps.htm
+,LRP014,13.99,Km Post,Km post missing,23.6677771,90.3008889,,R820.lrps.htm
+,LRP015,14.99,Km Post,Km post missing,23.6713049,90.2920274,,R820.lrps.htm
+,LRP015a,15.519,Bridge,Bridge start,23.6696938,90.289833,,R820.lrps.htm
+,LRP015b,15.78,Bridge,Bridge end,23.6682771,90.2878608,,R820.lrps.htm
+,LRP016,15.99,Km Post,Km post missing,23.6668604,90.2837774,,R820.lrps.htm
+,LRP017,16.99,Km Post,Km post missing,23.6596667,90.2790827,,R820.lrps.htm
+,LRP017a,17.352,Culvert,Box Culvert,23.6593056,90.2788882,,R820.lrps.htm
+,LRP018,17.99,Km Post,Km post missing,23.6528056,90.2745827,,R820.lrps.htm
+,LRP018a,18.356,Bridge,Bridge start,23.6518889,90.2740271,,R820.lrps.htm
+,LRP018b,18.577,Bridge,Bridge end,23.6506944,90.2728604,,R820.lrps.htm
+,LRP019,18.99,Km Post,Info missing,23.6471941,90.266666,,R820.lrps.htm
+,LRP020,19.99,Km Post,Km post missing,23.6409997,90.2594167,,R820.lrps.htm
+,LRP021,20.99,Km Post,Km post missing,23.6380274,90.2506944,,R820.lrps.htm
+,LRP021a,21.465,Bridge,Bridge start,23.6379163,90.2501111,,R820.lrps.htm
+,LRP021b,21.505,Bridge,Bridge end,23.6378608,90.2496386,,R820.lrps.htm
+,LRP021c,21.711,"Side Road, Left",Road to Hashara Z8003,23.6374719,90.2478886,,R820.lrps.htm
+,LRP022,21.99,Km Post,Km post missing,23.6364163,90.2410274,,R820.lrps.htm
+,LRP022a,22.76,Bridge,Bridge start,23.6362774,90.2381386,,R820.lrps.htm
+,LRP022b,22.79,Bridge,Bridge end,23.6362497,90.2377774,,R820.lrps.htm
+,LRP023,22.99,Km Post,Km post missing,23.6364163,90.2369719,,R820.lrps.htm
+,LRP023a,23.376,Bridge,Bridge start,23.6367774,90.2323327,,R820.lrps.htm
+,LRP023b,23.418,Bridge,Bridge end,23.6368052,90.2319716,,R820.lrps.htm
+,LRP024,23.438,Km Post,Info missing,23.6368052,90.2318327,,R820.lrps.htm
+,LRP025,24.438,Km Post,Km post missing,23.6384997,90.2220827,,R820.lrps.htm
+,LRP025a,24.589,Bridge,Bridge start,23.6382774,90.2211104,,R820.lrps.htm
+,LRP025b,24.61,Bridge,Bridge end,23.6376386,90.2208882,,R820.lrps.htm
+,LRP026,25.438,Km Post,Km post missing,23.6409441,90.2135278,,R820.lrps.htm
+,LRP026a,26.016,"Side Road, Left",Road to Meghula Z8204,23.6423608,90.2092222,,R820.lrps.htm
+,LRP027,26.656,Km Post,Dohar 17km,23.6463608,90.2058889,,R820.lrps.htm
+,LRP027a,27.438,Bridge,Bridge start,23.6492774,90.1999441,,R820.lrps.htm
+,LRP027b,27.483,Bridge,Bridge end,23.6491941,90.1996108,,R820.lrps.htm
+,LRP028,27.656,Km Post,Km post missing,23.6503611,90.1986663,,R820.lrps.htm
+,LRP029,28.656,Km Post,Km post missing,23.6566667,90.1927774,,R820.lrps.htm
+,LRP030,29.74,Km Post,Dohar 16km,23.6528333,90.1840274,,R820.lrps.htm
+,LRP031,30.74,Km Post,Km post missing,23.6472219,90.1763882,,R820.lrps.htm
+,LRP032,31.832,Km Post,Info missing,23.6424719,90.1716104,,R820.lrps.htm
+,LRP033,32.832,Km Post,Km post missing,23.6481941,90.1660833,,R820.lrps.htm
+,LRP034,33.832,Km Post,Km post missing,23.6569444,90.1639722,,R820.lrps.htm
+,LRP035,34.832,Km Post,Km post missing,23.6599722,90.1574444,,R820.lrps.htm
+,LRP035a,35.177,Culvert,Box Culvert,23.6602778,90.15525,,R820.lrps.htm
+,LRP036,35.832,Km Post,Km post missing,23.6589722,90.1479441,,R820.lrps.htm
+,LRP036a,36.11,Bridge,Bridge start,23.6585833,90.1473886,,R820.lrps.htm
+,LRP036b,36.19,Bridge,Bridge end,23.6583889,90.1470552,,R820.lrps.htm
+,LRP036c,36.72,Bridge,Bridge start,23.6578333,90.1413052,,R820.lrps.htm
+,LRP036d,36.764,Bridge,Bridge end,23.6577222,90.1408052,,R820.lrps.htm
+,LRP037,36.832,Km Post,Km post missing,23.6568056,90.1394441,,R820.lrps.htm
+,LRP037a,37.491,Bridge,Bridge start,23.6538889,90.1356386,,R820.lrps.htm
+,LRP037b,37.519,Bridge,Bridge end,23.6538333,90.1348886,,R820.lrps.htm
+,LRP038,37.953,Km Post,Info missing,23.6515556,90.1307216,,R820.lrps.htm
+,LRP038a,38.618,Bridge,Bridge start,23.65025,90.1264438,,R820.lrps.htm
+,LRP038b,38.663,Bridge,Bridge end,23.6501389,90.1260549,,R820.lrps.htm
+,LRP039,39.055,Km Post,Dohar 5 km,23.6493886,90.1224716,,R820.lrps.htm
+,LRP039a,39.231,Culvert,Box Culvert,23.649583,90.1207216,,R820.lrps.htm
+,LRP039b,39.581,Culvert,Box Culvert,23.6483886,90.1179438,,R820.lrps.htm
+,LRP039c,39.793,Culvert,Box Culvert,23.6469719,90.1167771,,R820.lrps.htm
+,LRP040,40.055,Km Post,Km post missing,23.6447497,90.1152222,,R820.lrps.htm
+,LRP040a,40.069,Bridge,Bridge start,23.6446941,90.1151944,,R820.lrps.htm
+,LRP040b,40.092,Bridge,Bridge end,23.6446386,90.1151667,,R820.lrps.htm
+,LRP041,41.109,Km Post,Info missing,23.6368052,90.11075,,R820.lrps.htm
+,LRP041a,41.814,Culvert,Box Culvert,23.6314438,90.1085,,R820.lrps.htm
+,LRP041b,41.911,"Side Road, Left",Z8207,23.6279438,90.1091111,,R820.lrps.htm
+,LRP042,42.109,Km Post,Km post missing,23.6284993,90.1088889,,R820.lrps.htm
+,LRP043,43.109,Km Post,Km post missing,23.6205827,90.1119167,,R820.lrps.htm
+,LRP043a,43.559,Bridge,Bridge start,23.6178882,90.1139167,,R820.lrps.htm
+,LRP043b,43.69,Bridge,Bridge end,23.6169438,90.1146944,,R820.lrps.htm
+,LRP044,44.109,Km Post,Km post missing,23.6143611,90.1182771,,R820.lrps.htm
+,LRP045,45.109,Km Post,Km post missing,23.6079444,90.1246382,,R820.lrps.htm
+,LRP046,46.109,Km Post,Km post missing,23.6016944,90.1308049,,R820.lrps.htm
+,LRP047,46.65,Km Post,"Dohar 3km, Dhaka 48km",23.5990274,90.1329716,,R820.lrps.htm
+,LRP047a,47.049,Bridge,Bridge start,23.5963608,90.1348886,,R820.lrps.htm
+,LRP047b,47.092,Bridge,Bridge end,23.5961108,90.1350552,,R820.lrps.htm
+,LRP048,47.678,Km Post,Dohar 4km,23.5918052,90.1377219,,R820.lrps.htm
+,LRP049,48.703,Km Post,Dohar 5km,23.5853608,90.1426386,,R820.lrps.htm
+,LRP049a,49.591,"Side Road, Left",Z8204,23.5784438,90.1436663,,R820.lrps.htm
+,LRP050,49.776,Km Post,Dohar 6km,23.5776382,90.1453608,,R820.lrps.htm
+,LRP051,50.804,Km Post,Dohar 7km,23.5692493,90.1472219,,R820.lrps.htm
+,LRP051a,51.009,Culvert,Sluice gate,23.5681938,90.147333,,R820.lrps.htm
+,LRP052,51.868,Km Post,Dohar 8km,23.5605278,90.1471941,,R820.lrps.htm
+,LRP053,52.9,Km Post,Dohar 9km,23.5541944,90.1524167,,R820.lrps.htm
+,LRP054,53.944,Km Post,Dohar 10km,23.5470552,90.1574722,,R820.lrps.htm
+,LRP055,54.987,Km Post,Dohar 11km,23.5406663,90.1644444,,R820.lrps.htm
+,LRP055a,55.758,"Side Road, Left",Z8205,23.5397219,90.1707771,,R820.lrps.htm
+,LRP056,56.015,Km Post,Dohar 12km,23.5381941,90.173166,,R820.lrps.htm
+,LRP056a,56.623,Bridge,Bridge start,23.5383886,90.1786938,,R820.lrps.htm
+,LRP056b,56.653,Bridge,Bridge end,23.5384163,90.1789438,,R820.lrps.htm
+,LRP057,57.054,Km Post,Dohar 13km,23.5360274,90.1804993,,R820.lrps.htm
+,LRP057a,57.525,Bridge,Bridge start,23.534583,90.1844997,,R820.lrps.htm
+,LRP057b,57.553,Bridge,Bridge end,23.5344441,90.1846941,,R820.lrps.htm
+,LRP058,58.054,Km Post,Km post missing,23.532166,90.189583,,R820.lrps.htm
+,LRP058a,58.565,Culvert,Box Culvert,23.5310271,90.1929719,,R820.lrps.htm
+,LRP059,59.1,Km Post,Dohar 15km,23.5270549,90.1958608,,R820.lrps.htm
+,LRP059a,59.577,Culvert,Box Culvert,23.5245549,90.1989719,,R820.lrps.htm
+,LRP059b,59.924,Culvert,Box Culvert,23.5235827,90.2015278,,R820.lrps.htm
+,LRP060,60.1,Km Post,Km post missing,23.5218327,90.2026944,,R820.lrps.htm
+,LRP061,61.207,Km Post,Dohar 17km,23.5154167,90.2041944,,R820.lrps.htm
+,LRP062,62.245,Km Post,Dohar 18km,23.5161389,90.2139444,,R820.lrps.htm
+,LRP063,63.245,Km Post,Km post missing,23.5179716,90.2235271,,R820.lrps.htm
+,LRP064,64.245,Km Post,Km post missing,23.5169438,90.2334719,,R820.lrps.htm
+,LRP064a,64.995,Culvert,Sluice gate,23.5171104,90.2399163,,R820.lrps.htm
+,LRP065,65.245,Km Post,Km post missing,23.517166,90.2430552,,R820.lrps.htm
+,LRP066,66.245,Km Post,Km post missing,23.5166389,90.2528056,,R820.lrps.htm
+,LRP067,67.296,Km Post,"Dohar 23km, Dhaka 68km",23.5185827,90.2614167,,R820.lrps.htm
+,LRP068,68.298,Km Post,Info missing,23.5248604,90.2687771,,R820.lrps.htm
+,LRP069,69.296,Km Post,"Dohar 25km, Dhaka 70km",23.5297771,90.2768049,,R820.lrps.htm
+,LRP070,70.266,Km Post,Dohar 26km,23.5352774,90.284583,,R820.lrps.htm
+,LRP070a,70.598,Bridge,Bridge start,23.5363886,90.2854441,,R820.lrps.htm
+,LRP070b,70.651,Bridge,Bridge end,23.536583,90.2858886,,R820.lrps.htm
+,LRP071,71.266,Km Post,Km post missing,23.5412774,90.2918608,,R820.lrps.htm
+,LRPE,72.052,Others,End of the road intersecting N8 at Srinagar,23.5429719,90.2959163,,R820.lrps.htm
+,,,,,,,,R820.lrps.htm
+,,,,,,,,R820.lrps.htm

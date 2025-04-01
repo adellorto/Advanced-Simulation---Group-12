@@ -1,0 +1,95 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,Road start at Belpukur from N6.,24.3663889,88.7263882,,N603.lrps.htm
+,LRPSa,0.15,Culvert,Box culvert,24.3673049,88.7253327,,N603.lrps.htm
+,LRPSb,0.275,Culvert,Box culvert,24.3690271,88.7239993,,N603.lrps.htm
+,LRPSc,0.595,Bridge,Bridge start,24.3705271,88.7226938,,N603.lrps.htm
+,LRPSd,0.63,Bridge,Bridge end,24.3708049,88.7224716,,N603.lrps.htm
+,LRP001,0.99,Km Post,Kashiadanga 21 km,24.3733327,88.7203604,,N603.lrps.htm
+,LRP001a,1.005,Culvert,Box culvert,24.3735549,88.720166,,N603.lrps.htm
+,LRP001b,1.52,Culvert,Box culvert,24.3767493,88.7167216,,N603.lrps.htm
+,LRP002,2,Km Post,Kashiadanga 20 km,24.3783604,88.7126389,,N603.lrps.htm
+,LRP002a,2.465,Culvert,Box culvert,24.3790827,88.7079722,,N603.lrps.htm
+,LRP002b,2.812,Culvert,Box culvert,24.3789438,88.7046111,,N603.lrps.htm
+,LRP003,2.985,Km Post,Kashiadanga 19 km,24.3788327,88.7029167,,N603.lrps.htm
+,LRP003a,3.328,Culvert,Box culvert,24.3825549,88.6970552,,N603.lrps.htm
+,LRP003b,3.816,Culvert,Box culvert,24.3828327,88.6963886,,N603.lrps.htm
+,LRP004,3.985,Km Post,Kashiadanga 18 km,24.3839163,88.6952774,,N603.lrps.htm
+,LRP004a,4.075,Culvert,Box culvert,24.3844997,88.6946386,,N603.lrps.htm
+,LRP004b,4.527,Culvert,Box culvert,24.3875274,88.6915552,,N603.lrps.htm
+,LRP004c,4.94,Culvert,Box culvert,24.3901941,88.6888608,,N603.lrps.htm
+,LRP005,5,Km Post,Kashiadanga 17 km,24.3905274,88.6885552,,N603.lrps.htm
+,LRP005a,5.234,Culvert,Box culvert,24.3921108,88.6869997,,N603.lrps.htm
+,LRP005b,5.497,Culvert,Box culvert,24.393833,88.6852497,,N603.lrps.htm
+,LRP005c,5.714,Culvert,Box culvert,24.3952497,88.683833,,N603.lrps.htm
+,LRP005d,5.99,Culvert,Box culvert,24.3970552,88.681666,,N603.lrps.htm
+,LRP006,6,Km Post,Kashiadanga 16 km,24.397083,88.6813882,,N603.lrps.htm
+,LRP006a,6.166,Culvert,Box culvert,24.3978608,88.6813882,,N603.lrps.htm
+,LRP006b,6.432,Culvert,Box culvert,24.3982774,88.6778604,,N603.lrps.htm
+,LRP006c,6.682,Culvert,Box culvert,24.3980274,88.6753604,,N603.lrps.htm
+,LRP006d,6.973,Culvert,Box culvert,24.3976941,88.672666,,N603.lrps.htm
+,LRP007,6.985,Km Post,Kashiadanga 15 km,24.3976386,88.6724993,,N603.lrps.htm
+,LRP007a,7.133,Culvert,Box culvert,24.3975274,88.6711104,,N603.lrps.htm
+,LRP007b,7.341,Culvert,Box culvert,24.3972774,88.6690827,,N603.lrps.htm
+,LRP007c,7.522,Culvert,Box culvert,24.397083,88.667166,,N603.lrps.htm
+,LRP007d,7.894,Culvert,Box culvert,24.3971941,88.6636389,,N603.lrps.htm
+,LRP008,7.99,Km Post,Kashiadanga 14 km,24.3972497,88.6626667,,N603.lrps.htm
+,LRP008a,8.113,Culvert,Box culvert,24.3973608,88.6615278,,N603.lrps.htm
+,LRP008b,8.402,Culvert,Box culvert,24.3975552,88.6588889,,N603.lrps.htm
+,LRP008c,8.586,Culvert,Box culvert,24.3974997,88.6569444,,N603.lrps.htm
+,LRP009,9,Km Post,Kashiadanga 13 km,24.3979997,88.6528611,,N603.lrps.htm
+,LRP009a,9.202,Culvert,Box culvert,24.3981386,88.6508889,,N603.lrps.htm
+,LRP009b,9.3,Cross Road,"Z-6010,Madari Gani Road",24.3982219,88.6501111,,N603.lrps.htm
+,LRP009c,9.413,Culvert,Box culvert,24.3983886,88.6486108,,N603.lrps.htm
+,LRP009d,9.577,Culvert,Box Culvert,24.3986386,88.6472497,,N603.lrps.htm
+,LRP009e,9.781,Culvert,Box Culvert,24.3989163,88.645333,,N603.lrps.htm
+,LRP010,10,Km Post,Kashiadanga 12 km,24.3992497,88.6431108,,N603.lrps.htm
+,LRP010,10,Km Post,Kashiadanga 12 km,24.3992497,88.6431108,,N603.lrps.htm
+,LRP010a,10.373,Culvert,Box culvert,24.3998052,88.6396941,,N603.lrps.htm
+,LRP010b,10.552,Culvert,Box Culvert,24.4001667,88.6377497,,N603.lrps.htm
+,LRP010c,10.935,Culvert,Box Culvert,24.4009167,88.6342774,,N603.lrps.htm
+,LRP011,11,Km Post,Kashiadanga 11 km,24.4010278,88.6335274,,N603.lrps.htm
+,LRP011a,11.287,Bridge,Bridge start,24.4015278,88.6308327,,N603.lrps.htm
+,LRP011b,11.31,Bridge,Bridge end,24.4015556,88.630666,,N603.lrps.htm
+,LRP011c,11.638,Culvert,Box Culvert,24.4023333,88.6274993,,N603.lrps.htm
+,LRP011d,11.852,Culvert,Box Culvert,24.4029167,88.6253882,,N603.lrps.htm
+,LRP012,12,Km Post,Kashiadanga 10 km,24.40325,88.6239716,,N603.lrps.htm
+,LRP012a,12.146,Culvert,Box Culvert,24.4035833,88.6224993,,N603.lrps.htm
+,LRP012b,12.749,Culvert,Box Culvert,24.4035833,88.6224993,,N603.lrps.htm
+,LRP013,13,Km Post,Km post missing,24.4074722,88.6150556,,N603.lrps.htm
+,LRP013a,13.042,Culvert,Box Culvert,24.4074444,88.6150278,,N603.lrps.htm
+,LRP013b,13.316,Culvert,Box Culvert,24.408,88.6123611,,N603.lrps.htm
+,LRP013c,13.7,Cross Road,"R-685, Rajshahi-Naogaon road",24.4085556,88.6087222,,N603.lrps.htm
+,LRP014,14,Km Post,Information missing,24.4081389,88.60575,,N603.lrps.htm
+,LRP014a,14.068,Culvert,Box culvert,24.4081944,88.6051111,,N603.lrps.htm
+,LRP014b,14.384,Culvert,Box culvert,24.4085556,88.6020556,,N603.lrps.htm
+,LRP014c,14.92,Culvert,Box culvert,24.4076111,88.5971663,,N603.lrps.htm
+,LRP015,15,Km Post,Information missing,24.4073056,88.5962497,,N603.lrps.htm
+,LRP015a,15.083,Culvert,Box culvert,24.4070278,88.5955274,,N603.lrps.htm
+,LRP015b,15.233,Culvert,Box culvert,24.4065278,88.5942219,,N603.lrps.htm
+,LRP015c,15.512,Culvert,Box Culvert,24.4055833,88.591583,,N603.lrps.htm
+,LRP015d,15.844,Culvert,Box Culvert,24.4045,88.5886108,,N603.lrps.htm
+,LRP016,16,Km Post,Information missing,24.4039444,88.5871663,,N603.lrps.htm
+,LRP016a,16.02,Culvert,Box Culvert,24.4038889,88.5870552,,N603.lrps.htm
+,LRP016b,16.244,Culvert,Box culvert,24.4032778,88.5849441,,N603.lrps.htm
+,LRP016c,16.518,Culvert,Box culvert,24.4026944,88.5823604,,N603.lrps.htm
+,LRP016d,16.735,Culvert,Box culvert,24.4021944,88.5801382,,N603.lrps.htm
+,LRP016e,16.982,Culvert,Box Culvert,24.4005833,88.5785271,,N603.lrps.htm
+,LRP017,17,Km Post,Information missing,24.4005,88.5784438,,N603.lrps.htm
+,LRP017a,17.222,Culvert,Box culvert,24.3991108,88.5769438,,N603.lrps.htm
+,LRP017b,17.5,Culvert,Box culvert,24.3972219,88.5749993,,N603.lrps.htm
+,LRP017c,17.72,Culvert,Box culvert,24.395833,88.5734716,,N603.lrps.htm
+,LRP017d,17.999,Culvert,Box culvert,24.394083,88.5715827,,N603.lrps.htm
+,LRP018,18,Km Post,Information missing,24.394083,88.5715827,,N603.lrps.htm
+,LRP018a,18.177,Culvert,Box culvert,24.3933052,88.5700549,,N603.lrps.htm
+,LRP018b,18.363,Culvert,Box Culvert,24.3925274,88.5684438,,N603.lrps.htm
+,LRP019,19.01,Km Post,Information missing,24.3900552,88.5626111,,N603.lrps.htm
+,LRP019a,19.082,Culvert,Box Culvert,24.3897497,88.5619722,,N603.lrps.htm
+,LRP019b,19.324,Culvert,Box Culvert,24.3889163,88.5600278,,N603.lrps.htm
+,LRP020,20,Km Post,Information missing,24.3862497,88.5537778,,N603.lrps.htm
+,LRP020a,20.39,Rail Road Crossing,Rail Road Crossing,24.3849719,88.5504444,,N603.lrps.htm
+,LRP020b,20.5,Culvert,Box Culvert,24.3846941,88.5496386,,N603.lrps.htm
+,LRP020c,20.877,Culvert,Box Culvert,24.383583,88.5464163,,N603.lrps.htm
+,LRP021,20.99,Km Post,"N'gonj 44 km,Kashiadanga 0 km",24.3832493,88.5454441,,N603.lrps.htm
+,LRPE,21.03,Others,End road at Kashidanga &Connect with R-680 Rajshahi.,24.3832216,88.5454163,,N603.lrps.htm
+,,,,,,,,N603.lrps.htm
+,,,,,,,,N603.lrps.htm

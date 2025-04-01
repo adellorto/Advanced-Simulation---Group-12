@@ -1,0 +1,19 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,Road start R 141 left at Laksam model collage road,23.25,91.1203604,,R144.lrps.htm
+,LRPSa,0.24,"Turn off, Right",Road right turn,23.2494719,91.1224716,,R144.lrps.htm
+,LRPSb,0.68,Culvert,Box Culvert,23.2456941,91.1215549,,R144.lrps.htm
+,LRPSc,0.78,Others,Conkeet with R 141 right,23.2451386,91.1211104,,R144.lrps.htm
+,LRPSd,0.8,Rail Road Crossing,Rail y inf at laksam,23.244583,91.1213882,,R144.lrps.htm
+,LRP001,1,Km Post,Km post missing,23.2429719,91.1204993,,R144.lrps.htm
+,LRP001a,1.5,"Turn off, Left",Road left turn,23.2373052,91.1193049,,R144.lrps.htm
+,LRP001b,1.68,Rail Road Crossing,Rail crossing Noakhali tracu,23.2373608,91.1202493,,R144.lrps.htm
+,LRP002,2,Km Post,Km post missing,23.236083,91.1202216,,R144.lrps.htm
+,LRP002a,2.55,Bridge,Bridge start,23.2313882,91.120416,,R144.lrps.htm
+,LRP002b,2.56,Bridge,Bridge end,23.2313604,91.120416,,R144.lrps.htm
+,LRP002c,2.57,Cross Road,Right Monoharganj,23.2313049,91.1204993,,R144.lrps.htm
+,LRP003,3,Km Post,Km post missing,23.227916,91.1223882,,R144.lrps.htm
+,LRP003a,3.22,Bridge,Bridge start,0,91.1232493,,R144.lrps.htm
+,LRP003b,3.242,Bridge,Bridge end,23.2260827,91.1233882,,R144.lrps.htm
+,LRPE,3.38,Others,"Road connect with R141, end of road.",23.2248882,91.1239438,,R144.lrps.htm
+,,,,,,,,R144.lrps.htm
+,,,,,,,,R144.lrps.htm

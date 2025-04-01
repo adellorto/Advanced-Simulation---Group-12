@@ -1,0 +1,103 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,"Start of Road from N3 at Gazipur Chourasta, Joydebpur.",23.9894997,90.381916,,R310.lrps.htm
+,LRP001,1.023,Km Post,Gazipur 4 km,23.9911941,90.3915552,,R310.lrps.htm
+,LRP001a,1.722,Culvert,Slab culvert,23.9920274,90.3983608,,R310.lrps.htm
+,LRP001b,2.039,Culvert,Slab culvert,23.9925552,90.4013333,,R310.lrps.htm
+,LRP002,2.117,Km Post,Information missing,23.9926386,90.4020556,,R310.lrps.htm
+,LRP002a,2.401,"Side Road, Right",Road to Board Bazar(Z3008),23.9930274,90.4047778,,R310.lrps.htm
+,LRP002b,2.566,Culvert,Slab culvert,23.993333,90.4063611,,R310.lrps.htm
+,LRP003,3.139,Km Post,Information missing,23.9948886,90.4116944,,R310.lrps.htm
+,LRP003a,3.73,"Side Road, Left",Road to Workshop at Sibbari more (R311) / Road Break due to City Corporation road start,23.9968608,90.4170549,,R310.lrps.htm
+,LRP003b,3.731,Bridge,Baily Bridge start/ Road start again and end city corporation road,24.0061111,90.4430552,,R310.lrps.htm
+,LRP003c,3.79,Bridge,Baily Bridge end,24.0063889,90.4435552,,R310.lrps.htm
+,LRP004,4.139,Km Post,Km post missing,24.0079167,90.4465274,,R310.lrps.htm
+,LRP005,5.139,Km Post,Km post missing,24.0124444,90.4549444,,R310.lrps.htm
+,LRP006,6.139,Km Post,Km post missing,24.0178882,90.46225,,R310.lrps.htm
+,LRP007,7.139,Km Post,Km post missing,24.0243049,90.4687771,,R310.lrps.htm
+,LRP008,8.139,Km Post,Km post missing,24.0262771,90.4773049,,R310.lrps.htm
+,LRP008a,8.737,Bridge,Bridge start,24.0277771,90.4829993,,R310.lrps.htm
+,LRP008b,8.843,Bridge,Bridge end,24.0281104,90.4839719,,R310.lrps.htm
+,LRP009,9.139,Km Post,Km post missing,24.0291104,90.4866108,,R310.lrps.htm
+,LRP009a,9.851,Bridge,Bridge start,24.0316104,90.4929441,,R310.lrps.htm
+,LRP009b,9.928,Bridge,Bridge end,24.0318882,90.4936386,,R310.lrps.htm
+,LRP010,10.139,Km Post,Km post missing,24.0326938,90.4955274,,R310.lrps.htm
+,LRP010a,10.462,Bridge,Bridge start,24.0336941,90.4983608,,R310.lrps.htm
+,LRP010b,10.531,Bridge,Bridge end,24.0338608,90.4989997,,R310.lrps.htm
+,LRP010c,11.089,Culvert,Box Culvert,24.0343886,90.5043611,,R310.lrps.htm
+,LRP011,11.139,Km Post,Km post missing,24.0344163,90.5048333,,R310.lrps.htm
+,LRP011a,11.563,Culvert,Box Culvert,24.0349163,90.5088889,,R310.lrps.htm
+,LRP011b,11.604,Others,Earthen road start,24.0349163,90.50975,,R310.lrps.htm
+,LRP011c,11.958,Culvert,Box Culvert,24.0345552,90.5132222,,R310.lrps.htm
+,LRP012,12.139,Km Post,Km post missing,24.0341386,90.5147778,,R310.lrps.htm
+,LRP012a,12.358,Culvert,Box Culvert,24.0336941,90.5169993,,R310.lrps.htm
+,LRP012b,12.78,Culvert,Box Culvert,24.0332216,90.521166,,R310.lrps.htm
+,LRP012c,13.039,Culvert,Box Culvert,24.0327493,90.5236104,,R310.lrps.htm
+,LRP013,13.139,Km Post,Km post missing,24.032666,90.5245549,,R310.lrps.htm
+,LRP013a,13.879,Culvert,Pipe Culvert,24.0324438,90.5318327,,R310.lrps.htm
+,LRP014,14.139,Km Post,Km post missing,24.0324438,90.5342774,,R310.lrps.htm
+,LRP014a,14.147,Culvert,Pipe Culvert,24.0324716,90.5344441,,R310.lrps.htm
+,LRP014b,14.684,Culvert,Box Culvert,24.0325271,90.5396663,,R310.lrps.htm
+,LRP014c,14.997,Bridge,Start of Bridge (under construction),24.0327493,90.5427497,,R310.lrps.htm
+,LRP014d,15.027,Bridge,End of Bridge (under construction),24.0327493,90.5430552,,R310.lrps.htm
+,LRP015,15.139,Km Post,Km post missing,24.0326938,90.5441108,,R310.lrps.htm
+,LRP015a,15.553,Culvert,Box Culvert,24.0333049,90.5481386,,R310.lrps.htm
+,LRP015b,15.745,Culvert,Box Culvert,24.0334163,90.5499719,,R310.lrps.htm
+,LRP016,16.139,Km Post,Km post missing,24.0321938,90.55375,,R310.lrps.htm
+,LRP016a,16.562,Culvert,Box Culvert,24.0308604,90.5575278,,R310.lrps.htm
+,LRP017,17.139,Km Post,Km post missing,24.0293604,90.5630278,,R310.lrps.htm
+,LRP017a,17.324,Culvert,Box Culvert,24.0288882,90.56475,,R310.lrps.htm
+,LRP017b,17.614,Culvert,Box Culvert,24.0282216,90.567666,,R310.lrps.htm
+,LRP017c,17.828,Culvert,Box Culvert,24.0274993,90.5695549,,R310.lrps.htm
+,LRP018,18.139,Km Post,Km post missing,24.0263882,90.572416,,R310.lrps.htm
+,LRP018a,18.254,Culvert,Pipe Culvert,24.0260271,90.5734716,,R310.lrps.htm
+,LRP018b,18.404,Culvert,Box Culvert,24.0254993,90.5748604,,R310.lrps.htm
+,LRP019,19.139,Km Post,Km post missing,24.0237493,90.5817493,,R310.lrps.htm
+,LRP019a,19.159,Others,Bil start,24.023666,90.5818604,,R310.lrps.htm
+,LRP019b,19.714,Others,Bil end,24.0243327,90.5873608,,R310.lrps.htm
+,LRP020,20.139,Km Post,Km post missing,24.0248604,90.5917219,,R310.lrps.htm
+,LRP020a,20.358,Others,Land not acquired,24.0247771,90.5936386,,R310.lrps.htm
+,LRP021,21.139,Km Post,Land not acquired,0,0,,R310.lrps.htm
+,LRP022,22.139,Km Post,Land not acquired,0,0,,R310.lrps.htm
+,LRP023,23.139,Km Post,Land not acquired,0,0,,R310.lrps.htm
+,LRP024,24.139,Km Post,Land not acquired,0,0,,R310.lrps.htm
+,LRP025,25.139,Km Post,Assessment not done,0,0,,R310.lrps.htm
+,LRP026,26.139,Km Post,Km post missing,0,0,,R310.lrps.htm
+,LRP027,27.139,Km Post,Km post missing,0,0,,R310.lrps.htm
+,LRP028,28.139,Km Post,Km post missing,0,0,,R310.lrps.htm
+,LRP028a,28.14,Others,Shitolakkha river end/ Narsingdi road Division start,24.0168327,90.6643056,,R310.lrps.htm
+,LRP028a,28.14,Others,Shitolakkha river end/ Narsingdi road Division start,24.0168327,90.6643056,,R310.lrps.htm
+,LRP028b,28.141,Cross Road,Z2045,24.0168327,90.6643333,,R310.lrps.htm
+,LRP028c,28.44,Culvert,Box Culvert,24.0144722,90.6653056,,R310.lrps.htm
+,LRP029,29.139,Km Post,Km post missing,24.0095833,90.6689438,,R310.lrps.htm
+,LRP030,30.291,Km Post,Charshindur 3km,24.0049722,90.6738882,,R310.lrps.htm
+,LRP030a,30.857,Culvert,Box Culvert,24.0036111,90.6749438,,R310.lrps.htm
+,LRP030b,30.861,Culvert,Box Culvert,23.9994441,90.6781104,,R310.lrps.htm
+,LRP031,31.478,Km Post,Km post missing,23.9952219,90.6806938,,R310.lrps.htm
+,LRP031a,32.169,Culvert,Box Culvert,23.9906941,90.6858608,,R310.lrps.htm
+,LRP031b,32.289,Culvert,Box Culvert,23.9899441,90.6866663,,R310.lrps.htm
+,LRP032,32.299,Km Post,Charshindur 4km,23.989833,90.6867774,,R310.lrps.htm
+,LRP032a,32.639,Culvert,Box Culvert,23.9876108,90.6890274,,R310.lrps.htm
+,LRP032b,32.939,Culvert,Box Culvert,23.9864163,90.691583,,R310.lrps.htm
+,LRP032c,32.999,Culvert,Box Culvert,23.9863052,90.6921941,,R310.lrps.htm
+,LRP032d,33.139,Culvert,Box Culvert,23.986083,90.6934719,,R310.lrps.htm
+,LRP033,33.309,Km Post,Charshindur 5km,23.9857497,90.6951108,,R310.lrps.htm
+,LRP033a,33.339,Culvert,Box Culvert,23.9856941,90.6953886,,R310.lrps.htm
+,LRP033b,33.609,Culvert,Box Culvert,23.9851108,90.6984719,,R310.lrps.htm
+,LRP033c,33.869,Culvert,Box Culvert,23.9846941,90.7003611,,R310.lrps.htm
+,LRP033d,34.144,Bridge,Start of Bridge,23.9843886,90.7031389,,R310.lrps.htm
+,LRP033e,34.166,Bridge,End of Bridge,23.9844163,90.7034444,,R310.lrps.htm
+,LRP034,34.309,Km Post,Charshindur 6km,23.9841941,90.7047778,,R310.lrps.htm
+,LRP034a,34.819,Culvert,Box Culvert,23.9826104,90.7096944,,R310.lrps.htm
+,LRP035,35.177,Km Post,Km post missing,23.9825271,90.7126944,,R310.lrps.htm
+,LRP035a,35.253,Culvert,Box Culvert,23.9825271,90.7134444,,R310.lrps.htm
+,LRP035b,35.375,Culvert,Box Culvert,23.9824993,90.7146111,,R310.lrps.htm
+,LRP035c,35.583,Culvert,Box Culvert,23.9823882,90.7166111,,R310.lrps.htm
+,LRP035d,36.109,Culvert,Box Culvert,23.9815549,90.721666,,R310.lrps.htm
+,LRP036,36.479,Km Post,Charshindur 7km,23.9810271,90.7235549,,R310.lrps.htm
+,LRP036a,36.679,Culvert,Box Culvert,23.9807771,90.7264993,,R310.lrps.htm
+,LRP036b,36.829,Culvert,Box Culvert,23.9806104,90.7264716,,R310.lrps.htm
+,LRP036c,36.839,Culvert,Box Culvert,23.9803327,90.7284993,,R310.lrps.htm
+,LRP036d,37.029,Culvert,Box Culvert,23.9802493,90.7302216,,R310.lrps.htm
+,LRPE,37.339,Others,End of road at itakhola more and intersect with N2 ( Dhaka- Sylhet Highway),23.9802493,90.7332771,,R310.lrps.htm
+,,,,,,,,R310.lrps.htm
+,,,,,,,,R310.lrps.htm

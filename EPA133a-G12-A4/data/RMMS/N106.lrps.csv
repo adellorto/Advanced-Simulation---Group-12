@@ -1,0 +1,218 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,Start of Road from Oxygen More,22.3935552,91.8215827,,N106.lrps.htm
+,LRPSa,0.48,Culvert,Box culvert,22.3974997,91.8200271,,N106.lrps.htm
+,LRPSb,0.648,Culvert,Box culvert,22.3990552,91.8198049,,N106.lrps.htm
+,LRPSc,0.822,Culvert,Box culvert,22.4004722,91.8193604,,N106.lrps.htm
+,LRP001,1,Km Post,Km post missing,22.4020556,91.8191104,,N106.lrps.htm
+,LRP001a,1.328,Culvert,Slab culvert,22.4049722,91.8188882,,N106.lrps.htm
+,LRP001b,1.445,Culvert,Box culvert,22.4060278,91.818666,,N106.lrps.htm
+,LRP002,2,Km Post,Km post missing,22.4108056,91.8182493,,N106.lrps.htm
+,LRP002a,2.156,Culvert,Box culvert,22.4121667,91.8185549,,N106.lrps.htm
+,LRP002b,2.532,Bridge,Bridge start,22.4154722,91.819166,,N106.lrps.htm
+,LRP002c,2.554,Bridge,Bridge end,22.4156389,91.819166,,N106.lrps.htm
+,LRP003,3,Km Post,Km post missing,22.4196104,91.8197216,,N106.lrps.htm
+,LRP003a,3.317,Culvert,Box culvert,22.4223882,91.8200271,,N106.lrps.htm
+,LRP003b,3.552,Culvert,Box culvert,22.4244438,91.8197771,,N106.lrps.htm
+,LRP004,4.05,Km Post,"Rangamati 64 km,Hathazari 8 km",22.428916,91.819666,,N106.lrps.htm
+,LRP004a,4.292,Culvert,Box culvert,22.4309993,91.8199993,,N106.lrps.htm
+,LRP004c,4.948,Culvert,Box Culvert,22.4368608,91.8203327,,N106.lrps.htm
+,LRP005,5.05,Km Post,Km post missing,22.4377497,91.8204993,,N106.lrps.htm
+,LRP005a,5.107,Culvert,Box culvert,22.4382497,91.8206104,,N106.lrps.htm
+,LRP005b,5.834,Culvert,Box culvert,22.4444441,91.8190549,,N106.lrps.htm
+,LRP006,6.064,Km Post,Information missing,22.4464441,91.8185549,,N106.lrps.htm
+,LRP006a,6.642,Culvert,Box culvert,22.4515,91.8175827,,N106.lrps.htm
+,LRP006b,6.882,Culvert,Box culvert,22.4535833,91.8173049,,N106.lrps.htm
+,LRP007,7.064,Km Post,Km post missing,22.45525,91.817166,,N106.lrps.htm
+,LRP007a,7.096,Culvert,Box culvert,22.4555,91.8171382,,N106.lrps.htm
+,LRP007b,7.294,Culvert,Box culvert,22.45725,91.8168882,,N106.lrps.htm
+,LRP007c,7.882,Culvert,Box culvert,22.4624722,91.8166111,,N106.lrps.htm
+,LRP008,8.064,Km Post,Km post missing,22.4640556,91.8165278,,N106.lrps.htm
+,LRP008a,8.271,Culvert,Box culvert,22.4658611,91.8163889,,N106.lrps.htm
+,LRP008b,8.88,Bridge,Bridge start,22.4710827,91.8151389,,N106.lrps.htm
+,LRP008c,8.895,Bridge,Bridge end,22.4711938,91.8151111,,N106.lrps.htm
+,LRP009,9.064,Km Post,Km post missing,22.472666,91.8148056,,N106.lrps.htm
+,LRP009a,9.756,Culvert,Box culvert,22.4786104,91.8131667,,N106.lrps.htm
+,LRP010,10.108,Km Post,Information missing,22.4809438,91.8115278,,N106.lrps.htm
+,LRP011,11.108,Km Post,Km post missing,22.4889441,91.8079444,,N106.lrps.htm
+,LRP011a,11.239,Culvert,Box culvert,22.4901108,91.8079444,,N106.lrps.htm
+,LRP011b,11.918,Bridge,Bridge start,22.496083,91.8074444,,N106.lrps.htm
+,LRP012,12.108,Km Post,Km post missing,22.4977497,91.8071667,,N106.lrps.htm
+,LRP012a,12.192,"Side Road, Left","R160, Khagrachari Road",22.4984441,91.8070833,,N106.lrps.htm
+,LRP013,13.22,Km Post,"Rangamati 55 km,Raozan 13 km",22.5031667,91.8147222,,N106.lrps.htm
+,LRP013a,13.552,Culvert,Box culvert,22.5037778,91.8178327,,N106.lrps.htm
+,LRP013b,14.082,Culvert,Box culvert,22.5033333,91.8228882,,N106.lrps.htm
+,LRP014,14.149,Km Post,"Rangamati 54 km, Raozan 12 km",22.5032778,91.8235549,,N106.lrps.htm
+,LRP014a,14.407,Bridge,Bridge start,22.5046111,91.8265549,,N106.lrps.htm
+,LRP014b,14.564,Bridge,Bridge end,22.5048889,91.8271104,,N106.lrps.htm
+,LRP015,15.158,Km Post,"Rangamati 53 km,Raozan 11 km",22.5071389,91.8323604,,N106.lrps.htm
+,LRP015a,15.215,Bridge,Bridge start,22.5073056,91.8328604,,N106.lrps.htm
+,LRP015b,15.263,Bridge,Bridge end,22.5074167,91.8331938,,N106.lrps.htm
+,LRP015c,15.384,Culvert,Box culvert,22.5079167,91.834333,,N106.lrps.htm
+,LRP016,16.158,Km Post,Km post missing,22.5108611,91.8411386,,N106.lrps.htm
+,LRP016a,16.191,Culvert,Box Culvert,22.5109167,91.8414163,,N106.lrps.htm
+,LRP016b,16.769,Bridge,Bridge start,22.5137222,91.8453608,,N106.lrps.htm
+,LRP016c,16.872,Bridge,Bridge end,22.5146389,91.8454163,,N106.lrps.htm
+,LRP017,16.928,Km Post,"Rangamati 51 km,Raozan9 km",22.5151111,91.8455274,,N106.lrps.htm
+,LRP017a,17.253,Culvert,Box culvert,22.5160556,91.8481663,,N106.lrps.htm
+,LRP018,17.788,Km Post,Rangamati 50 km,22.5162222,91.8532778,,N106.lrps.htm
+,LRP018a,17.929,Bridge,Bridge start,22.5162222,91.8545278,,N106.lrps.htm
+,LRP018b,17.956,Bridge,Bridge end,22.51625,91.8547778,,N106.lrps.htm
+,LRP018c,18.622,Culvert,Box culvert,22.5214993,91.8605833,,N106.lrps.htm
+,LRP019,18.788,Km Post,Km post missing,22.5193882,91.8620278,,N106.lrps.htm
+,LRP019a,18.921,Culvert,Box culvert,22.5198882,91.8632222,,N106.lrps.htm
+,LRP019b,19.15,Culvert,Box Culvert,22.5213604,91.866916,,N106.lrps.htm
+,LRP019c,19.321,"Side Road, Left",Road to Fatikchari,22.5217771,91.8681104,,N106.lrps.htm
+,LRP020,19.58,Km Post,"Rangamati 48 km,Raozan 6 km",22.5223327,91.8689438,,N106.lrps.htm
+,LRP020a,19.723,Culvert,Box culvert,22.5230271,91.8700827,,N106.lrps.htm
+,LRP020b,20.172,Bridge,Bridge start,22.5262216,91.8726938,,N106.lrps.htm
+,LRP020c,20.212,Bridge,Bridge end,22.5264993,91.8728604,,N106.lrps.htm
+,LRP021,20.622,Km Post,"Rangamati 47 km,Raozan 5 km",22.5283882,91.8760271,,N106.lrps.htm
+,LRP021a,20.85,Bridge,Bridge start,22.5288604,91.8781382,,N106.lrps.htm
+,LRP021b,20.878,Bridge,Bridge end,22.5288882,91.878416,,N106.lrps.htm
+,LRP022,21.569,Km Post,"Rangamati 46 km,Raozan 4 km",22.5308049,91.8848052,,N106.lrps.htm
+,LRP022a,22.099,Bridge,Bridge start,22.5322771,91.8896386,,N106.lrps.htm
+,LRP022b,22.129,Bridge,Bridge end,22.5322771,91.8898886,,N106.lrps.htm
+,LRP022c,22.367,Culvert,Box culvert,22.5325549,91.8921386,,N106.lrps.htm
+,LRP023,22.569,Km Post,Km post missing,22.5327771,91.8941108,,N106.lrps.htm
+,LRP023a,22.608,Culvert,Box culvert,22.5328049,91.8944997,,N106.lrps.htm
+,LRP023b,22.981,Culvert,Box culvert,22.533333,91.8980552,,N106.lrps.htm
+,LRP023c,23.122,Bridge,Bridge start,22.5334997,91.8993608,,N106.lrps.htm
+,LRP023d,23.142,Bridge,Bridge end,22.5335274,91.8995552,,N106.lrps.htm
+,LRP023e,23.399,Bridge,Bridge start,22.5342219,91.9019167,,N106.lrps.htm
+,LRP023f,23.425,Bridge,Bridge end,22.5342497,91.9021667,,N106.lrps.htm
+,LRP024,23.469,Km Post,Rangamati 44 km,22.5343052,91.9025833,,N106.lrps.htm
+,LRP024a,23.81,Culvert,Box culvert,22.5349163,91.9058611,,N106.lrps.htm
+,LRP024b,24.297,"Side Road, Right",Road to Jalepara,22.5349719,91.9103611,,N106.lrps.htm
+,LRP025,24.458,Km Post,"Rangamati 43 km,Raozan 0 km",22.5350552,91.9116944,,N106.lrps.htm
+,LRP025a,24.623,"Side Road, Left",Road to Brahmanchari,22.5349997,91.91325,,N106.lrps.htm
+,LRP025b,24.867,Culvert,Box culvert,22.5349441,91.9155556,,N106.lrps.htm
+,LRP025c,25.151,Culvert,Box Culvert,22.5348608,91.9183327,,N106.lrps.htm
+,LRP025d,25.278,"Side Road, Right",Road to Katakhali,22.5347219,91.9194716,,N106.lrps.htm
+,LRP026,25.651,Km Post,Rangamati 42 km,22.535333,91.9229716,,N106.lrps.htm
+,LRP026a,25.736,Culvert,Box culvert,22.5354997,91.9238049,,N106.lrps.htm
+,LRP026b,26.112,Culvert,Box culvert,22.5358886,91.927416,,N106.lrps.htm
+,LRP026c,26.255,Culvert,Box culvert,22.5359163,91.9287216,,N106.lrps.htm
+,LRP027,26.372,Km Post,"Rangamati 42 km,Betbunia10 km",22.5359997,91.9299438,,N106.lrps.htm
+,LRP027a,26.954,Culvert,Box culvert,22.5369719,91.9355274,,N106.lrps.htm
+,LRP028,27.316,Km Post,"Rangamati 41 km,Betbunia 9 km",22.5377774,91.9389163,,N106.lrps.htm
+,LRP029,28.004,Km Post,"Rangamati 40 km,Betbunia 8 km",22.5381108,91.9455552,,N106.lrps.htm
+,LRP030,28.621,Km Post,"Rangamati 39 km,Betbunia 7 km",22.5395552,91.9513056,,N106.lrps.htm
+,LRP030a,29.139,Bridge,Bridge start,22.5386941,91.9559722,,N106.lrps.htm
+,LRP030b,29.154,Bridge,Bridge end,22.5386663,91.9561389,,N106.lrps.htm
+,LRP031,29.203,Km Post,"Rangamati 38 km,Betbunia 6 km",22.5386663,91.9565556,,N106.lrps.htm
+,LRP031a,29.217,Culvert,Box Culvert,22.5386108,91.9566389,,N106.lrps.htm
+,LRP032,30.084,Km Post,"Rangamati 37 km,Betbunia 5 km",22.5385552,91.9651111,,N106.lrps.htm
+,LRP032a,30.247,Culvert,Box culvert,22.538333,91.9667216,,N106.lrps.htm
+,LRP032b,30.41,Others,Start of Rangamati road Division,22.5382219,91.9688049,,N106.lrps.htm
+,LRP032b,30.41,Others,Start of Rangamati road Division,22.5382219,91.9688049,,N106.lrps.htm
+,LRP032c,30.798,Bridge,Bridge start,22.5406108,91.9691104,,N106.lrps.htm
+,LRP032d,30.817,Bridge,Bridge end,22.5406108,91.9692771,,N106.lrps.htm
+,LRP033,31.084,Km Post,Km post missing,22.5411108,91.9718049,,N106.lrps.htm
+,LRP033a,31.247,Culvert,Box Culvert,22.5412497,91.973166,,N106.lrps.htm
+,LRP033b,31.347,Culvert,Box Culvert,22.5413886,91.9742216,,N106.lrps.htm
+,LRP034,31.353,Km Post,"Rangamati 36 km,Betbunia 4 km",22.5413886,91.9742493,,N106.lrps.htm
+,LRP034a,31.495,Culvert,Box Culvert,22.5417219,91.9755549,,N106.lrps.htm
+,LRP034b,31.596,Culvert,Box Culvert,22.5421108,91.976416,,N106.lrps.htm
+,LRP034c,31.68,Culvert,Box Culvert,22.5418052,91.977166,,N106.lrps.htm
+,LRP034d,31.861,Culvert,Box Culvert,22.5404997,91.9781104,,N106.lrps.htm
+,LRP034e,32.113,Culvert,Box Culvert,22.5394441,91.9801938,,N106.lrps.htm
+,LRP034f,32.354,Culvert,Box Culvert,22.5389719,91.9820271,,N106.lrps.htm
+,LRP035,32.384,Km Post,"Rangamati 35 km, Betbunia 3 km",22.539083,91.9822493,,N106.lrps.htm
+,LRP035a,32.517,Culvert,Box Culvert,22.5396108,91.9833049,,N106.lrps.htm
+,LRP035b,32.672,Culvert,Box Culvert,22.5404163,91.9842774,,N106.lrps.htm
+,LRP035c,32.887,Culvert,Box Culvert,22.542083,91.9851941,,N106.lrps.htm
+,LRP035d,32.999,Culvert,Box Culvert,22.5429719,91.9854163,,N106.lrps.htm
+,LRP035e,33.161,Culvert,Box Culvert,22.5443886,91.9855552,,N106.lrps.htm
+,LRP036,33.407,Km Post,"Rangamati 34 km, Betbunia 2 km",22.5459997,91.9871108,,N106.lrps.htm
+,LRP036a,33.48,Culvert,Box Culvert,22.5464441,91.987583,,N106.lrps.htm
+,LRP036b,33.624,Culvert,Box Culvert,22.5468052,91.9886941,,N106.lrps.htm
+,LRP036c,33.738,Culvert,Box Culvert,22.5464441,91.9896941,,N106.lrps.htm
+,LRP036d,34.087,Culvert,Box Culvert,22.5450552,91.9926941,,N106.lrps.htm
+,LRP036e,34.22,Culvert,Box Culvert,22.5453052,91.9843886,,N106.lrps.htm
+,LRP036f,34.411,Culvert,Box Culvert,22.5455274,91.9956386,,N106.lrps.htm
+,LRP036g,34.44,Culvert,Box Culvert,22.5456108,91.9959163,,N106.lrps.htm
+,LRP037,34.514,Km Post,"Rangamati 34 km, Betbunia 1 km",22.5457497,91.9966386,,N106.lrps.htm
+,LRP037a,34.708,Culvert,Box Culvert,22.5458886,91.9983608,,N106.lrps.htm
+,LRP037b,34.936,Culvert,Box Culvert,22.5454719,92.0003333,,N106.lrps.htm
+,LRP037c,35.02,Culvert,Box Culvert,22.5455274,92.0050278,,N106.lrps.htm
+,LRP038,35.514,Km Post,Km post missing,22.5453052,92.0053611,,N106.lrps.htm
+,LRP038a,35.917,Culvert,Box Culvert,22.5439719,92.0088611,,N106.lrps.htm
+,LRP038b,36.024,Culvert,Box Culvert,22.5439163,92.0099167,,N106.lrps.htm
+,LRP039,36.56,Km Post,Rangamati 31 km,22.5479441,92.0118611,,N106.lrps.htm
+,LRP039a,36.594,Culvert,Box Culvert,22.5481941,92.012,,N106.lrps.htm
+,LRP039b,36.827,Culvert,Box Culvert,22.549833,92.0133056,,N106.lrps.htm
+,LRP039c,37.25,"Side Road, Left",Road from Kawakhali,22.5524444,92.0162222,,N106.lrps.htm
+,LRP039d,37.289,Bridge,Bridge start,22.5526389,92.0165278,,N106.lrps.htm
+,LRP039e,37.318,Bridge,Bridge end,22.5527778,92.0167493,,N106.lrps.htm
+,LRP040,37.403,Km Post,Ranga mati 30 km,22.5529444,92.0174438,,N106.lrps.htm
+,LRP040a,37.459,Culvert,Box culvert,22.5530278,92.0179716,,N106.lrps.htm
+,LRP040b,37.704,Culvert,Box culvert,22.5541667,92.0198604,,N106.lrps.htm
+,LRP040c,38.086,Culvert,Box culvert,22.5552778,92.0236382,,N106.lrps.htm
+,LRP041,38.454,Km Post,Rangamati 29 km,22.5559167,92.0266938,,N106.lrps.htm
+,LRP041a,39.137,Culvert,Box culvert,22.5585278,92.0325827,,N106.lrps.htm
+,LRP042,39.409,Km Post,Rangamati 28 km,22.5597778,92.0346108,,N106.lrps.htm
+,LRP042a,39.639,Culvert,Box culvert,22.5611111,92.0359997,,N106.lrps.htm
+,LRP042b,40.04,Culvert,Box culvert,22.5638611,92.0381386,,N106.lrps.htm
+,LRP043,40.589,Km Post,Rangamati 27 km,22.5683882,92.0397774,,N106.lrps.htm
+,LRP043a,40.759,Bridge,Ranirhat bridge,22.569666,92.0404997,,N106.lrps.htm
+,LRP043b,40.892,Bridge,Ranirhat bridge,22.5707771,92.0409163,,N106.lrps.htm
+,LRP043c,41.364,Culvert,Box culvert,22.5746938,92.0427497,,N106.lrps.htm
+,LRP044,41.529,Km Post,Rangamati 26 km,22.5758049,92.0435552,,N106.lrps.htm
+,LRP044a,41.609,Culvert,Box culvert,22.5762493,92.0440274,,N106.lrps.htm
+,LRP044b,41.825,"Side Road, Left",Z1617,22.5774993,92.0454719,,N106.lrps.htm
+,LRP044c,42.186,Culvert,Box culvert,22.5798049,92.0476663,,N106.lrps.htm
+,LRP044d,42.349,Culvert,Box culvert,22.5807493,92.0488052,,N106.lrps.htm
+,LRP045,42.524,Km Post,"Rangamati 25 km,Ghagra 6 km",22.5815827,92.0501389,,N106.lrps.htm
+,LRP045a,43.186,Culvert,Box culvert,22.5839441,92.0558611,,N106.lrps.htm
+,LRP046,43.602,Km Post,"Rangamati 24 km,Ghagra 6 km",22.5852774,92.0595833,,N106.lrps.htm
+,LRP046a,44,Culvert,Box culvert,22.5869163,92.0629722,,N106.lrps.htm
+,LRP047,44.72,Km Post,"Rangamati 23 km,Ghagra 5 km",22.5900274,92.0690827,,N106.lrps.htm
+,LRP047a,45.242,Bridge,Bridge start,22.5935552,92.0714716,,N106.lrps.htm
+,LRP047b,45.26,Bridge,Bridge end,22.5935274,92.0716382,,N106.lrps.htm
+,LRP048,45.72,Km Post,Km post missing,22.5942497,92.0758049,,N106.lrps.htm
+,LRP048a,45.735,Culvert,Box culvert,22.5943052,92.0758604,,N106.lrps.htm
+,LRP048b,46.17,Culvert,Box culvert,22.5969997,92.0788604,,N106.lrps.htm
+,LRP048c,46.422,Culvert,Box culvert,22.5981108,92.0808604,,N106.lrps.htm
+,LRP049,46.72,Km Post,Km post missing,22.5986386,92.0836386,,N106.lrps.htm
+,LRP050,47.641,Km Post,"Rangamati 20 km,Ghagra 2 km",22.6033611,92.0904719,,N106.lrps.htm
+,LRP051,48.732,Km Post,Information missing,22.6078611,92.0956386,,N106.lrps.htm
+,LRP051a,48.879,"Side Road, Right","R161, Road to Bandarban",22.6088889,92.0964719,,N106.lrps.htm
+,LRP051b,49.001,Culvert,Box culvert,22.6094444,92.0973886,,N106.lrps.htm
+,LRP051c,49.617,Culvert,Box culvert,0,0,,N106.lrps.htm
+,LRP052,49.637,Km Post,"Rangamati 18 km,Ghagra 0 km",22.6122222,92.1019722,,N106.lrps.htm
+,LRP052a,50.365,Culvert,Box culvert,22.6188049,92.1027778,,N106.lrps.htm
+,LRP052b,50.608,Culvert,Box culvert,22.6192493,92.1031944,,N106.lrps.htm
+,LRP053,50.742,Km Post,Rangamati 17 km,22.6203604,92.1038056,,N106.lrps.htm
+,LRP053a,51.118,Culvert,Box culvert,22.6221104,92.1066111,,N106.lrps.htm
+,LRP053b,51.289,Culvert,Box culvert,22.622916,92.1081111,,N106.lrps.htm
+,LRP054,51.656,Km Post,Rangamati 16 km,22.6240827,92.1106667,,N106.lrps.htm
+,LRP054a,51.94,Culvert,Box culvert,22.6267216,92.1125278,,N106.lrps.htm
+,LRP054b,52.145,Culvert,Box culvert,22.6277771,92.1130833,,N106.lrps.htm
+,LRP054c,52.272,Culvert,Box culvert,22.6287216,92.1128056,,N106.lrps.htm
+,LRP054d,52.361,Culvert,Box culvert,22.6294993,92.1128056,,N106.lrps.htm
+,LRP054e,52.63,Culvert,Box Culvert`,22.6314438,92.1136667,,N106.lrps.htm
+,LRP055,52.754,Km Post,Information missing,22.6320549,92.1146389,,N106.lrps.htm
+,LRP055a,53.511,Culvert,Box culvert,22.6378608,92.1161944,,N106.lrps.htm
+,LRP055b,53.7,Culvert,Pipe Culvert,22.6378608,92.1161944,,N106.lrps.htm
+,LRP056,53.71,Km Post,Rangamati 14 km,22.6393608,92.1153056,,N106.lrps.htm
+,LRP056a,54.41,Culvert,Box culvert,22.6400552,92.1198604,,N106.lrps.htm
+,LRP057,54.77,Km Post,Rangamati 13 km,22.6411663,92.1224716,,N106.lrps.htm
+,LRP057a,54.787,Culvert,Box culvert,22.6412497,92.1224993,,N106.lrps.htm
+,LRP058,55.809,Km Post,Rangamati 12 km,22.6446108,92.1289716,,N106.lrps.htm
+,LRP059,56.737,Km Post,"Rangamati 11 km, Manikchan 1 km",22.6461941,92.1339441,,N106.lrps.htm
+,LRP059a,57.056,Bridge,Bridge start,22.6474163,92.1364163,,N106.lrps.htm
+,LRP059b,57.142,Bridge,Bridge end,22.6480552,92.136833,,N106.lrps.htm
+,LRP059c,57.303,"Side Road, Left","R162, Road to Khagrachari",22.6488886,92.1379997,,N106.lrps.htm
+,LRP060,57.779,Km Post,"Rangamati 10 km,Manikchhari 0 km",22.6510833,92.1412497,,N106.lrps.htm
+,LRP061,58.779,Km Post,Km post missing,22.654,92.1470274,,N106.lrps.htm
+,LRP062,59.605,Km Post,Rangamati 8 km,22.6584167,92.1513611,,N106.lrps.htm
+,LRP063,60.615,Km Post,Rangamati 7 km,22.6631389,92.1578889,,N106.lrps.htm
+,LRP064,61.615,Km Post,Km post missing,22.6612778,92.1665833,,N106.lrps.htm
+,LRP065,62.615,Km Post,Km post missing,22.6574444,92.1738604,,N106.lrps.htm
+,LRP066,63.625,Km Post,Rangamati 4 km,22.6522778,92.1796382,,N106.lrps.htm
+,LRP067,64.625,Km Post,Km post missing,22.647083,92.1852219,,N106.lrps.htm
+,LRP068,65.525,Km Post,Rangamati 2 km,22.6463052,92.1926663,,N106.lrps.htm
+,LRP069,66.425,Km Post,Police Comissionar Bunglow 1 km,22.6454441,92.1974163,,N106.lrps.htm
+,LRPE,66.85,Others,The road ends Infront of DC Bunglow,22.6485274,92.2018333,,N106.lrps.htm
+,,,,,,,,N106.lrps.htm
+,,,,,,,,N106.lrps.htm

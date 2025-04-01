@@ -1,0 +1,99 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,"Start from N5 at Mokamtala,Bogra.",25.017166,89.3688882,,R550.lrps.htm
+,LRPSa,0.22,Culvert,Box Culvert,25.018166,89.3673604,,R550.lrps.htm
+,LRPSb,0.809,Culvert,Box Culvert,25.0193049,89.3614722,,R550.lrps.htm
+,LRP001,0.98,Km Post,Joypurhat 36 km,25.0196382,89.3597778,,R550.lrps.htm
+,LRP001a,1.15,Culvert,Box Culvert,25.0199438,89.3581944,,R550.lrps.htm
+,LRP001b,1.96,Culvert,Box Culvert,25.0214993,89.3503056,,R550.lrps.htm
+,LRP002,1.98,Km Post,Km post missing,25.0216382,89.3498886,,R550.lrps.htm
+,LRP003,2.98,Km Post,Km post missing,25.0235549,89.3406941,,R550.lrps.htm
+,LRP003a,3.125,Culvert,2 Vent Box Culvert start,25.0238327,89.3391941,,R550.lrps.htm
+,LRP003b,3.135,Culvert,2 Vent Box Culvert end,25.0238604,89.3391386,,R550.lrps.htm
+,LRP004,4.03,Km Post,Mongol bazar 36 km,25.0243327,89.3303604,,R550.lrps.htm
+,LRP005,5.03,Km Post,Km post missing,25.0232771,89.3203604,,R550.lrps.htm
+,LRP005a,5.06,Bridge,Bridge start,25.0233049,89.3202493,,R550.lrps.htm
+,LRP005b,5.15,Bridge,Bridge end,25.0232216,89.3193882,,R550.lrps.htm
+,LRP005c,5.47,"Side Road, Left",Z 5505 to Mohashargar,25.0229438,89.3161667,,R550.lrps.htm
+,LRP005d,5.476,"Side Road, Right",Z 5507 to N5 at near Mokamtala,25.0229438,89.3161667,,R550.lrps.htm
+,LRP006,6.03,Km Post,Joypurhat 31 km,25.0228882,89.3106667,,R550.lrps.htm
+,LRP006a,6.37,Culvert,Box Culvert,25.0238327,89.3075278,,R550.lrps.htm
+,LRP006b,6.96,Culvert,Box Culvert,25.0265549,89.3025278,,R550.lrps.htm
+,LRP007,7.02,Km Post,Kalai 16 km,25.026666,89.3019444,,R550.lrps.htm
+,LRP007a,7.88,Culvert,Box Culvert,25.0308604,89.2946941,,R550.lrps.htm
+,LRP008,8.02,Km Post,Km post missing,25.0315271,89.2934719,,R550.lrps.htm
+,LRP008a,8.34,Culvert,Box Culvert,25.0329993,89.2907774,,R550.lrps.htm
+,LRP009,9.01,Km Post,Joypurhat 28 km,25.0349163,89.2846108,,R550.lrps.htm
+,LRP009a,9.16,Culvert,Box Culvert,25.0351386,89.2832216,,R550.lrps.htm
+,LRP009b,9.56,Bridge,start of bridge,25.0357497,89.2793327,,R550.lrps.htm
+,LRP009c,9.63,Bridge,End of bridge,25.0358608,89.2786382,,R550.lrps.htm
+,LRP010,10.04,Km Post,Joupurhat 27 km,25.0364997,89.274666,,R550.lrps.htm
+,LRP010a,10.14,Culvert,Box Culvert,25.0366108,89.2737771,,R550.lrps.htm
+,LRP010b,10.43,Culvert,Box Culvert,25.0371108,89.2707771,,R550.lrps.htm
+,LRP010c,10.96,Culvert,Box Culvert,25.0379441,89.2656111,,R550.lrps.htm
+,LRP011,11.03,Km Post,Khetlal 17 km,25.0380274,89.2650556,,R550.lrps.htm
+,LRP011a,11.35,Culvert,Box Culvert,25.0385552,89.2618889,,R550.lrps.htm
+,LRP012,12.04,Km Post,Km post broken,25.0396386,89.2551667,,R550.lrps.htm
+,LRP012a,12.23,Culvert,Box Culvert,25.0401108,89.2533056,,R550.lrps.htm
+,LRP012b,12.64,Culvert,Box Culvert,25.0412497,89.2494997,,R550.lrps.htm
+,LRP012c,13.01,Culvert,Box Culvert,25.0421663,89.2459441,,R550.lrps.htm
+,LRP013,13.02,Km Post,Joypurhat 24 km,25.0422497,89.245833,,R550.lrps.htm
+,LRP013a,13.24,Others,Start RHD Joypurhat/End RHD Bogra,25.042833,89.2437497,,R550.lrps.htm
+,LRP013a,13.24,Others,Start RHD Joypurhat/End RHD Bogra,25.042833,89.2437497,,R550.lrps.htm
+,LRP013b,13.25,Culvert,2 Vent Box Culvert,25.0427774,89.2436108,,R550.lrps.htm
+,LRP013c,13.54,Culvert,Box Culvert,25.043583,89.241083,,R550.lrps.htm
+,LRP014,14.04,Km Post,Joypurhat 23 km,25.0449719,89.2362497,,R550.lrps.htm
+,LRP014a,14.17,Culvert,Box Culvert,25.0453052,89.2351108,,R550.lrps.htm
+,LRP015,15.02,Km Post,Infor. missing,25.0476108,89.226916,,R550.lrps.htm
+,LRP015a,15.55,Culvert,Box Culvert,25.0490552,89.2219993,,R550.lrps.htm
+,LRP016,15.94,Km Post,Joypurhat 21 km,25.0500833,89.2182771,,R550.lrps.htm
+,LRP016a,16.24,Culvert,Box Culvert,25.0509167,89.2154722,,R550.lrps.htm
+,LRP016b,16.64,Culvert,Box Culvert,25.052,89.2116667,,R550.lrps.htm
+,LRP017,17.03,Km Post,Mongol bari 30 km,25.0530278,89.2080278,,R550.lrps.htm
+,LRP017a,17.16,Culvert,Box Culvert,25.0533889,89.2068611,,R550.lrps.htm
+,LRP017b,17.71,Culvert,Box Culvert,25.0548889,89.2016111,,R550.lrps.htm
+,LRP017c,18.21,Culvert,Box Culvert,25.05625,89.1969163,,R550.lrps.htm
+,LRP018,18.27,Km Post,Joypurhat 18 km,25.0564167,89.196333,,R550.lrps.htm
+,LRP018a,18.82,Culvert,2 Vent Box Culvert,25.0579444,89.1911108,,R550.lrps.htm
+,LRP019,19.04,Km Post,Joypurhat 17 km,25.0585,89.189083,,R550.lrps.htm
+,LRP020,20.04,Km Post,Km post missing,25.0611944,89.1794716,,R550.lrps.htm
+,LRP020a,20.24,Culvert,Box Culvert,25.06175,89.1776938,,R550.lrps.htm
+,LRP021,21.04,Km Post,Km post missing,25.0638611,89.1703882,,R550.lrps.htm
+,LRP021a,21.56,Culvert,Box Culvert,25.0652778,89.16525,,R550.lrps.htm
+,LRP022,22.04,Km Post,Km post missing,25.0665,89.1607778,,R550.lrps.htm
+,LRP022a,22.89,Culvert,Box Culvert,25.0673327,89.1522778,,R550.lrps.htm
+,LRP023,23.15,Km Post,Joypurhat 14 km,25.0674993,89.1665278,,R550.lrps.htm
+,LRP023a,23.71,Culvert,Box Culvert,25.0679438,89.1609167,,R550.lrps.htm
+,LRP024,24.04,Km Post,Infor.missing,25.0682493,89.1410274,,R550.lrps.htm
+,LRP024a,24.06,"Side Road, Right",Z 5509 to Hili,25.0683604,89.1409719,,R550.lrps.htm
+,LRP025,25.04,Km Post,Km post missing,25.0690549,89.131166,,R550.lrps.htm
+,LRP026,26.04,Km Post,Joypurhat 13 km,25.0695271,89.1212216,,R550.lrps.htm
+,LRP027,27.04,Km Post,Km post missing,25.068416,89.1116111,,R550.lrps.htm
+,LRP027a,27.36,Culvert,Masonry Culvert,25.0678604,89.1082778,,R550.lrps.htm
+,LRP027b,28.03,Culvert,Masonry Culvert,25.0670271,89.1018056,,R550.lrps.htm
+,LRP028,28.05,Km Post,Jamalganj 19 km,25.0669993,89.1015556,,R550.lrps.htm
+,LRP028a,28.63,"Side Road, Left",Z 5501 to Khattal,25.067166,89.0958886,,R550.lrps.htm
+,LRP028b,28.79,Culvert,Masonry Culvert,25.0681938,89.0947774,,R550.lrps.htm
+,LRP028c,28.91,Bridge,Start of Bridge,25.0690271,89.0941108,,R550.lrps.htm
+,LRP028d,28.97,Bridge,End of Bridge,25.0670827,89.0938886,,R550.lrps.htm
+,LRP029,29.03,Km Post,Joypurhat 9 km,25.0700271,89.0936663,,R550.lrps.htm
+,LRP029a,29.73,Culvert,Slab Culvert,25.0750271,89.0895274,,R550.lrps.htm
+,LRP029b,30.01,Culvert,Pipe Culvert,25.0767493,89.0874163,,R550.lrps.htm
+,LRP030,30.02,Km Post,Km post missing,25.0767771,89.0874163,,R550.lrps.htm
+,LRP030a,30.42,Culvert,Slab Culvert,25.079166,89.0843052,,R550.lrps.htm
+,LRP031,30.98,Km Post,Joypurhat 7 km,25.0821104,89.0798882,,R550.lrps.htm
+,LRP031a,31.08,Culvert,Box Culvert,25.0825271,89.0790827,,R550.lrps.htm
+,LRP032,31.97,Km Post,Joypurhat 6 km,25.0866386,89.0714993,,R550.lrps.htm
+,LRP032a,32.18,Culvert,Masonry Culvert,25.0875274,89.0696104,,R550.lrps.htm
+,LRP032b,32.22,"Side Road, Right",Z 5504 to Puranpali,25.0876663,89.0691938,,R550.lrps.htm
+,LRP033,32.99,Km Post,Joypurhat 4 km,25.0897219,89.0619444,,R550.lrps.htm
+,LRP033a,33.01,Bridge,Start of Bridge,25.0896663,89.0618611,,R550.lrps.htm
+,LRP033b,33.02,Bridge,End of Bridge,25.0896663,89.0617778,,R550.lrps.htm
+,LRP033c,33.67,Culvert,Slab Culvert,25.0913052,89.0555278,,R550.lrps.htm
+,LRP034,34.07,Km Post,Joypurhat 3 km,25.0923052,89.0516944,,R550.lrps.htm
+,LRP034a,34.41,Culvert,Box Culvert,25.0932774,89.0485274,,R550.lrps.htm
+,LRP035,34.95,Km Post,Joypurhat 2 km,25.0956108,89.0438608,,R550.lrps.htm
+,LRP036,35.94,Km Post,Joypurhat 1 km,25.0997497,89.0351663,,R550.lrps.htm
+,LRP036a,36.53,"Side Road, Left",Z 5452 to Akkelpur,25.1018056,89.0296104,,R550.lrps.htm
+,LRPE,36.84,Others,End at Pachur more and meet with R545 & Z 5503 Joypurhat.,25.1023889,89.0267493,,R550.lrps.htm
+,,,,,,,,R550.lrps.htm
+,,,,,,,,R550.lrps.htm

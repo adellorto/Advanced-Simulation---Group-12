@@ -1,0 +1,225 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,Start of road from N1 Mainamati,23.4789716,91.1181938,,N102.lrps.htm
+,LRPSa,0.329,Culvert,Box Culvert,23.4815827,91.1167771,,N102.lrps.htm
+,LRPSb,0.995,Culvert,Box Culvert,23.4866663,91.1133611,,N102.lrps.htm
+,LRP001,1,Km Post,Km post missing,23.4867219,91.1133056,,N102.lrps.htm
+,LRP002,2,Km Post,B Baria 68 km Sylhet 248 km,23.4935274,91.1069167,,N102.lrps.htm
+,LRP002a,2.064,Culvert,Box Culvert,23.4937774,91.1064722,,N102.lrps.htm
+,LRP002b,2.365,Culvert,Box Culvert,23.496333,91.1059167,,N102.lrps.htm
+,LRP002c,2.52,Culvert,Box Culvert,23.4976941,91.1055833,,N102.lrps.htm
+,LRP003,3,Km Post,Km post missing,23.5020278,91.1050556,,N102.lrps.htm
+,LRP004,4,Km Post,Km post missing,23.5093333,91.0996386,,N102.lrps.htm
+,LRP004a,4.261,Culvert,Box Culvert,23.5112222,91.0981108,,N102.lrps.htm
+,LRP005,5,Km Post,Km post missing,23.5166389,91.0939441,,N102.lrps.htm
+,LRP006,6.056,Km Post,B Baria 66 km Sylhet 244 km,23.5246104,91.0887774,,N102.lrps.htm
+,LRP007,7.056,Km Post,"B. Bari 65 km, Sylhet 243 km",23.5322771,91.0834719,,N102.lrps.htm
+,LRP007a,7.08,Culvert,Box Culvert,23.5323882,91.0834719,,N102.lrps.htm
+,LRP008,8.081,Km Post,B Baria 64 km Sylhet 242 km,23.5419441,91.0772771,,N102.lrps.htm
+,LRP008a,8.537,Bridge,Bridge start,23.5421941,91.0742493,,N102.lrps.htm
+,LRP008b,8.554,Bridge,Bridge End,23.5423052,91.0741382,,N102.lrps.htm
+,LRP009,9.05,Km Post,B Baria 63 km Sylhet 241 km,23.5457774,91.0706104,,N102.lrps.htm
+,LRP009a,9.723,Culvert,Box Culvert,23.5501111,91.0661389,,N102.lrps.htm
+,LRP010,10.05,Km Post,Km post missing,23.5523611,91.064,,N102.lrps.htm
+,LRP010a,10.16,Cross Road,Z 1219 Left Nimsar Right Burichang,23.5531111,91.0633333,,N102.lrps.htm
+,LRP011,11.05,Km Post,"B Baria 61 km, Sylhet 239 km",23.5590556,91.0591111,,N102.lrps.htm
+,LRP011a,11.925,Culvert,Box Culvert,23.5605,91.0553056,,N102.lrps.htm
+,LRP011b,12.018,Culvert,Box Culvert,23.5501944,91.0549722,,N102.lrps.htm
+,LRP012,12.026,Km Post,B Baria 60 km Sylhet 238 km,23.5669438,91.0549167,,N102.lrps.htm
+,LRP013,13.041,Km Post,B Baria 59 km Sylhet 237 km,23.5745827,91.05925,,N102.lrps.htm
+,LRP014,14.03,Km Post,BBaria 58 km Sylhet 236 km,23.5768882,91.041833,,N102.lrps.htm
+,LRP015,15.018,Km Post,B Baria 57 km Sylhet235 km,23.5813882,91.0357774,,N102.lrps.htm
+,LRP015a,15.178,Culvert,Box Culvert,23.5825549,91.0352497,,N102.lrps.htm
+,LRP016,16.042,Km Post,B Baria56 km Sylhet234 km,23.5858886,91.0283049,,N102.lrps.htm
+,LRP017,17.042,Km Post,"B Baria 55 km, Sylhet 233 km",23.5865552,91.1188327,,N102.lrps.htm
+,LRP017a,17.396,Culvert,Box Culvert,23.5879997,91.0158333,,N102.lrps.htm
+,LRP018,18.01,Km Post,B Baria 54 km Sylhet 232 km,23.5902219,91.01,,N102.lrps.htm
+,LRP018a,18.259,Culvert,Box Culvert,23.5911108,91.0077778,,N102.lrps.htm
+,LRP019,19.01,Km Post,Km post missing,23.5935552,91.0011944,,N102.lrps.htm
+,LRP019a,19.191,Culvert,Box Culvert,23.5944441,90.9996663,,N102.lrps.htm
+,LRP019b,19.55,Culvert,Box Culvert,23.5965552,90.9971108,,N102.lrps.htm
+,LRP020,20.01,Km Post,Infor.missing,23.5997219,90.9941386,,N102.lrps.htm
+,LRP020a,20.56,"Side Road, Left","Side Road, Left to Chandina Z 1008",23.6026111,90.9896108,,N102.lrps.htm
+,LRP021,21.03,Km Post,B Baria 51 km Sylhet229 km,23.6065556,90.9889997,,N102.lrps.htm
+,LRP021a,21.204,Culvert,Box Culvert,23.6080278,90.9883608,,N102.lrps.htm
+,LRP021b,21.595,Culvert,Box Culvert,23.6102778,90.985333,,N102.lrps.htm
+,LRP022,22.041,Km Post,B Baria 50 km,23.6122222,90.9818049,,N102.lrps.htm
+,LRP022a,22.758,Culvert,Box Culvert,23.6165278,90.9769438,,N102.lrps.htm
+,LRP023,23.041,Km Post,B Baria 49 km Sylhet 227 km,23.6187493,90.9756104,,N102.lrps.htm
+,LRP023a,23.66,Bridge,Bridge start,23.6236104,90.9727771,,N102.lrps.htm
+,LRP023b,23.696,Bridge,Bridge End,23.623916,90.9726382,,N102.lrps.htm
+,LRP024,24.04,Km Post,B Baria 48 km Sylhet 226 km,23.6268882,90.9710549,,N102.lrps.htm
+,LRP024a,24.055,"Side Road, Left","Side Road, Left Z1017 to Madhaya",23.6269716,90.9709716,,N102.lrps.htm
+,LRP024b,24.891,Bridge,Bridge start,23.6341663,90.9707771,,N102.lrps.htm
+,LRP024c,25.011,Bridge,Bridge End,23.6351941,90.9708049,,N102.lrps.htm
+,LRP025,25.04,Km Post,Infor.missing,23.6354719,90.9708327,,N102.lrps.htm
+,LRP025a,25.282,"Side Road, Left",Road to Madhaya,23.6376108,90.9708882,,N102.lrps.htm
+,LRP025b,25.894,Culvert,Box Culvert,23.6430552,90.9710827,,N102.lrps.htm
+,LRP026,26.046,Km Post,B Baria 46 km Sylhet 224 km,23.6443886,90.9711104,,N102.lrps.htm
+,LRP026a,26.732,Culvert,Box Culvert,23.6505,90.9713327,,N102.lrps.htm
+,LRP027,27.08,Km Post,BBaria 45 km Sylhet 223 km,23.6532778,90.9728327,,N102.lrps.htm
+,LRP027a,27.964,Culvert,Box Culvert,23.6575833,90.9800827,,N102.lrps.htm
+,LRP028,28.033,Km Post,BBaria 44 km Sylhet 223 km,23.6579167,90.9806382,,N102.lrps.htm
+,LRP028a,28.203,Bridge,Bridge start,23.6587222,90.9820271,,N102.lrps.htm
+,LRP028b,28.255,Bridge,Bridge End,23.6589722,90.9824438,,N102.lrps.htm
+,LRP028c,28.702,Culvert,Box Culvert,23.6611667,90.9861108,,N102.lrps.htm
+,LRP029,29.03,Km Post,BBaria 43 km Sylhet 221 km,23.6628889,90.9888886,,N102.lrps.htm
+,LRP029a,29.417,Culvert,Box Culvert,23.6646667,90.9918052,,N102.lrps.htm
+,LRP029b,29.64,Bridge,Bridge start,23.6657222,90.9934719,,N102.lrps.htm
+,LRP029c,29.701,Bridge,Bridge End,23.666,90.9938886,,N102.lrps.htm
+,LRP029d,29.996,Culvert,Box Culvert,23.6674993,90.9962219,,N102.lrps.htm
+,LRP030,30.04,Km Post,BBaria 42 Sylhet 220 km,23.6679993,90.9969719,,N102.lrps.htm
+,LRP030a,30.667,Bridge,Bridge start,23.6711938,91.0019444,,N102.lrps.htm
+,LRP030b,30.696,Bridge,Bridge End,23.6713049,91.0021944,,N102.lrps.htm
+,LRP031,31.044,Km Post,BBaria 41 Sylhet 219 km,23.6730827,91.0049722,,N102.lrps.htm
+,LRP031a,31.19,Culvert,Box Culvert,23.6738327,91.0061389,,N102.lrps.htm
+,LRP031b,31.385,Culvert,Box Culvert,23.6748049,91.0076944,,N102.lrps.htm
+,LRP031c,32.01,Bridge,Bridge start,23.6780271,91.0126667,,N102.lrps.htm
+,LRP031d,32.023,Bridge,Bridge End,23.6780827,91.0127222,,N102.lrps.htm
+,LRP032,32.04,Km Post,BBaria 40 km Sylhet 218 km,23.6779438,91.0129722,,N102.lrps.htm
+,LRP032a,32.774,Culvert,Box Culvert,23.6821104,91.0187493,,N102.lrps.htm
+,LRP033,33.062,Km Post,BBaria 39 km Sylhet 217 km,23.6836663,91.0210827,,N102.lrps.htm
+,LRP033a,33.137,Bridge,Bridge start,23.684083,91.0217216,,N102.lrps.htm
+,LRP033b,33.149,Bridge,Bridge End,23.6841386,91.0217771,,N102.lrps.htm
+,LRP033c,33.748,Bridge,Bridge start,23.684583,91.0264716,,N102.lrps.htm
+,LRP033d,33.758,Bridge,Bridge End,23.6872497,91.0265271,,N102.lrps.htm
+,LRP034,34.068,Km Post,BBaria 38 km,23.689083,91.0288327,,N102.lrps.htm
+,LRP034a,34.086,Culvert,Box Culvert,23.6891386,91.0289438,,N102.lrps.htm
+,LRP034b,34.642,Culvert,Box Culvert,23.6922497,91.033166,,N102.lrps.htm
+,LRP035,35.053,Km Post,BBaria 37 km Sylhet 215 km,23.694583,91.0366386,,N102.lrps.htm
+,LRP035a,35.227,Bridge,Bridge start,23.6955552,91.0379441,,N102.lrps.htm
+,LRP035b,35.581,Bridge,Bridge end,23.6957774,91.0382774,,N102.lrps.htm
+,LRP035c,36.035,Bridge,Bridge start,23.6999441,91.0441386,,N102.lrps.htm
+,LRP035d,36.05,Bridge,Bridge end,23.7,91.0441941,,N102.lrps.htm
+,LRP036,36.086,Km Post,BBara 36 Sylhet 214 km,23.7002778,91.0444719,,N102.lrps.htm
+,LRP036a,36.322,Culvert,Box Culvert,23.7014722,91.0462219,,N102.lrps.htm
+,LRP036b,36.811,Bridge,Bridge start,23.7042222,91.05,,N102.lrps.htm
+,LRP036c,36.828,Bridge,Bridge End,23.7043333,91.0500833,,N102.lrps.htm
+,LRP036d,36.995,Bridge,Bridge start,23.70525,91.0513333,,N102.lrps.htm
+,LRP036e,37.007,Bridge,Bridge End,23.7053333,91.0514444,,N102.lrps.htm
+,LRP037,37.086,Km Post,"B.Bara 35 km, Sylhet 213 km",23.7059722,91.0522778,,N102.lrps.htm
+,LRP037a,37.507,Bridge,Bridge start,23.7083056,91.05525,,N102.lrps.htm
+,LRP037b,37.518,Bridge,Bridge End,23.7083611,91.0553333,,N102.lrps.htm
+,LRP037c,38.05,Culvert,Box Culvert,23.7117222,91.0592778,,N102.lrps.htm
+,LRP038,38.076,Km Post,BBaria34 km Sylhet212 km,23.7118333,91.0593889,,N102.lrps.htm
+,LRP038a,38.458,"Side Road, Right",Road to Bancharampura(Z1041),23.7142222,91.0624444,,N102.lrps.htm
+,LRP038b,38.567,Bridge,Bridge start,23.7148611,91.0632222,,N102.lrps.htm
+,LRP038c,38.591,Bridge,Bridge End,23.7149444,91.0633056,,N102.lrps.htm
+,LRP038d,39.04,Culvert,Box Culvert,23.701,91.0665278,,N102.lrps.htm
+,LRP039,39.062,Km Post,BBaria 33 km Sylhet 211 km,23.7177493,91.0667216,,N102.lrps.htm
+,LRP039a,39.784,Bridge,Bridge start,23.7219993,91.0720271,,N102.lrps.htm
+,LRP039b,39.81,Bridge,Bridge End,23.722166,91.072166,,N102.lrps.htm
+,LRP040,40.066,Km Post,BBaria 32 km Sylhet 210 km,23.7235271,91.0741104,,N102.lrps.htm
+,LRP040a,40.36,Others,Start road Division B. Baria,23.7250827,91.0765271,,N102.lrps.htm
+,LRP040a,40.36,Others,Start road Division B. Baria,23.7250827,91.0765271,,N102.lrps.htm
+,LRP040b,40.402,Bridge,Bridge start,23.7255549,91.077166,,N102.lrps.htm
+,LRP040c,40.462,Bridge,Bridge End,23.7255549,91.077166,,N102.lrps.htm
+,LRP041,41.066,Km Post,Km post missing,23.7303327,91.0799438,,N102.lrps.htm
+,LRP041a,41.389,Culvert,Box Culvert,23.7329438,91.0811938,,N102.lrps.htm
+,LRP042,42.079,Km Post,BBaria 30 km Sylhet208 km,23.7388052,91.0839997,,N102.lrps.htm
+,LRP043,43.079,Km Post,Km post missing,23.7468052,91.088333,,N102.lrps.htm
+,LRP043a,43.792,Others,Culvert under Constriction,23.7511944,91.0933886,,N102.lrps.htm
+,LRP043b,43.825,Culvert,Divission Road,23.7513611,91.0936386,,N102.lrps.htm
+,LRP043c,44.007,Cross Road,Z1201,23.7525556,91.094833,,N102.lrps.htm
+,LRP044,44.079,Km Post,Km post missing,23.7530556,91.0953886,,N102.lrps.htm
+,LRP044a,44.481,Bridge,Bridge start,23.7554167,91.0981386,,N102.lrps.htm
+,LRP044b,44.521,Bridge,Bridge End,23.7556389,91.0984163,,N102.lrps.htm
+,LRP044c,44.809,Bridge,Bridge start,23.7573611,91.0837219,,N102.lrps.htm
+,LRP044d,44.839,Bridge,Bridge End,23.7574167,91.1005278,,N102.lrps.htm
+,LRP045,45.079,Km Post,Km post missing,23.7589444,91.1023056,,N102.lrps.htm
+,LRP045a,45.399,Culvert,Box Culvert,23.7611111,91.1048056,,N102.lrps.htm
+,LRP046,46.111,Km Post,BBaria 26 km Sylhet 204,23.7654722,91.1098056,,N102.lrps.htm
+,LRP046a,46.826,Bridge,Bridge start,23.7531944,91.1148611,,N102.lrps.htm
+,LRP046b,46.846,Bridge,Bridge End,23.7699716,91.1149444,,N102.lrps.htm
+,LRP047,47.072,Km Post,BBaria 25 Sylhet 203 km,23.771416,91.1166111,,N102.lrps.htm
+,LRP047a,47.654,Culvert,Box Culvert,23.7749993,91.1206938,,N102.lrps.htm
+,LRP048,48.119,Km Post,Bbaria 24 Sylhet 202 km,23.7779438,91.1240827,,N102.lrps.htm
+,LRP048a,48.743,Culvert,Box Culvert,23.7816382,91.128666,,N102.lrps.htm
+,LRP049,49.119,Km Post,Km post missing,23.783583,91.1317493,,N102.lrps.htm
+,LRP049a,49.289,Bridge,Bridge start,23.7844441,91.1330827,,N102.lrps.htm
+,LRP049b,49.308,Bridge,Bridge End,23.7845274,91.1332216,,N102.lrps.htm
+,LRP050,50.119,Km Post,Km post missing,23.7887219,91.1397219,,N102.lrps.htm
+,LRP050a,50.628,Culvert,Box Culvert,23.7913608,91.1437497,,N102.lrps.htm
+,LRP050b,51,Bridge,Bridge start,23.7932774,91.1466941,,N102.lrps.htm
+,LRP050c,51.015,Bridge,Bridge End,23.4600278,91.1468052,,N102.lrps.htm
+,LRP051,51.119,Km Post,Km post missing,23.7938886,91.1476108,,N102.lrps.htm
+,LRP051a,51.972,Culvert,Box Culvert,23.8008056,91.1501667,,N102.lrps.htm
+,LRP052,52.119,Km Post,Km post missing,23.8020833,91.1504167,,N102.lrps.htm
+,LRP052a,52.65,Bridge,Bridge start,23.80675,91.1513056,,N102.lrps.htm
+,LRP052b,52.703,Bridge,Bridge End,23.8071667,91.1513889,,N102.lrps.htm
+,LRP053,53.119,Km Post,Km post missing,23.8108056,91.1521389,,N102.lrps.htm
+,LRP053a,53.447,Bridge,Bridge start,23.8141944,91.1528889,,N102.lrps.htm
+,LRP053b,53.491,Bridge,Bridge end,23.8145556,91.153,,N102.lrps.htm
+,LRP054,54.17,Km Post,Bbaria 18 km Sylhet 196 km,23.820416,91.15375,,N102.lrps.htm
+,LRP055,55.178,Km Post,Bbaria 17 km Sylhet 195 km,23.8293327,91.3005556,,N102.lrps.htm
+,LRP055a,55.235,Bridge,Bridge start,23.8298327,91.1551389,,N102.lrps.htm
+,LRP055b,55.249,Bridge,Bridge End,23.829916,91.1551389,,N102.lrps.htm
+,LRP055c,55.526,Culvert,Box Culvert,23.8323327,91.1555278,,N102.lrps.htm
+,LRP056,56.178,Km Post,Km post missing,23.8383052,91.1564167,,N102.lrps.htm
+,LRP056a,56.321,"Side Road, Right",Z1202 Road to Akhoura,23.8393608,91.1566111,,N102.lrps.htm
+,LRP056b,56.959,Bridge,Bridge start,23.8450274,91.1571389,,N102.lrps.htm
+,LRP056c,57.134,Bridge,Bridge End,23.8465552,91.1574444,,N102.lrps.htm
+,LRP057,57.178,Km Post,Km post missing,23.8469441,91.1575278,,N102.lrps.htm
+,LRP058,58.178,Km Post,Km post missing,23.85575,91.1591389,,N102.lrps.htm
+,LRP058a,58.899,Bridge,Bridge start,23.8606111,91.1552222,,N102.lrps.htm
+,LRP058b,58.935,Bridge,Bridge End,23.8608056,91.1549722,,N102.lrps.htm
+,LRP059,59.178,Km Post,Km post missing,23.8621667,91.1532778,,N102.lrps.htm
+,LRP059a,59.368,Culvert,Box Culvert,23.8632222,91.1519444,,N102.lrps.htm
+,LRP059b,59.904,Bridge,Bridge start,23.8663333,91.1479997,,N102.lrps.htm
+,LRP059c,59.92,Bridge,Bridge End,23.8664444,91.1478608,,N102.lrps.htm
+,LRP060,60.178,Km Post,Km post missing,23.8748604,91.1409997,,N102.lrps.htm
+,LRP060a,61.114,Bridge,Bridge start,23.8748604,91.1409997,,N102.lrps.htm
+,LRP060b,61.142,Bridge,Bridge End,23.8750549,91.1408608,,N102.lrps.htm
+,LRP061,61.178,Km Post,Km post missing,23.8752771,91.1405274,,N102.lrps.htm
+,LRP062,62.25,Km Post,BBaria 10 km Sylhet 188 km,23.8843052,91.1353052,,N102.lrps.htm
+,LRP062a,62.419,"Side Road, Right",Z1216 to Akhaowera,23.8856941,91.1346941,,N102.lrps.htm
+,LRP062b,62.598,Culvert,Box Culvert,23.8840274,91.1340274,,N102.lrps.htm
+,LRP062c,63.265,Culvert,Box Culvert,23.8924719,91.1312771,,N102.lrps.htm
+,LRP063,63.312,Km Post,BBaria 9 Sylhet 187 km,23.8929441,91.1310271,,N102.lrps.htm
+,LRP063a,63.527,Bridge,Bridge start,23.8946386,91.1300827,,N102.lrps.htm
+,LRP063b,63.551,Bridge,Bridge End,23.894833,91.1299993,,N102.lrps.htm
+,LRP064,64.279,Km Post,B Baria 8 km Sylhet 186 km,25.9009444,91.1274993,,N102.lrps.htm
+,LRP064a,64.564,"Side Road, Left",R203 on left to Nabinagar,23.9033333,91.1266382,,N102.lrps.htm
+,LRP064b,64.832,Bridge,Bridge start,23.9056389,91.1258327,,N102.lrps.htm
+,LRP064c,64.884,Bridge,Bridge End,23.9060833,91.1257216,,N102.lrps.htm
+,LRP065,65.279,Km Post,Km post missing,23.9094722,91.1245549,,N102.lrps.htm
+,LRP065a,65.955,Culvert,Box Culvert,23.9152778,91.122666,,N102.lrps.htm
+,LRP066,66.298,Km Post,BBaria 6 km,23.918166,91.1216938,,N102.lrps.htm
+,LRP066a,66.958,Culvert,Box Culvert,23.9238049,91.1198327,,N102.lrps.htm
+,LRP067,67.302,Km Post,BBaria5 Sylhet 183 km,23.9268327,91.1188327,,N102.lrps.htm
+,LRP067a,67.415,Culvert,Box Culvert,23.9278049,91.1185271,,N102.lrps.htm
+,LRP067b,68.249,Bridge,Start of Bridge,23.9348608,91.1161111,,N102.lrps.htm
+,LRP068,68.302,Km Post,Km post missing,23.9354441,91.1161111,,N102.lrps.htm
+,LRP068a,68.312,Bridge,End of Bridge,23.9354997,91.1160833,,N102.lrps.htm
+,LRP069,69.319,Km Post,Bbaria 3 Sylhet 181 km,23.944333,91.116666,,N102.lrps.htm
+,LRP069a,69.905,Culvert,Box Culvert,23.949583,91.1169993,,N102.lrps.htm
+,LRP070,70.365,Km Post,BBaria 2 Sylhet180 km,23.9536389,91.1168327,,N102.lrps.htm
+,LRP070a,70.557,Bridge,Bridge start,23.9551944,91.1163889,,N102.lrps.htm
+,LRP070b,70.654,Bridge,Bridge End,23.9561111,91.1160556,,N102.lrps.htm
+,LRP070c,70.784,"Side Road, Right",N103 on Right,23.9570833,91.1155556,,N102.lrps.htm
+,LRP071,71.365,Km Post,Km post missing,23.9582222,91.1100556,,N102.lrps.htm
+,LRP072,72.365,Km Post,Km post missing,23.96125,91.1020556,,N102.lrps.htm
+,LRP072a,72.901,Rail Road Crossing,Rail Road Crossing,23.966,91.1015278,,N102.lrps.htm
+,LRP073,73.365,Km Post,Km post missing,23.9701382,91.10125,,N102.lrps.htm
+,LRP073a,73.428,Bridge,Bridge Start,23.1011944,91.1011944,,N102.lrps.htm
+,LRP073b,73.462,Bridge,Bridge End,23.9709716,91.1011667,,N102.lrps.htm
+,LRP074,74.365,Km Post,Km post missing,23.9790549,91.1003333,,N102.lrps.htm
+,LRP074a,74.69,"Side Road, Left",Z1210 to Lalpur,23.9819438,91.10025,,N102.lrps.htm
+,LRP075,75.365,Km Post,Km post missing,23.987583,91.1025278,,N102.lrps.htm
+,LRP076,76.365,Km Post,Km post missing,23.9948886,91.1081667,,N102.lrps.htm
+,LRP076a,76.599,"Side Road, Right",N 103 on Right,23.9967497,91.10925,,N102.lrps.htm
+,LRP077,76.68,Km Post,Madheppur 28 km Sylhet 175 km,23.9974719,91.1093056,,N102.lrps.htm
+,LRP077a,77.156,Bridge,Bridge Start,24.0016944,91.1095833,,N102.lrps.htm
+,LRP077b,77.178,Bridge,Bridge End,24.0018611,91.1095556,,N102.lrps.htm
+,LRP078,77.689,Km Post,Madhebpur 27 km sylhet 174,24.0064444,91.1086389,,N102.lrps.htm
+,LRP078a,78.08,Culvert,Box Culvert,24.0098333,91.1093333,,N102.lrps.htm
+,LRP078b,78.465,Culvert,Box Culvert,24.0132778,91.1097222,,N102.lrps.htm
+,LRP079,78.689,Km Post,Km post missing,24.0152778,91.11,,N102.lrps.htm
+,LRP079a,78.934,Culvert,Box Culvert,24.0173882,91.1103056,,N102.lrps.htm
+,LRP080,79.699,Km Post,Post Convened with Send,24.0242493,91.1118056,,N102.lrps.htm
+,LRP080a,80.073,Culvert,Box Culvert,24.0275271,91.1124444,,N102.lrps.htm
+,LRP081,80.699,Km Post,Km post missing,24.0330827,91.1129167,,N102.lrps.htm
+,LRP082,81.714,Km Post,Madhebpur 23 km Sylhet170 km,24.0421108,91.1139722,,N102.lrps.htm
+,LRP082a,82.133,Culvert,Box Culvert,24.045833,91.1146667,,N102.lrps.htm
+,LRPE,82.682,Others,Meet with N 2 at Sanail,24.0506111,91.1146667,,N102.lrps.htm
+,,,,,,,,N102.lrps.htm
+,,,,,,,,N102.lrps.htm

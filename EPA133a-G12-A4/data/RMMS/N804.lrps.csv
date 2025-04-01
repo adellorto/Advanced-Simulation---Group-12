@@ -1,0 +1,82 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,Start from Bhanga more at intersection N 8 N805 N804 Faridpur .,23.3903608,89.9838886,,N804.lrps.htm
+,LRP001,0.12,Km Post,"Faridpur 30 km,Dhaka 159 km",23.3913608,89.9834997,,N804.lrps.htm
+,LRP001a,0.468,Bridge,Start of bridge,23.3936663,89.9814438,,N804.lrps.htm
+,LRP001b,0.482,Bridge,End of bridge,23.3937219,89.9813882,,N804.lrps.htm
+,LRP002,1.005,Km Post,"Faridpur 29 km,Dhaka 157 km",23.397333,89.9782771,,N804.lrps.htm
+,LRP002a,1.324,Culvert,Box culvert,23.3996108,89.9763327,,N804.lrps.htm
+,LRP003,2.005,Km Post,Km post missing,23.4043611,89.9722216,,N804.lrps.htm
+,LRP003a,2.36,Bridge,Start of bridge,23.4068333,89.9701382,,N804.lrps.htm
+,LRP003b,2.375,Bridge,End of bridge,23.4069444,89.9700271,,N804.lrps.htm
+,LRP004,3,Km Post,"Faridpur 27 km, Khulna 181 km",23.4113611,89.9662222,,N804.lrps.htm
+,LRP004a,3.045,Bridge,Bridge start,23.4114722,89.9661667,,N804.lrps.htm
+,LRP004b,3.063,Bridge,Bridge end,23.4116111,89.9660556,,N804.lrps.htm
+,LRP004c,3.275,Bridge,Start of bridge,23.4130556,89.9648333,,N804.lrps.htm
+,LRP004d,3.29,Bridge,End of bridge,23.4132778,89.9646111,,N804.lrps.htm
+,LRP004e,3.922,Bridge,Start of bridge,23.4181382,89.9620556,,N804.lrps.htm
+,LRP004f,3.935,Bridge,End of bridge,23.4182493,89.962,,N804.lrps.htm
+,LRP005,4,Km Post,"Faridpur 26 km,Magura 77 km",23.4190827,89.9618056,,N804.lrps.htm
+,LRP005a,4.812,Bridge,Start of bridge,23.4258049,89.9598056,,N804.lrps.htm
+,LRP005b,4.864,Bridge,End of bridge,23.4263882,89.9596111,,N804.lrps.htm
+,LRP006,5,Km Post,"Faridpur 25 km,Rajbari 55 km",23.4277771,89.9591111,,N804.lrps.htm
+,LRP006a,5.826,"Side Road, Right",Road to Sadarpur (Z8401),23.4344441,89.9566667,,N804.lrps.htm
+,LRP007,5.85,Km Post,"Faridpur 24 km,Dhaka 152 km",23.4347774,89.9563056,,N804.lrps.htm
+,LRP007a,5.86,Bridge,Start of bridge,23.434833,89.95625,,N804.lrps.htm
+,LRP007b,5.96,Bridge,End of bridge,23.4354719,89.9556944,,N804.lrps.htm
+,LRP008,6.98,Km Post,"Faridpur 23 km,Magura 74 km",23.4436386,89.9516389,,N804.lrps.htm
+,LRP009,7.98,Km Post,"Faridpur 22 km,Khulna 172 km",23.4491941,89.9441941,,N804.lrps.htm
+,LRP009a,8.732,Bridge,Start of bridge,23.4534167,89.9386108,,N804.lrps.htm
+,LRP009b,8.752,Bridge,End of bridge,23.4535556,89.9384719,,N804.lrps.htm
+,LRP010,8.99,Km Post,Km post missing,23.4551667,89.9364997,,N804.lrps.htm
+,LRP011,9.96,Km Post,"Faridpur 20 km,Khulna 174 km",23.4608056,89.9294716,,N804.lrps.htm
+,LRP011a,10.885,Bridge,Start of bridge,23.4659722,89.9222771,,N804.lrps.htm
+,LRP011b,10.897,Bridge,End of bridge,23.4661111,89.9220827,,N804.lrps.htm
+,LRP012,10.98,Km Post,"Faridpur 19 km,Rajbari 49 km",23.4664722,89.9216104,,N804.lrps.htm
+,LRP013,11.97,Km Post,"Faridpur 18 km,Magura 59 km",23.4717216,89.9137778,,N804.lrps.htm
+,LRP013a,12.155,Bridge,Start of bridge,23.4726382,89.9123889,,N804.lrps.htm
+,LRP013b,12.214,Bridge,End of bridge,23.4729993,89.9118056,,N804.lrps.htm
+,LRP014,12.97,Km Post,Km post missing,23.4729438,89.91175,,N804.lrps.htm
+,LRP015,13.9,Km Post,"Faridpur 16 km,Khulna 170 km",23.4847774,89.9019722,,N804.lrps.htm
+,LRP015a,14.83,Bridge,Start of bridge,23.4919719,89.897583,,N804.lrps.htm
+,LRP015b,14.855,Bridge,End of bridge,23.4921663,89.8973608,,N804.lrps.htm
+,LRP016,15.02,Km Post,"Faridpur 15 km,Dhaka 143 km",23.4932497,89.8963052,,N804.lrps.htm
+,LRP017,15.9,Km Post,"Faridpur 14 km,Magura 65 km",23.4978052,89.8894719,,N804.lrps.htm
+,LRP017a,16.797,"Side Road, Left",Road to Nagarkanda (Z8404),23.5035833,89.8833049,,N804.lrps.htm
+,LRP018,17,Km Post,"Faridpur 13 km,Dhaka 141 km",23.5052222,89.8827771,,N804.lrps.htm
+,LRP018a,17.73,Bridge,Start of bridge,23.5105278,89.8787771,,N804.lrps.htm
+,LRP018b,17.79,Bridge,End of bridge,23.5108889,89.8782771,,N804.lrps.htm
+,LRP019,17.89,Km Post,"Faridpur 12 km,Khulna 166 km",23.5114167,89.8774993,,N804.lrps.htm
+,LRP020,18.86,Km Post,"Faridpur 11 km,Magura 62 km",23.516,89.8695271,,N804.lrps.htm
+,LRP020a,19.59,Bridge,Start of bridge,23.5215549,89.866,,N804.lrps.htm
+,LRP020b,19.609,Bridge,End of bridge,23.5217493,89.8659167,,N804.lrps.htm
+,LRP021,20.18,Km Post,"Faridpur 10 km,Magura 40 km",23.526666,89.8652222,,N804.lrps.htm
+,LRP021a,20.527,Bridge,Start of Bridge,23.5297771,89.8660833,,N804.lrps.htm
+,LRP021b,20.545,Bridge,End of Bridge,23.5297771,89.8660833,,N804.lrps.htm
+,LRP022,21.18,Km Post,Km post missing,23.5352497,89.8506111,,N804.lrps.htm
+,LRP022a,21.892,Bridge,Start of bridge,23.5401386,89.8626667,,N804.lrps.htm
+,LRP022b,21.906,Bridge,End of bridge,23.5402219,89.8625833,,N804.lrps.htm
+,LRP023,21.99,Km Post,"Faridpur 8 km,Magura 59 km",23.5407497,89.8621111,,N804.lrps.htm
+,LRP023a,22.82,Bridge,Start of bridge,23.546083,89.8564722,,N804.lrps.htm
+,LRP023b,22.96,Bridge,End of bridge,23.5467774,89.8553611,,N804.lrps.htm
+,LRP024,22.99,Km Post,Km post missing,23.5469441,89.8551111,,N804.lrps.htm
+,LRP025,23.83,Km Post,"Faridpur 6 km,Rajbari 37 km",23.55425,89.8540833,,N804.lrps.htm
+,LRP025a,23.942,Culvert,Box culvert,23.5553333,89.8539722,,N804.lrps.htm
+,LRP025b,24.717,Culvert,Box culvert,23.5621111,89.8524722,,N804.lrps.htm
+,LRP026,25.078,Km Post,"Faridpur 5 km,Dhaka 134 km",23.5653056,89.8517778,,N804.lrps.htm
+,LRP026a,25.348,"Side Road, Left",Faridpur town by pass(N808),23.5677771,89.8513889,,N804.lrps.htm
+,LRP026b,25.352,"Side Road, Right",Z 8416 to Hatgojaria,23.5677771,89.8513889,,N804.lrps.htm
+,LRP027,26.078,Km Post,Km post missing,23.5733327,89.8476663,,N804.lrps.htm
+,LRP027a,26.236,Culvert,Box culvert,23.5745271,89.8470552,,N804.lrps.htm
+,LRP028,27.078,Km Post,Km post missing,23.5802771,89.8416663,,N804.lrps.htm
+,LRP029,28.078,Km Post,Km post missing,23.5870274,89.8356386,,N804.lrps.htm
+,LRP030,29.078,Km Post,Km post missing,23.5951941,89.8300549,,N804.lrps.htm
+,LRP030a,29.76,"Turn off, Left",Right to Faridpur (N803),23.5998886,89.8273049,,N804.lrps.htm
+,LRP031,30.078,Km Post,Km post missing,23.5987774,89.824916,,N804.lrps.htm
+,LRP031a,30.441,Bridge,Start of bridge,23.5967497,89.8216104,,N804.lrps.htm
+,LRP031b,30.492,Bridge,End of bridge,23.5964719,89.8212771,,N804.lrps.htm
+,LRP032,30.578,Km Post,Km post missing,23.5934441,89.8174438,,N804.lrps.htm
+,LRP032a,31.04,"Side Road, Left",Z 8406,23.5888886,89.8094722,,N804.lrps.htm
+,LRP033,31.078,Km Post,Km post missing,23.5887497,89.8092778,,N804.lrps.htm
+,LRPE,32.063,Others,End at Rajbari Road more and Intersection with N7,23.5883052,89.8086111,,N804.lrps.htm
+,,,,,,,,N804.lrps.htm
+,,,,,,,,N804.lrps.htm

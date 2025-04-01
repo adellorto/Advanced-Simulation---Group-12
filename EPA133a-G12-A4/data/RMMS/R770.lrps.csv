@@ -1,0 +1,112 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,Start from R856 at Start at Bagerhat Road Division Noapara Island.,22.7373886,89.6496941,,R770.lrps.htm
+,LRPSa,0.308,Culvert,Box Culvert,22.735333,89.6517222,,R770.lrps.htm
+,LRP001,0.435,Km Post,Bagerhat 19 km,22.7344719,89.6524444,,R770.lrps.htm
+,LRP002,1.435,Km Post,Km post missing,22.7272216,89.6587222,,R770.lrps.htm
+,LRP002a,1.524,Culvert,Box Culvert,22.7267216,89.6591389,,R770.lrps.htm
+,LRP002b,1.714,Culvert,Box Culvert,22.7257216,89.6604722,,R770.lrps.htm
+,LRP003,2.42,Km Post,Bagerhat 17 Km,22.7221382,89.6662778,,R770.lrps.htm
+,LRP003a,2.451,Bridge,Start of bridge,22.7219716,89.6665,,R770.lrps.htm
+,LRP003b,2.47,Bridge,End of Bridge,22.7218882,89.666666,,R770.lrps.htm
+,LRP004,3.397,Km Post,Km post broken,22.7173327,89.6741938,,R770.lrps.htm
+,LRP004a,4.404,Bridge,Start of bridge,22.7123333,89.6822493,,R770.lrps.htm
+,LRP004b,4.417,Bridge,End of bridge,22.7123056,89.6823604,,R770.lrps.htm
+,LRP005,4.435,Km Post,"Bagerhat 15 km,Pirojpur 36 km",22.7122222,89.6825271,,R770.lrps.htm
+,LRP005a,5.34,Culvert,Box Culvert,22.7076667,89.6900274,,R770.lrps.htm
+,LRP006,5.375,Km Post,Bagerhat 14 km,22.7075278,89.6902497,,R770.lrps.htm
+,LRP006a,5.763,Culvert,Box Culvert,22.7056111,89.6934163,,R770.lrps.htm
+,LRP006b,6.065,Culvert,Box Culvert,22.7041667,89.6958608,,R770.lrps.htm
+,LRP007,6.435,Km Post,Bagerhat 13 km,22.7023889,89.698833,,R770.lrps.htm
+,LRP007a,6.697,Culvert,Box Culvert,22.7010278,89.7009167,,R770.lrps.htm
+,LRP007b,7.225,Culvert,Box Culvert,22.6984441,89.7051111,,R770.lrps.htm
+,LRP008,7.385,Km Post,Bagerhat 12 km,22.6976663,89.7063611,,R770.lrps.htm
+,LRP008a,7.56,Bridge,Start of bridge,22.6968052,89.7077778,,R770.lrps.htm
+,LRP008b,7.62,Bridge,End of Bridge,22.6964997,89.7082778,,R770.lrps.htm
+,LRP009,8.4,Km Post,Bagerhat 11 km,22.6923886,89.7144444,,R770.lrps.htm
+,LRP009a,8.994,Culvert,Box Culvert,22.689083,89.7190271,,R770.lrps.htm
+,LRP010,9.42,Km Post,Bagerhat 10 km,22.6859997,89.7214716,,R770.lrps.htm
+,LRP010a,9.765,Bridge,Start of bridge,22.683166,89.7225549,,R770.lrps.htm
+,LRP010b,9.79,Bridge,End of bridge,22.6829716,89.7226104,,R770.lrps.htm
+,LRP011,10.47,Km Post,"Bagerhat 09 Km, Pirojpur 30 Km",22.6782493,89.7277493,,R770.lrps.htm
+,LRP011a,10.495,Culvert,Box Culvert,22.6781104,89.7263049,,R770.lrps.htm
+,LRP011b,11.423,Culvert,Box Culvert,22.6737493,89.7337497,,R770.lrps.htm
+,LRP012,11.48,Km Post,Bagerhat 08 Km,22.6736938,89.734333,,R770.lrps.htm
+,LRP012a,12.462,Culvert,Box Culvert,22.6728604,89.7434719,,R770.lrps.htm
+,LRP013,12.5,Km Post,Bagerhat 7 km,22.6727216,89.7438886,,R770.lrps.htm
+,LRP013a,12.754,Culvert,Box Culvert,22.6718327,89.7459997,,R770.lrps.htm
+,LRP014,13.5,Km Post,"Bagerhat 6 km, Pirojpur 27 km",22.6689438,89.75275,,R770.lrps.htm
+,LRP014a,14.24,"Side Road, Left",Left R771 To Fakirhat,22.6652778,89.7583333,,R770.lrps.htm
+,LRP015,14.52,Km Post,"Bagerhat 05 km, Barisal 91 Km",22.6637222,89.7605556,,R770.lrps.htm
+,LRP015a,14.585,Culvert,Box Culvert,22.6634722,89.7609167,,R770.lrps.htm
+,LRP015b,15.305,Culvert,Box Culvert,22.6600833,89.766916,,R770.lrps.htm
+,LRP016,15.52,Km Post,Bagerhat 4 Km,22.6591111,89.768916,,R770.lrps.htm
+,LRP016a,15.815,Culvert,Box Culvert,22.6580556,89.7712493,,R770.lrps.htm
+,LRP016b,16.28,"Side Road, Right",Z 7719 to Karapara,22.6563056,89.7754438,,R770.lrps.htm
+,LRP017,16.53,Km Post,Bagerhat 3 km,22.6553889,89.777666,,R770.lrps.htm
+,LRP017a,16.576,"Side Road, Right",Z-7717 to Rampal,22.65525,89.7779716,,R770.lrps.htm
+,LRP017b,17.276,Culvert,Box Culvert,22.6521111,89.7839441,,R770.lrps.htm
+,LRP018,17.53,Km Post,"Bagerhat 2 km, Pirojpur 23 km",22.6506111,89.7859441,,R770.lrps.htm
+,LRP018a,18.303,"Side Road, Left",Bagerhat Town,22.6473608,89.7922774,,R770.lrps.htm
+,LRP019,18.7,Km Post,Pirojpur 22 km,22.6464719,89.7959997,,R770.lrps.htm
+,LRP019a,18.721,Culvert,Box Culvert,22.6464441,89.7961386,,R770.lrps.htm
+,LRP019b,19.04,Bridge,Start of bridge,22.645333,89.7991941,,R770.lrps.htm
+,LRP019c,19.674,Bridge,End of Bridge,22.6428052,89.8046667,,R770.lrps.htm
+,LRP020,19.7,Km Post,Km post missing,22.6426108,89.8048889,,R770.lrps.htm
+,LRP021,20.45,Km Post,"Barisal 85 km,Pirojpur 20 km",22.642333,89.8123333,,R770.lrps.htm
+,LRP021a,21.025,Culvert,Box Culvert,22.6406941,89.817416,,R770.lrps.htm
+,LRP022,21.45,Km Post,Pirojpur 19 km,22.637583,89.8200271,,R770.lrps.htm
+,LRP022a,21.495,Culvert,Box Culvert,22.6373608,89.820166,,R770.lrps.htm
+,LRP023,22.47,Km Post,Pirojpur 18 km,22.6294438,89.8237493,,R770.lrps.htm
+,LRP023a,22.998,Culvert,Box Culvert,22.626916,89.8277216,,R770.lrps.htm
+,LRP023b,23.35,Bridge,Sart of Bridge,22.6264716,89.8311104,,R770.lrps.htm
+,LRP023c,23.38,Bridge,End of Bridge,22.6263327,89.8313327,,R770.lrps.htm
+,LRP024,23.48,Km Post,"Barisal 82 km, Pirojpur 17 km",22.6256938,89.8321938,,R770.lrps.htm
+,LRP024a,23.807,Culvert,Box Culvert,22.6233049,89.8337497,,R770.lrps.htm
+,LRP025,24.48,Km Post,Pirojpur 16 km,22.6188049,89.8382774,,R770.lrps.htm
+,LRP025a,24.723,Culvert,Box Culvert,22.6172493,89.8396941,,R770.lrps.htm
+,LRP025b,25.37,Culvert,Box Culvert,22.6120556,89.8423886,,R770.lrps.htm
+,LRP026,25.48,Km Post,Pirojpur 15 km,22.6110556,89.8427774,,R770.lrps.htm
+,LRP027,26.45,Km Post,"Barisal 79 km,Pirojpur 14 km",22.606,89.8494163,,R770.lrps.htm
+,LRP027a,26.465,"Side Road, Left",Z 7703 to Kachua,22.6059444,89.8495552,,R770.lrps.htm
+,LRP027b,26.466,"Side Road, Right",Z 7702 to Bogi,22.6059444,89.8495552,,R770.lrps.htm
+,LRP027c,27.094,Culvert,Box Culvert,22.6058889,89.85575,,R770.lrps.htm
+,LRP028,27.45,Km Post,Pirojpur 13 km,22.6043056,89.8588889,,R770.lrps.htm
+,LRP028a,27.888,Culvert,Box Culvert,22.6022778,89.8622222,,R770.lrps.htm
+,LRP029,28.45,Km Post,Pirojpur 12 km,22.6023611,89.8678604,,R770.lrps.htm
+,LRP029a,28.54,Culvert,Box Culvert,22.6023333,89.8686938,,R770.lrps.htm
+,LRP029b,28.995,Culvert,Box Culvert,22.6023611,89.873166,,R770.lrps.htm
+,LRP030,29.45,Km Post,"Barisal 76 km,Pirojpur 11 km",22.6023611,89.8776382,,R770.lrps.htm
+,LRP030a,30.012,Culvert,Box Culvert,22.6024444,89.8829438,,R770.lrps.htm
+,LRP031,30.34,Km Post,"Barisal 75 km, Pirojpur 10 km",22.6024167,89.8861663,,R770.lrps.htm
+,LRP032,31.45,Km Post,Pirojpur 09 km,22.5992497,89.8962774,,R770.lrps.htm
+,LRP032a,32.415,Culvert,Box Culvert,22.5995274,89.9055556,,R770.lrps.htm
+,LRP033,32.44,Km Post,"Barisal 73 km, Pirojpur 08 km",22.5994719,89.9058333,,R770.lrps.htm
+,LRP033a,32.702,Culvert,Box Culvert,22.5998052,89.9083611,,R770.lrps.htm
+,LRP033b,33.344,Culvert,Box Culvert,22.6005,89.9145,,R770.lrps.htm
+,LRP034,33.44,Km Post,Pirojpur 07 km,22.6007778,89.9152778,,R770.lrps.htm
+,LRP034a,33.965,Culvert,Box Culvert,22.6007222,89.920916,,R770.lrps.htm
+,LRP035,34.44,Km Post,Pirojpur 06 km,22.5990552,89.9244716,,R770.lrps.htm
+,LRP035a,34.56,Culvert,Box Culvert,22.5987774,89.9256382,,R770.lrps.htm
+,LRP035b,35.05,Culvert,Box Culvert,22.5976386,89.9302216,,R770.lrps.htm
+,LRP036,35.44,Km Post,"Barisal 70 km,Pirojpur 05 km",22.5966663,89.9338886,,R770.lrps.htm
+,LRP036a,35.837,Culvert,Box Culvert,22.5954997,89.937583,,R770.lrps.htm
+,LRP037,36.33,Km Post,"Barisal 69 km, Pirojpur 04 km",22.593583,89.9417219,,R770.lrps.htm
+,LRP037a,36.451,Culvert,Box Culvert,22.593083,89.9428608,,R770.lrps.htm
+,LRP037b,37.033,Culvert,Box Culvert,22.5905274,89.9478052,,R770.lrps.htm
+,LRP038,37.45,Km Post,Pirojpur 03 km,22.5881663,89.9508889,,R770.lrps.htm
+,LRP038a,37.78,Culvert,Box Culvert,22.586333,89.9532778,,R770.lrps.htm
+,LRP038b,38.395,Culvert,Box Culvert,22.5824438,89.9574167,,R770.lrps.htm
+,LRP039,38.46,Km Post,"Barisal 67 km, Pirojpur 02 km",22.5818604,89.9573889,,R770.lrps.htm
+,LRP040,39.46,Km Post,"Barisal 66 km, Pirojpur 01 km",22.5728882,89.9568333,,R770.lrps.htm
+,LRP040a,39.56,Others,Start of Pirojpur RHD,22.5720827,89.957,,R770.lrps.htm
+,LRP040a,39.56,Others,Start of Pirojpur RHD,22.5720827,89.957,,R770.lrps.htm
+,LRP040b,39.71,Bridge,Start of Bridge,22.5714716,89.9584444,,R770.lrps.htm
+,LRP040c,40.047,Bridge,End of Bridge,22.5707493,89.9616111,,R770.lrps.htm
+,LRP040d,40.162,Culvert,Box Culvert,22.5704716,89.9627778,,R770.lrps.htm
+,LRP041,40.8,Km Post,"Barisal 64 km, Vandaria 21 km",22.5706104,89.9689438,,R770.lrps.htm
+,LRP041a,41.052,Culvert,Box Culvert,22.5707771,89.9713327,,R770.lrps.htm
+,LRP041b,41.075,Cross Road,R 870,22.5707216,89.9714716,,R770.lrps.htm
+,LRP042,41.8,Km Post,Km post missing,22.5709993,89.9782493,,R770.lrps.htm
+,LRPE,42.78,Others,End at Traffic point and Intersect with Z 7709.,22.5791382,89.9801938,,R770.lrps.htm
+,,,,,,,,R770.lrps.htm
+,,,,,,,,R770.lrps.htm

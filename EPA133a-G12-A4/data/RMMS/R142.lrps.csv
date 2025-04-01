@@ -1,0 +1,95 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,Road start from Intersection of R140 & N 104 at Begomgonj Zero point.,22.9446941,91.1046944,,R142.lrps.htm
+,LRP001,0.325,Km Post,"Dhaka 150 km,Ramgonj 37 km",22.9476108,91.10475,,R142.lrps.htm
+,LRP001a,0.403,Bridge,Bridge Start,22.9482497,91.10475,,R142.lrps.htm
+,LRP001b,0.458,Bridge,Bridge End,22.9487497,91.1047778,,R142.lrps.htm
+,LRP002,1.35,Km Post,Ramgonj 36 km,22.9566667,91.1049167,,R142.lrps.htm
+,LRP002a,1.952,Bridge,Bridge Start,22.9618611,91.1043056,,R142.lrps.htm
+,LRP002b,1.973,Bridge,Bridge End,22.9619444,91.10425,,R142.lrps.htm
+,LRP003,2.35,Km Post,Ramgonj 35 km,22.9650833,91.1029444,,R142.lrps.htm
+,LRP003a,2.625,Culvert,Culvert,22.9675271,91.1026389,,R142.lrps.htm
+,LRP003b,3.29,Bridge,Bridge start,22.973416,91.1011667,,R142.lrps.htm
+,LRP003c,3.31,Bridge,Bridge end,22.9734993,91.1011389,,R142.lrps.htm
+,LRP004,3.36,Km Post,Ramgonj 34 km,22.9739716,91.1009722,,R142.lrps.htm
+,LRP004a,4.028,Bridge,Bridge Start,22.9796938,91.0990552,,R142.lrps.htm
+,LRP004b,4.042,Bridge,Bridge End,22.9798049,91.0989997,,R142.lrps.htm
+,LRP005,4.32,Km Post,Ramgonj 33 km,22.9822216,91.0990552,,R142.lrps.htm
+,LRP005a,4.99,Bridge,Bridge Start,22.9879163,91.0974441,,R142.lrps.htm
+,LRP005b,4.993,Bridge,Bridge End,22.9879719,91.0974163,,R142.lrps.htm
+,LRP006,5.38,Km Post,Ramgonj 32 km,22.991333,91.0965552,,R142.lrps.htm
+,LRP006a,6.05,Bridge,Bridge Start,22.9973052,91.0959997,,R142.lrps.htm
+,LRP006b,6.058,Bridge,Bridge End,22.9973886,91.0959997,,R142.lrps.htm
+,LRP007,6.39,Km Post,Ramgonj 31 km,23.0003611,91.0959441,,R142.lrps.htm
+,LRP007a,7.08,Bridge,Bridge Start,23.0063889,91.0953052,,R142.lrps.htm
+,LRP007b,7.094,Bridge,Bridge End,23.0064444,91.0952497,,R142.lrps.htm
+,LRP008,7.384,Km Post,Ramgonj 30 km,23.00875,91.0938886,,R142.lrps.htm
+,LRP008a,8.21,Bridge,Bridge Start,23.0161111,91.0946386,,R142.lrps.htm
+,LRP008b,8.221,Bridge,Bridge End,23.0161944,91.0946663,,R142.lrps.htm
+,LRP009,8.4,Km Post,Dhaka 142 km,23.0178327,91.0947219,,R142.lrps.htm
+,LRP009a,8.923,Bridge,Bridge start,23.0224438,91.0949163,,R142.lrps.htm
+,LRP009b,9.412,Bridge,Bridge End,23.0225827,91.0949441,,R142.lrps.htm
+,LRP010,9.703,Km Post,"Dhaka 141 km,Ramgonj 28 km",23.0267493,91.0956663,,R142.lrps.htm
+,LRP010a,9.943,Culvert,Box culvert,23.0293882,91.0957774,,R142.lrps.htm
+,LRP011,10.41,Km Post,Km post missing,23.0354163,91.0963886,,R142.lrps.htm
+,LRP011a,10.411,"Side Road, Right",Side road right R-141,23.0356941,91.0963886,,R142.lrps.htm
+,LRP011b,10.733,"Side Road, Right",Side road right to Grirhat,23.0383886,91.0961941,,R142.lrps.htm
+,LRP011c,10.812,Bridge,Bridge Start,23.039083,91.0959719,,R142.lrps.htm
+,LRP011d,10.822,Bridge,Bridge End,23.0391663,91.0959441,,R142.lrps.htm
+,LRP011e,11.293,Culvert,Box culvert,23.0433886,91.0954163,,R142.lrps.htm
+,LRP012,11.522,Km Post,Ramgonj 26 km,23.0454163,91.0951663,,R142.lrps.htm
+,LRP013,12.504,Km Post,Ramgonj 25 km,23.0514167,91.0889163,,R142.lrps.htm
+,LRP014,13.504,Km Post,Km post missing,23.0575278,91.0816382,,R142.lrps.htm
+,LRP014a,14.141,Bridge,Bridge Start,23.0599444,91.0762771,,R142.lrps.htm
+,LRP014b,14.177,Bridge,Bridge End,23.0599722,91.0759438,,R142.lrps.htm
+,LRP015,14.374,Km Post,Inforrmation missing,23.06025,91.0731104,,R142.lrps.htm
+,LRP016,15.47,Km Post,Km post broken,23.0611111,91.0636667,,R142.lrps.htm
+,LRP016a,16.24,Bridge,Bridge start,23.0618333,91.056,,R142.lrps.htm
+,LRP016b,16.25,Bridge,Bridge End,23.0618611,91.0559167,,R142.lrps.htm
+,LRP017,16.725,Km Post,Km post missing,23.0623056,91.0547222,,R142.lrps.htm
+,LRP017a,17.38,Culvert,Culvert,23.0629444,91.0449997,,R142.lrps.htm
+,LRP018,17.47,Km Post,Km post missing,23.0631111,91.0416663,,R142.lrps.htm
+,LRP019,18.47,Km Post,Km post missing,23.0643056,91.034333,,R142.lrps.htm
+,LRP020,19.47,Km Post,km post missing,23.0642778,91.0246104,,R142.lrps.htm
+,LRP021,20.41,Km Post,Ramganj 17 km,23.0641667,91.0155556,,R142.lrps.htm
+,LRP022,21.36,Km Post,Ramganj 16 km,23.0614722,91.0073056,,R142.lrps.htm
+,LRP022a,22.22,Bridge,Bridge Start,23.06,90.9990552,,R142.lrps.htm
+,LRP022b,22.25,Bridge,Bridge End,23.06,90.9988886,,R142.lrps.htm
+,LRP023,22.36,Km Post,Ramganj 15 km,23.0599167,90.997833,,R142.lrps.htm
+,LRP023a,22.86,Culvert,Box culvert,23.0596389,90.9928608,,R142.lrps.htm
+,LRP024,23.39,Km Post,Ramgonj 14 km,23.0594444,90.987833,,R142.lrps.htm
+,LRP024a,23.47,"Side Road, Right",Z-1430 to Chitoshi.,23.0593889,90.9871108,,R142.lrps.htm
+,LRP024b,23.632,"Side Road, Left",Z 1426 to Chandraganj.,23.0593611,90.9855552,,R142.lrps.htm
+,LRP024c,23.902,Culvert,Box culvert,23.0598889,90.9830549,,R142.lrps.htm
+,LRP025,24.4,Km Post,Ramganj 13 km,23.061,90.9783882,,R142.lrps.htm
+,LRP025a,25.174,"Side Road, Left",Z-1510 to Dattapara,23.0626944,90.9711104,,R142.lrps.htm
+,LRP025b,25.224,"Side Road, Right",Z-1417 Ranirhat,23.06275,90.9705549,,R142.lrps.htm
+,LRP026,25.38,Km Post,Ramgonj 12 km,23.0626389,90.9690271,,R142.lrps.htm
+,LRP026a,26.23,Culvert,Box culvert,23.0621111,90.9608889,,R142.lrps.htm
+,LRP027,26.38,Km Post,Information missing,23.06225,90.9594444,,R142.lrps.htm
+,LRP028,27.34,Km Post,Ramgonj 10 km,23.0642778,90.9502778,,R142.lrps.htm
+,LRP028a,27.754,Culvert,Box culvert,23.0650556,90.9464441,,R142.lrps.htm
+,LRP029,28.34,Km Post,Ramgonj 9 km,23.0660833,90.9407219,,R142.lrps.htm
+,LRP029a,29.212,"Side Road, Right",Z-1436 to Paniwala bazar,23.0676104,90.9325549,,R142.lrps.htm
+,LRP030,29.34,Km Post,Km post missing,23.0679438,90.930916,,R142.lrps.htm
+,LRP030a,30.222,Culvert,2 v- Box culvert,23.0693604,90.922916,,R142.lrps.htm
+,LRP031,30.34,Km Post,Km post missing,23.069666,90.9212493,,R142.lrps.htm
+,LRP031a,30.72,Others,Noakhali RHD start,23.0701382,90.9190271,,R142.lrps.htm
+,LRP031a,30.72,Others,Noakhali RHD start,23.0701382,90.9190271,,R142.lrps.htm
+,LRP032,31.34,Km Post,Km post missing,23.071416,90.9123889,,R142.lrps.htm
+,LRP032a,32,Culvert,Box culvert,23.0762493,90.9081667,,R142.lrps.htm
+,LRP033,32.3,Km Post,Ramgonj 5 km,23.0782771,90.9066667,,R142.lrps.htm
+,LRP034,33.3,Km Post,Ramgonj 4 km,23.0825549,90.898333,,R142.lrps.htm
+,LRP034a,33.424,Culvert,Box culvert,23.0831938,90.8974997,,R142.lrps.htm
+,LRP034b,34.045,Culvert,2 v- box culvert,23.0867774,90.8928608,,R142.lrps.htm
+,LRP035,34.3,Km Post,Km post missing,23.087083,90.8902219,,R142.lrps.htm
+,LRP036,34.36,Km Post,Ramgonj 2 km,23.0881108,90.8807771,,R142.lrps.htm
+,LRP036a,35.3,Bridge,Bridge Start,23.0881108,90.8807771,,R142.lrps.htm
+,LRP036b,35.32,Bridge,Bridge End,23.0881663,90.8806104,,R142.lrps.htm
+,LRP036c,36.256,Culvert,Box culvert,23.0926663,90.8730271,,R142.lrps.htm
+,LRP037,36.3,Km Post,Km post missing,23.0928052,90.8728049,,R142.lrps.htm
+,LRP037a,36.912,Culvert,Box culvert,23.0958608,90.8677771,,R142.lrps.htm
+,LRP038,37.3,Km Post,Km post missing,23.0975552,90.8644722,,R142.lrps.htm
+,LRP038a,37.712,Culvert,Box culvert,23.0992497,90.8611111,,R142.lrps.htm
+,LRPE,37.72,Others,"Road end with Z1422 at Ramgonj CNG Stand ,Ramganj.",23.0992774,90.8609444,,R142.lrps.htm
+,,,,,,,,R142.lrps.htm
+,,,,,,,,R142.lrps.htm

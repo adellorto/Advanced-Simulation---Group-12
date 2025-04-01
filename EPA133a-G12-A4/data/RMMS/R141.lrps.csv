@@ -1,0 +1,95 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,Start of road from R 140 at Lalmai.,23.3565,91.1468052,,R141.lrps.htm
+,LRPSa,0.218,Culvert,Box Culvert,23.3545833,91.1469163,,R141.lrps.htm
+,LRP001,1,Km Post,Km post missing,23.3476108,91.1469997,,R141.lrps.htm
+,LRP001a,1.076,Bridge,Bridge start,23.3469441,91.147083,,R141.lrps.htm
+,LRP001b,1.114,Bridge,Bridge end,23.3466108,91.1471108,,R141.lrps.htm
+,LRP001c,1.975,"Side Road, Right",Z 1049 on right,23.3401108,91.1464719,,R141.lrps.htm
+,LRP001d,1.983,Bridge,Bridge start,23.3389163,91.1464441,,R141.lrps.htm
+,LRP002,2,Km Post,Km post missing,23.3387219,91.146333,,R141.lrps.htm
+,LRP002a,2.014,Bridge,Bridge end,23.3386386,91.146333,,R141.lrps.htm
+,LRP002b,2.274,"Side Road, Left",To Bargodda,23.3366663,91.1450552,,R141.lrps.htm
+,LRP003,3,Km Post,Km post missing,23.3306382,91.1429719,,R141.lrps.htm
+,LRP003a,3.362,Culvert,Box Culvert,23.3276104,91.1416663,,R141.lrps.htm
+,LRP004,4,Km Post,Km post missing,23.3224993,91.1389163,,R141.lrps.htm
+,LRP004a,4.535,Culvert,Box Culvert,23.3181382,91.1367774,,R141.lrps.htm
+,LRP005,5,Km Post,Km post missing,23.3141389,91.1351663,,R141.lrps.htm
+,LRP006,6,Km Post,Km post missing,23.3058611,91.1315549,,R141.lrps.htm
+,LRP006a,6.092,Culvert,Box Culvert,23.3050833,91.1313882,,R141.lrps.htm
+,LRP007,7,Km Post,Km post missing,23.2971108,91.1297216,,R141.lrps.htm
+,LRP008,8,Km Post,Km post missing,23.2883052,91.117916,,R141.lrps.htm
+,LRP009,9,Km Post,Km post missing,23.2796104,91.1253604,,R141.lrps.htm
+,LRP009a,9.828,Culvert,Box Culvert,23.2723327,91.1243882,,R141.lrps.htm
+,LRP010,10.039,Km Post,Maisdee 44 km Lakshom 4 km,23.2704438,91.1244716,,R141.lrps.htm
+,LRP010a,10.729,Culvert,Box Culvert,23.2646389,91.1235549,,R141.lrps.htm
+,LRP010b,10.793,"Side Road, Right",Road to Muddfanganj Z 1414,23.2641667,91.1232493,,R141.lrps.htm
+,LRP010c,10.909,Culvert,Box Culvert,23.2633056,91.1226938,,R141.lrps.htm
+,LRP011,11.039,Km Post,Km post missing,23.2622222,91.1222493,,R141.lrps.htm
+,LRP012,12.072,Km Post,Maijdee 42 km Lakshpm 2 km,23.2530833,91.1208049,,R141.lrps.htm
+,LRP012a,12.198,Culvert,Box Culvert,23.2519722,91.1206104,,R141.lrps.htm
+,LRP012b,12.5,Culvert,Box Culvert,23.2492219,91.120416,,R141.lrps.htm
+,LRP012c,12.919,Culvert,Box Culvert,23.2455552,91.1208604,,R141.lrps.htm
+,LRP012d,13.002,Rail Road Crossing,Rail road crossing,23.2448886,91.1211938,,R141.lrps.htm
+,LRP012e,13.003,Culvert,Box Culvert,23.2444719,91.1215271,,R141.lrps.htm
+,LRP013,13.072,Km Post,Km post missing,23.2443886,91.1215827,,R141.lrps.htm
+,LRP013a,13.128,Rail Road Crossing,Rail Road crossing,23.2439997,91.1218604,,R141.lrps.htm
+,LRP013b,13.506,Culvert,Box Culvert,23.241083,91.1235827,,R141.lrps.htm
+,LRP013c,13.84,"Side Road, Left",,23.2384163,91.1238049,,R141.lrps.htm
+,LRP014,14.072,Km Post,Km post missing,23.2364163,91.1237216,,R141.lrps.htm
+,LRP014a,14.316,Culvert,Box Culvert,23.2349719,91.125416,,R141.lrps.htm
+,LRP014b,14.693,Culvert,Box Culvert,23.2331104,91.1260827,,R141.lrps.htm
+,LRP014c,14.868,"Side Road, Left",Road to Alengahat,23.2301382,91.1260549,,R141.lrps.htm
+,LRP014d,14.877,Culvert,Box Culvert,23.2300827,91.1259993,,R141.lrps.htm
+,LRP015,15.132,Km Post,Maisdee 39 km Sonaimuri 22 km,23.2279993,91.1252493,,R141.lrps.htm
+,LRP015a,15.498,Culvert,Box Culvert,23.2249716,91.1241104,,R141.lrps.htm
+,LRP015b,15.512,"Side Road, Right",Leksham by pass Road,23.2248604,91.1240549,,R141.lrps.htm
+,LRP016,16.168,Km Post,Masjdee 38 km Sonaimuri 21 km,23.2196382,91.1268327,,R141.lrps.htm
+,LRP017,17.169,Km Post,Maisdee 37 km Sonaimuri 20 km,23.211,91.1295549,,R141.lrps.htm
+,LRP017a,17.706,Culvert,Box Culvert,23.2063611,91.1310271,,R141.lrps.htm
+,LRP018,18.176,Km Post,Maisdee 36 km Sonaimuri 19 km,23.2156944,91.1323604,,R141.lrps.htm
+,LRP018a,18.753,Culvert,Box Culvert,23.1973886,91.1338052,,R141.lrps.htm
+,LRP019,19.19,Km Post,Maisdee 35 km Sonaimuri 18 km,23.1934997,91.1341386,,R141.lrps.htm
+,LRP019a,19.938,Culvert,Box Culvert,23.1868608,91.1347497,,R141.lrps.htm
+,LRP020,20.192,Km Post,Maisdee 34 km Sonaimuri 17 km,23.1846108,91.1349163,,R141.lrps.htm
+,LRP020a,20.554,Culvert,Box Culvert,23.181416,91.1352219,,R141.lrps.htm
+,LRP021,21.192,Km Post,Km post missing,23.1762771,91.132666,,R141.lrps.htm
+,LRP021a,21.307,Culvert,Dauble Box Culvert,23.175416,91.1321938,,R141.lrps.htm
+,LRP022,22.228,Km Post,Maijdee 32 km Sonaimuri 15 km,23.1680827,91.128166,,R141.lrps.htm
+,LRP022a,22.945,Culvert,Box Culvert,23.1619722,91.1262216,,R141.lrps.htm
+,LRP023,23.247,Km Post,Maijdee 31 km Sonaimuri 14 km,23.1592778,91.1259993,,R141.lrps.htm
+,LRP023a,24.099,Culvert,Box Culvert,23.1516667,91.1255549,,R141.lrps.htm
+,LRP024,24.246,Km Post,Maijdee 30 km Sonaimuri 13 km,23.1503611,91.1254438,,R141.lrps.htm
+,LRP024a,25.025,Culvert,Box Culvert,23.1434163,91.1250549,,R141.lrps.htm
+,LRP025,25.258,Km Post,Maijdee 29 km Sonaimuri 12 km,23.1413886,91.1246938,,R141.lrps.htm
+,LRP025a,26.194,Culvert,Box Culvert,23.1331382,91.1230549,,R141.lrps.htm
+,LRP026,26.258,Km Post,Km post missing,23.1326104,91.1229438,,R141.lrps.htm
+,LRP027,27.258,Km Post,Km post missing,23.1237493,91.1212771,,R141.lrps.htm
+,LRP027a,27.475,Culvert,Box Culvert,23.121916,91.1207493,,R141.lrps.htm
+,LRP028,28.303,Km Post,Maijdee 26 km Sonaimuri 9 km,23.11525,91.1174438,,R141.lrps.htm
+,LRP028a,29.282,Culvert,Box Culvert,23.1071389,91.1140556,,R141.lrps.htm
+,LRP029,29.301,Km Post,Maijdee 25 km Sonaimuri 8 km,23.1069444,91.114,,R141.lrps.htm
+,LRP030,30.317,Km Post,Maijdee 24 km Sonaimuri 7 km,23.0981663,91.1118056,,R141.lrps.htm
+,LRP030a,30.544,Culvert,Box Culvert,23.0961386,91.1114722,,R141.lrps.htm
+,LRP030b,30.863,Culvert,Box Culvert,23.0933052,91.1110278,,R141.lrps.htm
+,LRP031,31.386,Km Post,Maijdee 23 km Sonaimuri 6 km,23.0887497,91.1108889,,R141.lrps.htm
+,LRP031a,31.964,Culvert,Box Culvert,23.0838886,91.10925,,R141.lrps.htm
+,LRP031b,32.296,Culvert,Box Culvert,23.0813049,91.1084167,,R141.lrps.htm
+,LRP032,32.322,Km Post,Maijdee 22 km Sonaimuri 5 km,23.0809716,91.1084444,,R141.lrps.htm
+,LRP033,33.354,Km Post,Maijdee 21 km Sonaimuri 4 km,23.0718049,91.1078889,,R141.lrps.htm
+,LRP033a,33.431,Culvert,"Box Culvert, RHD Noakhali Start",23.0702216,91.1078333,,R141.lrps.htm
+,LRP033a,33.431,Culvert,"Box Culvert, RHD Noakhali Start",23.0702216,91.1078333,,R141.lrps.htm
+,LRP034,34.362,Km Post,Maijdee 22 km Bagumga 14 km Sonaimuri 3 km,23.06275,91.1080833,,R141.lrps.htm
+,LRP034a,35.28,Culvert,Box Culvert,23.0546389,91.1091111,,R141.lrps.htm
+,LRP035,35.381,Km Post,"Maijdee 21 km, Bagumganj 13 km, Sonaimuri 2 km",23.0537778,91.10925,,R141.lrps.htm
+,LRP035a,35.743,Culvert,Box Culvert,23.0505556,91.1094444,,R141.lrps.htm
+,LRP036,36.395,Km Post,Maijdee 20 km Bagumganj 12 km Sonaimuri 1 km,23.0447774,91.1088611,,R141.lrps.htm
+,LRP036a,37.174,Cross Road,Right to Sonaimuri left to Senbag,23.0385274,91.1055833,,R141.lrps.htm
+,LRP037,37.397,Km Post,Maijdee 19 km Bagumganj 11 km,23.0372219,91.1040833,,R141.lrps.htm
+,LRP037a,37.668,Culvert,Box Culvert,23.0366108,91.1016111,,R141.lrps.htm
+,LRP037b,38.107,Culvert,Box Culvert,23.0356386,91.0974997,,R141.lrps.htm
+,LRP037c,38.128,Rail Road Crossing,Rail Road Crossing,23.0356663,91.0973052,,R141.lrps.htm
+,LRP037d,38.171,Bridge,Bridge start,23.0356386,91.0969163,,R141.lrps.htm
+,LRP037e,38.197,Bridge,Bridge end,23.0356941,91.0967219,,R141.lrps.htm
+,LRPE,38.225,Others,End of Road Intersection with R 142 at Sonaimuri.,23.0357219,91.0964719,,R141.lrps.htm
+,,,,,,,,R141.lrps.htm
+,,,,,,,,R141.lrps.htm

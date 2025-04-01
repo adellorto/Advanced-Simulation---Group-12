@@ -1,0 +1,101 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,"Start from Daratana more Traffic Island,Intersection with N-707,Jessore.",23.1665833,89.2095,,N702.lrps.htm
+,LRPSa,0.045,Monument,Bhoyrab Chalttor,23.1670271,89.2095,,N702.lrps.htm
+,LRP001,0.047,Km Post,Info Not clear,23.1670549,89.2095278,,N702.lrps.htm
+,LRP001a,0.055,Bridge,Daratana bridge start,23.1671104,89.2095556,,N702.lrps.htm
+,LRP001b,0.075,Bridge,Bridge end,23.1672771,89.2095833,,N702.lrps.htm
+,LRP001c,0.205,Culvert,Cross Drain,23.1682216,89.2102222,,N702.lrps.htm
+,LRP002,0.985,Km Post,Info not clear,23.172666,89.214,,N702.lrps.htm
+,LRP002a,1.522,Cross Road,"N-708,Jessore town alternate road",23.1770549,89.2142778,,N702.lrps.htm
+,LRP003,1.98,Km Post,Km post missng,23.1810271,89.2140278,,N702.lrps.htm
+,LRP004,3.01,Km Post,"Faridpur 86 km,Kushtia 84 km",23.1906941,89.2145278,,N702.lrps.htm
+,LRP005,4.02,Km Post,"Doulotdia 117 km,Magura 40 km",23.1991941,89.2175549,,N702.lrps.htm
+,LRP005a,4.912,Culvert,Box culvert,23.2070556,89.2198604,,N702.lrps.htm
+,LRP006,5,Km Post,"Faridpur 84 km,Magura 39 km",23.2078333,89.220166,,N702.lrps.htm
+,LRP007,6.005,Km Post,"Dhaka 215 km,Magura 38 km",23.2151944,89.2259438,,N702.lrps.htm
+,LRP007a,6.434,Culvert,Box culvert,23.2185549,89.2284438,,N702.lrps.htm
+,LRP008,7.01,Km Post,"Kushtia 80 km,Simakhali 15 km",23.2233327,89.2298604,,N702.lrps.htm
+,LRP008a,7.305,Culvert,Box culvert,23.2258604,89.2299716,,N702.lrps.htm
+,LRP008b,7.925,Culvert,Box culvert,23.2313049,89.2312771,,N702.lrps.htm
+,LRP009,8,Km Post,"Faridpur 81 km,Magura 36 km",23.2320827,89.2314438,,N702.lrps.htm
+,LRP009a,8.642,Culvert,Box culvert,23.2398886,89.2321104,,N702.lrps.htm
+,LRP009b,8.875,Culvert,Box Culvert,23.2398886,89.2321382,,N702.lrps.htm
+,LRP010,8.995,Km Post,"Dhaka 212 km,Magura 35 km",23.2409719,89.2319438,,N702.lrps.htm
+,LRP010a,9.172,Culvert,Box culvert,23.2424719,89.2315827,,N702.lrps.htm
+,LRP011,9.99,Km Post,Magura 34 km,23.249083,89.232666,,N702.lrps.htm
+,LRP011a,10.014,Culvert,Box culvert,23.2491941,89.2327493,,N702.lrps.htm
+,LRP011b,10.787,Culvert,Box culvert,23.2553889,89.2354719,,N702.lrps.htm
+,LRP012,10.99,Km Post,Kushtia 76 km,23.2568056,89.2366108,,N702.lrps.htm
+,LRP012a,11.965,Culvert,Box culvert,23.2645833,89.2402774,,N702.lrps.htm
+,LRP013,11.99,Km Post,"Doulotdia 109 km,Magura 32 km",23.2814438,89.2403886,,N702.lrps.htm
+,LRP014,12.99,Km Post,Km post broken,23.2727216,89.2445552,,N702.lrps.htm
+,LRP015,13.99,Km Post,"Kushtia 73 km,Simakhali 9 km",23.2747771,89.2534167,,N702.lrps.htm
+,LRP015a,14.364,Cross Road,"Z-7057,Kaligonj-Bagharpara road",23.2756104,89.2567222,,N702.lrps.htm
+,LRP016,15,Km Post,"Dhaka 206 km,Magura 29 km",23.2783327,89.26225,,N702.lrps.htm
+,LRP017,15.97,Km Post,"Faridpur 73 km,Simakhali 7 km",23.2836941,89.2696938,,N702.lrps.htm
+,LRP018,16.99,Km Post,"Magura 27 km,Kushtia 70 km",23.290083,89.2765271,,N702.lrps.htm
+,LRP018a,17.798,Culvert,Box Culvert,23.2948608,89.282416,,N702.lrps.htm
+,LRP019,17.99,Km Post,"Magura 26 km,Simakhali 5 km",23.2960274,89.2838608,,N702.lrps.htm
+,LRP020,18.99,Km Post,Km post missing,23.30225,89.2906941,,N702.lrps.htm
+,LRP020a,19.84,Bridge,Bridge start,23.3069444,89.2968886,,N702.lrps.htm
+,LRP020b,19.85,Bridge,Bridge end,23.3072222,89.2969441,,N702.lrps.htm
+,LRP021,19.99,Km Post,Km post misisng,23.3085,89.2150556,,N702.lrps.htm
+,LRP022,21,Km Post,"Dhaka 201 km,Simakhali 2 km",23.3142222,89.3053611,,N702.lrps.htm
+,LRP023,22.01,Km Post,"Magura 22 km,Faridpur 67 km",23.3201938,89.3126389,,N702.lrps.htm
+,LRP023a,22.566,Others,Start of RHD Magura,23.3244716,89.3159444,,N702.lrps.htm
+,LRP023a,22.566,Others,Start of RHD Magura,23.3244716,89.3159444,,N702.lrps.htm
+,LRP023b,22.59,Bridge,Truss Bridge start,23.3246938,89.3161111,,N702.lrps.htm
+,LRP023c,22.65,Bridge,Bridge end,23.3251104,89.3165,,N702.lrps.htm
+,LRP024,22.95,Km Post,Km post mising,23.3276382,89.318666,,N702.lrps.htm
+,LRP025,24,Km Post,"Magura 20 km, Faridpur 65 km",23.334833,89.3253327,,N702.lrps.htm
+,LRP025a,24.792,Culvert,Box culvert,23.3402774,89.3303327,,N702.lrps.htm
+,LRP026,25.02,Km Post,"Magura 19 km,Dhaka 196 km",23.341333,89.3313604,,N702.lrps.htm
+,LRP027,26.01,Km Post,Magura 18 km,23.3484719,89.3379719,,N702.lrps.htm
+,LRP027a,26.196,Culvert,Box culvert,23.3498608,89.3392219,,N702.lrps.htm
+,LRP028,26.995,Km Post,"Magura 17 km, Dhaka 194 km",23.3546389,89.3451663,,N702.lrps.htm
+,LRP028a,27.292,Culvert,Box culvert,23.3563889,89.3473052,,N702.lrps.htm
+,LRP029,27.975,Km Post,"Magura 16 km, Dhaka 193 km",23.3605556,89.3525,,N702.lrps.htm
+,LRP029a,28.261,Culvert,Box culvert,23.3620833,89.35475,,N702.lrps.htm
+,LRP029b,28.838,Culvert,Box culvert,23.3651111,89.3593889,,N702.lrps.htm
+,LRP030,28.975,Km Post,"Magura 15 km,Dhaka 192 km",23.3658333,89.3604722,,N702.lrps.htm
+,LRP030a,29.087,Culvert,Box culvert,23.3832216,89.3615833,,N702.lrps.htm
+,LRP031,29.975,Km Post,Km post missing,23.3709993,89.368666,,N702.lrps.htm
+,LRP031a,30.202,Culvert,Box culvert,23.3723049,89.370416,,N702.lrps.htm
+,LRP031b,30.62,"Side Road, Left",Z-7021 to Kaliganj road,23.3756382,89.3723327,,N702.lrps.htm
+,LRP031c,30.655,"Side Road, Right",Z-7201 to Arpara road,23.3757493,89.3723882,,N702.lrps.htm
+,LRP031d,30.69,Bridge,Truss Bridge start,23.3762771,89.3726104,,N702.lrps.htm
+,LRP031e,30.78,Bridge,Bridge end,23.3770271,89.3729438,,N702.lrps.htm
+,LRP032,30.975,Km Post,Km post missing,23.3787771,89.3737216,,N702.lrps.htm
+,LRP032a,31.587,Culvert,Box culvert,23.3841663,89.3753882,,N702.lrps.htm
+,LRP033,31.975,Km Post,Km post missing,23.3866663,89.3769438,,N702.lrps.htm
+,LRP033a,32.842,Culvert,Box culvert,23.393333,89.3991941,,N702.lrps.htm
+,LRP034,32.89,Km Post,"Magura 11 km, Dhaka 189 km",23.3937774,89.382916,,N702.lrps.htm
+,LRP034a,33.703,Culvert,Box culvert,23.3996941,89.3878052,,N702.lrps.htm
+,LRP035,33.88,Km Post,"Magura 10 km, Dhaka 188 km",23.4009722,89.3888886,,N702.lrps.htm
+,LRP035a,34.537,Bridge,Bridge start,23.40575,89.3928608,,N702.lrps.htm
+,LRP035b,34.556,Bridge,Bridge end,23.4058889,89.3929719,,N702.lrps.htm
+,LRP036,34.87,Km Post,"Magura 9 km,Dhaka 187 km",23.4082222,89.3948608,,N702.lrps.htm
+,LRP036a,35.268,Culvert,Box culvert,23.4111667,89.3971941,,N702.lrps.htm
+,LRP037,35.87,Km Post,Magura 8 km,23.4157778,89.4002778,,N702.lrps.htm
+,LRP037a,36.202,Culvert,Box culvert,23.4186104,89.4015,,N702.lrps.htm
+,LRP037b,36.803,Culvert,Box Culvert,23.4238604,89.4031667,,N702.lrps.htm
+,LRP038,36.87,Km Post,Km post missing,23.4243327,89.4033333,,N702.lrps.htm
+,LRP038a,37.278,Culvert,Box culvert,23.4280549,89.4045,,N702.lrps.htm
+,LRP038b,37.812,Culvert,Box culvert,23.4327493,89.4060278,,N702.lrps.htm
+,LRP039,37.845,Km Post,Magura 6 km,23.4331382,89.4061111,,N702.lrps.htm
+,LRP040,38.736,Km Post,"Magura 5 km, Dhaka 184 km",23.4408886,89.4084167,,N702.lrps.htm
+,LRP040a,39.448,Bridge,Bridge start,23.4472497,89.4094722,,N702.lrps.htm
+,LRP040b,39.482,Bridge,Bridge end,23.447583,89.4095,,N702.lrps.htm
+,LRP041,39.728,Km Post,"Magura 4 km,Dhaka 189 km",23.4499163,89.4095833,,N702.lrps.htm
+,LRP041a,40.627,Culvert,Box culvert,23.4575833,89.4115278,,N702.lrps.htm
+,LRP042,40.696,Km Post,Km post missing,23.4586111,89.412,,N702.lrps.htm
+,LRP042a,41.206,Culvert,Box culvert,23.4630278,89.4128056,,N702.lrps.htm
+,LRP043,41.678,Km Post,Magura 2 km,23.4672493,89.4135278,,N702.lrps.htm
+,LRP043a,42.257,Culvert,Box culvert,23.4723882,89.41475,,N702.lrps.htm
+,LRP044,42.658,Km Post,"Magura 1 km, Dhaka 180 km",23.4758882,89.4165556,,N702.lrps.htm
+,LRP044a,42.703,Culvert,Box culvert,23.4788882,89.4166111,,N702.lrps.htm
+,LRP044b,43.012,Culvert,Box Culvert,23.4788882,89.4175827,,N702.lrps.htm
+,LRP045,43.62,Km Post,"Magura 0 km,Dhaka 179 km",23.4844719,89.4188882,,N702.lrps.htm
+,LRPE,43.75,Others,End road at Vaina more Magura &Meet with N-7,23.4856663,89.4189716,,N702.lrps.htm
+,,,,,,,,N702.lrps.htm
+,,,,,,,,N702.lrps.htm

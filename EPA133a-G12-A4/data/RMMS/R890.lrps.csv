@@ -1,0 +1,204 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,Start from N 809 at paran Talukderhat Bhola.,22.7290271,90.634333,,R890.lrps.htm
+,LRPSa,0.17,Bridge,Bridge start,22.7275827,90.6347774,,R890.lrps.htm
+,LRPSb,0.184,Bridge,Bridge end,22.7273327,90.6348052,,R890.lrps.htm
+,LRPSc,0.505,Culvert,Box Culvert,22.7247493,90.6356108,,R890.lrps.htm
+,LRP001,0.98,Km Post,Babarhat Laonchghat 110 km,22.7205827,90.6368608,,R890.lrps.htm
+,LRP001a,1.657,Culvert,Box Culvert,22.7150833,90.6388608,,R890.lrps.htm
+,LRP002,2,Km Post,Lalmohon 49 km,22.7121944,90.6397219,,R890.lrps.htm
+,LRP003,3,Km Post,Char fashion 70 km,22.7035556,90.6411941,,R890.lrps.htm
+,LRP003a,3.29,Bridge,Bridge start,22.7009722,90.6416108,,R890.lrps.htm
+,LRP003b,3.303,Bridge,Bridge end,22.7009722,90.6416108,,R890.lrps.htm
+,LRP004,4.02,Km Post,Char fashion 69 km,22.6948052,90.6434441,,R890.lrps.htm
+,LRP004a,4.35,Culvert,Box Culvert,22.6921941,90.642083,,R890.lrps.htm
+,LRP004b,4.65,Bridge,Bridge start,22.6899719,90.6411941,,R890.lrps.htm
+,LRP004c,4.66,Bridge,Bridge end,22.689833,90.6408886,,R890.lrps.htm
+,LRP005,5.02,Km Post,Km post missing,22.6877219,90.6411108,,R890.lrps.htm
+,LRP006,6.02,Km Post,Km post missing,22.6814716,90.6476108,,R890.lrps.htm
+,LRP007,6.91,Km Post,Daulatkhan 20 km,22.6745549,90.6520556,,R890.lrps.htm
+,LRP008,7.92,Km Post,"Baburhat Launchghat 103 km, Char Fashion 64 km",22.6686104,90.6591667,,R890.lrps.htm
+,LRP009,8.93,Km Post,Babushat Launchghat 102 km Char Fashion 63 km,22.6603333,90.6628056,,R890.lrps.htm
+,LRP009a,9.762,Culvert,Box Culvert,22.653,90.6628611,,R890.lrps.htm
+,LRP010,9.95,Km Post,Borhanuddin 18 km,22.6514722,90.6620833,,R890.lrps.htm
+,LRP011,10.98,Km Post,Lalmohon 41 km,22.6424997,90.6619167,,R890.lrps.htm
+,LRP012,11.98,Km Post,Char fashion 60 km,22.6335274,90.6618611,,R890.lrps.htm
+,LRP012a,12.854,Culvert,Box Culvert,22.459,90.6617778,,R890.lrps.htm
+,LRP012b,12.872,"Side Road, Left",Left Z 8916,22.6254993,90.6617222,,R890.lrps.htm
+,LRP013,13,Km Post,Tuzumuddin 40 km,22.6244438,90.6613056,,R890.lrps.htm
+,LRP014,14.01,Km Post,Daulatkhan 12 km,22.6159444,90.6579444,,R890.lrps.htm
+,LRP015,15.01,Km Post,Babashat Laonchghat 95 km,22.6069167,90.6573889,,R890.lrps.htm
+,LRP016,16.03,Km Post,Char feshion 56 km,22.5975274,90.6569444,,R890.lrps.htm
+,LRP016a,16.51,Bridge,Bridge Start,22.5934997,90.6581944,,R890.lrps.htm
+,LRP016b,16.545,Bridge,Bridge End,22.5931663,90.65825,,R890.lrps.htm
+,LRP016c,16.885,Cross Road,Z 8915,22.5901941,90.6587778,,R890.lrps.htm
+,LRP017,17.07,Km Post,Borhanuddin 10 km,22.5885274,90.6590556,,R890.lrps.htm
+,LRP018,18.05,Km Post,Babushat Launchghat 92 km,22.5804993,90.6622778,,R890.lrps.htm
+,LRP019,19.05,Km Post,Lalmohon 32 km,22.5755549,90.6704438,,R890.lrps.htm
+,LRP019a,19.722,Culvert,Box Culvert,22.5705549,90.6739993,,R890.lrps.htm
+,LRP020,20.05,Km Post,Baburhat Launchghat 90 km,22.5679993,90.6758327,,R890.lrps.htm
+,LRP021,21.13,Km Post,Lalmohon 30 km,22.5595278,90.6806104,,R890.lrps.htm
+,LRP021a,21.76,Bridge,Bridge Start,22.5566389,90.6851941,,R890.lrps.htm
+,LRP021b,21.784,Bridge,Bridge end,22.5564167,90.6851941,,R890.lrps.htm
+,LRP022,22.15,Km Post,Monpura 58 km,22.5533611,90.6853886,,R890.lrps.htm
+,LRP023,23.15,Km Post,Km poat broken,22.545333,90.6896663,,R890.lrps.htm
+,LRP024,24.15,Km Post,Char fashion 48 km,22.5371386,90.6936663,,R890.lrps.htm
+,LRP025,25.19,Km Post,Lalmohan 26 km,22.5300549,90.6989441,,R890.lrps.htm
+,LRP026,26.19,Km Post,Char fashion 46 km,22.5223327,90.7029444,,R890.lrps.htm
+,LRP026a,26.384,Culvert,Box Culvert,22.5210271,90.7040833,,R890.lrps.htm
+,LRP026b,26.725,Culvert,Box Culvert,22.5183604,90.7055,,R890.lrps.htm
+,LRP027,27.19,Km Post,Lalmohon 24 km,22.5145833,90.7076389,,R890.lrps.htm
+,LRP028,28.19,Km Post,Baburhat Launchghat 82 km,22.5070278,90.7129444,,R890.lrps.htm
+,LRP028a,28.98,Bridge,Bridge start,22.5026667,90.7179438,,R890.lrps.htm
+,LRP028b,29.009,Bridge,Bridge end,22.5025556,90.7181938,,R890.lrps.htm
+,LRP029,29.21,Km Post,Char fashion 43 km,22.5022222,90.7201382,,R890.lrps.htm
+,LRP029a,30.13,Bridge,Bridge start,22.4961663,90.7244716,,R890.lrps.htm
+,LRP029b,30.148,Bridge,Bridge end,22.4960274,90.7244993,,R890.lrps.htm
+,LRP030,30.26,Km Post,Baburhat Launchghat 80 km,22.4951941,90.7249438,,R890.lrps.htm
+,LRP031,31.27,Km Post,Manpur 60 km,22.4920274,90.7339163,,R890.lrps.htm
+,LRP032,32.26,Km Post,Baburhat Launchghat 78 km,22.4894997,90.7431941,,R890.lrps.htm
+,LRP032a,32.6,Bridge,Bridge start,22.4884163,90.7461108,,R890.lrps.htm
+,LRP032b,32.614,Bridge,Bridge end,22.4883608,90.7461663,,R890.lrps.htm
+,LRP033,33.29,Km Post,Char fashion 39 km,22.4877497,90.7525278,,R890.lrps.htm
+,LRP034,34.29,Km Post,Baburhat Launch ghat 76 km,22.4862497,90.7621111,,R890.lrps.htm
+,LRP034a,35.01,"Side Road, Left",Left Z 8905,22.4862774,90.7690549,,R890.lrps.htm
+,LRP035,35.27,Km Post,Lalmohon 16 km,22.4839719,90.7690549,,R890.lrps.htm
+,LRP036,36.27,Km Post,Boburhat Launch ghat 74 km,22.4755549,90.7679438,,R890.lrps.htm
+,LRP037,37.27,Km Post,Lalmohan 14 km,22.4671104,90.7708049,,R890.lrps.htm
+,LRP037a,38.21,Bridge,Bridge start,22.4594167,90.774666,,R890.lrps.htm
+,LRP037b,38.223,Bridge,Bridge end,22.4593056,90.7746938,,R890.lrps.htm
+,LRP038,38.28,Km Post,Char fashion 34 km,22.459,90.7748049,,R890.lrps.htm
+,LRP039,39.28,Km Post,Baburhat Launch ghat 71 km,22.4619167,90.771916,,R890.lrps.htm
+,LRP039a,40.069,Culvert,Box Culvert,22.4439163,90.7707216,,R890.lrps.htm
+,LRP040,40.29,Km Post,Char Fashion 32 km,22.4419163,90.7703604,,R890.lrps.htm
+,LRP041,41.3,Km Post,Baburhat Launchghat 69 km,22.4329438,90.7688049,,R890.lrps.htm
+,LRP041a,41.62,"Side Road, Left",Left Z 8943,22.4301382,90.7688049,,R890.lrps.htm
+,LRP042,42.32,Km Post,Char Fassion 28 km,22.4240549,90.7689438,,R890.lrps.htm
+,LRP042a,43.25,Culvert,Box Culvert,22.4163056,90.7675827,,R890.lrps.htm
+,LRP043,43.35,Km Post,Info missing,22.4156944,90.7669993,,R890.lrps.htm
+,LRP044,44.36,Km Post,Char fashion 28 km,22.4085833,90.761,,R890.lrps.htm
+,LRP044a,45.245,Culvert,Box Culvert,22.4020278,90.7561667,,R890.lrps.htm
+,LRP045,45.36,Km Post,Char Fashion 27 km,22.4011944,90.7554444,,R890.lrps.htm
+,LRP045a,46.28,Bridge,Bridge start,22.3945552,90.7503333,,R890.lrps.htm
+,LRP045b,46.34,Bridge,Bridge end,22.3940552,90.7503611,,R890.lrps.htm
+,LRP046,46.36,Km Post,Char Fashion 26 km,22.3940552,90.7503889,,R890.lrps.htm
+,LRP047,47.39,Km Post,Char Fashion 25 km,22.3852774,90.7476386,,R890.lrps.htm
+,LRP048,48.4,Km Post,Char Fashion 24 km,22.3763604,90.7467497,,R890.lrps.htm
+,LRP049,49.43,Km Post,Char Fassion 23 km,22.368166,90.7434163,,R890.lrps.htm
+,LRP050,50.43,Km Post,Char Fassion 22 km,22.3601111,90.7391108,,R890.lrps.htm
+,LRP051,51.43,Km Post,Char Fassion 21 km,22.3519722,90.7352774,,R890.lrps.htm
+,LRP051a,51.712,Bridge,Bridge start,22.3493608,90.735583,,R890.lrps.htm
+,LRP051b,51.735,Bridge,Bridge end,22.3491663,90.7356108,,R890.lrps.htm
+,LRP051c,52.082,Culvert,Box Culvert,22.3460552,90.7359719,,R890.lrps.htm
+,LRP052,52.43,Km Post,Char Fassion 19 km,22.3432219,90.7372219,,R890.lrps.htm
+,LRP052a,52.63,Culvert,Box Culvert,22.3414441,90.7378608,,R890.lrps.htm
+,LRP052b,53.04,Cross Road,Z 8913,22.3404163,90.7347497,,R890.lrps.htm
+,LRP053,53.43,Km Post,Char Fassion 18 km,22.3374163,90.733166,,R890.lrps.htm
+,LRP053a,54.018,Culvert,Box Culvert,22.3324716,90.7309438,,R890.lrps.htm
+,LRP053b,54.35,Bridge,Bridge start,22.3298882,90.729666,,R890.lrps.htm
+,LRP053c,54.38,Bridge,Bridge end,22.3296104,90.7295271,,R890.lrps.htm
+,LRP054,54.44,Km Post,Char fashion 17 km,22.329166,90.7294716,,R890.lrps.htm
+,LRP055,55.43,Km Post,Info missing,22.3210549,90.7257493,,R890.lrps.htm
+,LRP056,56.44,Km Post,Char fashion 16 km,22.3127778,90.7220271,,R890.lrps.htm
+,LRP056a,57.157,Culvert,Box Culvert,22.3065278,90.720166,,R890.lrps.htm
+,LRP057,57.44,Km Post,Char fashion 14 km,22.3040833,90.7194993,,R890.lrps.htm
+,LRP058,58.45,Km Post,Char fashion 13 km,22.2954997,90.7170271,,R890.lrps.htm
+,LRP059,59.45,Km Post,Km post broken,22.2867219,90.7146111,,R890.lrps.htm
+,LRP059a,59.6,Culvert,Box Culvert,22.2854719,90.71425,,R890.lrps.htm
+,LRP060,60.45,Km Post,Km post broken,22.2779438,90.7121389,,R890.lrps.htm
+,LRP060a,61.435,Culvert,Box Culvert,22.2692216,90.7098333,,R890.lrps.htm
+,LRP061,61.45,Km Post,Km post missing,22.2689716,90.7098889,,R890.lrps.htm
+,LRP062,62.43,Km Post,Char Fashion 11 km,22.2649167,90.717166,,R890.lrps.htm
+,LRP062a,62.533,Culvert,Box Culvert,22.2645278,90.7181938,,R890.lrps.htm
+,LRP063,63.44,Km Post,Char Fashion 10 km,22.2616111,90.7262493,,R890.lrps.htm
+,LRP064,64.47,Km Post,Char Fassion 09 km,22.2591944,90.7358052,,R890.lrps.htm
+,LRP064a,64.578,Culvert,Box Culvert,22.2590278,90.7367774,,R890.lrps.htm
+,LRP064b,65.287,Culvert,Box Culvert,22.2581111,90.7435552,,R890.lrps.htm
+,LRP065,65.49,Km Post,Char Fassion 8 km,22.2565278,90.7446386,,R890.lrps.htm
+,LRP065a,65.558,Culvert,Box Culvert,22.2560556,90.7448052,,R890.lrps.htm
+,LRP066,66.53,Km Post,Char fashion 07 km,22.2475274,90.7471663,,R890.lrps.htm
+,LRP066a,67.202,Culvert,Box Culvert,22.2419441,90.7488886,,R890.lrps.htm
+,LRP067,67.54,Km Post,Char Fassion 06 km,22.2387219,90.749083,,R890.lrps.htm
+,LRP067a,68.538,Culvert,Box Culvert,22.2303327,90.7503889,,R890.lrps.htm
+,LRP068,68.63,Km Post,Info missing,22.2294438,90.7506389,,R890.lrps.htm
+,LRP069,69.74,Km Post,Info missing,22.219916,90.7526944,,R890.lrps.htm
+,LRP069a,69.786,Culvert,Box Culvert,22.2194993,90.75275,,R890.lrps.htm
+,LRP070,70.73,Km Post,Info missing,22.2110556,90.7542778,,R890.lrps.htm
+,LRP070a,70.976,Culvert,Box Culvert,22.2091111,90.7550556,,R890.lrps.htm
+,LRP071,71.79,Km Post,Char fashion 2 km,22.2023333,90.7566667,,R890.lrps.htm
+,LRP072,72.79,Km Post,Info missing,22.1946386,90.7602222,,R890.lrps.htm
+,LRP072a,73.317,Culvert,Box Culvert,22.1901108,90.7601667,,R890.lrps.htm
+,LRP072b,73.78,"Side Road, Left",Left Z 8909,22.1858052,90.7601667,,R890.lrps.htm
+,LRP073,73.8,Km Post,Km post missing,22.1857497,90.7601667,,R890.lrps.htm
+,LRP073a,73.81,Culvert,Box Culvert,22.1856386,90.7601389,,R890.lrps.htm
+,LRP074,74.86,Km Post,Info missing,22.176166,90.7601111,,R890.lrps.htm
+,LRP074a,75.8,Bridge,Bridge start,22.1675549,90.7599167,,R890.lrps.htm
+,LRP074b,75.814,Bridge,Bridge end,22.1674438,90.7598611,,R890.lrps.htm
+,LRP075,75.86,Km Post,Info missing,22.1668604,90.7596944,,R890.lrps.htm
+,LRP076,76.87,Km Post,Info missing,22.1595556,90.7540556,,R890.lrps.htm
+,LRP077,77.87,Km Post,Km post missing,22.1525833,90.7481108,,R890.lrps.htm
+,LRP078,78.87,Km Post,Km post missing,22.1453608,90.7413608,,R890.lrps.htm
+,LRP079,79.92,Km Post,Info missing,22.1386108,90.7346386,,R890.lrps.htm
+,LRP080,80.92,Km Post,Km post missing,22.1321382,90.7276382,,R890.lrps.htm
+,LRP081,81.92,Km Post,Info missing,22.125666,90.721166,,R890.lrps.htm
+,LRP081a,82.244,Culvert,Box Culvert,22.1228327,90.7211382,,R890.lrps.htm
+,LRP081b,82.83,Culvert,Box Culvert,22.117416,90.7208327,,R890.lrps.htm
+,LRP082,82.94,Km Post,Info missing,22.1168049,90.7203327,,R890.lrps.htm
+,LRP083,83.94,Km Post,Km post missing,22.1098056,90.7136944,,R890.lrps.htm
+,LRP083a,84.432,Bridge,Bridge start,22.1070833,90.711,,R890.lrps.htm
+,LRP083b,84.455,Bridge,Bridge end,22.1066111,90.7105,,R890.lrps.htm
+,LRP084,84.94,Km Post,Km post missing,22.10775,90.7064722,,R890.lrps.htm
+,LRP085,85.94,Km Post,Km post missing,22.1074722,90.696833,,R890.lrps.htm
+,LRP085a,86.613,Culvert,Box Culvert,22.1057222,90.6922497,,R890.lrps.htm
+,LRP086,86.94,Km Post,Km post missing,22.1028056,90.6923608,,R890.lrps.htm
+,LRP086a,87.097,Culvert,Box Culvert,22.1013056,90.6923886,,R890.lrps.htm
+,LRP086b,87.775,Culvert,Box Culvert,22.0951108,90.6924997,,R890.lrps.htm
+,LRP087,87.94,Km Post,Km post missing,22.093583,90.6924997,,R890.lrps.htm
+,LRP087a,88.593,Culvert,Box Culvert,22.087833,90.6926663,,R890.lrps.htm
+,LRP088,88.94,Km Post,Km post missing,22.0846108,90.6927497,,R890.lrps.htm
+,LRP088a,89.46,Culvert,Box Culvert,22.0801104,90.692833,,R890.lrps.htm
+,LRP089,89.94,Km Post,Km post missing,22.0753604,90.6929163,,R890.lrps.htm
+,LRP089a,90.527,Culvert,Box Culvert,22.0705271,90.6929441,,R890.lrps.htm
+,LRP090,90.96,Km Post,Km post missing,22.0699993,90.6891108,,R890.lrps.htm
+,LRP091,91.96,Km Post,Km post missing,22.0658611,90.6823327,,R890.lrps.htm
+,LRP091a,92.13,Culvert,Box Culvert,22.0641389,90.6823327,,R890.lrps.htm
+,LRP091b,92.582,Culvert,Box Culvert,22.0600556,90.682416,,R890.lrps.htm
+,LRP092,92.95,Km Post,Infor.missing,22.0568333,90.682416,,R890.lrps.htm
+,LRP093,93.95,Km Post,Km post missing,22.0476108,90.6825827,,R890.lrps.htm
+,LRP094,94.92,Km Post,Infor.missing,22.0392774,90.682666,,R890.lrps.htm
+,LRP095,95.93,Km Post,Infor.missing,22.0301382,90.6827771,,R890.lrps.htm
+,LRP095a,96.206,"Side Road, Left",Z1018 Link of R890,22.0276938,90.6827771,,R890.lrps.htm
+,LRP095b,96.77,Bridge,Bridge start,22.0272771,90.6773327,,R890.lrps.htm
+,LRP095c,96.795,Bridge,Bridge end,22.0272493,90.6771104,,R890.lrps.htm
+,LRP096,96.895,Km Post,Infor .missing,22.0275827,90.676416,,R890.lrps.htm
+,LRP096a,97.585,"Side Road, Left",905 m Link of R890,22.0274716,90.6696104,,R890.lrps.htm
+,LRP097,97.895,Km Post,Km post missing,22.0274438,90.6665278,,R890.lrps.htm
+,LRP097a,98.595,Culvert,Box culvert start,22.0272216,90.6600833,,R890.lrps.htm
+,LRP097b,98.625,Culvert,Box Culvert end,22.0270549,90.6598611,,R890.lrps.htm
+,LRP098,98.895,Km Post,Km post missing,22.0270549,90.6573056,,R890.lrps.htm
+,LRP098a,98.971,Culvert,Box Culvert start,22.0271938,90.65675,,R890.lrps.htm
+,LRP098b,98.985,Culvert,Box Culvert end,22.0272216,90.6565833,,R890.lrps.htm
+,LRP099,99.895,Km Post,Km post missing,22.0285271,90.6481941,,R890.lrps.htm
+,LRP099a,100.265,Culvert,Box Culvert,22.0300827,90.6449719,,R890.lrps.htm
+,LRP100,100.895,Km Post,Km post missing,22.0336386,90.6427774,,R890.lrps.htm
+,LRP100a,101.13,"Turn off, Right",Turn off Right,22.0356663,90.6433886,,R890.lrps.htm
+,LRP100b,101.335,Culvert,Box Culvert start,22.0363886,90.6414997,,R890.lrps.htm
+,LRP100c,101.355,Culvert,Box Culvert end,22.0364163,90.6413608,,R890.lrps.htm
+,LRP101,101.895,Km Post,Km post missing,22.037833,90.6364163,,R890.lrps.htm
+,LRP102,102.895,Km Post,Km post missing,22.0396386,90.6269716,,R890.lrps.htm
+,LRP102a,103.165,Culvert,Box Culvert start,22.0406386,90.6250271,,R890.lrps.htm
+,LRP102b,103.191,Culvert,Box Culvert end,22.0408608,90.6250549,,R890.lrps.htm
+,LRP102c,103.425,Culvert,Box Culvert,22.0428608,90.6252493,,R890.lrps.htm
+,LRP103,103.895,Km Post,Km post missing,22.0468052,90.6255549,,R890.lrps.htm
+,LRP103a,104.315,Culvert,Box culvert,22.0503611,90.6276104,,R890.lrps.htm
+,LRP104,104.895,Km Post,Km post missing,22.0549167,90.6293327,,R890.lrps.htm
+,LRP105,105.895,Km Post,Km post missing,22.0616944,90.6241382,,R890.lrps.htm
+,LRP105a,106.065,Culvert,Box Culvert,22.0629722,90.6227216,,R890.lrps.htm
+,LRP106,106.895,Km Post,Km post missing,22.0689438,90.6227771,,R890.lrps.htm
+,LRP106a,107.107,Culvert,Box Culvert,22.0699993,90.6173882,,R890.lrps.htm
+,LRP106b,107.665,Culvert,Box Culvert,22.0748882,90.6188604,,R890.lrps.htm
+,LRP107,107.895,Km Post,Km post missing,22.076666,90.6194438,,R890.lrps.htm
+,LRP107a,108.105,Culvert,Box Culvert,22.0784438,90.620166,,R890.lrps.htm
+,LRP107b,108.455,Culvert,Box Culvert,22.0796938,90.6173882,,R890.lrps.htm
+,LRPE,108.785,Others,"End of road at Baburhat, Launch Ghate,Bhola.",22.0808882,90.6143889,,R890.lrps.htm
+,,,,,,,,R890.lrps.htm
+,,,,,,,,R890.lrps.htm

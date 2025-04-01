@@ -1,0 +1,156 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,Road start with N 5.,23.8517222,89.8720271,,R506.lrps.htm
+,LRPSa,0.018,Bridge,Bridge start,23.8518056,89.8720271,,R506.lrps.htm
+,LRPSb,0.054,Bridge,Bridge end,23.8521111,89.9220827,,R506.lrps.htm
+,LRP001,1,Km Post,Ghira,23.8595556,89.8727216,,R506.lrps.htm
+,LRP001a,1.218,Bridge,Bridge start,23.8611111,89.8739438,,R506.lrps.htm
+,LRP001b,1.254,Bridge,Bridge end,23.8613889,89.8741382,,R506.lrps.htm
+,LRP002,2,Km Post,Km post missing,23.8669716,89.8780549,,R506.lrps.htm
+,LRP002a,2.716,Bridge,Bridge start,23.8732493,89.8788049,,R506.lrps.htm
+,LRP002b,2.794,Bridge,Bridge end,23.873916,89.8785827,,R506.lrps.htm
+,LRP003,2.925,Km Post,Ghior,23.8750271,89.8781938,,R506.lrps.htm
+,LRP003a,3.663,Bridge,Bridge start,23.8813604,89.8774716,,R506.lrps.htm
+,LRP003b,3.674,Bridge,Bridge end,23.8814716,89.8774438,,R506.lrps.htm
+,LRP004,3.925,Km Post,Ghior,23.8833608,89.8766104,,R506.lrps.htm
+,LRP005,4.925,Km Post,Km post missing,23.892333,89.8775271,,R506.lrps.htm
+,LRP005a,5.432,Bridge,Baily Bridge start,23.8972497,89.8773327,,R506.lrps.htm
+,LRP005b,5.604,Bridge,Baily Bridge end,23.8939997,89.8782771,,R506.lrps.htm
+,LRP006,5.917,Km Post,Infor.missing,23.898083,89.873166,,R506.lrps.htm
+,LRP007,6.917,Km Post,Km post missing,23.90575,89.8772216,,R506.lrps.htm
+,LRP007a,7.272,Culvert,Box Culvert,23.9105833,89.8757216,,R506.lrps.htm
+,LRP008,7.71,Km Post,Km post missing,23.9143611,89.8747493,,R506.lrps.htm
+,LRP008a,8.651,Bridge,Bridge start,23.9222493,89.8776104,,R506.lrps.htm
+,LRP008b,8.683,Bridge,Bridge end,23.9223327,89.8773327,,R506.lrps.htm
+,LRP009,8.71,Km Post,Km post missing,23.9224438,89.8770827,,R506.lrps.htm
+,LRP009a,9.229,Culvert,Box Culvert,23.924416,89.8724993,,R506.lrps.htm
+,LRP010,9.71,Km Post,Km post missing,23.9268049,89.8687771,,R506.lrps.htm
+,LRP010a,10.41,Bridge,Bridge start,23.9318882,89.8656389,,R506.lrps.htm
+,LRP010b,10.426,Bridge,Bridge end,23.931916,89.8655278,,R506.lrps.htm
+,LRP010c,10.664,Culvert,Box Culvert,23.9332493,89.8638333,,R506.lrps.htm
+,LRP011,10.71,Km Post,Km post missing,23.9336663,89.8635833,,R506.lrps.htm
+,LRP011a,10.91,Bridge,Bridge start,23.9351941,89.8626389,,R506.lrps.htm
+,LRP011b,10.944,Bridge,Bridge end,23.9354719,89.8624722,,R506.lrps.htm
+,LRP011c,11.547,Culvert,Box Culvert,23.938333,89.8587222,,R506.lrps.htm
+,LRP012,11.71,Km Post,Km post missing,23.9381941,89.8570556,,R506.lrps.htm
+,LRP013,12.71,Km Post,Km post missing,23.9408886,89.8488608,,R506.lrps.htm
+,LRP013a,13.005,Bridge,Bridge start,23.9435274,89.8481663,,R506.lrps.htm
+,LRP013b,13.037,Bridge,Bridge end,23.9438052,89.848083,,R506.lrps.htm
+,LRP014,13.655,Km Post,Daulatpur 5 km,23.9489997,89.8457497,,R506.lrps.htm
+,LRP014a,14.282,Bridge,Bridge start,23.9538611,89.8429441,,R506.lrps.htm
+,LRP014b,14.353,Bridge,Bridge end,23.9543889,89.8426386,,R506.lrps.htm
+,LRP015,14.665,Km Post,Km post missing,23.9570278,89.8416386,,R506.lrps.htm
+,LRP015a,15.322,Bridge,Bridge start,23.9626667,89.8399997,,R506.lrps.htm
+,LRP015b,15.353,Bridge,Bridge end,23.9629444,89.8399441,,R506.lrps.htm
+,LRP016,15.665,Km Post,Km post missing,23.9654722,89.8386108,,R506.lrps.htm
+,LRP017,16.619,Km Post,Infor.missing,23.9666938,89.8299993,,R506.lrps.htm
+,LRP018,17.619,Km Post,Km post missing,23.9719993,89.8330827,,R506.lrps.htm
+,LRP018a,18.372,Others,RHD Tangail Start,0,0,,R506.lrps.htm
+,LRP018a,18.372,Others,RHD Tangail Start,0,0,,R506.lrps.htm
+,LRP018b,18.492,Culvert,Box Culvert,23.9740549,89.8408052,,R506.lrps.htm
+,LRP019,18.619,Km Post,Km post missing,23.9743604,89.8421108,,R506.lrps.htm
+,LRP019a,18.921,Culvert,Box Culvert,23.9763327,89.8432497,,R506.lrps.htm
+,LRP019b,18.947,Culvert,Box Culvert,23.9766104,89.8433052,,R506.lrps.htm
+,LRP019c,19.268,Culvert,Box Culvert,23.9794438,89.8434163,,R506.lrps.htm
+,LRP020,19.619,Km Post,Km post missing,23.9824993,89.8438608,,R506.lrps.htm
+,LRP020a,19.715,Bridge,Bridge start,23.983333,89.8439997,,R506.lrps.htm
+,LRP020b,19.731,Bridge,Bridge end,23.9834719,89.8439719,,R506.lrps.htm
+,LRP020c,20.046,Bridge,Baily Bridge start,23.9861108,89.8442497,,R506.lrps.htm
+,LRP020d,20.053,Bridge,Baily Bridge end,23.9863052,89.8442774,,R506.lrps.htm
+,LRP020e,20.415,Bridge,Baily Bridge start,23.9891386,89.8456941,,R506.lrps.htm
+,LRP020f,20.447,Bridge,Baily Bridge end,23.9893052,89.8459441,,R506.lrps.htm
+,LRP020g,20.587,Culvert,Box Culvert,23.9905274,89.8467774,,R506.lrps.htm
+,LRP021,20.619,Km Post,Km post missing,23.9904997,89.8469163,,R506.lrps.htm
+,LRP022,21.619,Km Post,Km post missing,23.9991386,89.8467497,,R506.lrps.htm
+,LRP022a,21.812,Bridge,Bridge start,24.0004722,89.8470274,,R506.lrps.htm
+,LRP022b,21.826,Bridge,Bridge end,24.0008333,89.8471941,,R506.lrps.htm
+,LRP022c,22.106,Culvert,Box Culvert,24.0031944,89.8479441,,R506.lrps.htm
+,LRP022d,22.174,Bridge,Bridge start,24.00375,89.8481386,,R506.lrps.htm
+,LRP022e,22.188,Bridge,Bridge end,24.0038333,89.8481386,,R506.lrps.htm
+,LRP023,22.605,Km Post,Km post missing,24.0076667,89.8491108,,R506.lrps.htm
+,LRP023a,22.619,"Side Road, Left","Z 4009, Selimabad- Chowhali road",24.0077222,89.8492219,,R506.lrps.htm
+,LRP023b,22.64,Bridge,Bridge start,24.0077778,89.8488886,,R506.lrps.htm
+,LRP023c,22.653,Bridge,Bridge end,24.0078889,89.8491386,,R506.lrps.htm
+,LRP023d,23.07,Culvert,Box Culvert,24.0115,89.8491386,,R506.lrps.htm
+,LRP023e,23.457,Bridge,Bridge start,24.015,89.8502778,,R506.lrps.htm
+,LRP023f,23.478,Bridge,Bridge end,24.0151667,89.8503056,,R506.lrps.htm
+,LRP024,23.619,Km Post,Km post missing,24.0164167,89.8505278,,R506.lrps.htm
+,LRP024a,24.064,Bridge,Baily Bridge start,24.0202771,89.8514722,,R506.lrps.htm
+,LRP024b,24.095,Bridge,Baily Bridge end,24.0204993,89.8515278,,R506.lrps.htm
+,LRP025,24.619,Km Post,Km post missing,24.0247493,89.8519444,,R506.lrps.htm
+,LRP025a,24.692,Bridge,Baily Bridge start,24.0250549,89.8525556,,R506.lrps.htm
+,LRP025b,24.728,Bridge,Baily Bridge end,24.0252493,89.8528611,,R506.lrps.htm
+,LRP026,25.618,Km Post,Km post missing,24.0291382,89.8605,,R506.lrps.htm
+,LRP026a,25.775,Bridge,Baily Bridge start,24.0301938,89.8614444,,R506.lrps.htm
+,LRP026b,25.787,Bridge,Baily Bridge end,24.0303049,89.8615,,R506.lrps.htm
+,LRP026c,26.508,Bridge,Baily Bridge start,24.0362219,89.8639722,,R506.lrps.htm
+,LRP026d,26.558,Bridge,Baily Bridge end,24.0366386,89.8641111,,R506.lrps.htm
+,LRP027,26.619,Km Post,Km post missing,24.0371663,89.8642778,,R506.lrps.htm
+,LRP027a,27.085,Culvert,Box Culvert,24.0412497,89.8649444,,R506.lrps.htm
+,LRP027b,27.308,Culvert,Box Culvert,24.0431941,89.8654167,,R506.lrps.htm
+,LRP028,27.619,Km Post,Km post missing,24.0458608,89.8663611,,R506.lrps.htm
+,LRP028a,27.772,Culvert,Box Culvert,24.0469441,89.8671382,,R506.lrps.htm
+,LRP029,28.619,Km Post,Km post missing,24.0534444,89.8709716,,R506.lrps.htm
+,LRP030,29.619,Km Post,Km post missing,24.0598333,89.8775827,,R506.lrps.htm
+,LRP031,30.059,Km Post,Km post broken,24.0629444,89.8795271,,R506.lrps.htm
+,LRP031a,30.068,Bridge,Baily Bridge start,24.0629722,89.8794993,,R506.lrps.htm
+,LRP031b,30.1,Bridge,Baily Bridge end,24.5688049,89.8794438,,R506.lrps.htm
+,LRP031c,31.021,Bridge,Baily Bridge start,24.0706938,89.8829438,,R506.lrps.htm
+,LRP031d,31.044,Bridge,Baily Bridge end,24.0708604,89.8829993,,R506.lrps.htm
+,LRP032,31.059,Km Post,Km post missing,24.0710271,89.8830271,,R506.lrps.htm
+,LRP032a,31.725,Culvert,Box Culvert,24.0766938,89.8850274,,R506.lrps.htm
+,LRP032b,32.028,Culvert,Box Culvert,24.0793327,89.8852497,,R506.lrps.htm
+,LRP033,32.059,Km Post,Km post missing,24.079666,89.8852497,,R506.lrps.htm
+,LRP033a,32.322,Culvert,Box Culvert,24.0819993,89.8851663,,R506.lrps.htm
+,LRP033b,32.541,Bridge,Bridge end,24.0821938,89.8851663,,R506.lrps.htm
+,LRP034,33.059,Km Post,Km post missing,24.088583,89.8849997,,R506.lrps.htm
+,LRP034a,33.084,Culvert,Box Culvert,24.0888052,89.8849441,,R506.lrps.htm
+,LRP034b,33.349,Culvert,Box Culvert,24.0911663,89.8848886,,R506.lrps.htm
+,LRP035,34.059,Km Post,Km post missing,24.0972497,89.8864719,,R506.lrps.htm
+,LRP035a,34.516,Culvert,Box Culvert,24.1011944,89.885833,,R506.lrps.htm
+,LRP036,35.059,Km Post,Km post missing,24.1059722,89.8853052,,R506.lrps.htm
+,LRP036a,35.598,Bridge,Bridge start,24.1104722,89.8857774,,R506.lrps.htm
+,LRP036b,35.661,Bridge,Bridge end,24.111,89.8860274,,R506.lrps.htm
+,LRP037,36.059,Km Post,Km post missing,24.1146389,89.886083,,R506.lrps.htm
+,LRP037a,36.333,Bridge,Elasin Bridge start,24.1206938,89.8889163,,R506.lrps.htm
+,LRP037b,36.853,Bridge,Elasin Bridge end,24.1206938,89.8889163,,R506.lrps.htm
+,LRP038,37.059,Km Post,Km post missing,24.1220549,89.8901386,,R506.lrps.htm
+,LRP038a,37.232,Bridge,Bridge start,24.1225271,89.8917774,,R506.lrps.htm
+,LRP038b,37.257,Bridge,Bridge end,24.1225827,89.8919719,,R506.lrps.htm
+,LRP039,38.059,Km Post,Km post missing,24.1285549,89.8945552,,R506.lrps.htm
+,LRP039a,38.651,Bridge,Bridge start,24.1335274,89.896333,,R506.lrps.htm
+,LRP039b,38.688,Bridge,Bridge end,24.133833,89.8964163,,R506.lrps.htm
+,LRP040,39.059,Km Post,Km post missing,24.1368886,89.8978052,,R506.lrps.htm
+,LRP040a,39.881,"Side Road, Right","Z 4007, Pakulla -Elasin road",24.1432219,89.9036389,,R506.lrps.htm
+,LRP041,40.059,Km Post,Km post missing,24.1437774,89.9038889,,R506.lrps.htm
+,LRP042,41.059,Km Post,Km post missing,24.1523889,89.9064167,,R506.lrps.htm
+,LRP042a,41.923,Bridge,Bridge start,24.1594167,89.90425,,R506.lrps.htm
+,LRP042b,41.989,Bridge,Bridge end,24.1600278,89.9043611,,R506.lrps.htm
+,LRP043,42.059,Km Post,Km post missing,24.1606111,89.90425,,R506.lrps.htm
+,LRP044,43.059,Km Post,Km post missing,24.1687771,89.9005,,R506.lrps.htm
+,LRP044a,43.494,Bridge,Bridge start,24.1769993,89.9006944,,R506.lrps.htm
+,LRP044b,43.525,Bridge,Bridge end,24.1773327,89.9006944,,R506.lrps.htm
+,LRP045,44.059,Km Post,Km post missing,0,0,,R506.lrps.htm
+,LRP045a,44.593,Culvert,Box Culvert,24.1824716,89.9004722,,R506.lrps.htm
+,LRP046,45.059,Km Post,Km post missing,24.1866663,89.90025,,R506.lrps.htm
+,LRP047,46.059,Km Post,Km post missing,24.1956941,89.8997497,,R506.lrps.htm
+,LRP047a,46.291,Culvert,Box Culvert,24.1977497,89.8996386,,R506.lrps.htm
+,LRP048,46.58,Km Post,Tangail,24.2003056,89.8995552,,R506.lrps.htm
+,LRP049,47.58,Km Post,Km post missing,24.2091111,89.8987497,,R506.lrps.htm
+,LRP049a,47.647,Bridge,Bridge start,24.2096944,89.8988052,,R506.lrps.htm
+,LRP049b,47.666,Bridge,Bridge end,24.2098611,89.8988608,,R506.lrps.htm
+,LRP050,48.58,Km Post,Km post missing,24.2178327,89.8998886,,R506.lrps.htm
+,LRP050a,48.617,Bridge,Bridge start,24.2181382,89.8999719,,R506.lrps.htm
+,LRP050b,48.634,Bridge,Bridge end,24.2182771,89.8999719,,R506.lrps.htm
+,LRP051,49.644,Km Post,Tangail 4 km,24.2272216,89.9006667,,R506.lrps.htm
+,LRP052,50.694,Km Post,Tangail 3 km,24.2356663,89.9015,,R506.lrps.htm
+,LRP052a,50.812,Culvert,Box Culvert,24.2393608,89.9029444,,R506.lrps.htm
+,LRP052b,51.444,Bridge,Bridge start,24.241333,89.90475,,R506.lrps.htm
+,LRP052c,51.505,Bridge,Bridge end,24.241333,89.9052778,,R506.lrps.htm
+,LRP053,51.694,Km Post,Km post missing,24.2417497,89.9070278,,R506.lrps.htm
+,LRP053a,52.51,"Side Road, Right","Z 4015, Tangail -Delduar Road",24.2437497,89.9131944,,R506.lrps.htm
+,LRP054,52.694,Km Post,Km post missing,24.2467774,89.9132222,,R506.lrps.htm
+,LRP054a,52.695,Culvert,Box Culvert,24.2500556,89.9140556,,R506.lrps.htm
+,LRP055,53.694,Km Post,Km post missing,24.2516944,89.919416,,R506.lrps.htm
+,LRPE,53.733,Others,Road end Intersecting N404 at Old Bus Stand More,24.2516389,89.9197216,,R506.lrps.htm
+,,,,,,,,R506.lrps.htm
+,,,,,,,,R506.lrps.htm

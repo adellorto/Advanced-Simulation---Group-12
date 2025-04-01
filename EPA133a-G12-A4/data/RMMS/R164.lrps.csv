@@ -1,0 +1,39 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,Start of Road from R161 at Baraichhari,22.5027222,92.1391663,,R164.lrps.htm
+,LRPSa,0.139,Culvert,Box culvert,22.5030556,92.1401941,,R164.lrps.htm
+,LRPSb,0.537,Bridge,Bridge start,22.5056667,92.1409719,,R164.lrps.htm
+,LRPSc,0.567,Bridge,Bridge end,22.5057778,92.1411941,,R164.lrps.htm
+,LRP001,1,Km Post,Km post missing,22.5089444,92.1435552,,R164.lrps.htm
+,LRP001a,1.058,Culvert,Box culvert,22.5088056,92.1439997,,R164.lrps.htm
+,LRP001b,1.781,Culvert,Box culvert,22.5096111,92.1493052,,R164.lrps.htm
+,LRP002,1.838,Km Post,"Kaptai 7.5 km,Nilchori 1 km",22.5094444,92.1497774,,R164.lrps.htm
+,LRP002a,1.93,Culvert,Box culvert,22.509,92.1505278,,R164.lrps.htm
+,LRP002b,2.077,Culvert,Box culvert,22.5087778,92.1518889,,R164.lrps.htm
+,LRP002c,2.325,Culvert,Box culvert,22.5084444,92.1541944,,R164.lrps.htm
+,LRP002d,2.625,Culvert,Box culvert,22.5066389,92.1566944,,R164.lrps.htm
+,LRP002e,2.824,Culvert,Box culvert,22.5059167,92.1581389,,R164.lrps.htm
+,LRP003,2.838,Km Post,Km post missing,22.5058889,92.1582222,,R164.lrps.htm
+,LRP003a,3.8,Culvert,Box culvert,22.5021389,92.1664167,,R164.lrps.htm
+,LRP004,3.844,Km Post,Kaptai 5.5 km,22.5020278,92.1668049,,R164.lrps.htm
+,LRP004a,4.072,Culvert,Box culvert,22.5013333,92.168916,,R164.lrps.htm
+,LRP004b,4.344,Culvert,Box culvert,22.5006944,92.1713327,,R164.lrps.htm
+,LRP004c,4.436,Culvert,Box culvert,22.5005556,92.1722216,,R164.lrps.htm
+,LRP004d,4.829,Culvert,Box culvert,22.4984441,92.1751104,,R164.lrps.htm
+,LRP005,4.844,Km Post,Km post missing,22.4983608,92.1752216,,R164.lrps.htm
+,LRP005a,4.956,Culvert,Box culvert,22.4979719,92.176166,,R164.lrps.htm
+,LRP005b,5.156,Culvert,Box culvert,22.4971663,92.177916,,R164.lrps.htm
+,LRP005c,5.644,Bridge,Bridge start,22.4956386,92.1821382,,R164.lrps.htm
+,LRP005d,5.679,Bridge,Bridge end,22.4956941,92.182416,,R164.lrps.htm
+,LRP006,5.903,Km Post,Chistmananam 1 km,22.4951663,92.1844997,,R164.lrps.htm
+,LRP006a,6.111,Bridge,Bridge start,22.4953052,92.1864719,,R164.lrps.htm
+,LRP006b,6.155,Bridge,Bridge end,22.4953052,92.1868886,,R164.lrps.htm
+,LRP007,6.903,Km Post,Km post missing,22.4976663,92.1924997,,R164.lrps.htm
+,LRP007a,7.579,Culvert,Box culvert,22.5014444,92.1962774,,R164.lrps.htm
+,LRP008,7.879,Km Post,Kaptai 1.5 km,22.50075,92.1985274,,R164.lrps.htm
+,LRP008a,7.977,Bridge,Bridge start,22.5011944,92.1992774,,R164.lrps.htm
+,LRP008b,8.021,Bridge,Bridge end,22.5013333,92.199583,,R164.lrps.htm
+,LRP009,8.879,Km Post,Km post missing,22.5021111,92.2075833,,R164.lrps.htm
+,LRP010,9.298,Km Post,Kaptai 0 km,22.5031667,92.2111111,,R164.lrps.htm
+,LRPE,10.178,Others,End of Road at Kaptai,22.4976663,92.2170271,,R164.lrps.htm
+,,,,,,,,R164.lrps.htm
+,,,,,,,,R164.lrps.htm

@@ -1,0 +1,79 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,"Start of road from Intersection of N604 &R601 infront of Ananta Cinema hall Traffic island,Pabna.",23.9991663,89.2452774,,R601.lrps.htm
+,LRP001,0.01,Km Post,Sujanagar 19 km,23.999083,89.2454441,,R601.lrps.htm
+,LRP001a,0.584,Culvert,Box Culvert,24.0007222,89.2504722,,R601.lrps.htm
+,LRP002,1.035,Km Post,Najirgonj 36 km,24.0009167,89.2548611,,R601.lrps.htm
+,LRP002a,1.438,Culvert,2 Vent Box Culvert,24.0000278,89.2585556,,R601.lrps.htm
+,LRP003,2.065,Km Post,Baderhat 51 km,23.9999163,89.2645833,,R601.lrps.htm
+,LRP004,3.07,Km Post,Kashinathpur 58 km,23.9962774,89.2731104,,R601.lrps.htm
+,LRP004a,3.472,Culvert,1 Vent Box Culvert,23.9953608,89.2766104,,R601.lrps.htm
+,LRP004b,3.89,Culvert,2 Vent Box Culvert,23.9954441,89.2805549,,R601.lrps.htm
+,LRP005,4.065,Km Post,Infor.missing,23.9954441,89.2823882,,R601.lrps.htm
+,LRP006,4.997,Km Post,Suzanagar 14 km,23.9929441,89.3074722,,R601.lrps.htm
+,LRP006a,5.38,Culvert,Box. Culvert,23.9916941,89.294583,,R601.lrps.htm
+,LRP007,5.982,Km Post,Najirgonj 31 km,23.989833,89.3,,R601.lrps.htm
+,LRP007a,6.158,Culvert,Box Culvert,23.9893052,89.30175,,R601.lrps.htm
+,LRP007b,6.734,Culvert,Box Culvert,23.9876386,89.3070278,,R601.lrps.htm
+,LRP008,7.007,Km Post,Bader hat 46 km,23.9868608,89.3096111,,R601.lrps.htm
+,LRP008a,7.373,Culvert,Box culvert,23.985833,89.329666,,R601.lrps.htm
+,LRP009,7.967,Km Post,Kshinathpur 53 km,23.9841941,89.3185271,,R601.lrps.htm
+,LRP009a,8.029,Culvert,Slab Culvert,23.9839997,89.3191104,,R601.lrps.htm
+,LRP009b,8.934,Culvert,3 Vent Box Culvert,23.9799993,89.326666,,R601.lrps.htm
+,LRP010,8.973,Km Post,Kazirhat 47 km,23.9797493,89.3270271,,R601.lrps.htm
+,LRP010a,9.164,Culvert,Slab Culvert,23.976666,89.3305549,,R601.lrps.htm
+,LRP010b,9.485,Culvert,Slab Culvert,23.9766104,89.330666,,R601.lrps.htm
+,LRP010c,9.946,Culvert,Box Culvert,23.9744716,89.3343886,,R601.lrps.htm
+,LRP011,10.043,Km Post,Sujanagar 9 km,23.9742493,89.335333,,R601.lrps.htm
+,LRP011a,11.032,Culvert,2 vent Box Culvert,23.9733604,89.3449719,,R601.lrps.htm
+,LRP012,11.068,Km Post,Nazirgonj 26 km,23.9733049,89.345333,,R601.lrps.htm
+,LRP012a,11.727,Culvert,Box Culvert,23.9727771,89.3516667,,R601.lrps.htm
+,LRP013,12.073,Km Post,Baderhat 41 km,23.9724993,89.3551667,,R601.lrps.htm
+,LRP014,13.079,Km Post,Kashinathpur 48 km,23.9711104,89.3649722,,R601.lrps.htm
+,LRP015,14.105,Km Post,Kazirhat 42 km,23.9688882,89.3730827,,R601.lrps.htm
+,LRP016,15.105,Km Post,Sujanagar 4 km,23.96425,89.3831104,,R601.lrps.htm
+,LRP017,16.205,Km Post,Sujanagar 3 km,23.9561944,89.3892219,,R601.lrps.htm
+,LRP018,17.2,Km Post,Km post broken,23.9502222,89.3964441,,R601.lrps.htm
+,LRP019,18.225,Km Post,Baderhat 35 km,23.9437774,89.4036667,,R601.lrps.htm
+,LRP019a,18.384,"Side Road, Left",Z6030 (Ataikola to Sujanagar road),23.9427774,89.405,,R601.lrps.htm
+,LRP020,19.275,Km Post,Kashinathpur 43 km,23.9368052,89.4098056,,R601.lrps.htm
+,LRP020a,19.357,Culvert,Box Culvert,23.9361941,89.4101667,,R601.lrps.htm
+,LRP021,20.275,Km Post,Km post missing,0,0,,R601.lrps.htm
+,LRP022,21.325,Km Post,Badherhat 32 km,23.9240271,89.4226104,,R601.lrps.htm
+,LRP023,22.343,Km Post,Kashinathpur 39 km,23.9179438,89.4293604,,R601.lrps.htm
+,LRP024,23.358,Km Post,Kazirhat 33 km,23.9104167,89.4349997,,R601.lrps.htm
+,LRP025,24.408,Km Post,Infor.missing,23.9017222,89.4363886,,R601.lrps.htm
+,LRP026,25.488,Km Post,Baderhat 28 km,23.8966941,89.4446941,,R601.lrps.htm
+,LRP027,26.488,Km Post,Kashinathpur 35 km,23.8896941,89.4491663,,R601.lrps.htm
+,LRP028,27.488,Km Post,Kazirhat 29 km,23.8843886,89.4571111,,R601.lrps.htm
+,LRP029,28.563,Km Post,Nazirgonj 28 km,23.8764993,89.4629722,,R601.lrps.htm
+,LRP030,29.598,Km Post,Baderhat 24 km,23.8695271,89.4697216,,R601.lrps.htm
+,LRP031,30.594,Km Post,Kashinathpur 31 km,23.8650278,89.4776382,,R601.lrps.htm
+,LRP032,31.621,Km Post,Kazirhat 25 km,23.8601667,89.4859719,,R601.lrps.htm
+,LRP033,32.644,Km Post,Nazirgonj 5 km,23.8561389,89.494583,,R601.lrps.htm
+,LRP034,33.651,Km Post,Baderhat 20 km,23.8556389,89.5043889,,R601.lrps.htm
+,LRP035,34.667,Km Post,Kashinathpur 27 km,23.8535,89.5140278,,R601.lrps.htm
+,LRP036,35.715,Km Post,Kazirhat 21 km,23.8489719,89.522916,,R601.lrps.htm
+,LRP037,36.723,Km Post,Nazirgonj 1 km,23.8416108,89.5279716,,R601.lrps.htm
+,LRP037a,36.928,"Side Road, Right","R602,to Nazirganj Ferryghat road",23.8402774,89.5302771,,R601.lrps.htm
+,LRP038,37.748,Km Post,Badherhat 16 km,23.8369997,89.5366941,,R601.lrps.htm
+,LRP039,38.764,Km Post,Kashinathpur 23 km,23.8339997,89.5459163,,R601.lrps.htm
+,LRP040,39.782,Km Post,Kazirhat 17 km,23.8472219,89.5558611,,R601.lrps.htm
+,LRP041,40.84,Km Post,Baderhat 13 km,23.8350552,89.5658056,,R601.lrps.htm
+,LRP041a,40.992,Others,Sluice gate,23.8357497,89.5671104,,R601.lrps.htm
+,LRP042,41.845,Km Post,Kashinathpur 20 km,23.8398608,89.5740827,,R601.lrps.htm
+,LRP043,42.803,Km Post,Kazirhat 14 km,23.8438886,89.5824993,,R601.lrps.htm
+,LRP044,43.821,Km Post,Baderhat 10 km,23.8460552,89.5916108,,R601.lrps.htm
+,LRP045,44.839,Km Post,Kashinathpur 17 km,23.85225,89.5988052,,R601.lrps.htm
+,LRP046,45.865,Km Post,Kazirhat 11 km,23.8589444,89.6056944,,R601.lrps.htm
+,LRP047,46.933,Km Post,Baderhat 7 km,23.8656944,89.6131111,,R601.lrps.htm
+,LRP047a,47.437,Bridge,Bridge/Sluice ghate,23.869166,89.6141667,,R601.lrps.htm
+,LRP047b,47.483,Bridge,Bridge/Sluice ghat,23.8694438,89.6313882,,R601.lrps.htm
+,LRP048,47.933,Km Post,Kashinathpur 1 km,23.8694716,89.6199716,,R601.lrps.htm
+,LRP049,48.971,Km Post,Kazirhat 8 km,23.871666,89.6297493,,R601.lrps.htm
+,LRP050,49.971,Km Post,Km post missing,0,0,,R601.lrps.htm
+,LRP051,50.987,Km Post,Kazirhat 6 km,23.8839719,89.6412774,,R601.lrps.htm
+,LRP052,51.972,Km Post,Kashinsthpur 9 km,23.8927497,89.6417497,,R601.lrps.htm
+,LRP053,52.424,Km Post,Baderhat 0 km,23.8966663,89.6419163,,R601.lrps.htm
+,LRPE,52.435,Others,"End of road at Chowrasta,Baderhat &Intersection at N5 &R601.",23.8799993,89.6419441,,R601.lrps.htm
+,,,,,,,,R601.lrps.htm
+,,,,,,,,R601.lrps.htm

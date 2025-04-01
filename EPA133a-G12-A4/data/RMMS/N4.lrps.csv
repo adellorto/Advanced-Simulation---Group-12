@@ -1,0 +1,357 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,Road Start from N3,23.9893886,90.3818327,,N4.lrps.htm
+,LRP001,1,Km Post,Km post missing,23.9894997,90.3719993,,N4.lrps.htm
+,LRP002,2,Km Post,Km post missing,23.9890274,90.3622222,,N4.lrps.htm
+,LRP003,2.406,Km Post,Tangail 60 km Intersection with N105,23.9895274,90.3581944,,N4.lrps.htm
+,LRP003a,3.155,Bridge,Bridge start,23.9926108,90.3519444,,N4.lrps.htm
+,LRP003b,3.227,Bridge,Bridge end,23.993083,90.3514444,,N4.lrps.htm
+,LRP004,3.406,Km Post,Km post missing,23.9916663,90.3501667,,N4.lrps.htm
+,LRP004a,3.712,Bridge,Bridge Start,23.9959997,90.3479441,,N4.lrps.htm
+,LRP004b,3.836,Bridge,Bridge End,23.996833,90.3471386,,N4.lrps.htm
+,LRP005,4.406,Km Post,Km post missing,24.0005278,90.343333,,N4.lrps.htm
+,LRP005a,4.827,Bridge,Bridge Start,24.0032222,90.340583,,N4.lrps.htm
+,LRP005b,4.944,Bridge,Bridge End,24.0040556,90.3397497,,N4.lrps.htm
+,LRP006,5.406,Km Post,Km post missing,24.0068889,90.3364441,,N4.lrps.htm
+,LRP007,6.11,Km Post,Tangail 56 km,24.0092778,90.3301382,,N4.lrps.htm
+,LRP008,7.11,Km Post,Km post missing,24.0108889,90.321166,,N4.lrps.htm
+,LRP009,8.11,Km Post,Km post missing,24.0123889,90.3115833,,N4.lrps.htm
+,LRP009a,8.56,Culvert,Box Culvert,24.0144722,90.3078889,,N4.lrps.htm
+,LRP010,9.191,Km Post,Kaliakoir 12 km,24.0175549,90.3026389,,N4.lrps.htm
+,LRP011,10.091,Km Post,Km post missing,24.0226938,90.2946663,,N4.lrps.htm
+,LRP012,11.191,Km Post,Kaliakoir 10 km,24.0230549,90.2849997,,N4.lrps.htm
+,LRP012a,11.591,Culvert,Box Culvert,24.0240549,90.281166,,N4.lrps.htm
+,LRP013,12.191,Km Post,Km post missing,24.0259993,90.2759438,,N4.lrps.htm
+,LRP013a,12.941,Culvert,Box Culvert,24.028666,90.2691104,,N4.lrps.htm
+,LRP014,13.211,Km Post,Bongobondhu Bridge 72 km,24.0296104,90.2667493,,N4.lrps.htm
+,LRP014a,14.111,Culvert,Box Culvert,24.045333,90.2597778,,N4.lrps.htm
+,LRP015,14.211,Km Post,Km post missing,24.0352497,90.2590833,,N4.lrps.htm
+,LRP016,15.166,Km Post,Info missing,24.0406941,90.2518611,,N4.lrps.htm
+,LRP016a,15.224,Culvert,Box Culvert,24.041083,90.2512222,,N4.lrps.htm
+,LRP017,16.166,Km Post,Bongobondhu Bridge 69 km,24.0452219,90.2430552,,N4.lrps.htm
+,LRP017a,16.34,Culvert,Box Culvert,24.0461108,90.2416386,,N4.lrps.htm
+,LRP017b,16.665,"Side Road, Left",R 505,24.0476386,90.2390552,,N4.lrps.htm
+,LRP017c,16.955,Culvert,Box Culvert,24.0491663,90.2367219,,N4.lrps.htm
+,LRP018,17.176,Km Post,Bongobondhu Bridge 68 km,24.0505833,90.2350274,,N4.lrps.htm
+,LRP019,18.176,Km Post,Bongobondhu Bridge 67 km,24.0564444,90.2277493,,N4.lrps.htm
+,LRP019a,18.723,"Side Road, Right",Side road right,24.0601667,90.2244438,,N4.lrps.htm
+,LRP019b,19.125,Bridge,Bridge start,24.0618611,90.2209716,,N4.lrps.htm
+,LRP020,19.176,Km Post,Km post missing,24.0629444,90.2185549,,N4.lrps.htm
+,LRP020a,19.889,Bridge,Bridge End,24.0657778,90.2141389,,N4.lrps.htm
+,LRP021,20.042,Km Post,Bogra 142 km,24.0662222,90.2133611,,N4.lrps.htm
+,LRP022,21.032,Km Post,Km post broken,24.0743327,90.2094722,,N4.lrps.htm
+,LRP022a,21.18,Cross Road,Intersection with R 315,24.0921941,90.209,,N4.lrps.htm
+,LRP022b,21.746,Bridge,Bridge Start,24.0796938,90.2058611,,N4.lrps.htm
+,LRP022c,21.799,Bridge,Bridge End,24.0800271,90.2055278,,N4.lrps.htm
+,LRP023,22.032,Km Post,Km post missing,24.0815549,90.2039444,,N4.lrps.htm
+,LRP023a,22.343,Culvert,Box Culvert,24.0834441,90.20175,,N4.lrps.htm
+,LRP023b,23.004,Bridge,Bridge Start,24.0874719,90.1970552,,N4.lrps.htm
+,LRP023c,23.016,Bridge,Bridge End,24.0875274,90.1969719,,N4.lrps.htm
+,LRP024,23.023,Km Post,Bonghobondhu Bridge 62 km,24.0876108,90.196833,,N4.lrps.htm
+,LRP024a,23.551,Bridge,Bridge start,24.089583,90.1924997,,N4.lrps.htm
+,LRP024b,23.592,Bridge,Bridge end,24.0894997,90.192083,,N4.lrps.htm
+,LRP025,24.032,Km Post,Tangail 38 Km,24.0892219,90.1879719,,N4.lrps.htm
+,LRP025a,24.582,Others,Start of Tangail road Division,24.0897497,90.1802216,,N4.lrps.htm
+,LRP025a,24.582,Others,Start of Tangail road Division,24.0897497,90.1802216,,N4.lrps.htm
+,LRP026,25.032,Km Post,Km post broken,24.089833,90.1782493,,N4.lrps.htm
+,LRP026a,25.305,Culvert,Box Culvert,24.0901941,90.1756382,,N4.lrps.htm
+,LRP026b,25.682,Culvert,Box Culvert,24.0928608,90.1727771,,N4.lrps.htm
+,LRP027,26.042,Km Post,Tangail 36 km,24.0946941,90.1705549,,N4.lrps.htm
+,LRP027a,26.534,"Side Road, Right",Road to Shakhipur (Z4011),24.0968886,90.1664722,,N4.lrps.htm
+,LRP028,26.968,Km Post,Tangail 35 km,24.0979163,90.1623889,,N4.lrps.htm
+,LRP028a,27.391,Culvert,Box Culvert,24.0973608,90.1583056,,N4.lrps.htm
+,LRP029,27.968,Km Post,Km post missing,24.0961386,90.1528611,,N4.lrps.htm
+,LRP029a,28.23,Bridge,Bridge start,24.0959441,90.1503056,,N4.lrps.htm
+,LRP029b,28.308,Bridge,Bridge end,24.0959163,90.1494441,,N4.lrps.htm
+,LRP029c,28.615,Bridge,Bridge start,24.0961941,90.146583,,N4.lrps.htm
+,LRP029d,28.634,Bridge,Bridge end,24.0962497,90.1464163,,N4.lrps.htm
+,LRP030,28.968,Km Post,Km post missing,24.0965552,90.1431386,,N4.lrps.htm
+,LRP030a,29.008,Culvert,Box Culvert,24.0964997,90.142833,,N4.lrps.htm
+,LRP030b,29.585,Culvert,Box Culvert,24.0959441,90.1371941,,N4.lrps.htm
+,LRP030c,29.818,Rail Road Crossing,Rail road crossing,24.0957497,90.1349719,,N4.lrps.htm
+,LRP030d,30.042,Culvert,Box Culvert,24.0958052,90.1328327,,N4.lrps.htm
+,LRP031,30.079,Km Post,Bangobondhu 55 km,24.095833,90.1324993,,N4.lrps.htm
+,LRP031a,30.412,Culvert,Box Culvert,24.0961108,90.1293604,,N4.lrps.htm
+,LRP032,31.079,Km Post,Km post missing,24.0965552,90.1228882,,N4.lrps.htm
+,LRP033,32.099,Km Post,Rajshahi 288 km,24.0983886,90.1136944,,N4.lrps.htm
+,LRP034,33.119,Km Post,Tangail 27 km,24.1028056,90.1050556,,N4.lrps.htm
+,LRP035,34.112,Km Post,Tangail 27 km,24.1028056,90.095833,,N4.lrps.htm
+,LRP035a,34.71,Bridge,Bridge start,24.1063611,90.090083,,N4.lrps.htm
+,LRP035b,34.743,Bridge,Bridge end,24.1063889,90.089833,,N4.lrps.htm
+,LRP036,35.098,Km Post,Bogra 127 km,24.1069167,90.0863886,,N4.lrps.htm
+,LRP037,35.758,Km Post,Tangail 24 km,24.1101389,90.0809993,,N4.lrps.htm
+,LRP038,36.768,Km Post,Jamalpur 118 km,24.1132222,90.0718049,,N4.lrps.htm
+,LRP038a,37.252,Bridge,Bridge start,24.1158889,90.068166,,N4.lrps.htm
+,LRP038b,37.273,Bridge,Bridge end,24.1160278,90.0679993,,N4.lrps.htm
+,LRP039,37.768,Km Post,Km post missing,24.1188882,90.0643333,,N4.lrps.htm
+,LRP040,38.148,Km Post,Rajshahi 282 km,24.1207771,90.0612222,,N4.lrps.htm
+,LRP040a,38.183,Bridge,Bridge start,24.1209438,90.0609167,,N4.lrps.htm
+,LRP040b,38.216,Bridge,Bridge end,24.1242493,90.0571944,,N4.lrps.htm
+,LRP041,39.158,Km Post,Tangail 23 km,24.1263327,90.0536389,,N4.lrps.htm
+,LRP041a,39.403,Culvert,Box Culvert,24.1267493,90.0513611,,N4.lrps.htm
+,LRP042,40.158,Km Post,Km post missing,24.1293049,90.0445552,,N4.lrps.htm
+,LRP042a,40.216,Culvert,Box culvert,24.1295827,90.0441941,,N4.lrps.htm
+,LRP043,41.178,Km Post,Pabna 170 km,24.1295827,90.0344997,,N4.lrps.htm
+,LRP043a,41.689,Bridge,Bridge start,24.1346386,90.0309993,,N4.lrps.htm
+,LRP043b,41.735,Bridge,Bridge end,24.1347774,90.0306104,,N4.lrps.htm
+,LRP044,42.188,Km Post,Jamalpur 113 km,24.1364441,90.0263882,,N4.lrps.htm
+,LRP044a,42.784,Bridge,Bridge start,24.1386663,90.0213604,,N4.lrps.htm
+,LRP044b,42.81,Bridge,Bridge end,24.1387497,90.0213327,,N4.lrps.htm
+,LRP044c,43.18,"Side Road, Left",Road to Delduar (Z4007),24.1388886,90.0202771,,N4.lrps.htm
+,LRP045,43.188,Km Post,Km post missing,24.1417774,90.0202771,,N4.lrps.htm
+,LRP045a,43.431,Culvert,Box Culvert,24.144083,90.020416,,N4.lrps.htm
+,LRP046,44.144,Km Post,Tangail 18 km,24.1500556,90.0186104,,N4.lrps.htm
+,LRP046a,44.275,Bridge,Bridge start,24.1511667,90.0187493,,N4.lrps.htm
+,LRP046b,44.324,Bridge,Bridge end,24.1515833,90.0187216,,N4.lrps.htm
+,LRP046c,44.694,Culvert,Box Culvert,24.1546944,90.0185827,,N4.lrps.htm
+,LRP047,45.224,Km Post,Modhupur 62 km,24.1596389,90.0181382,,N4.lrps.htm
+,LRP047a,45.453,Culvert,Box Culvert,24.1616667,90.0179438,,N4.lrps.htm
+,LRP047b,46.019,Bridge,Bridge start,24.1666938,90.0173882,,N4.lrps.htm
+,LRP047c,46.029,Bridge,Bridge end,24.166666,90.0173882,,N4.lrps.htm
+,LRP048,46.224,Km Post,Km post missing,24.1685549,90.0173049,,N4.lrps.htm
+,LRP048a,47.222,Bridge,Bridge start,24.1763604,90.1143333,,N4.lrps.htm
+,LRP048b,47.239,Bridge,Bridge end,24.176416,90.0141111,,N4.lrps.htm
+,LRP049,47.279,Km Post,Jamalpur 138 km,24.1766382,90.0138056,,N4.lrps.htm
+,LRP049a,47.807,Culvert,Box Culvert,24.1792216,90.0094444,,N4.lrps.htm
+,LRP050,48.279,Km Post,Tangail 14 km,24.1833049,90.0058333,,N4.lrps.htm
+,LRP050a,48.727,Bridge,Bridge start,24.183583,90.0022222,,N4.lrps.htm
+,LRP050b,48.737,Bridge,Bridge end,24.1836386,90.0021667,,N4.lrps.htm
+,LRP051,49.279,Km Post,Tangail 13 km,24.1861108,89.9976941,,N4.lrps.htm
+,LRP051a,50.232,Bridge,Bridge start,24.1924997,89.9915552,,N4.lrps.htm
+,LRP051b,50.242,Bridge,Bridge end,24.1922219,89.9915274,,N4.lrps.htm
+,LRP052,50.289,Km Post,Tangail 12 km,24.1928608,89.9884163,,N4.lrps.htm
+,LRP053,51.283,Km Post,Km post broken,24.2006389,89.9884441,,N4.lrps.htm
+,LRP053a,51.329,Bridge,Bridge start,24.2009722,89.9860274,,N4.lrps.htm
+,LRP053b,51.341,Bridge,Bridge end,24.2010278,89.9859441,,N4.lrps.htm
+,LRP054,52.299,Km Post,Jamalpur 113 km,24.2083056,89.9810271,,N4.lrps.htm
+,LRP054a,52.751,Bridge,Bridge start,24.2111111,89.9779993,,N4.lrps.htm
+,LRP054b,52.773,Bridge,Bridge end,24.2111944,89.9778604,,N4.lrps.htm
+,LRP055,53.309,Km Post,Jamalpur 102 km,24.2145278,89.9741104,,N4.lrps.htm
+,LRP055a,53.701,Bridge,Bridge start,24.2169716,89.9713604,,N4.lrps.htm
+,LRP055b,53.746,Bridge,Bridge end,24.2172493,89.9710549,,N4.lrps.htm
+,LRP056,54.309,Km Post,Km post missing,24.2210549,89.9674993,,N4.lrps.htm
+,LRP056a,54.717,Bridge,Bridge start,24.2239993,89.965,,N4.lrps.htm
+,LRP056b,54.78,Bridge,Bridge end,24.2244438,89.9590833,,N4.lrps.htm
+,LRP056c,55.259,Culvert,Box culvert,24.2278049,89.96175,,N4.lrps.htm
+,LRP057,55.309,Km Post,Km post missing,24.2283882,89.9611944,,N4.lrps.htm
+,LRP057a,56.124,"Side Road, Right",Road to Basail (Z4012),24.2338052,89.9564167,,N4.lrps.htm
+,LRP058,56.309,Km Post,Km post missing,24.2352774,89.95425,,N4.lrps.htm
+,LRP058a,56.519,Bridge,Bridge start,24.236833,89.9541111,,N4.lrps.htm
+,LRP058b,56.541,Bridge,Bridge end,24.2369441,89.9541111,,N4.lrps.htm
+,LRP059,57.309,Km Post,Km post missing,24.2401386,89.9474997,,N4.lrps.htm
+,LRP059a,57.959,Culvert,Box Culvert,24.2449441,89.9397219,,N4.lrps.htm
+,LRP059b,58.097,"Side Road, Left",Tangail old section road (N404),24.2427497,89.9403886,,N4.lrps.htm
+,LRP060,58.309,Km Post,Ghataik 31 km,24.2446108,89.9398052,,N4.lrps.htm
+,LRP060a,58.384,Culvert,Box Culvert,24.2449441,89.9398052,,N4.lrps.htm
+,LRP061,59.349,Km Post,Ghatail 30 km,24.2538889,89.9383052,,N4.lrps.htm
+,LRP061a,59.499,Bridge,Bridge start,24.2552222,89.9382219,,N4.lrps.htm
+,LRP061b,59.509,Bridge,Bridge end,24.2597222,89.9378608,,N4.lrps.htm
+,LRP061c,60.033,Bridge,Bridge start,24.2599722,89.9378608,,N4.lrps.htm
+,LRP061d,60.042,Bridge,Bridge end,24.2600278,89.937833,,N4.lrps.htm
+,LRP062,60.354,Km Post,Modhupur 48 km,24.2628611,89.9376386,,N4.lrps.htm
+,LRP062a,60.409,Culvert,Box Culvert,24.2633333,89.9376108,,N4.lrps.htm
+,LRP062b,61.266,Culvert,Box Culvert,24.2709716,89.9368608,,N4.lrps.htm
+,LRP063,61.354,Km Post,Modhupur 47 km,24.2716104,89.9365552,,N4.lrps.htm
+,LRP063a,61.993,Bridge,Bridge start,24.2755827,89.9319716,,N4.lrps.htm
+,LRP063b,62.017,Bridge,Bridge end,24.2757216,89.9318049,,N4.lrps.htm
+,LRP064,62.345,Km Post,Km post missing,24.2778327,89.9290827,,N4.lrps.htm
+,LRP064a,62.695,Culvert,Box Culvert,24.2799716,89.9258604,,N4.lrps.htm
+,LRP064b,63.09,Bridge,Bridge start,24.2808327,89.9231382,,N4.lrps.htm
+,LRP064c,63.112,Bridge,Bridge end,24.2808604,89.9229438,,N4.lrps.htm
+,LRP065,63.375,Km Post,Jamalpur 92 km,24.2814993,89.9203882,,N4.lrps.htm
+,LRP065a,63.75,"Side Road, Left",Tangail old section road (N404),24.2834719,89.9176938,,N4.lrps.htm
+,LRP066,64.375,Km Post,Km post missing,24.2891386,89.9180271,,N4.lrps.htm
+,LRP066a,64.628,Bridge,Bridge start,24.2913052,89.9182216,,N4.lrps.htm
+,LRP066b,64.732,Bridge,Bridge end,24.2924441,89.9183049,,N4.lrps.htm
+,LRP067,64.817,Km Post,Info missing,24.2929997,89.9183327,,N4.lrps.htm
+,LRP067a,65.309,Bridge,Bridge start,24.2973886,89.9187771,,N4.lrps.htm
+,LRP067b,65.362,Bridge,Bridge end,24.2978608,89.9188604,,N4.lrps.htm
+,LRP068,65.817,Km Post,Km post missing,23.3018611,89.9194438,,N4.lrps.htm
+,LRP068a,66.149,Bridge,Bridge start,24.3047778,89.9198604,,N4.lrps.htm
+,LRP068b,66.189,Bridge,Bridge end,24.305,89.919916,,N4.lrps.htm
+,LRP069,66.847,Km Post,Info missing,24.3107222,89.9218327,,N4.lrps.htm
+,LRP069a,67.349,Bridge,Bridge start,24.3150833,89.9235271,,N4.lrps.htm
+,LRP069b,67.495,Bridge,Bridge end,24.3160833,89.9240827,,N4.lrps.htm
+,LRP070,67.847,Km Post,Km post missing,24.3191382,89.5913052,,N4.lrps.htm
+,LRP071,68.834,Km Post,Mymensingh 87 km,24.3279438,89.924916,,N4.lrps.htm
+,LRP071a,68.845,Bridge,Bridge start,24.3280271,89.9249438,,N4.lrps.htm
+,LRP071b,68.9,Bridge,Bridge end,24.3284993,89.9249438,,N4.lrps.htm
+,LRP071c,69.334,Culvert,Box Culvert,24.3323604,89.924916,,N4.lrps.htm
+,LRP071d,69.589,"Side Road, Left",Road to Bhuapur (R 480),24.3179993,89.9247216,,N4.lrps.htm
+,LRP072,69.844,Km Post,Mymensingh 86 Km,24.3369719,89.9248604,,N4.lrps.htm
+,LRP072a,70.128,"Side Road, Left",Road to Jamuna Bridge (N405),24.3392497,89.924416,,N4.lrps.htm
+,LRP072b,70.514,Bridge,Bridge start,24.3423052,89.9259993,,N4.lrps.htm
+,LRP072c,70.534,Bridge,Bridge end,24.3424719,89.9260549,,N4.lrps.htm
+,LRP073,70.844,Km Post,Km post missing,24.3451663,89.9268882,,N4.lrps.htm
+,LRP073a,70.949,Rail Road Crossing,Rail road crossing,24.3459441,89.927416,,N4.lrps.htm
+,LRP073b,71.206,Bridge,Bridge start,24.3475274,89.9292493,,N4.lrps.htm
+,LRP073c,71.237,Bridge,Bridge end,24.3477219,89.9294716,,N4.lrps.htm
+,LRP073d,71.75,Culvert,Box Culvert,24.3509444,89.933333,,N4.lrps.htm
+,LRP074,71.894,Km Post,Mymensingh 84 km,24.3516667,89.9342219,,N4.lrps.htm
+,LRP074a,72.037,Culvert,Box Culvert,24.3525278,89.9352497,,N4.lrps.htm
+,LRP074b,72.725,Bridge,Bridge start,24.3561944,89.9406663,,N4.lrps.htm
+,LRP074c,72.753,Bridge,Bridge end,24.3563333,89.940833,,N4.lrps.htm
+,LRP075,72.904,Km Post,Modhupur 35 km,24.3572222,89.9419163,,N4.lrps.htm
+,LRP075a,73.507,Bridge,Bridge start,24.3605278,89.9468886,,N4.lrps.htm
+,LRP075b,73.602,Bridge,Bridge end,24.3605278,89.9476941,,N4.lrps.htm
+,LRP076,73.904,Km Post,Km post missing,24.36225,89.9499719,,N4.lrps.htm
+,LRP077,74.924,Km Post,Modhupur 33 km,24.368416,89.9573056,,N4.lrps.htm
+,LRP077a,75.062,Bridge,Bridge start,24.3691104,89.9584167,,N4.lrps.htm
+,LRP077b,75.153,Bridge,Bridge end,24.3694993,89.9591667,,N4.lrps.htm
+,LRP077c,75.677,Bridge,Bridge start,24.3727493,89.9628611,,N4.lrps.htm
+,LRP077d,75.727,Bridge,Bridge end,24.3735549,89.9649722,,N4.lrps.htm
+,LRP078,75.924,Km Post,Km post missing,24.3735549,89.9649722,,N4.lrps.htm
+,LRP078a,76.536,Bridge,Bridge start,24.375166,89.9707216,,N4.lrps.htm
+,LRP078b,76.625,Bridge,Bridge end,24.3751104,89.9714993,,N4.lrps.htm
+,LRP079,76.904,Km Post,Maymensing 76 km,24.3756938,89.9740549,,N4.lrps.htm
+,LRP079a,77.695,Bridge,Bridge start,24.379666,89.9802493,,N4.lrps.htm
+,LRP079b,77.733,Bridge,Bridge end,24.379916,89.9802493,,N4.lrps.htm
+,LRP080,77.914,Km Post,Km post missing,24.3811938,89.9815827,,N4.lrps.htm
+,LRP081,78.914,Km Post,Mymensing 74 km,24.3853608,89.9899997,,N4.lrps.htm
+,LRP081a,79.334,Bridge,Bridge start,24.3861108,89.9939441,,N4.lrps.htm
+,LRP081b,79.369,Bridge,Bridge end,24.3863886,89.9941108,,N4.lrps.htm
+,LRP081c,79.704,"Side Road, Right",Road to Ratangonj (Z4016),24.3873886,89.9946941,,N4.lrps.htm
+,LRP082,79.909,Km Post,Mymensing 73 km,24.3910552,89.9962774,,N4.lrps.htm
+,LRP082a,80.106,Bridge,Bridge start,24.392583,89.9954441,,N4.lrps.htm
+,LRP082b,80.183,Bridge,Bridge end,24.3932219,89.9951663,,N4.lrps.htm
+,LRP083,80.99,Km Post,Km post missing,24.3989719,89.9920552,,N4.lrps.htm
+,LRP084,81.919,Km Post,Mumensing 71km,24.4081389,89.9912497,,N4.lrps.htm
+,LRP084a,82.513,Culvert,Box Culvert,24.4134167,89.9916663,,N4.lrps.htm
+,LRP084b,82.743,Culvert,Box Culvert,24.4154722,89.9917774,,N4.lrps.htm
+,LRP085,82.919,Km Post,Km post missing,24.4169993,89.9914441,,N4.lrps.htm
+,LRP085a,83.769,Bridge,Bridge start,24.424666,89.9897774,,N4.lrps.htm
+,LRP085b,83.804,Bridge,Bridge end,24.424666,89.9896663,,N4.lrps.htm
+,LRP086,83.919,Km Post,Km post missing,24.4256104,89.9725271,,N4.lrps.htm
+,LRP086a,84.802,Bridge,Bridge start,24.4332771,89.9878608,,N4.lrps.htm
+,LRP086b,84.852,Bridge,Bridge end,24.4332771,89.9878608,,N4.lrps.htm
+,LRP087,84.949,Km Post,Mohupur 22 km,24.4351663,89.9874719,,N4.lrps.htm
+,LRP088,85.954,Km Post,Mymensing 67km,24.4430274,89.9829438,,N4.lrps.htm
+,LRP088a,86.236,Culvert,Box Culvert,24.445333,89.9819438,,N4.lrps.htm
+,LRP088b,86.848,Bridge,Bridge start,24.4503611,89.9796938,,N4.lrps.htm
+,LRP088c,86.874,Bridge,Bridge end,24.4505556,89.9796104,,N4.lrps.htm
+,LRP089,86.954,Km Post,Modhupur 20 km,24.4513333,89.9792771,,N4.lrps.htm
+,LRP089a,87.577,Culvert,Box culvert,24.4571944,89.978416,,N4.lrps.htm
+,LRP090,87.954,Km Post,Mymensing 65 km,24.4601667,89.9774438,,N4.lrps.htm
+,LRP090a,88.722,Bridge,Bridge start,24.4667216,89.975166,,N4.lrps.htm
+,LRP090b,88.742,Bridge,Bridge end,24.4668604,89.9751104,,N4.lrps.htm
+,LRP091,88.954,Km Post,Modhupur 17 km,24.4687493,89.9745827,,N4.lrps.htm
+,LRP091a,89.305,Bridge,Bridge start,24.4717771,89.9738604,,N4.lrps.htm
+,LRP091b,89.315,Bridge,Bridge end,24.4718882,89.9738049,,N4.lrps.htm
+,LRP092,89.954,Km Post,Km post missing,24.4776382,89.973416,,N4.lrps.htm
+,LRP092a,90.014,Cross Road,Intersection with Z3037,24.472666,89.9734993,,N4.lrps.htm
+,LRP093,90.964,Km Post,Modhupur 15 km,24.4868886,89.9738049,,N4.lrps.htm
+,LRP094,91.964,Km Post,Modhupur 14 km,24.495833,89.9743604,,N4.lrps.htm
+,LRP094a,92.431,Bridge,Bridge start,24.4999441,89.974416,,N4.lrps.htm
+,LRP094b,92.476,Bridge,Bridge end,24.5003333,89.9745271,,N4.lrps.htm
+,LRP095,92.924,Km Post,Km post broken,24.5041667,89.9759438,,N4.lrps.htm
+,LRP096,93.924,Km Post,Km post missing,24.5129167,89.9780827,,N4.lrps.htm
+,LRP096a,94.043,"Side Road, Left",Road to Jagannathgonj (Z4017),24.514,89.9782493,,N4.lrps.htm
+,LRP096b,94.642,Culvert,Box Culvert,24.5193049,89.9799716,,N4.lrps.htm
+,LRP097,94.934,Km Post,Modhupur 11km,24.521666,89.9799716,,N4.lrps.htm
+,LRP098,95.934,Km Post,Modhupur 10 km,24.5309438,89.9816938,,N4.lrps.htm
+,LRP099,96.934,Km Post,Modhupur 9 km,24.5394997,89.9901386,,N4.lrps.htm
+,LRP100,97.934,Km Post,Modhupur 8 km,24.547833,89.988083,,N4.lrps.htm
+,LRP100a,97.964,Bridge,Bridge start,24.5479719,89.9882219,,N4.lrps.htm
+,LRP100b,97.977,Bridge,Bridge end,24.5481108,89.9883608,,N4.lrps.htm
+,LRP101,98.944,Km Post,Info missing,24.5546389,89.9950552,,N4.lrps.htm
+,LRP101a,99.744,Culvert,Pipe Culvert,24.5595278,90.0007222,,N4.lrps.htm
+,LRP102,99.945,Km Post,Modhupur 6 km,24.56075,90.0022222,,N4.lrps.htm
+,LRP103,100.944,Km Post,Modhupur 5 km,24.5605556,90.0022222,,N4.lrps.htm
+,LRP103a,100.995,Culvert,Box Culvert,24.568416,90.0079722,,N4.lrps.htm
+,LRP104,101.939,Km Post,Modhupur 4 km,24.574916,90.0130556,,N4.lrps.htm
+,LRP104a,102.889,Culvert,Box Culvert,24.581416,90.0183882,,N4.lrps.htm
+,LRP105,102.939,Km Post,Km post missnig,24.5818882,90.0188049,,N4.lrps.htm
+,LRP106,103.939,Km Post,Modhupur 2 km,24.590083,90.0208604,,N4.lrps.htm
+,LRP107,104.919,Km Post,Info missing,24.5974441,90.0258049,,N4.lrps.htm
+,LRP107a,105.897,Bridge,Bridge start,24.6059167,90.0280549,,N4.lrps.htm
+,LRP108,105.947,Km Post,Km post missing,24.6063333,90.0283049,,N4.lrps.htm
+,LRP108a,106.052,"Side Road, Right",Road to Muktagacha (N401),24.6071111,90.028666,,N4.lrps.htm
+,LRP108b,106.561,Culvert,Box Culvert,24.6091389,90.0204438,,N4.lrps.htm
+,LRP109,106.967,Km Post,Jamalpur 41 km,24.6096111,90.0193049,,N4.lrps.htm
+,LRP110,107.967,Km Post,Jamalpur 40 km,24.6143333,90.0111111,,N4.lrps.htm
+,LRP110a,108.351,Bridge,Bridge start,24.6160833,90.0079444,,N4.lrps.htm
+,LRP110b,108.392,Bridge,Bridge end,24.6161389,90.0076111,,N4.lrps.htm
+,LRP111,108.393,Km Post,Jamalpur 39 km,24.6148333,90.0021944,,N4.lrps.htm
+,LRP112,109.393,Km Post,Jamalpur 38 km,24.617416,89.9936941,,N4.lrps.htm
+,LRP112a,109.655,Culvert,Box Culvert,24.620416,89.9915274,,N4.lrps.htm
+,LRP113,110.392,Km Post,Jamalpur 37 km,24.624166,89.985583,,N4.lrps.htm
+,LRP114,111.392,Km Post,Km post missing,24.6296382,89.9779438,,N4.lrps.htm
+,LRP114a,111.541,Culvert,Box Culvert,24.6305827,89.9767771,,N4.lrps.htm
+,LRP115,112.392,Km Post,Jamalpur 35 km,24.6372774,89.9727493,,N4.lrps.htm
+,LRP116,113.392,Km Post,Jamalpur 34 km,24.6449441,89.9676382,,N4.lrps.htm
+,LRP116a,113.988,Bridge,Bridge start,24.6500278,89.9660278,,N4.lrps.htm
+,LRP116b,114.018,Bridge,Bridge end,24.6503056,89.9660278,,N4.lrps.htm
+,LRP117,114.392,Km Post,Jamalpur 33 km,24.6533889,89.9645833,,N4.lrps.htm
+,LRP118,115.392,Km Post,Jamalpur 32 km,24.6619722,89.9617222,,N4.lrps.htm
+,LRP118a,115.53,Culvert,Box Culvert,24.6631389,89.9614167,,N4.lrps.htm
+,LRP119,116.387,Km Post,Jamalpur 31 km,24.6692493,89.9565556,,N4.lrps.htm
+,LRP119a,116.687,Culvert,Box Culvert,24.6713882,89.9548333,,N4.lrps.htm
+,LRP120,117.387,Km Post,Km post missing,24.677166,89.9521111,,N4.lrps.htm
+,LRP120a,117.627,Culvert,Box Culvert,24.6791382,89.9523333,,N4.lrps.htm
+,LRP120b,118.087,Culvert,Box Culvert,24.6832771,89.9527778,,N4.lrps.htm
+,LRP121,118.387,Km Post,Jamalpur 29 km,24.6861108,89.9532778,,N4.lrps.htm
+,LRP121a,118.732,Culvert,Box Culvert,24.6892219,89.9536111,,N4.lrps.htm
+,LRP122,119.382,Km Post,Jamalpur 28 km,24.695083,89.9538889,,N4.lrps.htm
+,LRP122a,119.647,Bridge,Bridge start,24.6975274,89.9532778,,N4.lrps.htm
+,LRP122b,119.688,Bridge,Bridge end,24.6977774,89.9531944,,N4.lrps.htm
+,LRP123,120.382,Km Post,Jamalpur 27 km,24.7028889,89.9496386,,N4.lrps.htm
+,LRP123a,120.59,Culvert,Box Culvert,24.7047778,89.9491663,,N4.lrps.htm
+,LRP123b,121.073,Culvert,Box Culvert,24.7086111,89.9472497,,N4.lrps.htm
+,LRP124,121.382,Km Post,Jamalpur 26 km,24.7111944,89.9459719,,N4.lrps.htm
+,LRP124a,121.411,Culvert,Box Culvert,24.7114167,89.9459719,,N4.lrps.htm
+,LRP125,122.382,Km Post,Jamalpur 25 km,24.7199716,89.9451386,,N4.lrps.htm
+,LRP125a,123.333,Culvert,Box Culvert,24.726666,89.9411108,,N4.lrps.htm
+,LRP126,123.382,Km Post,Km post broken,24.7278604,89.9404163,,N4.lrps.htm
+,LRP126a,123.383,Culvert,Box Culvert,24.7317493,89.9381386,,N4.lrps.htm
+,LRP127,124.382,Km Post,Km post missing,24.7359163,89.9359997,,N4.lrps.htm
+,LRP127a,124.626,Culvert,Box Culvert,24.7379441,89.9352219,,N4.lrps.htm
+,LRP128,125.377,Km Post,Jamalpur 22 km,24.7444997,89.9366108,,N4.lrps.htm
+,LRP128a,126.063,Culvert,Box Culvert,24.75025,89.936333,,N4.lrps.htm
+,LRP129,126.377,Km Post,Jamalpur 21 km,24.7528333,89.9348608,,N4.lrps.htm
+,LRP129a,126.528,Bridge,Bridge start,24.7570278,89.9325549,,N4.lrps.htm
+,LRP129b,126.572,Bridge,Bridge end/ Start of Jamalpur road Division,24.7573333,89.932416,,N4.lrps.htm
+,LRP129b,126.572,Bridge,Bridge end/ Start of Jamalpur road Division,24.7573333,89.932416,,N4.lrps.htm
+,LRP130,127.377,Km Post,Km post missing,24.7604167,89.9297493,,N4.lrps.htm
+,LRP130a,128.085,"Side Road, Left",Road to Baushi (Z4023),24.7647222,89.9251938,,N4.lrps.htm
+,LRP131,128.387,Km Post,Jamalpur 19 km,24.7679993,89.9263882,,N4.lrps.htm
+,LRP132,129.387,Km Post,Jamalpur 18 km,24.7763049,89.9291938,,N4.lrps.htm
+,LRP133,130.387,Km Post,Km post missing,24.7838608,89.9331938,,N4.lrps.htm
+,LRP133a,130.987,Culvert,Box Culvert,24.7890274,89.9346663,,N4.lrps.htm
+,LRP133b,131.392,Culvert,Box Culvert,24.7927497,89.9356941,,N4.lrps.htm
+,LRP134,131.427,Km Post,Jamalpur 16 km,24.7932774,89.9358608,,N4.lrps.htm
+,LRP134a,131.952,Bridge,Bridge start,24.7978886,89.9368608,,N4.lrps.htm
+,LRP134b,131.986,Bridge,Bridge end,24.7981663,89.9369441,,N4.lrps.htm
+,LRP135,132.427,Km Post,Jamalpur 15 km,24.8019444,89.9384719,,N4.lrps.htm
+,LRP135a,133.181,Culvert,Box Culvert,24.8084722,89.9399997,,N4.lrps.htm
+,LRP136,133.427,Km Post,Jamalpur 14 km,24.8108889,89.9395552,,N4.lrps.htm
+,LRP136a,133.839,Culvert,Box Culvert,24.8143333,89.9384997,,N4.lrps.htm
+,LRP136b,134.264,Culvert,Box Culvert,24.8010556,89.9374441,,N4.lrps.htm
+,LRP137,134.427,Km Post,Km post missing,24.8025556,89.9359719,,N4.lrps.htm
+,LRP137a,135.175,Bridge,Bridge start,24.8255271,89.9378608,,N4.lrps.htm
+,LRP137b,135.213,Bridge,Bridge end,24.8258604,89.9378052,,N4.lrps.htm
+,LRP138,135.432,Km Post,Jamalpur 12 km,24.8280549,89.9385274,,N4.lrps.htm
+,LRP139,136.432,Km Post,Jamalpur 11km,24.8370274,89.9396386,,N4.lrps.htm
+,LRP139a,136.516,Culvert,Box Culvert,24.8377219,89.9397774,,N4.lrps.htm
+,LRP139b,137.303,Culvert,Box Culvert,24.8446663,89.940833,,N4.lrps.htm
+,LRP140,137.432,Km Post,Km post missing,24.8457774,89.9411663,,N4.lrps.htm
+,LRP141,138.442,Km Post,Jamalpur 9 km,24.8549167,89.9434719,,N4.lrps.htm
+,LRP142,139.592,Km Post,Jamalpur 8 km,24.8654722,89.9450274,,N4.lrps.htm
+,LRP142a,140.592,Culvert,Pipe culvert,24.8747493,89.9459163,,N4.lrps.htm
+,LRP143,140.612,Km Post,Jamalpur 7 km,24.874416,89.9457497,,N4.lrps.htm
+,LRP144,141.622,Km Post,Jamalpur 6 km,24.8837774,89.9443052,,N4.lrps.htm
+,LRP144a,142.072,"Side Road, Left",Road to Tarakandi (Z4025),24.8876108,89.9444441,,N4.lrps.htm
+,LRP144b,142.472,Culvert,Pipe Culvert,24.890583,89.9470274,,N4.lrps.htm
+,LRP145,142.632,Km Post,Jamalpur 5 km,24.8914997,89.9478886,,N4.lrps.htm
+,LRP145a,142.824,Culvert,Box Culvert,24.8929997,89.9485552,,N4.lrps.htm
+,LRP145b,143.543,Culvert,Box Culvert,24.8991386,89.9500833,,N4.lrps.htm
+,LRP146,143.632,Km Post,Km post missing,24.8999163,89.9501389,,N4.lrps.htm
+,LRP146a,144.122,Culvert,Box Culvert,24.9041944,89.9500833,,N4.lrps.htm
+,LRP147,144.632,Km Post,Km post missing,24.9088056,89.95,,N4.lrps.htm
+,LRP147a,145.464,Rail Road Crossing,Rail road crossing,24.9159722,89.9509167,,N4.lrps.htm
+,LRP147b,145.482,Culvert,Drain Culvert,24.9162778,89.9509167,,N4.lrps.htm
+,LRP147c,145.597,"Side Road, Left",Road to Madangonj (Z4022),24.9169993,89.9509722,,N4.lrps.htm
+,LRP148,145.632,Km Post,Km post missing,24.9173327,89.9509444,,N4.lrps.htm
+,LRP148a,145.792,Culvert,Drain Culvert,24.9187493,89.9510556,,N4.lrps.htm
+,LRP148b,146.232,Culvert,Drain Culvert,24.9227216,89.9505,,N4.lrps.htm
+,LRPE,146.305,Others,End of road Jamalpur Muktagacha round Intersection with Z4021,24.9230549,89.9501667,,N4.lrps.htm
+,,,,,,,,N4.lrps.htm
+,,,,,,,,N4.lrps.htm

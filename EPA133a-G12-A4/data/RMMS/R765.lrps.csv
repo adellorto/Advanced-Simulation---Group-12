@@ -1,0 +1,100 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,"Start of road at Bus stand ,Infront of Jama Mosque and Intersection of N706 & R765 Navaran,Jessore.",23.0581389,88.9994441,,R765.lrps.htm
+,LRP001,0.01,Km Post,"Satkhira 43 km, Kolarowa 25 km",23.0580833,88.9994441,,R765.lrps.htm
+,LRP001a,0.015,Culvert,Box culvert,23.0580278,88.9994441,,R765.lrps.htm
+,LRP001b,0.27,Rail Road Crossing,Benapole Rail,23.0558889,88.9994441,,R765.lrps.htm
+,LRP001c,0.89,Culvert,Box Culvert,23.0503333,88.9994719,,R765.lrps.htm
+,LRP002,1.01,Km Post,Km post Broken,23.0491386,88.9994997,,R765.lrps.htm
+,LRP002a,1.32,Culvert,Box Culvert,23.046333,88.9991941,,R765.lrps.htm
+,LRP002b,1.537,Culvert,Box Culvert,23.0443608,88.9989163,,R765.lrps.htm
+,LRP003,2.01,Km Post,"Satkhira 41 km, Kolarowa 23 km",23.0401108,88.9987219,,R765.lrps.htm
+,LRP004,3,Km Post,"Satkhira 40 km, lIlishpur 13 km",23.0313327,88.9991941,,R765.lrps.htm
+,LRP004a,3.064,Culvert,Box culvert,23.0308049,88.9993886,,R765.lrps.htm
+,LRP004b,3.709,Culvert,Bx culvert,23.0259716,88.9974997,,R765.lrps.htm
+,LRP005,4.01,Km Post,"Satkhira 39 km, Kolarowa 21 km",23.022916,88.9961386,,R765.lrps.htm
+,LRP005a,4.662,Culvert,Box Culvert,23.0172771,88.994333,,R765.lrps.htm
+,LRP006,5.02,Km Post,"Satkhira 38 km, lIlishpur 11 km",23.0141389,88.9934719,,R765.lrps.htm
+,LRP006a,5.203,Culvert,Box culvert,23.0125556,88.9931386,,R765.lrps.htm
+,LRP006b,5.21,Culvert,Box culvert,23.0123333,88.993083,,R765.lrps.htm
+,LRP007,6.015,Km Post,"Satkhira 37 km, Kolarowa 19 km",23.0055833,88.990833,,R765.lrps.htm
+,LRP007a,6.139,Culvert,Box culvert,23.00475,88.9899719,,R765.lrps.htm
+,LRP007b,6.835,Culvert,Box culvert,23.0003056,88.9851663,,R765.lrps.htm
+,LRP008,7.015,Km Post,"Satkhira 36 km, lIlishpur 9 km",22.9991386,88.9839441,,R765.lrps.htm
+,LRP008a,7.595,Culvert,Box Culvert,22.9954163,88.9799993,,R765.lrps.htm
+,LRP009,8.005,Km Post,"Satkhira 35 km, Kolarowa 17 km",22.9922774,88.9786104,,R765.lrps.htm
+,LRP010,9,Km Post,"Satkhira 34 km, lIlishpur 7 km",22.9833886,88.9791382,,R765.lrps.htm
+,LRP010a,9.566,Culvert,R.C.C Culvert,22.9782216,88.9957219,,R765.lrps.htm
+,LRP011,10.02,Km Post,"Satkhira 33 km, Kolarowa 15 km",22.9742493,88.9790827,,R765.lrps.htm
+,LRP011a,10.052,Culvert,Slab culvert,22.9739438,88.9791104,,R765.lrps.htm
+,LRP011b,10.223,Culvert,Slab Culvert,22.9715271,88.9794438,,R765.lrps.htm
+,LRP012,11.02,Km Post,Km post missing,22.9651667,88.979916,,R765.lrps.htm
+,LRP012a,11.12,Culvert,Box Culvert,22.9644167,88.9801382,,R765.lrps.htm
+,LRP012b,11.557,Culvert,Box Culvert,22.9608889,88.982166,,R765.lrps.htm
+,LRP013,12.02,Km Post,"Satkhira 31 km, Kolarowa 13 km",22.9571944,88.9839719,,R765.lrps.htm
+,LRP013a,12.204,Culvert,Box culvert,22.9555833,88.9841941,,R765.lrps.htm
+,LRP013b,12.372,Culvert,Box culvert,22.9540833,88.9841663,,R765.lrps.htm
+,LRP013c,12.725,Culvert,Box culvert,22.9509167,88.9841663,,R765.lrps.htm
+,LRP013d,12.902,Culvert,Slab culvert,22.9493608,88.9839163,,R765.lrps.htm
+,LRP014,13.02,Km Post,"Satkhira 30 km, lIlishpur 3 km",22.9482219,88.9837219,,R765.lrps.htm
+,LRP014a,13.565,Culvert,Box Culvert,22.943583,88.9840274,,R765.lrps.htm
+,LRP015,14.025,Km Post,"Satkhira 29 km, Kolarowa 11 km",22.9404997,88.986833,,R765.lrps.htm
+,LRP015a,14.169,Culvert,Box culvert,22.9397497,88.9879719,,R765.lrps.htm
+,LRP016,15.015,Km Post,"Satkhira 28 km, Shamnagar 78 km",22.935083,88.9944719,,R765.lrps.htm
+,LRP016a,15.497,Culvert,Masonry culvert,22.9322493,88.9980274,,R765.lrps.htm
+,LRP016b,15.97,Culvert,Masonry Culvert,22.9294716,89.0015278,,R765.lrps.htm
+,LRP017,16.015,Km Post,"Satkhira 27 km, Kolarowa 9 km",22.9286938,89.0025833,,R765.lrps.htm
+,LRP017a,16.107,Others,Start of Satkhira road Division,22.9283604,89.0029722,,R765.lrps.htm
+,LRP017a,16.107,Others,Start of Satkhira road Division,22.9283604,89.0029722,,R765.lrps.htm
+,LRP017b,16.96,Culvert,Slab Culvert,22.922916,89.0079722,,R765.lrps.htm
+,LRP018,17.005,Km Post,"Satkhira 26 km, Bhomra 41 km",22.9224993,89.0081667,,R765.lrps.htm
+,LRP018a,17.477,Culvert,Box Culvert,22.9187216,89.0101667,,R765.lrps.htm
+,LRP018b,17.667,Culvert,Box Culvert,22.9172216,89.0109167,,R765.lrps.htm
+,LRP019,18.005,Km Post,Km post broken,22.9145556,89.0126667,,R765.lrps.htm
+,LRP020,19.03,Km Post,"Satkhira 24 km, Kolarowa 6 km",22.9076667,89.0188882,,R765.lrps.htm
+,LRP021,20.03,Km Post,"Satkhira 23 km, Munshiganj 88 km",22.8989163,89.0203882,,R765.lrps.htm
+,LRP022,21.04,Km Post,"Satkhira 27 km, Kolarowa 4 km",22.8901386,89.0210827,,R765.lrps.htm
+,LRP022a,21.52,Bridge,R.C.C Bridge Start,22.8868886,89.0243327,,R765.lrps.htm
+,LRP022b,21.542,Bridge,R.C.C Bridge End,22.8869163,89.0243882,,R765.lrps.htm
+,LRP023,22.04,Km Post,Km post missing,22.8831382,89.0270549,,R765.lrps.htm
+,LRP023a,22.556,Culvert,Box culvert,22.8790549,89.0298882,,R765.lrps.htm
+,LRP024,23.026,Km Post,"Satkhira 20 km, Kolarowa 2 km",22.8758604,89.0323604,,R765.lrps.htm
+,LRP025,23.991,Km Post,"Satkhira 19 km, Kaliganj 54 km",22.8684716,89.0373052,,R765.lrps.htm
+,LRP025a,24.811,Culvert,Box culvert,22.8621667,89.0407497,,R765.lrps.htm
+,LRP025b,24.881,Culvert,Box Culvert,22.8615833,89.0406386,,R765.lrps.htm
+,LRP026,24.991,Km Post,Km post missing,22.8605556,89.0404163,,R765.lrps.htm
+,LRP026a,25.035,"Side Road, Left","Z-7552, Kkeshabpur",22.8601389,89.0403052,,R765.lrps.htm
+,LRP027,26.011,Km Post,Satkhira 17 km,22.8521944,89.0435552,,R765.lrps.htm
+,LRP028,26.936,Km Post,"Satkhira 16 km, Bhomra 31 km",22.8442219,89.0439997,,R765.lrps.htm
+,LRP028a,27.313,Culvert,Masonry culvert,22.8409997,89.0429441,,R765.lrps.htm
+,LRP028b,27.643,Culvert,Box culvert,22.8381386,89.0419441,,R765.lrps.htm
+,LRP029,28.031,Km Post,"Stakhira 15 km, Kaliganj 50 km",22.8349997,89.0406663,,R765.lrps.htm
+,LRP029a,28.961,Culvert,Box culvert,22.8267493,89.0398052,,R765.lrps.htm
+,LRP030,29.026,Km Post,Satkhira 14 km,22.826166,89.0394163,,R765.lrps.htm
+,LRP030a,29.468,Culvert,Box Culvert,22.8223327,89.0386663,,R765.lrps.htm
+,LRP031,30.026,Km Post,"Satkhira 13 km, Shamnagar 63 km",22.8172216,89.0377497,,R765.lrps.htm
+,LRP031a,30.829,Culvert,Sluice Ghate,22.8102778,89.0358052,,R765.lrps.htm
+,LRP032,31.026,Km Post,Km post missing,22.8084722,89.0355274,,R765.lrps.htm
+,LRP032a,31.651,Culvert,Box Culvert,22.8029444,89.035333,,R765.lrps.htm
+,LRP033,32.026,Km Post,Km post missing,22.7994163,89.035583,,R765.lrps.htm
+,LRP034,33.016,Km Post,"Satkhaira 10 km, Munshiganj 75 km",22.7906663,89.0362219,,R765.lrps.htm
+,LRP034a,33.794,Culvert,Box culvert,22.7836386,89.0367774,,R765.lrps.htm
+,LRP035,34.026,Km Post,Satkhira 9 km,22.7816104,89.0369163,,R765.lrps.htm
+,LRP036,35.026,Km Post,Info not Clear,22.773416,89.040583,,R765.lrps.htm
+,LRP036a,35.341,Culvert,Box culvert,22.770916,89.0420552,,R765.lrps.htm
+,LRP037,36.016,Km Post,"Shatkhira 7 km, Kaliganj 42 km",22.7656111,89.0452774,,R765.lrps.htm
+,LRP038,37.016,Km Post,"Shatkhira 6 km, Munsiganj 71 km",22.7579722,89.0502778,,R765.lrps.htm
+,LRP038a,37.321,Culvert,Box culvert,22.7554444,89.0517222,,R765.lrps.htm
+,LRP039,38.006,Km Post,"Satkhira 5 km, Shamnagar 55 km",22.7501111,89.0550556,,R765.lrps.htm
+,LRP039a,38.488,Culvert,Masonry Culvert,22.7464163,89.0550833,,R765.lrps.htm
+,LRP040,39.036,Km Post,"Satkhira 4 km, Bhomra 19 km",22.7426386,89.0582778,,R765.lrps.htm
+,LRP040a,39.616,Culvert,Masonry Culvert,22.7394441,89.0625556,,R765.lrps.htm
+,LRP040b,39.758,Bridge,R.C.C Girder Bridge Start,22.7384163,89.063,,R765.lrps.htm
+,LRP040c,39.804,Bridge,R.C.C Girder Bridge End,22.738083,89.0628056,,R765.lrps.htm
+,LRP041,40.036,Km Post,Km post missing,22.7359441,89.0623611,,R765.lrps.htm
+,LRP042,41.036,Km Post,"Satkhira 2 km, Munsiganj 67 km",22.7277216,89.0646111,,R765.lrps.htm
+,LRP042a,41.636,Culvert,Box Culvert,22.7230549,89.0673327,,R765.lrps.htm
+,LRP042b,41.808,"Side Road, Left",R 760 to Khulna,22.721666,89.0681104,,R765.lrps.htm
+,LRP043,42.036,Km Post,"Satkhira 1 km, Shamnagar 51 km",22.7198604,89.0692771,,R765.lrps.htm
+,LRPE,42.943,Others,"End of road at Km post Satkhira 0 km,Bhomra 15 km,Infront of New Intersect with Z 7602 & Z 7603.",22.7123889,89.0709716,,R765.lrps.htm
+,,,,,,,,R765.lrps.htm
+,,,,,,,,R765.lrps.htm

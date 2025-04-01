@@ -1,0 +1,286 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,"The road starts from R370, Mymensingh- Sunamganj road at Raghurampur",24.7625278,90.4504444,,R360.lrps.htm
+,LRPSa,0.52,Rail Road Crossing,Rail Road Crossing,24.76025,90.4547778,,R360.lrps.htm
+,LRPSb,0.848,Bridge,Bridge start,24.7587778,90.4575278,,R360.lrps.htm
+,LRPSc,0.856,Bridge,Bridge end,24.7587222,90.4576111,,R360.lrps.htm
+,LRP001,1,Km Post,Km post missing,24.7580833,90.4588611,,R360.lrps.htm
+,LRP002,2,Km Post,Km post missing,24.7531944,90.4670271,,R360.lrps.htm
+,LRP002a,2.686,Culvert,Box Culvert,24.7501667,90.4728882,,R360.lrps.htm
+,LRP003,3,Km Post,Km post missing,24.7485552,90.4754438,,R360.lrps.htm
+,LRP003a,3.675,Bridge,Bridge start,24.7462774,90.4815827,,R360.lrps.htm
+,LRP003b,3.682,Bridge,Bridge end,24.7462497,90.4816382,,R360.lrps.htm
+,LRP004,4,Km Post,Km post missing,24.745083,90.4845274,,R360.lrps.htm
+,LRP004a,4.118,Culvert,Box Culvert,24.7448886,90.4857219,,R360.lrps.htm
+,LRP004b,4.363,Culvert,Box Culvert,24.7443886,90.4879719,,R360.lrps.htm
+,LRP005,5,Km Post,Km post missing,24.7422219,90.4937219,,R360.lrps.htm
+,LRP005a,5.733,Culvert,Box Culvert,24.741583,90.495333,,R360.lrps.htm
+,LRP006,6,Km Post,Km post missing,24.7367497,90.5008611,,R360.lrps.htm
+,LRP006a,6.733,"Side Road, Right",Road to Modhupur bazar(Z 3615),24.7372774,90.508,,R360.lrps.htm
+,LRP007,7,Km Post,Km post missing,24.7378608,90.5102778,,R360.lrps.htm
+,LRP007a,7.104,Culvert,Box Culvert,24.7381941,90.5115278,,R360.lrps.htm
+,LRP008,8,Km Post,Km post missing,24.7401386,90.5197216,,R360.lrps.htm
+,LRP009,9,Km Post,Km post missing,24.7386663,90.5290549,,R360.lrps.htm
+,LRP009a,9.132,Culvert,Box Culvert,24.7386663,90.5290549,,R360.lrps.htm
+,LRP009b,9.232,Culvert,Box Culvert,24.7376108,90.5309438,,R360.lrps.htm
+,LRP010,10,Km Post,Km post missing,24.7339441,90.537333,,R360.lrps.htm
+,LRP010a,10.623,Culvert,Box Culvert,24.7324438,90.5431941,,R360.lrps.htm
+,LRP011,11,Km Post,Km post missing,24.730916,90.5464997,,R360.lrps.htm
+,LRP012,12,Km Post,Km post missing,24.7281104,90.5556944,,R360.lrps.htm
+,LRP013,13,Km Post,Km post missing,24.7234993,90.5628333,,R360.lrps.htm
+,LRP013a,13.334,Bridge,Bridge start,24.7206938,90.5639444,,R360.lrps.htm
+,LRP013b,13.35,Bridge,Bridge end,24.7205827,90.564,,R360.lrps.htm
+,LRP014,13.998,Km Post,Ishwerganj 4 km Kishoreganj 49 km,24.7155278,90.5668882,,R360.lrps.htm
+,LRP014a,14.465,Culvert,Box Culvert,24.7134167,90.5708882,,R360.lrps.htm
+,LRP014b,14.965,Culvert,Box Culvert,24.7109722,90.5747216,,R360.lrps.htm
+,LRP015,15.007,Km Post,Ishwerganj 3 km Kishoreganj 48 km,24.7107778,90.5750549,,R360.lrps.htm
+,LRP015a,15.879,Culvert,Box Culvert,24.7063056,90.5819438,,R360.lrps.htm
+,LRP015b,15.931,Culvert,Box Culvert,24.7059444,90.5821938,,R360.lrps.htm
+,LRP016,16.013,Km Post,Ishwerganj 2 km Kishoreganj 47 km,24.7053611,90.5826104,,R360.lrps.htm
+,LRP016a,16.237,Culvert,Box Culvert,24.70375,90.5839163,,R360.lrps.htm
+,LRP016b,16.399,Culvert,Box Culvert,24.7028333,90.5851386,,R360.lrps.htm
+,LRP016c,16.728,Culvert,Box Culvert,24.7009444,90.587583,,R360.lrps.htm
+,LRP017,17.038,Km Post,Ishwerganj 1 km Kishoreganj 46 km,24.6987774,90.589333,,R360.lrps.htm
+,LRP017a,17.079,Culvert,Box Culvert,24.6984441,90.5894997,,R360.lrps.htm
+,LRP018,18.049,Km Post,Ishwerganj 0 km Nendail 23 km Kishoreganj 45 km,24.6914441,90.5947774,,R360.lrps.htm
+,LRP018a,18.437,"Side Road, Left",Road to Netrokona(Z 3710),24.6885274,90.5966941,,R360.lrps.htm
+,LRP018b,18.744,Bridge,Bridge start,24.686583,90.5986108,,R360.lrps.htm
+,LRP018c,18.818,Bridge,Bridge end,24.686083,90.5993052,,R360.lrps.htm
+,LRP019,19.052,Km Post,Nendail 22 km,24.6841663,90.6000833,,R360.lrps.htm
+,LRP019a,19.634,Culvert,Box Culvert,24.6789993,90.6009167,,R360.lrps.htm
+,LRP020,20.061,Km Post,Neadail 21 km Kishoreganj 43 km,24.675416,90.6023889,,R360.lrps.htm
+,LRP020a,20.513,Culvert,Box Culvert,24.671666,90.604,,R360.lrps.htm
+,LRP020b,20.706,Culvert,Box Culvert,24.6700271,90.6044722,,R360.lrps.htm
+,LRP021,21.077,Km Post,Nendail 20 km Kishoreganj 42 km,24.6668049,90.605,,R360.lrps.htm
+,LRP022,22.078,Km Post,Nendail 19 km,24.6590556,90.6091111,,R360.lrps.htm
+,LRP023,23.086,Km Post,Nendail 18 km Kishoreganj 40 km,24.6503056,90.6111944,,R360.lrps.htm
+,LRP023a,23.271,Culvert,Box Culvert,24.648583,90.6111389,,R360.lrps.htm
+,LRP023b,23.663,Culvert,Box Culvert,24.6451663,90.6106111,,R360.lrps.htm
+,LRP024,24.096,Km Post,Info missing,24.6414163,90.6096667,,R360.lrps.htm
+,LRP024a,24.304,Culvert,Box Culvert,24.6396108,90.60925,,R360.lrps.htm
+,LRP025,25.106,Km Post,Kishoreganj 38 km,24.6326382,90.60925,,R360.lrps.htm
+,LRP026,26.113,Km Post,Nendail 25 km,24.6250827,90.6145,,R360.lrps.htm
+,LRP026a,26.679,Culvert,Box Culvert,24.6206104,90.6168604,,R360.lrps.htm
+,LRP026b,27.099,Culvert,Box Culvert,24.6168882,90.6169438,,R360.lrps.htm
+,LRP027,27.137,Km Post,Nendail 14 km Kishoreganj 36 km,24.6165833,90.6172216,,R360.lrps.htm
+,LRP027a,27.298,Culvert,Box Culvert,24.6151667,90.6171938,,R360.lrps.htm
+,LRP027b,28.027,Culvert,Box Culvert,24.6081389,90.61525,,R360.lrps.htm
+,LRP027c,28.124,Culvert,Box Culvert,24.6081389,90.6150556,,R360.lrps.htm
+,LRP028,28.157,Km Post,Nendail 13 km Kishoreganj 35 km,24.6078611,90.615,,R360.lrps.htm
+,LRP028a,28.569,Culvert,Box culvert,24.6042222,90.61525,,R360.lrps.htm
+,LRP029,29.161,Km Post,Kishoreganj 34 km,24.5990552,90.6141667,,R360.lrps.htm
+,LRP030,30.165,Km Post,Nendail 11 km,24.5907774,90.6103889,,R360.lrps.htm
+,LRP031,31.171,Km Post,Nendail 10 km Kishoreganj 32 km,24.5824716,90.6069167,,R360.lrps.htm
+,LRP031a,32.085,Culvert,Box Culvert,24.5750827,90.6038611,,R360.lrps.htm
+,LRP032,32.185,Km Post,Nendail 9 km Kishoreganj 31 km,24.5742771,90.6041389,,R360.lrps.htm
+,LRP032a,32.543,Bridge,Bridge start,24.5721104,90.606,,R360.lrps.htm
+,LRP032b,32.562,Bridge,Bridge end,24.5721104,90.6061667,,R360.lrps.htm
+,LRP032c,32.834,Culvert,Box Culvert,24.5728049,90.6087222,,R360.lrps.htm
+,LRP032d,32.982,"Side Road, Right",Road to Balipara (Z 3034),24.5719438,90.6054167,,R360.lrps.htm
+,LRP033,33.18,Km Post,Nendail 8 km,24.573666,90.6119444,,R360.lrps.htm
+,LRP033a,33.831,Culvert,Box Culvert,24.5752771,90.618166,,R360.lrps.htm
+,LRP033b,34.108,Culvert,Box Culvert,24.5758882,90.6205827,,R360.lrps.htm
+,LRP034,34.204,Km Post,Kishoreganj 29 km,24.5761382,90.621416,,R360.lrps.htm
+,LRP034a,34.651,Culvert,Box Culvert,24.5772493,90.6256382,,R360.lrps.htm
+,LRP034b,34.812,Culvert,Box Culvert,24.5782216,90.6295549,,R360.lrps.htm
+,LRP035,35.212,Km Post,Nendail 6 km Kishoreganj 28 km,24.5786382,90.630916,,R360.lrps.htm
+,LRP035a,35.394,Culvert,Box Culvert,24.5791382,90.6328049,,R360.lrps.htm
+,LRP035b,35.496,Culvert,Box Culvert,24.5793327,90.6336108,,R360.lrps.htm
+,LRP035c,35.852,Culvert,Box Culvert,24.5802493,90.6369441,,R360.lrps.htm
+,LRP036,36.23,Km Post,Nendail 5 km Nendail chow 11km,24.5811938,90.6403608,,R360.lrps.htm
+,LRP036a,36.397,Culvert,Box Culvert,24.5816382,90.6419441,,R360.lrps.htm
+,LRP036b,36.733,Culvert,Box Culvert,24.5824716,90.645083,,R360.lrps.htm
+,LRP036c,37.163,Culvert,Box Culvert,24.5823604,90.6491941,,R360.lrps.htm
+,LRP037,37.235,Km Post,Kishoreganj 26 km,24.5821382,90.6498608,,R360.lrps.htm
+,LRP037a,37.343,Culvert,Box Culvert,24.5818604,90.6508611,,R360.lrps.htm
+,LRP038,38.236,Km Post,Nendail 3 km Kishoreganj 25 km,24.5791938,90.6591667,,R360.lrps.htm
+,LRP038a,38.486,Bridge,Bridge start,24.5786104,90.6615278,,R360.lrps.htm
+,LRP038b,38.566,Bridge,Bridge end,24.5783604,90.6622778,,R360.lrps.htm
+,LRP038c,38.924,Culvert,Box Culvert,24.5772216,90.6655278,,R360.lrps.htm
+,LRP038d,39.107,Culvert,Box Culvert,24.5767216,90.667166,,R360.lrps.htm
+,LRP039,39.247,Km Post,Nendail 2 km Nendail Juncfom 8 km,24.5763049,90.6684716,,R360.lrps.htm
+,LRP039a,39.534,Culvert,Box Culvert,24.5754993,90.6711382,,R360.lrps.htm
+,LRP039b,39.771,Culvert,Box Culvert,24.5748327,90.6733882,,R360.lrps.htm
+,LRP039c,40.05,Culvert,Box Culvert,24.5740549,90.6759438,,R360.lrps.htm
+,LRP040,40.25,Km Post,Kishoreganj 23 km,24.5734716,90.6778049,,R360.lrps.htm
+,LRP040a,40.448,Culvert,Box Culvert,24.5729438,90.6796938,,R360.lrps.htm
+,LRP040b,41.076,Culvert,Box Culvert,24.5711938,90.6712771,,R360.lrps.htm
+,LRP041,41.249,Km Post,Nendail 3 km Kishoreganj 22 km,24.5710827,90.6872219,,R360.lrps.htm
+,LRP041a,41.46,Bridge,Bridge start,24.5718049,90.689083,,R360.lrps.htm
+,LRP041b,41.539,Bridge,Bridge end,24.5718327,90.6898608,,R360.lrps.htm
+,LRP042,42.247,Km Post,Nendail chow 5 km Kishoreganj 21 km,24.5760827,90.6939163,,R360.lrps.htm
+,LRP042a,42.387,Culvert,Box Culvert,24.576166,90.695333,,R360.lrps.htm
+,LRP042b,42.758,Culvert,Box Culvert,24.5755549,90.6988052,,R360.lrps.htm
+,LRP042c,43.001,Culvert,Box Culvert,24.5748049,90.701,,R360.lrps.htm
+,LRP043,43.261,Km Post,Nendail Juncfom 4 km Kishoreganj 20 km,24.5740271,90.7033333,,R360.lrps.htm
+,LRP043a,43.297,Culvert,Box Culvert,24.5739716,90.7036389,,R360.lrps.htm
+,LRP043b,43.997,Bridge,Bridge start,24.5731938,90.7104722,,R360.lrps.htm
+,LRP043c,44.007,Bridge,Bridge end,24.5731938,90.7105556,,R360.lrps.htm
+,LRP044,44.265,Km Post,Nendail chow 3 km,24.5729993,90.7130833,,R360.lrps.htm
+,LRP044a,44.622,Culvert,Box Culvert,24.5727493,90.7165833,,R360.lrps.htm
+,LRP045,45.267,Km Post,Kishoreganj 18 km,24.5726104,90.7228882,,R360.lrps.htm
+,LRP045a,45.292,Culvert,Box Culvert,24.5726382,90.7231382,,R360.lrps.htm
+,LRP045b,45.568,Culvert,Box Culvert,24.5729993,90.7258049,,R360.lrps.htm
+,LRP045c,46.052,Culvert,Box Culvert,24.5736382,90.7304716,,R360.lrps.htm
+,LRP046,46.273,Km Post,Nendail chow 1 km Kishoreganj 17 km,24.5742493,90.7325827,,R360.lrps.htm
+,LRP046a,46.648,Culvert,Box Culvert,24.5753049,90.7361108,,R360.lrps.htm
+,LRP046b,47.045,"Side Road, Left",Road to Athera bazar (Z 3608) Kendua,24.5765827,90.7396108,,R360.lrps.htm
+,LRP046c,47.075,"Side Road, Left",Road to Tarail (Z 3607),24.5765549,90.7399163,,R360.lrps.htm
+,LRP047,47.378,Km Post,Kishoreganj 16 km Bhairab 68 km,24.5741938,90.7407774,,R360.lrps.htm
+,LRP047a,47.631,Culvert,Box Culvert,24.5721104,90.7417497,,R360.lrps.htm
+,LRP047b,47.838,Culvert,Box Culvert,24.5703327,90.7422497,,R360.lrps.htm
+,LRP047c,47.952,Culvert,Box Culvert,24.5693327,90.7423886,,R360.lrps.htm
+,LRP048,48.168,Km Post,Kishoreganj 15 km Bhairab 67 km,24.5674438,90.7426941,,R360.lrps.htm
+,LRP048a,48.19,Culvert,Box culvert,24.5672771,90.7427219,,R360.lrps.htm
+,LRP048b,48.335,Culvert,Box Culvert,24.566,90.7428886,,R360.lrps.htm
+,LRP048c,48.485,Culvert,Box Culvert,24.5646944,90.7429997,,R360.lrps.htm
+,LRP048d,48.881,Culvert,Box Culvert,24.5611667,90.7432219,,R360.lrps.htm
+,LRP048e,49.127,Culvert,Box Culvert,24.5589722,90.7433608,,R360.lrps.htm
+,LRP049,49.148,Km Post,Kishoreganj 14 km Bhairab 66 km,24.5588056,90.743333,,R360.lrps.htm
+,LRP049a,49.699,Culvert,Box Culvert,24.5538889,90.7436386,,R360.lrps.htm
+,LRP049b,50.119,Culvert,Box Culvert,24.5501389,90.7438886,,R360.lrps.htm
+,LRP050,50.15,Km Post,Kishoreganj 13 km Bhairab 65 km,24.5498886,90.7438886,,R360.lrps.htm
+,LRP050a,50.425,Culvert,Box Culvert,24.5474997,90.7443608,,R360.lrps.htm
+,LRP051,51.113,Km Post,Kishoreganj 12 km bhairab 64 km,24.5418886,90.7471108,,R360.lrps.htm
+,LRP051a,52.082,Culvert,Box Culvert,24.5339163,90.7509167,,R360.lrps.htm
+,LRP052,52.132,Km Post,Kishoreganj 11 km Bhairab 66 km,24.5335274,90.7511111,,R360.lrps.htm
+,LRP052a,52.247,Bridge,Bridge start,24.5325549,90.7515833,,R360.lrps.htm
+,LRP052b,52.31,Bridge,Bridge end,24.5320549,90.75175,,R360.lrps.htm
+,LRP052c,52.706,Culvert,Box Culvert,24.528666,90.7521944,,R360.lrps.htm
+,LRP052d,52.974,Culvert,Box Culvert,24.5263327,90.7518889,,R360.lrps.htm
+,LRP052e,53.152,Culvert,Box Culvert,24.5247493,90.7516667,,R360.lrps.htm
+,LRP053,53.182,Km Post,Kishoreganj 10 km Bhairab 62 km,24.5244716,90.7516667,,R360.lrps.htm
+,LRP053a,53.549,Culvert,Box Culvert,24.5212493,90.7512778,,R360.lrps.htm
+,LRP053b,54.01,Culvert,Box Culvert,24.5171938,90.7507778,,R360.lrps.htm
+,LRP054,54.224,Km Post,Kishoreganj 9 km Bhairab 61 km,24.5153611,90.7505556,,R360.lrps.htm
+,LRP054a,54.657,Culvert,Box Culvert,24.5116111,90.7514444,,R360.lrps.htm
+,LRP055,55.239,Km Post,Kishoreganj 8 km Bhairab 60 km,24.5065833,90.75275,,R360.lrps.htm
+,LRP056,56.258,Km Post,Kishoreganj 7 km,24.4981386,90.7565,,R360.lrps.htm
+,LRP056a,56.658,Culvert,Box Culvert,24.4948608,90.7580833,,R360.lrps.htm
+,LRP057,57.242,Km Post,Kishoreganj 06 km Bhairab 58 km,24.490083,90.7604444,,R360.lrps.htm
+,LRP057a,57.465,Culvert,Box Culvert,24.4883608,90.7613333,,R360.lrps.htm
+,LRP057b,58.106,Culvert,Box Culvert,24.4832771,90.7641389,,R360.lrps.htm
+,LRP058,58.266,Km Post,Kishoreganj 5 km Bhairab 57 km,24.481916,90.7646667,,R360.lrps.htm
+,LRP058a,58.333,Culvert,Box Culvert,24.481416,90.7649444,,R360.lrps.htm
+,LRP058b,58.701,Culvert,Box Culvert,24.4783882,90.7663889,,R360.lrps.htm
+,LRP058c,59.22,Culvert,Box Culvert,24.4741382,90.7518056,,R360.lrps.htm
+,LRP059,59.277,Km Post,Kishoreganj 4 km Bhairab 56 km,24.4736938,90.7687216,,R360.lrps.htm
+,LRP059a,59.872,"Turn off, Right","R364, Battoli- Kishoreganj road",24.4688049,90.7711382,,R360.lrps.htm
+,LRP059b,59.962,Culvert,Box Culvert,24.4681938,90.7705271,,R360.lrps.htm
+,LRP060,60.277,Km Post,Km post missing,24.4658333,90.7687771,,R360.lrps.htm
+,LRP061,61.277,Km Post,Km post missing,24.4585833,90.7632222,,R360.lrps.htm
+,LRP061a,61.621,Culvert,Box Culvert,24.4560556,90.7612778,,R360.lrps.htm
+,LRP062,62.277,Km Post,Km post missing,24.4512778,90.7574722,,R360.lrps.htm
+,LRP063,62.889,Km Post,Bhairab 53 km,24.4469719,90.7537778,,R360.lrps.htm
+,LRP063a,63.86,Bridge,Bridge start,24.4399719,90.7489441,,R360.lrps.htm
+,LRP064,63.889,Km Post,Km post missing,24.4397219,90.7489441,,R360.lrps.htm
+,LRP064a,63.899,Bridge,Bridge end,24.4396386,90.7489719,,R360.lrps.htm
+,LRP065,64.909,Km Post,Bhairab bazar 51 km,24.430666,90.748083,,R360.lrps.htm
+,LRP065a,65.067,Cross Road,"Z3604, Kishoreganj- Hossainpur road",24.4293049,90.7480274,,R360.lrps.htm
+,LRP065b,65.367,Culvert,Box Culvert,24.4266382,90.7478052,,R360.lrps.htm
+,LRP065c,65.779,Culvert,Box Culvert,24.4229993,90.7475552,,R360.lrps.htm
+,LRP066,65.909,Km Post,Km post missing,24.4218049,90.7474441,,R360.lrps.htm
+,LRP066a,66.529,Culvert,Box Culvert,24.4162222,90.747583,,R360.lrps.htm
+,LRP067,66.931,Km Post,Bhairab 49 km,24.4125556,90.7476941,,R360.lrps.htm
+,LRP068,67.93,Km Post,Bhairab bazar 48 km Kotiadi 18 km,24.4038056,90.7491108,,R360.lrps.htm
+,LRP068a,67.94,Culvert,Box Culvert,24.40375,90.7491663,,R360.lrps.htm
+,LRP068b,68.375,Cross Road,"Z3616, Motkhola- Kishoreganj road",24.4004167,90.7513611,,R360.lrps.htm
+,LRP068c,68.525,Culvert,Box Culvert,24.3992497,90.7520556,,R360.lrps.htm
+,LRP069,68.93,Km Post,Km post missing,24.3960552,90.7539167,,R360.lrps.htm
+,LRP070,69.93,Km Post,Km post missing,24.3884163,90.7590278,,R360.lrps.htm
+,LRP070a,69.939,Culvert,Box Culvert,24.388333,90.7590833,,R360.lrps.htm
+,LRP070b,70.348,Culvert,Box Culvert,24.3823049,90.7600556,,R360.lrps.htm
+,LRP071,70.986,Km Post,Bhairab bazar 45 km,24.3793049,90.7595,,R360.lrps.htm
+,LRP071a,71.702,Culvert,Box Culvert,24.3730549,90.7584167,,R360.lrps.htm
+,LRP072,72,Km Post,Info missing,24.3703604,90.7580278,,R360.lrps.htm
+,LRP072a,72.507,Culvert,Box Culvert,24.3657778,90.7575833,,R360.lrps.htm
+,LRP073,73,Km Post,Km post missing,24.3613889,90.7573056,,R360.lrps.htm
+,LRP073a,73.497,Culvert,Box Culvert,24.3571111,90.7559167,,R360.lrps.htm
+,LRP074,74,Km Post,Km post missing,24.3528333,90.7546111,,R360.lrps.htm
+,LRP074a,74.43,Bridge,Bridge start,24.3489997,90.7544444,,R360.lrps.htm
+,LRP074b,74.466,Bridge,Bridge end,24.3486941,90.7545,,R360.lrps.htm
+,LRP075,75,Km Post,Km post missing,24.3442497,90.7563889,,R360.lrps.htm
+,LRP075a,75.263,Culvert,Box Culvert,24.342083,90.7566944,,R360.lrps.htm
+,LRP075b,75.561,Culvert,Box Culvert,24.3394997,90.7574444,,R360.lrps.htm
+,LRP076,76.086,Km Post,Kotiadi 09 km Bhairab bazar 39 km,24.3348608,90.7565556,,R360.lrps.htm
+,LRP076a,77.197,Culvert,Box Culvert,24.3267771,90.7624722,,R360.lrps.htm
+,LRP077,77.233,Km Post,Bhairab 38 km,24.3266104,90.76275,,R360.lrps.htm
+,LRP077a,77.588,Culvert,Box Culvert,24.3243327,90.7651944,,R360.lrps.htm
+,LRP078,78.132,Km Post,Bhairab 37 km Kotiadi 7 km,24.3199716,90.767416,,R360.lrps.htm
+,LRP079,79.101,Km Post,Info missing,24.3114722,90.7690549,,R360.lrps.htm
+,LRP079a,79.507,Culvert,Box Culvert,24.3078889,90.7690827,,R360.lrps.htm
+,LRP080,80.139,Km Post,Bhairab 36 km,24.3024444,90.7706104,,R360.lrps.htm
+,LRP080a,80.434,Culvert,Box Culvert,24.2998886,90.7713327,,R360.lrps.htm
+,LRP081,81.182,Km Post,Info missing,24.2933608,90.7730827,,R360.lrps.htm
+,LRP081a,81.702,Culvert,Box Culvert,24.2888886,90.7745549,,R360.lrps.htm
+,LRP082,82.147,Km Post,Bhairab 34 km,24.285333,90.7765549,,R360.lrps.htm
+,LRP082a,82.808,Culvert,Box Culvert,24.280166,90.7797216,,R360.lrps.htm
+,LRP083,83.129,Km Post,Bhairab 33 km,24.2776104,90.7811382,,R360.lrps.htm
+,LRP083a,83.841,Culvert,Box Culvert,24.2717216,90.7835552,,R360.lrps.htm
+,LRP084,84.166,Km Post,Bhairab 32 km,24.2689716,90.7846108,,R360.lrps.htm
+,LRP085,85.164,Km Post,Bhairab 31 km Kotiadi 1 km,24.2619167,90.7906108,,R360.lrps.htm
+,LRP085a,85.308,Culvert,Box Culvert,24.2608333,90.7914163,,R360.lrps.htm
+,LRP086,86.169,Km Post,Bhairab 30 km,24.2539167,90.794583,,R360.lrps.htm
+,LRP086a,86.451,"Side Road, Right","R211, Itakhola- Katiadi road",24.2523333,90.7967219,,R360.lrps.htm
+,LRP087,87.138,Km Post,Bhairab 29 km,24.2487497,90.8021667,,R360.lrps.htm
+,LRP088,88.155,Km Post,Bhjairab 28 km,24.245833,90.8114167,,R360.lrps.htm
+,LRP089,89.185,Km Post,Bhairab 27 km,24.2423052,90.8207771,,R360.lrps.htm
+,LRP089a,89.826,"Side Road, Left","Z3601, Katiadi- Ujanchar road",24.2386663,90.8255827,,R360.lrps.htm
+,LRP090,90.155,Km Post,Bhairab 26 km,24.2369163,90.828166,,R360.lrps.htm
+,LRP091,91.156,Km Post,Bhairab 25 km,24.2304716,90.835083,,R360.lrps.htm
+,LRP092,92.156,Km Post,Post found from exists,24.2243049,90.8422219,,R360.lrps.htm
+,LRP093,93.146,Km Post,Info missing,24.2173604,90.8483052,,R360.lrps.htm
+,LRP094,94.148,Km Post,Bhairab 22 km,24.2102778,90.8544444,,R360.lrps.htm
+,LRP095,95.159,Km Post,Bhairab 21km,24.2022778,90.8624444,,R360.lrps.htm
+,LRP096,96.183,Km Post,Bhairab 20 km,24.1977774,90.8685271,,R360.lrps.htm
+,LRP097,97.158,Km Post,Bhairab 19 km,24.1900274,90.8730271,,R360.lrps.htm
+,LRP097a,97.387,Culvert,Box Culvert,24.1881386,90.8738604,,R360.lrps.htm
+,LRP097b,97.863,"Side Road, Right","R212, Akdaria- Agarpur road",24.1842219,90.8757493,,R360.lrps.htm
+,LRP098,98.164,Km Post,Bhairab 18 km,24.1817216,90.8768882,,R360.lrps.htm
+,LRP099,99.178,Km Post,Bhairab 17 km,24.1734438,90.8808327,,R360.lrps.htm
+,LRP100,100.173,Km Post,Bhairab 16 km,24.1673049,90.8879441,,R360.lrps.htm
+,LRP100a,100.301,Culvert,Box Culvert,24.1665556,90.8888608,,R360.lrps.htm
+,LRP101,101.158,Km Post,Bhairab 15 km,24.1609444,90.8946386,,R360.lrps.htm
+,LRP101a,101.237,Culvert,Box Culvert,24.1603889,90.8951663,,R360.lrps.htm
+,LRP101b,101.328,"Side Road, Left","Z3609, Bojra- Kuliarchar Road",24.1597778,90.8957497,,R360.lrps.htm
+,LRP101c,102.091,Culvert,Box Culvert,24.1545,90.9005,,R360.lrps.htm
+,LRP102,102.176,Km Post,Bhairab 14 km,24.1539167,90.9009722,,R360.lrps.htm
+,LRP103,103.213,Km Post,Bhairab 13 km,24.1465274,90.9071389,,R360.lrps.htm
+,LRP103a,103.342,Bridge,Ganakkhat Bridge,24.145583,90.90775,,R360.lrps.htm
+,LRP103b,103.392,Bridge,Bridge end,24.1452497,90.9079722,,R360.lrps.htm
+,LRP104,104.213,Km Post,Km post missing,24.1388608,90.9118056,,R360.lrps.htm
+,LRP104a,104.866,Culvert,Box Culvert,24.1330549,90.9126111,,R360.lrps.htm
+,LRP105,105.229,Km Post,Bhairab 11 km,24.1298604,90.9130278,,R360.lrps.htm
+,LRP105a,105.603,Culvert,Box Culvert,24.1265271,90.9135278,,R360.lrps.htm
+,LRP106,106.219,Km Post,Bhairab 10 km,24.121166,90.9147778,,R360.lrps.htm
+,LRP106a,106.785,Bridge,Bridge start,24.1165,90.9167771,,R360.lrps.htm
+,LRP106b,106.818,Bridge,Bridge end,24.1163056,90.9169993,,R360.lrps.htm
+,LRP107,107.256,Km Post,Bhairab 9 km,24.113,90.9192771,,R360.lrps.htm
+,LRP107a,107.608,Culvert,Box Culvert,24.1103889,90.9212216,,R360.lrps.htm
+,LRP107b,108.058,Culvert,Box Culvert,24.1071389,90.9238327,,R360.lrps.htm
+,LRP108,108.252,Km Post,Bhairab 8 km,24.1002222,90.924916,,R360.lrps.htm
+,LRP108a,108.408,Culvert,Box Culvert,24.1047222,90.9258604,,R360.lrps.htm
+,LRP109,109.252,Km Post,Km post missing,24.0986663,90.9308049,,R360.lrps.htm
+,LRP109a,109.292,Bridge,Bridge start,24.098333,90.930916,,R360.lrps.htm
+,LRP109b,109.32,Bridge,Bridge end,24.0981386,90.9310549,,R360.lrps.htm
+,LRP109c,109.958,Bridge,Bridge start,24.0937497,90.935083,,R360.lrps.htm
+,LRP109d,109.971,Bridge,Bridge end,24.0936663,90.9351663,,R360.lrps.htm
+,LRP110,110.271,Km Post,Bhairab 6 km,24.091833,90.9372497,,R360.lrps.htm
+,LRP110a,110.595,Culvert,Box Culvert,24.0901386,90.9397497,,R360.lrps.htm
+,LRP111,111.284,Km Post,Bhairab 5 km,24.0866663,90.9452774,,R360.lrps.htm
+,LRP111a,112.003,Bridge,Bridge start,24.0826382,90.9506667,,R360.lrps.htm
+,LRP111b,112.041,Bridge,Bridge end,24.0824438,90.9509722,,R360.lrps.htm
+,LRP112,112.328,Km Post,Bhairab 4 km,24.0810827,90.9531944,,R360.lrps.htm
+,LRP112a,113.136,Culvert,Box Culvert,24.0765827,90.9595556,,R360.lrps.htm
+,LRP113,113.341,Km Post,Bhairab 3 km,24.0754993,90.9610556,,R360.lrps.htm
+,LRP113a,113.459,Rail Road Crossing,Rail Road Crossing,24.0748327,90.9618889,,R360.lrps.htm
+,LRP113b,114.167,"Side Road, Left","Z3605, Bhairab- Mendhipur road",24.0667216,90.9675549,,R360.lrps.htm
+,LRP113c,114.263,Culvert,Box Culvert,24.0707216,90.9683882,,R360.lrps.htm
+,LRP114,114.353,Km Post,Bhairab 2 km,24.0702493,90.9691104,,R360.lrps.htm
+,LRP114a,114.99,Culvert,Box Culvert,24.0671382,90.9743882,,R360.lrps.htm
+,LRP115,115.353,Km Post,Km post missing,24.0653889,90.9773882,,R360.lrps.htm
+,LRP115a,115.356,Culvert,Box Culvert,24.0653889,90.9765549,,R360.lrps.htm
+,LRP115b,115.784,Culvert,Box Culvert,24.0623889,90.9799993,,R360.lrps.htm
+,LRP116,116.353,Km Post,Km post missing,24.0570278,90.9819438,,R360.lrps.htm
+,LRPE,116.385,Others,"End of Road of Durjoy more Bhairab interseting N2, Dhaka- Sylhet - Jaflong road",24.05525,90.9830271,,R360.lrps.htm
+,,,,,,,,R360.lrps.htm
+,,,,,,,,R360.lrps.htm

@@ -1,0 +1,525 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,"Start of road Infront of Padma CNG Station ,Dholaipur,Jatrabari ,Dhaka.",23.7021389,90.4353608,,N8.lrps.htm
+,LRP001,1,Km Post,Km post missing,24.6936386,90.4344163,,N8.lrps.htm
+,LRP001a,1.001,Rail Road Crossing,Rail road crossing,23.6934997,90.4344163,,N8.lrps.htm
+,LRP001b,1.275,"Side Road, Left",R-810 to Narayanganj,23.6919719,90.432416,,N8.lrps.htm
+,LRP001c,1.276,Others,Start of Munshigonj road Division,23.6919719,90.432416,,N8.lrps.htm
+,LRP001c,1.276,Others,Start of Munshigonj road Division,23.6919719,90.432416,,N8.lrps.htm
+,LRP001d,1.515,Culvert,Under pass,23.6905552,90.4308327,,N8.lrps.htm
+,LRP001e,1.54,Culvert,Box Culvert,23.6903608,90.4306382,,N8.lrps.htm
+,LRP001f,1.733,Bridge,Start of Bridge,23.6891941,90.4293882,,N8.lrps.htm
+,LRP002,2,Km Post,Km post missing,23.687583,90.4274993,,N8.lrps.htm
+,LRP002a,2.572,Bridge,End of Bridge,23.6839441,90.4234438,,N8.lrps.htm
+,LRP003,3.167,Km Post,Maowa 31 km,23.6826104,90.418166,,N8.lrps.htm
+,LRP004,4.167,Km Post,Km post missing,23.6784993,90.4098889,,N8.lrps.htm
+,LRP004a,4.289,Culvert,Box Culvert,23.6777771,90.409,,N8.lrps.htm
+,LRP004b,4.536,Culvert,Box Culvert,23.6763604,90.4071667,,N8.lrps.htm
+,LRP004c,4.748,"Side Road, Right",N802,23.6749438,90.40525,,N8.lrps.htm
+,LRP004d,4.863,Culvert,Box Culvert,23.6744438,90.40475,,N8.lrps.htm
+,LRP005,5.168,Km Post,Maowa 29 km,23.6726104,90.4023611,,N8.lrps.htm
+,LRP005a,5.383,Culvert,Box Culvert,23.6713327,90.4006944,,N8.lrps.htm
+,LRP005b,6.153,Culvert,Box Culvert,23.6668327,90.3950274,,N8.lrps.htm
+,LRP006,6.168,Km Post,Km post missing,23.6667493,90.3949441,,N8.lrps.htm
+,LRP006a,6.932,Bridge,Start of Baily Bridge,23.6630278,90.3887497,,N8.lrps.htm
+,LRP006b,7.005,Bridge,End of Baily Bridge,23.6629444,90.388083,,N8.lrps.htm
+,LRP007,7.2,Km Post,Vanga 60 km,23.6628056,90.3864719,,N8.lrps.htm
+,LRP007a,7.478,Culvert,Box Culvert,23.6625556,90.3838886,,N8.lrps.htm
+,LRP007b,7.915,Culvert,Box Culvert,23.6621389,90.3796104,,N8.lrps.htm
+,LRP007c,8.16,Culvert,Box Culvert,23.6616667,90.3772216,,N8.lrps.htm
+,LRP008,8.2,Km Post,Maowa 26 km,23.6618611,90.3767493,,N8.lrps.htm
+,LRP008a,9.05,Culvert,Box Culvert,23.6611111,90.368416,,N8.lrps.htm
+,LRP009,9.2,Km Post,Bhanga 58 km,23.6609722,90.3669716,,N8.lrps.htm
+,LRP009a,9.46,Culvert,Box Culvert,23.66075,90.3644444,,N8.lrps.htm
+,LRP010,10.2,Km Post,Maowa 24 km,23.6600556,90.35725,,N8.lrps.htm
+,LRP010a,10.228,Bridge,Bridge start,23.66,90.357,,N8.lrps.htm
+,LRP010b,10.283,Bridge,Bridge end,23.6599444,90.3564444,,N8.lrps.htm
+,LRP010c,10.675,"Side Road, Right",Z 5069 to Ruhitpur,23.6587778,90.8695827,,N8.lrps.htm
+,LRP010d,11.19,Culvert,Box Culvert,23.6545833,90.3511667,,N8.lrps.htm
+,LRP011,11.2,Km Post,Barisal 152 km,23.6544444,90.3511667,,N8.lrps.htm
+,LRP012,12.2,Km Post,Km post missing,23.6455552,90.3491108,,N8.lrps.htm
+,LRP012a,12.365,Bridge,Bridge start,23.6441108,90.3491108,,N8.lrps.htm
+,LRP012b,12.63,Bridge,Bridge end,23.6418886,90.3478886,,N8.lrps.htm
+,LRP012c,12.99,Bridge,Baily Bridge start,23.6388052,90.346833,,N8.lrps.htm
+,LRP013,13.2,Km Post,Km post missing,23.6369997,90.3462219,,N8.lrps.htm
+,LRP013a,13.375,Bridge,Baily Bridge end,23.6354719,90.3457219,,N8.lrps.htm
+,LRP013b,13.755,Culvert,Box Culvert,23.6323049,90.3446386,,N8.lrps.htm
+,LRP013c,14.073,Bridge,Bridge start,23.6295271,90.3436941,,N8.lrps.htm
+,LRP013d,14.108,Bridge,Bridge end,23.6292216,90.3436108,,N8.lrps.htm
+,LRP014,14.2,Km Post,Maowa 20 km,23.6285271,90.343333,,N8.lrps.htm
+,LRP014a,14.738,Culvert,Box Culvert,23.6246104,90.3402219,,N8.lrps.htm
+,LRP015,15.2,Km Post,Barisal 148 km,23.6213327,90.3373608,,N8.lrps.htm
+,LRP015a,15.6,Culvert,Box Culvert,23.6185549,90.3349163,,N8.lrps.htm
+,LRP015b,15.932,Bridge,Bridge start,23.6162222,90.3328882,,N8.lrps.htm
+,LRP015c,15.97,Bridge,Bridge end,23.6159444,90.3326382,,N8.lrps.htm
+,LRP015d,15.995,Cross Road,Z8005,23.6157778,90.3324993,,N8.lrps.htm
+,LRP016,16.2,Km Post,Maowa 18 km,23.6143056,90.3312216,,N8.lrps.htm
+,LRP016a,16.84,Culvert,Box Culvert,23.6098333,90.3272771,,N8.lrps.htm
+,LRP017,17.2,Km Post,Khulna 173 km,23.6073056,90.3250271,,N8.lrps.htm
+,LRP017a,17.71,Bridge,Bridge start,23.6037222,90.3218604,,N8.lrps.htm
+,LRP017b,17.73,Bridge,Bridge end,23.6035833,90.3217493,,N8.lrps.htm
+,LRP018,18.2,Km Post,Maowa 16 km,23.6002778,90.3188327,,N8.lrps.htm
+,LRP018a,18.45,Cross Road,Z 8203,23.5984997,90.3173049,,N8.lrps.htm
+,LRP018b,18.632,Bridge,Bridge start,23.5972774,90.3162222,,N8.lrps.htm
+,LRP018c,18.656,Bridge,Bridge end,23.5971108,90.3160556,,N8.lrps.htm
+,LRP018d,18.852,"Side Road, Right",Z 8003 to Khorsur,23.5950274,90.3142222,,N8.lrps.htm
+,LRP019,19.2,Km Post,Khulna 171 km,23.5931386,90.3128611,,N8.lrps.htm
+,LRP019a,19.662,Bridge,Bridge start,23.5894719,90.3108333,,N8.lrps.htm
+,LRP019b,19.71,Bridge,Bridge end,23.589083,90.3106389,,N8.lrps.htm
+,LRP020,20.2,Km Post,Maowa 14 km,23.585083,90.3085833,,N8.lrps.htm
+,LRP020a,20.78,Bridge,Bridge start,23.5805271,90.3058333,,N8.lrps.htm
+,LRP020b,20.8,Bridge,Bridge end,23.5803327,90.30575,,N8.lrps.htm
+,LRP021,21.2,Km Post,Maowa 13 km,23.5768327,90.3048333,,N8.lrps.htm
+,LRP021a,21.658,Bridge,Bridge start,23.5729438,90.3033611,,N8.lrps.htm
+,LRP021b,21.678,Bridge,Bridge end,23.5727771,90.3032778,,N8.lrps.htm
+,LRP021c,22.125,Bridge,Bridge start,23.5691938,90.30125,,N8.lrps.htm
+,LRP021d,22.172,Bridge,Bridge end,23.5688327,90.3010556,,N8.lrps.htm
+,LRP022,22.2,Km Post,Maowa 12 km,23.5685549,90.3009167,,N8.lrps.htm
+,LRP022a,22.488,Culvert,Box Culvert,23.56625,90.2996386,,N8.lrps.htm
+,LRP022b,22.688,Culvert,Box Culvert,23.5646389,90.2987774,,N8.lrps.htm
+,LRP022c,23.055,Culvert,Box Culvert,23.5614167,90.2986386,,N8.lrps.htm
+,LRP023,23.2,Km Post,Srunagar 2 km,23.5572778,90.2988052,,N8.lrps.htm
+,LRP023a,23.988,Culvert,Box Culvert,23.5530556,90.2996941,,N8.lrps.htm
+,LRP024,24.2,Km Post,Km post missing,23.5510278,90.2999441,,N8.lrps.htm
+,LRP024a,24.387,Bridge,Bridge start,23.5493608,90.2999163,,N8.lrps.htm
+,LRP024b,24.402,Bridge,Bridge end,23.5492219,90.2998886,,N8.lrps.htm
+,LRP024c,24.565,Bridge,Bridge start,23.5479997,90.2993608,,N8.lrps.htm
+,LRP024d,24.582,Bridge,Bridge end,23.5477219,90.2992774,,N8.lrps.htm
+,LRP024e,24.768,Culvert,Box Culvert,23.546333,90.2983052,,N8.lrps.htm
+,LRP024f,24.828,Bridge,Bridge start,23.5458886,90.2979997,,N8.lrps.htm
+,LRP024g,24.87,Bridge,Bridge end,23.5455552,90.2977497,,N8.lrps.htm
+,LRP025,25.2,Km Post,Maowa 9 km,23.5430274,90.2959997,,N8.lrps.htm
+,LRP025a,25.205,"Side Road, Left",Z8004 to Hatimara,23.5430274,90.2959997,,N8.lrps.htm
+,LRP025b,25.22,"Side Road, Right",R 820 to Nawabganj,23.542833,90.295833,,N8.lrps.htm
+,LRP025c,25.244,Bridge,Bridge start,23.5426941,90.2957497,,N8.lrps.htm
+,LRP025d,25.262,Bridge,Bridge end,23.542583,90.2956663,,N8.lrps.htm
+,LRP025e,25.455,Culvert,Box Culvert,23.5411663,90.2846386,,N8.lrps.htm
+,LRP025f,26.185,Culvert,Box Culvert,23.5355274,90.2910274,,N8.lrps.htm
+,LRP026,26.2,Km Post,Maowa 8 km,23.5352497,90.2909719,,N8.lrps.htm
+,LRP026a,27.14,Bridge,Bridge start,23.5274993,90.288333,,N8.lrps.htm
+,LRP026b,27.2,Bridge,Bridge end,23.5269993,90.2877497,,N8.lrps.htm
+,LRP027,27.22,Km Post,Maowa 7 km,23.5268604,90.287583,,N8.lrps.htm
+,LRP027a,28.048,Culvert,Box Culvert,23.5212216,90.2821938,,N8.lrps.htm
+,LRP028,28.2,Km Post,Maowa 6 km,23.5203604,90.2814438,,N8.lrps.htm
+,LRP029,29.2,Km Post,Bhanga 38 km,23.5122778,90.2772216,,N8.lrps.htm
+,LRP030,30.2,Km Post,Maowa 4 km,23.5038611,90.2737493,,N8.lrps.htm
+,LRP030a,30.35,Culvert,Box Culvert,23.5026111,90.2732493,,N8.lrps.htm
+,LRP030b,31.015,Bridge,Bridge start,23.4982774,90.271416,,N8.lrps.htm
+,LRP030c,31.07,Bridge,Bridge end,23.497833,90.2712771,,N8.lrps.htm
+,LRP031,31.2,Km Post,Barisal 132 km,23.4954719,90.2702493,,N8.lrps.htm
+,LRP031a,31.668,Culvert,Box Culvert,23.4914163,90.2691938,,N8.lrps.htm
+,LRP032,32.2,Km Post,Maowa 2 km,23.4866941,90.2681104,,N8.lrps.htm
+,LRP032a,32.325,Culvert,Box Culvert,23.485583,90.2678882,,N8.lrps.htm
+,LRP033,33.2,Km Post,Km post missing,23.4778049,90.2661111,,N8.lrps.htm
+,LRP033a,33.719,"Side Road, Left",R 812 to Nagarhat,23.4732771,90.2653056,,N8.lrps.htm
+,LRP034,34.2,Km Post,Km post missing,23.4740271,90.2608056,,N8.lrps.htm
+,LRP034a,34.85,Others,River start/End of Munshiganj Division,23.4737216,90.2545,,N8.lrps.htm
+,LRP044a,45.2,Others,"River end , Start of Madaripur Division",23.4138889,90.1801104,,N8.lrps.htm
+,LRP045,45.201,Km Post,Km post missing,23.4138889,90.1801104,,N8.lrps.htm
+,LRP045a,45.202,Others,Start of Madaripur road Division,23.4138889,90.1801104,,N8.lrps.htm
+,LRP045b,45.81,Bridge,Baily Bridge start,23.4101389,90.174416,,N8.lrps.htm
+,LRP045c,45.842,Bridge,Baily Bridge end,23.4099444,90.1740827,,N8.lrps.htm
+,LRP046,46.2,Km Post,Km post missing,23.4086944,90.1721104,,N8.lrps.htm
+,LRP047,47.2,Km Post,Barisal 117 km,23.4041389,90.1803327,,N8.lrps.htm
+,LRP048,48.2,Km Post,Khulna 139 km,23.4026944,90.15425,,N8.lrps.htm
+,LRP048a,48.36,Bridge,Bridge start,23.4029722,90.1526944,,N8.lrps.htm
+,LRP048b,48.406,Bridge,Bridge end,23.4030833,90.15275,,N8.lrps.htm
+,LRP048c,48.46,"Side Road, Left",Z 8011 to Shibchor,23.4031667,90.1516944,,N8.lrps.htm
+,LRP049,49.2,Km Post,Khulna 138 km,23.4029444,90.1446108,,N8.lrps.htm
+,LRP050,50.2,Km Post,Gopalganj 86 km,23.4013889,90.1350274,,N8.lrps.htm
+,LRP050a,50.34,Bridge,Bridge start,23.4010278,90.1337774,,N8.lrps.htm
+,LRP050b,50.37,Bridge,Bridge end,23.4008611,90.1334997,,N8.lrps.htm
+,LRP050c,50.675,Culvert,Box Culvert,23.3995552,90.1307493,,N8.lrps.htm
+,LRP051,51.2,Km Post,Bhatiapara 54 km,23.3967219,90.1267216,,N8.lrps.htm
+,LRP052,52.2,Km Post,Infor.missing,23.3880552,90.1256382,,N8.lrps.htm
+,LRP052a,52.785,Bridge,Bridge start,23.3829993,90.1250827,,N8.lrps.htm
+,LRP052b,52.86,Bridge,Bridge end,23.3824438,90.1247216,,N8.lrps.htm
+,LRP053,53.2,Km Post,Info missing,23.3803604,90.1223327,,N8.lrps.htm
+,LRP053a,53.62,Bridge,Bridge start,23.3792216,90.1184438,,N8.lrps.htm
+,LRP053b,54.07,Bridge,Bridge end,23.3783049,90.1141389,,N8.lrps.htm
+,LRP054,54.2,Km Post,Gopalganj 82 km,23.3780271,90.1127778,,N8.lrps.htm
+,LRP055,55.2,Km Post,Barisal 109 km,23.3760827,90.1035556,,N8.lrps.htm
+,LRP056,56.2,Km Post,Barisal 108 km,23.3723882,90.094833,,N8.lrps.htm
+,LRP056a,56.309,"Side Road, Left",Z 8608 to Dattapara,23.3723049,90.0937774,,N8.lrps.htm
+,LRP057,57.2,Km Post,Khulna 130 km,23.3710827,90.0849163,,N8.lrps.htm
+,LRP058,58.2,Km Post,Khulna 129 km,23.3695549,90.0755271,,N8.lrps.htm
+,LRP058a,59.18,Culvert,Box Culvert,23.3693882,90.066,,N8.lrps.htm
+,LRP059,59.2,Km Post,Gopalganj 77 km,23.3693882,90.0658056,,N8.lrps.htm
+,LRP059a,59.51,"Side Road, Right",Z 7108 to Sardarpur,23.3694716,90.0628611,,N8.lrps.htm
+,LRP060,60.2,Km Post,Gopalgonj 76 km,23.3698882,90.0559444,,N8.lrps.htm
+,LRP060a,60.8,Bridge,Bridge start,23.3699993,90.0500833,,N8.lrps.htm
+,LRP060b,60.824,Bridge,Bridge end,23.3699993,90.0498608,,N8.lrps.htm
+,LRP061,61.2,Km Post,Barisal 103 km,23.3700827,90.0462497,,N8.lrps.htm
+,LRP061a,61.22,Culvert,Box culvert,23.3701382,90.0459719,,N8.lrps.htm
+,LRP062,62.2,Km Post,Bhanga 5 km,23.3704716,90.0366386,,N8.lrps.htm
+,LRP062a,62.565,Culvert,Box Culvert,23.3715271,90.0329993,,N8.lrps.htm
+,LRP063,63.2,Km Post,Khulna 124 km,23.3737771,90.027416,,N8.lrps.htm
+,LRP063a,63.95,Bridge,Bridge start,23.3760549,90.020416,,N8.lrps.htm
+,LRP063b,63.988,Bridge,Bridge end,23.3761382,90.020166,,N8.lrps.htm
+,LRP064,64.2,Km Post,Faridpur 33 km,23.3766938,90.018166,,N8.lrps.htm
+,LRP064a,64.635,Culvert,Box Culvert,23.3778327,90.0141667,,N8.lrps.htm
+,LRP064b,65.14,Culvert,Box Culvert,23.3792216,90.0093889,,N8.lrps.htm
+,LRP065,65.2,Km Post,Infor.missing,23.3794438,90.0086944,,N8.lrps.htm
+,LRP065a,65.6,Bridge,Baily Bridge start,23.3807771,90.0053056,,N8.lrps.htm
+,LRP065b,65.679,Bridge,Baily Bridge end,23.3810271,90.00475,,N8.lrps.htm
+,LRP066,66.2,Km Post,Barisal 98 km,23.3830827,89.9999163,,N8.lrps.htm
+,LRP067,67.2,Km Post,Km post missing,23.3869441,89.9911386,,N8.lrps.htm
+,LRP067a,67.275,Culvert,Box culvert,23.387333,89.990333,,N8.lrps.htm
+,LRP067b,67.557,Bridge,Bridge start,23.3883608,89.9879719,,N8.lrps.htm
+,LRP067c,67.585,Bridge,Bridge end,23.3884997,89.9877497,,N8.lrps.htm
+,LRP067d,67.995,"Side Road, Right","N 804 to Faridpur ,N 805 to Gopalgonj",23.3899441,89.9840552,,N8.lrps.htm
+,LRP068,68.2,Km Post,Km post missing,23.3882497,89.9838886,,N8.lrps.htm
+,LRP068a,68.37,Bridge,Bridge start,23.3867219,89.9834719,,N8.lrps.htm
+,LRP068b,68.48,Bridge,Bridge end,23.3856663,89.9997774,,N8.lrps.htm
+,LRP069,68.751,Km Post,"Barisal 93 km,Madaripur 43 km",23.383166,89.9989441,,N8.lrps.htm
+,LRP070,69.751,Km Post,Infor.missing,23.3756938,89.9874441,,N8.lrps.htm
+,LRP070a,70.003,Culvert,Box Culvert,23.3738882,89.9889719,,N8.lrps.htm
+,LRP071,70.751,Km Post,"Barisal 91 km,Madaripur 41 km,Takerhat 16 km",23.3686382,89.9934719,,N8.lrps.htm
+,LRP071a,71.435,Culvert,Box culvert,23.3636944,89.9974719,,N8.lrps.htm
+,LRP072,71.751,Km Post,"Barisal 90 km, Madaripur 40 km ,Takerhat 15 km",23.36175,89.9990552,,N8.lrps.htm
+,LRP072a,71.891,Culvert,Box culvert,23.3604444,90.0000833,,N8.lrps.htm
+,LRP072b,72.531,Bridge,Bridge start,23.35475,89.999833,,N8.lrps.htm
+,LRP072c,72.545,Bridge,Bridge end,23.3545833,89.9998052,,N8.lrps.htm
+,LRP073,72.751,Km Post,Km post missing,23.3531111,89.9996663,,N8.lrps.htm
+,LRP073a,73.559,Culvert,Box culvert,23.345583,89.9984163,,N8.lrps.htm
+,LRP074,73.751,Km Post,Infor.missing,23.343833,89.9981386,,N8.lrps.htm
+,LRP074a,74.153,Bridge,Bridge start,23.3402497,89.9981386,,N8.lrps.htm
+,LRP074b,74.167,Bridge,Bridge end,23.3401386,89.9981663,,N8.lrps.htm
+,LRP075,74.751,Km Post,Km post missing,23.3349163,89.9991108,,N8.lrps.htm
+,LRP075a,75.246,Culvert,Box Culvert,23.3222771,89.9988608,,N8.lrps.htm
+,LRP076,75.691,Km Post,"Barisal 86 km,Madaripur 36 km,Takerhat 11 km",23.3265827,89.9982774,,N8.lrps.htm
+,LRP076a,76.018,Culvert,Box Culvert,23.3236104,89.9978608,,N8.lrps.htm
+,LRP076b,76.685,Culvert,Box Culvert,23.3176104,89.9971108,,N8.lrps.htm
+,LRP077,76.821,Km Post,"Barisal 85 km,Madaripur 35 ,Takerhat 10 km",23.3165,89.9971386,,N8.lrps.htm
+,LRP077a,77.211,Culvert,Box Culvert,23.313,89.9977774,,N8.lrps.htm
+,LRP077b,77.591,"Side Road, Right",Z 8021 to Muksudpur,23.3092778,89.9982497,,N8.lrps.htm
+,LRP077c,77.691,Culvert,Box Culvert,23.3086111,89.9983608,,N8.lrps.htm
+,LRP078,77.821,Km Post,Km post missing,23.3076389,89.9984997,,N8.lrps.htm
+,LRP079,78.731,Km Post,"Barisal 83 km,Madaripur 32 km,Takerhat 8 km",23.2997497,89.9999163,,N8.lrps.htm
+,LRP079a,78.913,Culvert,Box Culvert,23.298083,90.0001944,,N8.lrps.htm
+,LRP079b,79.291,Bridge,Bridge start,23.2951386,90.0016111,,N8.lrps.htm
+,LRP079c,79.431,Bridge,Bridge end,23.2947219,90.0028889,,N8.lrps.htm
+,LRP080,79.71,Km Post,"Barisal 82 km,Madaripur 31 km,Takerhat 07 km",23.293083,90.0046389,,N8.lrps.htm
+,LRP080a,79.733,Culvert,Box Culvert,23.2929163,90.0047778,,N8.lrps.htm
+,LRP080b,80.406,Culvert,Box Culvert,23.2882497,90.0089444,,N8.lrps.htm
+,LRP081,80.71,Km Post,Km post missing,23.2859719,90.0107778,,N8.lrps.htm
+,LRP081a,81.355,Culvert,Box Culvert,23.2807493,90.0127778,,N8.lrps.htm
+,LRP082,81.71,Km Post,"Barisal 80 km,Madaripur 29 km,Takerhat 5 km",23.2778882,90.0134444,,N8.lrps.htm
+,LRP082a,82.045,Culvert,Box Culvert,23.2745827,90.0141667,,N8.lrps.htm
+,LRP083,82.67,Km Post,"Barisal 79 km,Madaripur 28 km,Takerhat 4 km",23.2689716,90.0154167,,N8.lrps.htm
+,LRP083a,82.965,Bridge,Bridge start,23.2663889,90.0159167,,N8.lrps.htm
+,LRP083b,82.985,Bridge,Bridge start,23.2662778,90.0159444,,N8.lrps.htm
+,LRP084,83.69,Km Post,"Barisal 78 km, Madaripur 27 km, Takerhat 3 km",23.2601667,90.0172216,,N8.lrps.htm
+,LRP084a,84.62,Bridge,Bridge start,23.2517778,90.0191938,,N8.lrps.htm
+,LRP084b,84.637,Bridge,Bridge end,23.2516944,90.0191938,,N8.lrps.htm
+,LRP085,84.69,Km Post,Km post missing,23.2513056,90.0192493,,N8.lrps.htm
+,LRP085a,85.415,Bridge,Bridge start,23.2447774,90.0207493,,N8.lrps.htm
+,LRP085b,85.446,Bridge,Bridge end,23.2445274,90.0207771,,N8.lrps.htm
+,LRP086,85.67,Km Post,"Barisal 77 km,Madaripur 25 km,Takerhat 01 km",23.2429719,90.0211382,,N8.lrps.htm
+,LRP087,86.66,Km Post,Barisal 76 km Madaripur 24 km Takerhat 00 km,23.2336386,90.0205271,,N8.lrps.htm
+,LRP087a,86.757,"Side Road, Left",Z 8608 to Dattapara,23.2327493,90.0204716,,N8.lrps.htm
+,LRP087b,86.94,Bridge,Baily Bridge start,23.2311938,90.0203327,,N8.lrps.htm
+,LRP087c,87.062,Bridge,Baily Bridge end,23.2301382,90.0202216,,N8.lrps.htm
+,LRP087d,87.395,"Side Road, Right",R 850 to Gopalganj,23.2272216,90.0199993,,N8.lrps.htm
+,LRP088,87.66,Km Post,Km post missing,23.2246382,90.0198049,,N8.lrps.htm
+,LRP088a,88.42,Bridge,Bridge start,23.2186104,90.022166,,N8.lrps.htm
+,LRP088b,88.454,Bridge,Bridge end,23.2183882,90.0223604,,N8.lrps.htm
+,LRP089,88.66,Km Post,"Barisal 73 km,Bhurghata 26 km,Madaripur 22 km",23.2168882,90.0235271,,N8.lrps.htm
+,LRP089a,89.098,Culvert,Box culvert,23.2136667,90.0260271,,N8.lrps.htm
+,LRP090,89.66,Km Post,"Barisal 72 km, Madaripur 21 km,Bhurghata 25 km",23.2095278,90.0291382,,N8.lrps.htm
+,LRP090a,90.51,Bridge,Bridge start,23.2051667,90.0354441,,N8.lrps.htm
+,LRP090b,90.57,Bridge,Bridge end,23.2050833,90.0358886,,N8.lrps.htm
+,LRP091,90.66,Km Post,Barisal 71 km Madaripur 20 km Bhurghata 24 km,23.2049167,90.0367219,,N8.lrps.htm
+,LRP091a,91.33,Culvert,Box Culvert,23.2036944,90.0431941,,N8.lrps.htm
+,LRP092,91.62,Km Post,Barisal 70 km Madaripur 19 km Bhurghata 23 km,23.2032222,90.0459163,,N8.lrps.htm
+,LRP092a,92.352,Culvert,Box Culvert,23.2018611,90.0528889,,N8.lrps.htm
+,LRP093,92.62,Km Post,Km post missing,23.2012222,90.0555278,,N8.lrps.htm
+,LRP093a,92.76,Culvert,Box Culvert,23.201,90.0568333,,N8.lrps.htm
+,LRP093b,93.6,Culvert,Box Culvert,23.199833,90.0629167,,N8.lrps.htm
+,LRP094,93.62,Km Post,"Barisal 68 km,Madaripur 17 km,Bhurghata 21 km",23.1995274,90.0648333,,N8.lrps.htm
+,LRP094a,93.805,Bridge,Bridge start,23.199083,90.0666938,,N8.lrps.htm
+,LRP094b,93.83,Bridge,Bridge end,23.1990552,90.0670827,,N8.lrps.htm
+,LRP095,94.64,Km Post,"Barisal 67 km,Madaripur 16 km,Bhurghata 20 km",23.1959997,90.0737771,,N8.lrps.htm
+,LRP095a,95.26,Bridge,Bridge start,23.1927774,90.0787216,,N8.lrps.htm
+,LRP095b,95.297,Bridge,Bridge end,23.192583,90.0789993,,N8.lrps.htm
+,LRP096,95.64,Km Post,"Barisal 66 km, Madaripur 15 km ,Bhurghata 19 km",23.190833,90.0816104,,N8.lrps.htm
+,LRP096a,96.09,Culvert,Box Culvert,23.1884719,90.0850552,,N8.lrps.htm
+,LRP097,96.64,Km Post,"Barisal 65 km, Madaripur 14 km ,Bhurghata 18 km",23.185833,90.0889997,,N8.lrps.htm
+,LRP097a,96.645,Bridge,Baily Bridge start,23.1856108,90.0893886,,N8.lrps.htm
+,LRP097b,96.766,Bridge,Baily Bridge end,23.1849719,90.0903886,,N8.lrps.htm
+,LRP097c,97.367,Culvert,Box Culvert,23.1818604,90.0951663,,N8.lrps.htm
+,LRP098,97.65,Km Post,"Barisal 64 km,Madaripur 13 km,Bhurghata 17 km",23.180416,90.0974163,,N8.lrps.htm
+,LRP098a,97.91,Bridge,Bridge start,23.1795827,90.0998608,,N8.lrps.htm
+,LRP098b,97.967,Bridge,Bridge end,23.179416,90.1004167,,N8.lrps.htm
+,LRP099,98.64,Km Post,"Barisal 63 km, Madaripur 12 km ,Bhurghata 16 km,",23.1776382,90.1064167,,N8.lrps.htm
+,LRP099a,99.325,Bridge,Bridge start,23.1757216,90.1128889,,N8.lrps.htm
+,LRP099b,99.344,Bridge,Bridge end,23.175666,90.1130833,,N8.lrps.htm
+,LRP100,99.63,Km Post,"Barisal 62 km, Madaripur 11 km, Bhurghata 15 km",23.1748882,90.1156667,,N8.lrps.htm
+,LRP100a,100.47,Bridge,Start of Bridge,23.1726938,90.1233604,,N8.lrps.htm
+,LRP100b,100.514,Bridge,End of Bridge,23.1725827,90.1237771,,N8.lrps.htm
+,LRP101,100.63,Km Post,"Barisal 61 km, Madaripur 10 km ,Bhurghata 14 km",23.1721938,90.1248882,,N8.lrps.htm
+,LRP102,101.63,Km Post,"Barisal 60 km, Madaripur 09 km ,Bhurghata 13 km",23.1655,90.130916,,N8.lrps.htm
+,LRP102a,101.8,Culvert,Box Culvert,23.1640556,90.131916,,N8.lrps.htm
+,LRP102b,102.352,Bridge,Bridge start,23.1599722,90.134833,,N8.lrps.htm
+,LRP102c,102.392,Bridge,Bridge end,23.1596944,90.1350552,,N8.lrps.htm
+,LRP103,102.63,Km Post,Km post missing,23.158,90.1362219,,N8.lrps.htm
+,LRP103a,102.8,Culvert,Box Culvert,23.1566389,90.1372774,,N8.lrps.htm
+,LRP103b,103.12,"Side Road, Left",R 860 to Madaripur,23.1541389,90.1391941,,N8.lrps.htm
+,LRP103c,103.553,Culvert,Box Culvert,23.1510556,90.1414997,,N8.lrps.htm
+,LRP104,103.61,Km Post,Infor.missing,23.1508056,90.1417219,,N8.lrps.htm
+,LRP104a,104.397,Culvert,Box Culvert,23.1449163,90.1461108,,N8.lrps.htm
+,LRP105,104.61,Km Post,Info missing,23.1432774,90.1473052,,N8.lrps.htm
+,LRP105a,105.108,Culvert,Box Culvert,23.139583,90.15,,N8.lrps.htm
+,LRP106,105.59,Km Post,Infor.missing,23.1359719,90.1526944,,N8.lrps.htm
+,LRP106a,105.978,Culvert,Box Culvert,23.1330827,90.1548333,,N8.lrps.htm
+,LRP107,106.535,Km Post,"Barisal 55 km,Bhorghata 08 km,",23.1293327,90.1582778,,N8.lrps.htm
+,LRP107a,106.565,Bridge,Bridge start,23.1291382,90.1585556,,N8.lrps.htm
+,LRP107b,106.593,Bridge,Bridge end,23.1289438,90.1587222,,N8.lrps.htm
+,LRP108,107.58,Km Post,"Bhurghata 07 km,Barisal 54 km",23.1227216,90.1656389,,N8.lrps.htm
+,LRP108a,108.015,Bridge,Bridge start,23.1199438,90.168666,,N8.lrps.htm
+,LRP108b,108.026,Bridge,Bridge end,23.1198604,90.1687493,,N8.lrps.htm
+,LRP109,108.54,Km Post,Infor.missing,23.1166389,90.1722216,,N8.lrps.htm
+,LRP109a,109.035,Bridge,Bridge start,23.1134722,90.175666,,N8.lrps.htm
+,LRP109b,109.053,Bridge,Bridge end,23.1133056,90.1758049,,N8.lrps.htm
+,LRP109c,109.36,Bridge,Bridge start,23.1114722,90.1778604,,N8.lrps.htm
+,LRP109d,109.373,Bridge,Bridge end,23.1114722,90.1778604,,N8.lrps.htm
+,LRP110,110.54,Km Post,"Barisal 51 km,Bhurghata 4 km",23.1038333,90.1859163,,N8.lrps.htm
+,LRP111,110.541,Km Post,"Barisal 51 km,Bhurghata 4 km",23.1038333,90.1859163,,N8.lrps.htm
+,LRP111a,110.76,Bridge,Bridge start,23.1024167,90.187583,,N8.lrps.htm
+,LRP111b,110.774,Bridge,Bridge end,23.1023889,90.1876663,,N8.lrps.htm
+,LRP111c,110.798,Cross Road,Z 8603,23.1021944,90.1878052,,N8.lrps.htm
+,LRP112,111.5,Km Post,Barisal 50 km,23.0976941,90.192583,,N8.lrps.htm
+,LRP112a,111.533,Culvert,Box Culvert,23.0974997,90.1927774,,N8.lrps.htm
+,LRP113,112.58,Km Post,"Barisal 49 km,Bhurghata 02 km",23.0913608,90.1992774,,N8.lrps.htm
+,LRP113a,113.5,Bridge,Bridge start,23.0853052,90.2056389,,N8.lrps.htm
+,LRP113b,113.52,Bridge,Bridge end,23.0851386,90.2056944,,N8.lrps.htm
+,LRP114,113.58,Km Post,Km post missing,23.0764993,90.2092222,,N8.lrps.htm
+,LRP115,114.54,Km Post,"Barisal 47 km,Bhurghata 00 km",23.0764993,90.2092222,,N8.lrps.htm
+,LRP115a,114.773,"Side Road, Left",Z 8604 to Kalkini,23.0744438,90.2100556,,N8.lrps.htm
+,LRP115b,115.04,Others,Start of Barisal road Division,23.0723327,90.2109167,,N8.lrps.htm
+,LRP115b,115.04,Others,Start of Barisal road Division,23.0723327,90.2109167,,N8.lrps.htm
+,LRP115c,115.041,Bridge,Bridge start,23.0723327,90.2109167,,N8.lrps.htm
+,LRP115d,115.096,Bridge,Bridge end,23.0718604,90.2111111,,N8.lrps.htm
+,LRP116,115.64,Km Post,"Barisal 47 km,Jhalokhati 65 km",23.067166,90.2106667,,N8.lrps.htm
+,LRP116a,116.414,Culvert,Box Culvert,23.0605278,90.2090278,,N8.lrps.htm
+,LRP117,116.64,Km Post,"Barisal 46 km, Bhola 80 km",23.0583611,90.2090556,,N8.lrps.htm
+,LRP117a,117.038,Culvert,Box Culvert,23.0551944,90.2089167,,N8.lrps.htm
+,LRP118,117.65,Km Post,"Barisal 46 km,Jalokati 63 km",23.0497497,90.2091944,,N8.lrps.htm
+,LRP118a,117.752,Culvert,Box Culvert,23.048833,90.2092778,,N8.lrps.htm
+,LRP119,118.62,Km Post,"Barisal 44 km,Potuakhali 82 km",23.0411108,90.2095278,,N8.lrps.htm
+,LRP119a,119.015,Culvert,Box Culvert,23.0339163,90.2090556,,N8.lrps.htm
+,LRP120,119.65,Km Post,"Barisal 43 km,Kuakata 153 km",23.0317216,90.2088889,,N8.lrps.htm
+,LRP120a,120.227,Culvert,Box Culvert,23.0268049,90.2089722,,N8.lrps.htm
+,LRP121,120.62,Km Post,"Barisal 42 km,Bhola 76 km",23.0238049,90.2109722,,N8.lrps.htm
+,LRP122,121.61,Km Post,"Barisal 41 km,Patuakhali 79 km",23.0160556,90.2154444,,N8.lrps.htm
+,LRP122a,121.72,Bridge,Bridge start,23.0151111,90.2157222,,N8.lrps.htm
+,LRP122b,121.751,Bridge,Bridge end,23.0148611,90.2158333,,N8.lrps.htm
+,LRP122c,122.463,Culvert,Box culvert,23.0091944,90.2188882,,N8.lrps.htm
+,LRP123,122.68,Km Post,"Barisal 40 km,Patuakali 78 km",23.0074167,90.2199716,,N8.lrps.htm
+,LRP123a,123.161,Bridge,Bridge start,23.0036389,90.2221938,,N8.lrps.htm
+,LRP123b,123.202,Bridge,Bridge end,23.0033333,90.2222493,,N8.lrps.htm
+,LRP124,123.68,Km Post,Km post missing,22.998583,90.2222216,,N8.lrps.htm
+,LRP124a,123.86,Bridge,Bridge start,22.9973052,90.2221382,,N8.lrps.htm
+,LRP124b,123.888,Bridge,Bridge end,22.997083,90.2220827,,N8.lrps.htm
+,LRP125,124.62,Km Post,"Barisal 38 km,Bhola 78 km",22.990583,90.2223604,,N8.lrps.htm
+,LRP125a,125.312,Culvert,Box culvert,22.9843052,90.222416,,N8.lrps.htm
+,LRP126,125.62,Km Post,"Barisal 38 km,Jhalokati 55 km",22.9815827,90.2224438,,N8.lrps.htm
+,LRP126a,126.098,Culvert,Box Culvert,22.9773604,90.222666,,N8.lrps.htm
+,LRP126b,126.36,Bridge,Bridge start,22.9749993,90.2224438,,N8.lrps.htm
+,LRP126c,126.404,Bridge,Bridge end,22.9746104,90.222416,,N8.lrps.htm
+,LRP127,126.62,Km Post,Km post missing,22.9726382,90.222416,,N8.lrps.htm
+,LRP127a,126.635,"Side Road, Right",Z 8031 to Gopalgonj,22.9725549,90.2222771,,N8.lrps.htm
+,LRP128,127.63,Km Post,"Barisal 35 km,Jhalikati 53 km",22.9640278,90.2243049,,N8.lrps.htm
+,LRP128a,127.763,Bridge,Bridge start,22.9629167,90.2247493,,N8.lrps.htm
+,LRP128b,127.8,Bridge,Bridge end,22.9626667,90.2248327,,N8.lrps.htm
+,LRP129,128.63,Km Post,"Barisal 34 km,Patukhali 72 km",22.9554722,90.2271382,,N8.lrps.htm
+,LRP129a,129.214,Culvert,Box Culvert,22.9506667,90.229166,,N8.lrps.htm
+,LRP129b,129.563,Culvert,Box Culvert,22.9477497,90.2300827,,N8.lrps.htm
+,LRP130,129.63,Km Post,"Barisal 33 km,Jalokati 51 km",22.9472219,90.2303604,,N8.lrps.htm
+,LRP130a,129.927,Culvert,Box Culvert,22.9448052,90.2316382,,N8.lrps.htm
+,LRP130b,130.66,Culvert,Box Culvert,22.9389441,90.234583,,N8.lrps.htm
+,LRP131,130.7,Km Post,"Barisal 32 km,Patuakhali 70 km",22.938833,90.2346386,,N8.lrps.htm
+,LRP132,131.7,Km Post,Km post missing,22.9312771,90.2399997,,N8.lrps.htm
+,LRP132a,131.821,Bridge,Bridge start,22.930416,90.240583,,N8.lrps.htm
+,LRP132b,131.832,Bridge,Bridge end,22.9303327,90.2406663,,N8.lrps.htm
+,LRP132c,132.397,Culvert,Box Culvert,22.9259993,90.2425274,,N8.lrps.htm
+,LRP133,132.68,Km Post,"Barisal 30 km,Bhola 64 km",22.9233327,90.2430552,,N8.lrps.htm
+,LRP133a,133.22,Culvert,Box Culvert,22.9179716,90.2441386,,N8.lrps.htm
+,LRP134,133.71,Km Post,"Barisal 29 km,Jhalokati 47 km",22.91375,90.2454163,,N8.lrps.htm
+,LRP134a,133.981,Culvert,Box Culvert,22.9115278,90.2461386,,N8.lrps.htm
+,LRP134b,134.58,Bridge,Culvert start,22.9066944,90.2486108,,N8.lrps.htm
+,LRP134c,134.602,Bridge,Bridge end,22.9065556,90.2486663,,N8.lrps.htm
+,LRP135,134.68,Km Post,Infor.missing,22.9058333,90.2489163,,N8.lrps.htm
+,LRP136,135.69,Km Post,"Barisal 27 km,Kuakata 137 km",22.8973052,90.2529167,,N8.lrps.htm
+,LRP136a,135.858,Culvert,Box Culvert,22.8961386,90.2535833,,N8.lrps.htm
+,LRP136b,136.445,Culvert,Box Culvert,22.8914997,90.2563889,,N8.lrps.htm
+,LRP137,136.73,Km Post,"Barisal 26 km,Bhola 60 km",22.8894441,90.2573889,,N8.lrps.htm
+,LRP137a,136.784,Bridge,Bridge start,22.8888886,90.2576111,,N8.lrps.htm
+,LRP137b,136.816,Bridge,Bridge end,22.8887219,90.2577222,,N8.lrps.htm
+,LRP137c,137.492,Culvert,Box Culvert,22.883166,90.2605278,,N8.lrps.htm
+,LRP138,137.72,Km Post,"Barisal 25 km,Jhalokati 42 km",22.8813327,90.2614722,,N8.lrps.htm
+,LRP139,138.73,Km Post,"Barisal 24 km,Patuakhali 62 km",22.8729716,90.2654167,,N8.lrps.htm
+,LRP140,139.79,Km Post,"Barisal 22 km,Kuakata 132 km",22.8651667,90.2644722,,N8.lrps.htm
+,LRP141,140.79,Km Post,"Barisal 21 km,Bhola 56 km",22.8598333,90.2568333,,N8.lrps.htm
+,LRP142,141.79,Km Post,"Barisal 20 km,Patuakali 58 km",22.8523611,90.2518056,,N8.lrps.htm
+,LRP143,142.79,Km Post,"Pirojpur 97 km,Kuakata 129 km",22.8434163,90.2515556,,N8.lrps.htm
+,LRP144,143.79,Km Post,"Barisal 19 km,Bhola 52 km",22.8349163,90.2539722,,N8.lrps.htm
+,LRP144a,144.255,Cross Road,Z 8038,22.8314438,90.2565556,,N8.lrps.htm
+,LRP145,144.755,Km Post,"Barisal 18 km,Jhalokati 34 km",22.8278882,90.2594722,,N8.lrps.htm
+,LRP145a,145.188,Bridge,Bridge start,22.8251382,90.26225,,N8.lrps.htm
+,LRP145b,145.48,Bridge,Bridge end,22.823666,90.2646111,,N8.lrps.htm
+,LRP146,145.755,Km Post,Km post missing,22.8220827,90.2671382,,N8.lrps.htm
+,LRP147,146.805,Km Post,"Barisal 17 km,Patuakali 54 km",22.8164722,90.2747771,,N8.lrps.htm
+,LRP147a,147.715,Bridge,Shikarpur Bridge start,22.8099722,90.2799716,,N8.lrps.htm
+,LRP148,147.805,Km Post,Within Bridge,22.80925,90.2803327,,N8.lrps.htm
+,LRP148a,148.103,Bridge,Bridge end,22.8068333,90.2816104,,N8.lrps.htm
+,LRP149,148.545,Km Post,"Barisal 16 km,Patuakhali 53 km",22.8034167,90.2834441,,N8.lrps.htm
+,LRP150,149.545,Km Post,"Barisal 15 km,Kuakata 125 km",22.797333,90.289583,,N8.lrps.htm
+,LRP151,150.545,Km Post,"Barisal 14 km,Bhola 48 km",22.7941663,90.2997497,,N8.lrps.htm
+,LRP151a,151.04,"Side Road, Left",Z 8034 to Babugonj,22.790833,90.3000556,,N8.lrps.htm
+,LRP151b,151.135,Bridge,Bridge start,22.7899997,90.2997774,,N8.lrps.htm
+,LRP151c,151.203,Bridge,Bridge end,22.7895274,90.2996386,,N8.lrps.htm
+,LRP152,151.625,Km Post,"Barisal 13 km,Jhalokati 33 km",22.7859441,90.2998608,,N8.lrps.htm
+,LRP152a,152.04,Culvert,Box Culvert,22.7826938,90.302,,N8.lrps.htm
+,LRP153,152.625,Km Post,"Barisal 12 km,Patuakhali 50 km",22.778416,90.30475,,N8.lrps.htm
+,LRP153a,152.772,Culvert,Box Culvert,22.7770549,90.3055556,,N8.lrps.htm
+,LRP154,153.555,Km Post,"Barisal 11 km,Kuakata 121 km",22.7708604,90.3088611,,N8.lrps.htm
+,LRP154a,153.932,Culvert,Box Culvert,22.7675549,90.3104722,,N8.lrps.htm
+,LRP155,154.545,Km Post,"Barisal 10 km,Bhola 44 km",22.7794716,90.3131944,,N8.lrps.htm
+,LRP155a,154.81,Culvert,Box Culvert,22.76075,90.3143056,,N8.lrps.htm
+,LRP156,155.555,Km Post,"Barisal 9 km,Jalokati 26 km",22.7548056,90.3009722,,N8.lrps.htm
+,LRP156a,156.04,"Side Road, Right",Z 8033 to Banaripara,22.7508056,90.3199438,,N8.lrps.htm
+,LRP157,156.555,Km Post,Km post broken,22.7461663,90.3218327,,N8.lrps.htm
+,LRP157a,156.741,Culvert,Box culvert,22.7449441,90.3222216,,N8.lrps.htm
+,LRP158,157.565,Km Post,"Barisal 7 km,Kuakata 117 km",22.7384997,90.3258327,,N8.lrps.htm
+,LRP159,158.565,Km Post,"Barisal 6 km,Bhola 40 km",22.7484719,90.3322493,,N8.lrps.htm
+,LRP159a,159.18,Culvert,Box Culvert,22.7281938,90.3367774,,N8.lrps.htm
+,LRP160,159.605,Km Post,"Barisal 05 km,Jhalokati 23 km",22.7258327,90.3402497,,N8.lrps.htm
+,LRP160a,160.165,Culvert,Box Culvert,22.7211104,90.3421941,,N8.lrps.htm
+,LRP161,160.605,Km Post,Km post missing,22.7186104,90.3446386,,N8.lrps.htm
+,LRP161a,161.291,Culvert,Box Culvert,22.7114167,90.3334163,,N8.lrps.htm
+,LRP162,161.605,Km Post,Km post missing,22.7114167,90.3500833,,N8.lrps.htm
+,LRP163,162.605,Km Post,Km post missing,22.7015278,90.3534167,,N8.lrps.htm
+,LRP163a,162.685,"Side Road, Right",Z 8037 to Karapur,22.7010278,90.3534167,,N8.lrps.htm
+,LRP163b,162.77,Culvert,Box Culvert,22.70025,90.3534167,,N8.lrps.htm
+,LRP164,163.465,Km Post,"Barisal 01 km,Jhalokati 18 km",22.6940274,90.3543056,,N8.lrps.htm
+,LRP164a,163.637,Culvert,Box Culvert,22.6926941,90.3546667,,N8.lrps.htm
+,LRP165,164.445,Km Post,Barisal 0 km,22.685833,90.3565833,,N8.lrps.htm
+,LRP165,164.445,Km Post,Barisal 0 km,22.685833,90.3565833,,N8.lrps.htm
+,LRP165a,164.485,"Side Road, Left",N 809 to bhola,22.6856386,90.3567778,,N8.lrps.htm
+,LRP165b,164.685,Bridge,Bridge start,22.6840274,90.3555,,N8.lrps.htm
+,LRP165c,164.699,Bridge,Bridge end,22.6840274,90.3555,,N8.lrps.htm
+,LRP166,165.455,Km Post,"Patuakhali 37 km,Kuakata 109 km",22.6800271,90.3491386,,N8.lrps.htm
+,LRP166a,165.725,"Side Road, Right",R 870 to Jhalokati,22.678666,90.3471941,,N8.lrps.htm
+,LRP167,166.5,Km Post,Patuakhali 36 km,22.6717493,90.3468608,,N8.lrps.htm
+,LRP167a,166.918,Culvert,Box Culvert,22.6676938,90.3465552,,N8.lrps.htm
+,LRP167b,167.3,Bridge,Dapdapia Bridge start,22.6658056,90.3485274,,N8.lrps.htm
+,LRP168,167.5,Km Post,Within Dapdapia Bridge,22.6654167,90.3499163,,N8.lrps.htm
+,LRP169,168.5,Km Post,Within Bridge,22.6619722,90.3422497,,N8.lrps.htm
+,LRP169a,168.685,Bridge,Dapdapia Bridge end,22.6608333,90.3609444,,N8.lrps.htm
+,LRP169b,169.103,Bridge,Start of Bridge,22.6578611,90.3616111,,N8.lrps.htm
+,LRP169c,169.117,Bridge,End of Bridge,22.65775,90.3616111,,N8.lrps.htm
+,LRP169d,169.148,"Side Road, Left",N801,22.6568056,90.3617222,,N8.lrps.htm
+,LRP169e,169.358,Others,Start of Jhalokati road Division,22.6555,90.3618056,,N8.lrps.htm
+,LRP169e,169.358,Others,Start of Jhalokati road Division,22.6555,90.3618056,,N8.lrps.htm
+,LRP170,169.5,Km Post,Km post missing,22.6540833,90.3618333,,N8.lrps.htm
+,LRP170a,169.568,Bridge,Bridge Start,22.6536944,90.3619167,,N8.lrps.htm
+,LRP170b,169.857,Bridge,Bridge end,22.6512222,90.3620833,,N8.lrps.htm
+,LRP170c,170.204,Bridge,Bridge start,22.6481108,90.36225,,N8.lrps.htm
+,LRP170d,170.222,Bridge,Bridge end,22.6481108,90.36225,,N8.lrps.htm
+,LRP171,170.6,Km Post,Patuakhali 34 km,22.6444719,90.3621389,,N8.lrps.htm
+,LRP171a,170.64,Bridge,Bridge start,22.6441941,90.3621111,,N8.lrps.htm
+,LRP171b,170.65,Bridge,Bridge end,22.6441941,90.3621111,,N8.lrps.htm
+,LRP171c,171.214,Culvert,Box Culvert,22.6415274,90.3581667,,N8.lrps.htm
+,LRP171d,171.465,Culvert,Box Culvert,22.6408608,90.3559167,,N8.lrps.htm
+,LRP172,171.62,Km Post,Payuakhali 33 km,22.640333,90.3544167,,N8.lrps.htm
+,LRP172a,171.745,Culvert,Box Culvert,22.6399441,90.3533333,,N8.lrps.htm
+,LRP172b,172.135,Culvert,Box Culvert,22.6379441,90.3503333,,N8.lrps.htm
+,LRP172c,172.35,Culvert,Box culvert,22.6364163,90.3490552,,N8.lrps.htm
+,LRP173,172.62,Km Post,Payuakhali 32 km,22.635333,90.3467497,,N8.lrps.htm
+,LRP173a,172.815,Culvert,Box culvert,22.6353608,90.3448052,,N8.lrps.htm
+,LRP173b,173.095,"Side Road, Right",Z8056 to Nalcity,22.6355274,90.3420274,,N8.lrps.htm
+,LRP174,173.62,Km Post,Km post missing,22.6309716,90.3399163,,N8.lrps.htm
+,LRP174a,174.092,Culvert,Box culvert,22.6273049,90.338083,,N8.lrps.htm
+,LRP175,175.03,Km Post,Patuakhali 30 km,22.6197493,90.334333,,N8.lrps.htm
+,LRP175a,175.19,Culvert,Box Culvert,22.6183327,90.3342774,,N8.lrps.htm
+,LRP176,176.02,Km Post,"Patuakhali 29 km,Kuakata 101 km",22.6109444,90.3337497,,N8.lrps.htm
+,LRP176a,176.337,Culvert,Box Culvert,22.6080556,90.3338052,,N8.lrps.htm
+,LRP176c,176.68,Others,Start of barisal road Division,22.605,90.3340552,,N8.lrps.htm
+,LRP176c,176.68,Others,Start of barisal road Division,22.605,90.3340552,,N8.lrps.htm
+,LRP176b,176.68,"Side Road, Right",Z8047 to Nalcity,22.605,90.3340552,,N8.lrps.htm
+,LRP176b,176.68,"Side Road, Right",Z8047 to Nalcity,22.605,90.3340552,,N8.lrps.htm
+,LRP177,177.04,Km Post,"Patuakhali 28 km,Kuakata 100 km",22.6017778,90.334333,,N8.lrps.htm
+,LRP177a,177.392,Culvert,Box Culvert,22.5986108,90.3346663,,N8.lrps.htm
+,LRP178,178.03,Km Post,"Patuakhali 27 km,Kuakata 99 km",22.5932219,90.3365552,,N8.lrps.htm
+,LRP178a,178.132,Culvert,Box Culvert,22.5924441,90.3366663,,N8.lrps.htm
+,LRP178b,178.798,Culvert,Box Culvert,22.5865552,90.3379719,,N8.lrps.htm
+,LRP179,179.06,Km Post,Km post broken,22.584333,90.3386941,,N8.lrps.htm
+,LRP180,180.06,Km Post,Km post missing,22.5761382,90.3379163,,N8.lrps.htm
+,LRP180a,180.162,Bridge,Bridge start,22.5753882,90.3372219,,N8.lrps.htm
+,LRP180b,180.202,Bridge,Bridge end,22.5751104,90.3370552,,N8.lrps.htm
+,LRP181,181.04,Km Post,Patuakhali 24 km,22.5674993,90.3354163,,N8.lrps.htm
+,LRP181a,181.605,Culvert,Box Culvert,22.5625833,90.3364997,,N8.lrps.htm
+,LRP182,182.05,Km Post,"Patuakhali 23 km,Kuakata 95 km",22.5586389,90.3367219,,N8.lrps.htm
+,LRP182a,182.965,Culvert,Box Culvert,22.5505278,90.3346386,,N8.lrps.htm
+,LRP183,183.05,Km Post,Patuakhali 22 km,22.5497497,90.3344441,,N8.lrps.htm
+,LRP183a,183.84,Culvert,Box Culvert,22.5428608,90.3325549,,N8.lrps.htm
+,LRP184,184.05,Km Post,Km post missing,22.5411108,90.3331382,,N8.lrps.htm
+,LRP184a,184.062,"Side Road, Right",Z 8810 to Barguna,22.5411386,90.3331104,,N8.lrps.htm
+,LRP184b,184.085,Bridge,Bridge start,22.5409719,90.3332493,,N8.lrps.htm
+,LRP184c,184.118,Bridge,Bridge end,22.5406941,90.3334163,,N8.lrps.htm
+,LRP184d,184.745,Culvert,Box Culvert,22.5358886,90.3368886,,N8.lrps.htm
+,LRP185,185.07,Km Post,"Patuakhali 20 km,Kuakata 87 km",22.5334441,90.3386663,,N8.lrps.htm
+,LRP186,185.94,Km Post,"Patuakhali 19 km,Kuakata 86 km",22.5258604,90.3407497,,N8.lrps.htm
+,LRP186a,186.79,Culvert,Box Culvert,22.5183604,90.3424163,,N8.lrps.htm
+,LRP187,187.07,Km Post,Patuakhali 18 km,22.5159167,90.3428886,,N8.lrps.htm
+,LRP187a,187.61,Bridge,Bridge start,22.5111667,90.3429441,,N8.lrps.htm
+,LRP187b,187.627,Bridge,Bridge end,22.5111389,90.3429997,,N8.lrps.htm
+,LRP188,188.025,Km Post,"Patuakhali 17 km,Kuakata 84 km",22.5073889,90.3427219,,N8.lrps.htm
+,LRP188a,188.435,Culvert,Box Culvert,22.5039167,90.3429441,,N8.lrps.htm
+,LRP189,188.935,Km Post,Patuakhali 16 km,22.4992774,90.3432497,,N8.lrps.htm
+,LRP190,189.93,Km Post,"Patuakhali 154 km,Kuakata 82 km",22.4903608,90.343083,,N8.lrps.htm
+,LRP190a,190.437,Culvert,Box Culvert,22.4859441,90.3424441,,N8.lrps.htm
+,LRP191,190.93,Km Post,Km post missing,22.4813604,90.3418886,,N8.lrps.htm
+,LRP191a,191.21,Culvert,Box Culvert,22.4790271,90.3418052,,N8.lrps.htm
+,LRP191b,191.753,Others,Start of Patuakhali road Division,22.4739438,90.3413052,,N8.lrps.htm
+,LRP191b,191.753,Others,Start of Patuakhali road Division,22.4739438,90.3413052,,N8.lrps.htm
+,LRP192,191.93,Km Post,Km post missing,22.4721938,90.3410274,,N8.lrps.htm
+,LRP192a,192.507,Ferry-ghat Start,Lebukhali Ferry Ghat start,22.4676104,90.3408886,,N8.lrps.htm
+,LRP192b,193.037,Ferry-ghat End,Lebukhali Ferry Ghat end,22.4634722,90.3412497,,N8.lrps.htm
+,LRP193,193.047,Km Post,Patuakhali 13 km,22.4633611,90.3413052,,N8.lrps.htm
+,LRP194,194.037,Km Post,Patuakhali 12 km,22.45425,90.3410274,,N8.lrps.htm
+,LRP194a,194.127,"Side Road, Left",Z 8806 to Dumki,22.4536667,90.341083,,N8.lrps.htm
+,LRP195,195.017,Km Post,Patuakhali 11 km,22.4455552,90.3394719,,N8.lrps.htm
+,LRP195a,195.597,Bridge,Bridge start,22.4406663,90.3382774,,N8.lrps.htm
+,LRP195b,195.677,Bridge,Bridge end,22.4399441,90.3380552,,N8.lrps.htm
+,LRP196,196.027,Km Post,Patuakhali 10 km,22.4368052,90.3371663,,N8.lrps.htm
+,LRP197,197.037,Km Post,Patuakhali 09 km,22.4283882,90.3337219,,N8.lrps.htm
+,LRP197a,197.359,Culvert,Box Culvert,22.4257771,90.332416,,N8.lrps.htm
+,LRP197b,197.867,Culvert,Box Culvert,22.4216938,90.3303327,,N8.lrps.htm
+,LRP198,198.047,Km Post,Patuakhali 8 km,22.4202493,90.3296382,,N8.lrps.htm
+,LRP198a,198.097,Bridge,Bridge start,22.4199438,90.3295271,,N8.lrps.htm
+,LRP198b,198.11,Bridge,Bridge end,22.4199438,90.3294716,,N8.lrps.htm
+,LRP198c,199.003,Culvert,Box culvert,22.4119167,90.3275271,,N8.lrps.htm
+,LRP199,199.047,Km Post,Patuakhali 07 km,22.4115,90.3273327,,N8.lrps.htm
+,LRP199a,199.765,Culvert,Box Culvert,22.4055833,90.3248327,,N8.lrps.htm
+,LRP200,199.987,Km Post,Patuakhali 6 km,22.4036111,90.3238604,,N8.lrps.htm
+,LRP200a,200.09,Culvert,Box Culvert,22.4029167,90.3234993,,N8.lrps.htm
+,LRP200b,200.59,Culvert,Box Culvert,22.3989441,90.3213049,,N8.lrps.htm
+,LRP200c,200.837,Bridge,Bridge start,22.3970552,90.3201938,,N8.lrps.htm
+,LRP200d,200.917,Bridge,Bridge end,22.3963886,90.3198327,,N8.lrps.htm
+,LRP201,200.977,Km Post,Patuakhali 5 km,22.3960274,90.3196382,,N8.lrps.htm
+,LRP201a,201.418,Culvert,Box Culvert,22.3921663,90.3191104,,N8.lrps.htm
+,LRP202,201.917,Km Post,Patuakhali 4 km,22.387583,90.3196938,,N8.lrps.htm
+,LRP202a,202.003,Culvert,Box Culvert,22.3869163,90.3198049,,N8.lrps.htm
+,LRP202b,202.397,Bridge,Bridge start,22.3834163,90.3202771,,N8.lrps.htm
+,LRP202c,202.409,Bridge,Bridge end,22.3833049,90.3202771,,N8.lrps.htm
+,LRP202d,202.663,Culvert,Start of Box Culvert,22.3809993,90.3205827,,N8.lrps.htm
+,LRP202e,202.683,Culvert,End of Box Culvert,22.3808327,90.3206382,,N8.lrps.htm
+,LRP203,202.887,Km Post,Patuakhali 3 km,22.3790549,90.320916,,N8.lrps.htm
+,LRP204,203.877,Km Post,Patuakhali 2 km,22.370416,90.3214993,,N8.lrps.htm
+,LRP204a,203.897,Bridge,Bridge start,22.3702493,90.3214716,,N8.lrps.htm
+,LRP204b,204.383,Bridge,Bridge end,22.3659444,90.3204716,,N8.lrps.htm
+,LRP205,204.827,Km Post,Patuakhali 1 km,22.36225,90.3190827,,N8.lrps.htm
+,LRPE,205.127,Others,End of road at Chowmatha and Intersect with R880 & Z8052.,22.3597222,90.3186104,,N8.lrps.htm
+,,,,,,,,N8.lrps.htm
+,,,,,,,,N8.lrps.htm

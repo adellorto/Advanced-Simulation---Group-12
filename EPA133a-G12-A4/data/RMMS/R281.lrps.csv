@@ -1,0 +1,251 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,Road start from N208 at Rajnagar,24.5179438,91.8600556,,R281.lrps.htm
+,LRPSa,0.313,Culvert,Box Culvert,24.5176938,91.8630556,,R281.lrps.htm
+,LRP001,0.335,Km Post,Info missing,24.517666,91.8633056,,R281.lrps.htm
+,LRP001a,0.396,Culvert,Box culvert,24.5176382,91.8638611,,R281.lrps.htm
+,LRP001b,0.65,Culvert,Box Culvert,24.5175271,91.8663889,,R281.lrps.htm
+,LRP002,1.335,Km Post,Kulaura 19 km,24.5177771,91.873166,,R281.lrps.htm
+,LRP002a,2.007,Culvert,Box culvert,24.5181104,91.8796938,,R281.lrps.htm
+,LRP003,2.3,Km Post,Info missing,24.5167493,91.8820549,,R281.lrps.htm
+,LRP003a,2.755,Culvert,Box Culvert,24.5165556,91.8863886,,R281.lrps.htm
+,LRP004,3.271,Km Post,Kulaura 17 km,24.5166938,91.891833,,R281.lrps.htm
+,LRP004a,4.181,Culvert,Box Culvert,24.5200271,91.893333,,R281.lrps.htm
+,LRP005,4.285,Km Post,Kulaura 16 km,24.5200549,91.899833,,R281.lrps.htm
+,LRP005a,5.124,Culvert,Box Culvert,24.5224716,91.9070556,,R281.lrps.htm
+,LRP006,5.285,Km Post,Kulaura 15 km,24.5226938,91.9086389,,R281.lrps.htm
+,LRP007,6.205,Km Post,Kulaura 14 km,24.5212493,91.9166111,,R281.lrps.htm
+,LRP007a,6.8,Culvert,Box Culvert,24.5238604,91.9211382,,R281.lrps.htm
+,LRP008,7.225,Km Post,Kulaura 13 km,24.5259716,91.9240549,,R281.lrps.htm
+,LRP008a,7.257,Culvert,Box Culvert,24.5261938,91.9242493,,R281.lrps.htm
+,LRP008b,7.348,Culvert,Box Culvert,24.5265271,91.9250827,,R281.lrps.htm
+,LRP008c,7.785,Culvert,Box culvert,24.5289438,91.9281938,,R281.lrps.htm
+,LRP008d,8.15,Culvert,Box culvert,24.5305271,91.9313327,,R281.lrps.htm
+,LRP009,8.205,Km Post,Kulaura 12 km,24.530666,91.9317493,,R281.lrps.htm
+,LRP009a,8.323,Culvert,Slab Culvert,24.5312493,91.932666,,R281.lrps.htm
+,LRP009b,8.473,Culvert,Slab Culvert,24.532166,91.933583,,R281.lrps.htm
+,LRP009c,8.801,Culvert,Slab Culvert,24.5334163,91.9364719,,R281.lrps.htm
+,LRP009d,8.92,Culvert,Slab Culvert,24.5337219,91.9375552,,R281.lrps.htm
+,LRP009e,9.006,Culvert,Slab Culvert,24.5336108,91.938333,,R281.lrps.htm
+,LRP010,9.195,Km Post,Kulaura 11 km,24.5332493,91.9401941,,R281.lrps.htm
+,LRP011,10.195,Km Post,Kulaura 10 km,24.5318327,91.9476108,,R281.lrps.htm
+,LRP011a,10.219,Culvert,Pipe Culvert,24.5316938,91.9477774,,R281.lrps.htm
+,LRP011b,10.504,Culvert,Box culvert,24.5302216,91.9501389,,R281.lrps.htm
+,LRP011c,10.841,Culvert,Box culvert,24.5303882,91.9531944,,R281.lrps.htm
+,LRP011d,11.095,Culvert,Box culvert,24.5314716,91.9553889,,R281.lrps.htm
+,LRP012,11.17,Km Post,Kulaura 9 km,24.5315827,91.9560833,,R281.lrps.htm
+,LRP012a,11.319,Culvert,Box culvert,24.5315271,91.9575278,,R281.lrps.htm
+,LRP013,12.19,Km Post,Kulaura 8 km,24.5285549,91.9647778,,R281.lrps.htm
+,LRP013a,12.201,Culvert,Box culvert,24.5284993,91.9648611,,R281.lrps.htm
+,LRP013b,12.559,Culvert,Box culvert,24.525916,91.9666938,,R281.lrps.htm
+,LRP013c,12.914,Culvert,Box culvert,24.5231382,91.968416,,R281.lrps.htm
+,LRP014,13.18,Km Post,Kulaura7 km,24.5209438,91.9691938,,R281.lrps.htm
+,LRP014a,13.368,Culvert,Box Culvert,24.5193604,91.9698327,,R281.lrps.htm
+,LRP014b,13.659,Culvert,Box Culvert,24.5173604,91.9716382,,R281.lrps.htm
+,LRP015,14.18,Km Post,Kulaura 6 km,24.5166389,91.9767216,,R281.lrps.htm
+,LRP015a,14.258,Culvert,Box Culvert,24.5165833,91.9774438,,R281.lrps.htm
+,LRP015b,14.285,"Side Road, Right",Road to Srimangal (Z2003) at Brahmanbazar.,24.5165278,91.9777216,,R281.lrps.htm
+,LRP015c,14.593,Culvert,Box Culvert,24.5161111,91.980666,,R281.lrps.htm
+,LRP015d,14.988,Bridge,Bridge Start,24.5155556,91.984583,,R281.lrps.htm
+,LRP015e,15.018,Bridge,Bridge End,24.5155556,91.9848608,,R281.lrps.htm
+,LRP016,15.175,Km Post,Km post broken,24.5153333,91.9862497,,R281.lrps.htm
+,LRP016a,15.937,Culvert,Box Culvert,24.5138611,91.9937219,,R281.lrps.htm
+,LRP017,16.175,Km Post,Kulaura 4 km,24.5133889,91.9960274,,R281.lrps.htm
+,LRP017a,16.547,Culvert,Box culvert,24.5126667,91.999583,,R281.lrps.htm
+,LRP018,17.175,Km Post,Kulaura 3 km,24.5124167,91.0058056,,R281.lrps.htm
+,LRP018a,17.228,Culvert,Box Culvert,24.5125,91.0062778,,R281.lrps.htm
+,LRP019,18.175,Km Post,Kulaura 2 km,24.5131111,92.0156944,,R281.lrps.htm
+,LRP019a,18.348,Bridge,Bridge Start,24.5130833,92.0173604,,R281.lrps.htm
+,LRP019b,18.384,Bridge,Bridge End,24.5129722,92.0176938,,R281.lrps.htm
+,LRP020,19.155,Km Post,Kulaura 1 km,24.5127222,92.0250549,,R281.lrps.htm
+,LRP020a,19.234,Culvert,Box Culvert,24.51275,92.0259993,,R281.lrps.htm
+,LRP020b,19.468,"Side Road, Right",Road to Sharifpur (Z2822) At Kulaura.,24.51275,92.0282771,,R281.lrps.htm
+,LRP020c,19.568,"Side Road, Right","Z2823, Kulaura- Juri- Fultala road",24.5126111,92.0283882,,R281.lrps.htm
+,LRP020d,19.987,Culvert,Box Culvert,24.5167216,92.0308604,,R281.lrps.htm
+,LRP021,20.155,Km Post,Juri 13 km,24.5180271,92.0316382,,R281.lrps.htm
+,LRP021a,20.902,"Side Road, Right",Link road to Fultala (Z2823) at Kulaura.,24.5238882,92.035083,,R281.lrps.htm
+,LRP022,21.155,Km Post,Juri 12 km,24.5265549,92.0366108,,R281.lrps.htm
+,LRP022a,21.734,Culvert,Box culvert,24.5306104,92.0389441,,R281.lrps.htm
+,LRP022b,21.755,Rail Road Crossing,Rail road crossing,24.5307771,92.039083,,R281.lrps.htm
+,LRP022c,21.775,Culvert,Box Culvert,24.5309438,92.0391663,,R281.lrps.htm
+,LRP023,22.16,Km Post,Juri 11 km,24.5341663,92.0412774,,R281.lrps.htm
+,LRP023a,22.552,Culvert,Box Culvert,24.5366108,92.0435274,,R281.lrps.htm
+,LRP023b,22.594,Culvert,Box culvert,24.5366941,92.0439719,,R281.lrps.htm
+,LRP024,23.165,Km Post,Juri 10 km,24.5383886,92.0495552,,R281.lrps.htm
+,LRP024a,23.272,Culvert,Pipe Culvert,24.5385552,92.0501111,,R281.lrps.htm
+,LRP024b,23.715,Culvert,Box culvert,24.541083,92.0533056,,R281.lrps.htm
+,LRP024c,23.938,Culvert,Box culvert,24.542583,92.0546389,,R281.lrps.htm
+,LRP025,24.155,Km Post,Km post broken,24.543833,92.0562778,,R281.lrps.htm
+,LRP026,25.155,Km Post,Juri 8 km,24.5496941,92.0635833,,R281.lrps.htm
+,LRP026a,25.969,Bridge,Bridge Start,24.5560833,92.0674716,,R281.lrps.htm
+,LRP026b,26.029,Bridge,Bridge End,24.5565556,92.0677493,,R281.lrps.htm
+,LRP027,26.155,Km Post,Juri 8 km,24.5576111,92.0683882,,R281.lrps.htm
+,LRP028,27.155,Km Post,Juri 7 km,24.5654167,92.0731104,,R281.lrps.htm
+,LRP028a,27.294,Culvert,Box culvert,24.5665278,92.0737216,,R281.lrps.htm
+,LRP028b,27.965,Culvert,Box Culvert,24.5718049,92.0768327,,R281.lrps.htm
+,LRP029,28.155,Km Post,Juri 6 km,24.5734438,92.0777771,,R281.lrps.htm
+,LRP029a,28.683,Culvert,Box culvert,24.5767216,92.0814716,,R281.lrps.htm
+,LRP030,29.165,Km Post,Juri 5 km,24.5796938,92.0850274,,R281.lrps.htm
+,LRP030a,29.999,Bridge,Bridge Start,24.5848886,92.090833,,R281.lrps.htm
+,LRP030b,30.031,Bridge,Bridge End,24.585083,92.0910274,,R281.lrps.htm
+,LRP031,30.155,Km Post,Info missing,24.5858886,92.0918608,,R281.lrps.htm
+,LRP031a,30.981,Bridge,Bridge Start,24.5905274,92.0981108,,R281.lrps.htm
+,LRP031b,31.016,Bridge,Bridge End,24.5905274,92.0983608,,R281.lrps.htm
+,LRP032,31.205,Km Post,Juri 3 km,24.5909441,92.1002222,,R281.lrps.htm
+,LRP032a,31.603,Culvert,Box Culvert,24.5917219,92.1040833,,R281.lrps.htm
+,LRP032b,32.122,Bridge,Bridge Start,24.5771382,92.1083611,,R281.lrps.htm
+,LRP032c,32.199,Bridge,Bridge End,24.5939441,92.1090556,,R281.lrps.htm
+,LRP033,32.205,Km Post,Km post missing,24.5939719,92.1091389,,R281.lrps.htm
+,LRP033a,32.814,"Side Road, Right",Road to Jathidila (R282) At Juri,24.5972219,92.1139722,,R281.lrps.htm
+,LRP033b,32.912,Culvert,Box Culvert,24.5977219,92.1147222,,R281.lrps.htm
+,LRP034,33.205,Km Post,Km post missing,24.599333,92.1171104,,R281.lrps.htm
+,LRP034a,33.485,Culvert,Box Culvert,24.6008333,92.1192771,,R281.lrps.htm
+,LRP034b,33.693,Bridge,Bridge Start,24.585083,92.1209993,,R281.lrps.htm
+,LRP034c,33.77,Bridge,Bridge End,24.6018333,92.1218049,,R281.lrps.htm
+,LRP035,34.205,Km Post,Km post missing,24.6046667,92.1248604,,R281.lrps.htm
+,LRP036,34.805,Km Post,Seola 41km,24.6087778,92.1285271,,R281.lrps.htm
+,LRP036a,34.873,Culvert,Box Culvert,24.6094167,92.1289438,,R281.lrps.htm
+,LRP036b,35.179,Culvert,Box culvert,24.6113889,92.1305827,,R281.lrps.htm
+,LRP036c,35.557,Culvert,Box Culvert,24.6143611,92.0818604,,R281.lrps.htm
+,LRP037,35.805,Km Post,Km post missing,24.6158889,92.1338608,,R281.lrps.htm
+,LRP037a,36.145,Bridge,Bridge start,24.6169993,92.1368608,,R281.lrps.htm
+,LRP037b,36.221,Bridge,Bridge End,24.6170827,92.137583,,R281.lrps.htm
+,LRP037c,36.416,Culvert,Box culvert,24.6179438,92.1391386,,R281.lrps.htm
+,LRP037d,36.761,Culvert,Box Culvert,24.6198882,92.1417497,,R281.lrps.htm
+,LRP038,36.805,Km Post,Seola 39 km,24.620166,92.1421663,,R281.lrps.htm
+,LRP038a,37.258,Culvert,Pipe Culvert,24.6218327,92.1461386,,R281.lrps.htm
+,LRP038b,37.585,Culvert,Pipe Culvert,24.6237771,92.1484719,,R281.lrps.htm
+,LRP039,37.805,Km Post,Km post missing,24.6253049,92.1499163,,R281.lrps.htm
+,LRP039a,37.811,Bridge,Bridge Start,24.6253327,92.1499719,,R281.lrps.htm
+,LRP039b,37.833,Bridge,Bridge End,24.6254716,92.1501111,,R281.lrps.htm
+,LRP040,38.805,Km Post,Km post missing,24.6324993,92.15575,,R281.lrps.htm
+,LRP040a,38.938,Culvert,Box culvert,24.633583,92.1561944,,R281.lrps.htm
+,LRP041,39.805,Km Post,Km post missing,24.6395552,92.1610278,,R281.lrps.htm
+,LRP041a,40.689,Culvert,Box culvert,24.6467774,92.1645278,,R281.lrps.htm
+,LRP042,40.805,Km Post,Km post missing,24.6480274,92.1649444,,R281.lrps.htm
+,LRP042a,41.505,Culvert,Box culvert,24.6538889,92.167416,,R281.lrps.htm
+,LRP043,41.805,Km Post,Km post missing,24.6564167,92.1685271,,R281.lrps.htm
+,LRP043a,42.19,Rail Road Crossing,Rail road crossing,24.6595,92.1694716,,R281.lrps.htm
+,LRP043b,42.585,Culvert,Box culvert,24.6626667,92.1709993,,R281.lrps.htm
+,LRP044,42.805,Km Post,Km post missing,24.6646389,92.1717771,,R281.lrps.htm
+,LRP044a,42.991,Culvert,Box Culvert,24.6661667,92.1724438,,R281.lrps.htm
+,LRP044b,43.368,Culvert,Box culvert,24.6692771,92.1738327,,R281.lrps.htm
+,LRP045,43.805,Km Post,Km post missing,24.6732771,92.1749993,,R281.lrps.htm
+,LRP045a,44.136,Culvert,Box Culvert,24.6760827,92.1760827,,R281.lrps.htm
+,LRP045b,44.512,Bridge,Bridge Start,24.6792216,92.1773882,,R281.lrps.htm
+,LRP045c,44.544,Bridge,Bridge End,24.6794716,92.1774716,,R281.lrps.htm
+,LRP046,44.805,Km Post,Km post missing,24.6818049,92.1783604,,R281.lrps.htm
+,LRP046a,45.654,Culvert,Box culvert,24.6884997,92.1820827,,R281.lrps.htm
+,LRP047,45.805,Km Post,Km post missing,24.6896941,92.1830549,,R281.lrps.htm
+,LRP047a,45.961,Culvert,Box Culvert,24.6909719,92.166916,,R281.lrps.htm
+,LRP047b,46.281,Culvert,Box Culvert,24.693583,92.1843608,,R281.lrps.htm
+,LRP048,46.805,Km Post,Km post missing,24.6979163,92.1869163,,R281.lrps.htm
+,LRP048a,47.039,Culvert,Box Culvert,24.6996663,92.1880552,,R281.lrps.htm
+,LRP048b,47.267,Culvert,Box culvert,24.7014444,92.1891663,,R281.lrps.htm
+,LRP049,47.805,Km Post,Km post missing,24.7056667,92.1924163,,R281.lrps.htm
+,LRP049a,48.388,Culvert,Box Culvert,24.7103333,92.1947497,,R281.lrps.htm
+,LRP049b,48.407,Rail Road Crossing,Rail road crossing,24.7104167,92.194583,,R281.lrps.htm
+,LRP050,48.805,Km Post,Km post missing,24.7126389,92.1914163,,R281.lrps.htm
+,LRP051,49.805,Km Post,Km post missing,24.7169993,92.1828327,,R281.lrps.htm
+,LRP051a,50.277,Culvert,Box culvert,24.7190271,92.1788604,,R281.lrps.htm
+,LRP052,50.805,Km Post,Km post missing,24.7215271,92.1742771,,R281.lrps.htm
+,LRP052a,51.507,Bridge,Bridge Start,24.7247216,92.1683882,,R281.lrps.htm
+,LRP052b,51.554,Bridge,Bridge End,24.7249438,92.1679716,,R281.lrps.htm
+,LRP053,51.805,Km Post,Km post missing,24.7261938,92.1656944,,R281.lrps.htm
+,LRP053a,52.057,Culvert,Box culvert,24.7275271,92.1637222,,R281.lrps.htm
+,LRP053b,52.398,Culvert,box culvert,24.7295549,92.1613611,,R281.lrps.htm
+,LRP054,52.805,Km Post,Km post missing,24.7322771,92.1585,,R281.lrps.htm
+,LRP054a,53.614,Culvert,Box culvert,24.7353608,92.1554444,,R281.lrps.htm
+,LRP054b,53.801,Culvert,Box Culvert,24.739833,92.1537778,,R281.lrps.htm
+,LRP055,53.805,Km Post,Km post missing,24.7398886,92.1537222,,R281.lrps.htm
+,LRP056,54.805,Km Post,Km post missing,24.7479719,92.1506667,,R281.lrps.htm
+,LRP056a,55.799,Culvert,Box culvert,24.7561667,92.1543333,,R281.lrps.htm
+,LRP057,55.805,Km Post,Km post missing,24.7562222,92.1543333,,R281.lrps.htm
+,LRP057a,56.561,Culvert,Box culvert,24.7628333,92.156,,R281.lrps.htm
+,LRP058,56.71,Km Post,Info missing,24.7640833,92.1563056,,R281.lrps.htm
+,LRP058a,57.416,Bridge,Bridge Start,24.7701104,92.1579444,,R281.lrps.htm
+,LRP058b,57.501,Bridge,Bridge End/ Start of Sylhet road Division,24.7707493,92.1574167,,R281.lrps.htm
+,LRP058b,57.501,Bridge,Bridge End/ Start of Sylhet road Division,24.7707493,92.1574167,,R281.lrps.htm
+,LRP059,57.8,Km Post,Info Missing,24.4389997,92.1591944,,R281.lrps.htm
+,LRP059a,57.951,Bridge,Bridge Start,24.7723604,92.1606389,,R281.lrps.htm
+,LRP059b,57.965,Bridge,Bridge end,24.7723604,92.16075,,R281.lrps.htm
+,LRP059c,58.753,Culvert,Box Culvert,24.7734716,92.1684438,,R281.lrps.htm
+,LRP060,58.8,Km Post,Info missing,24.7735549,92.1689716,,R281.lrps.htm
+,LRP061,59.8,Km Post,Info missing,24.7793327,92.1723049,,R281.lrps.htm
+,LRP061a,60.178,Culvert,Slab Culvert,24.7824716,92.1735271,,R281.lrps.htm
+,LRP061b,60.442,Culvert,Slab Culvert,24.7843886,92.173416,,R281.lrps.htm
+,LRP061c,60.507,Culvert,Slab Culvert,24.7853052,92.173166,,R281.lrps.htm
+,LRP061d,60.755,Culvert,Slab Culvert,24.7872497,92.1724716,,R281.lrps.htm
+,LRP062,60.81,Km Post,info missing,24.787833,92.1722771,,R281.lrps.htm
+,LRP062a,61.056,Culvert,Box culvert,24.7899441,92.1718882,,R281.lrps.htm
+,LRP062b,61.254,Culvert,Box Culvert,24.7889719,92.1714716,,R281.lrps.htm
+,LRP063,61.81,Km Post,Km post missing,24.7959719,92.1691938,,R281.lrps.htm
+,LRP064,62.795,Km Post,Info missing,24.8010556,92.1621111,,R281.lrps.htm
+,LRP064a,63.752,Culvert,Box Culvert,24.8071667,92.1569444,,R281.lrps.htm
+,LRP065,63.825,Km Post,Info missing,24.8075556,92.1563056,,R281.lrps.htm
+,LRP065a,64.008,Culvert,Box Culvert,24.8091111,92.1559722,,R281.lrps.htm
+,LRP065b,64.237,Culvert,Box culvert,24.8110278,92.156,,R281.lrps.htm
+,LRP065c,64.803,Culvert,Slab Culvert,24.8157222,92.1569444,,R281.lrps.htm
+,LRP066,64.825,Km Post,Km post missing,24.816,92.1568889,,R281.lrps.htm
+,LRP066a,65.42,Culvert,Slab Culvert,24.817166,92.1569167,,R281.lrps.htm
+,LRP066b,65.475,"Side Road, Right",Road to Sharifganj (Z2812) at Bairagirbazar.,24.8213049,92.1595278,,R281.lrps.htm
+,LRP066c,65.82,Culvert,Slab Culvert,24.8294993,92.1651667,,R281.lrps.htm
+,LRP067,65.825,Km Post,Km post missing,24.8323882,92.1651389,,R281.lrps.htm
+,LRP067a,66.003,Culvert,Slab Culvert,24.8258327,92.1601667,,R281.lrps.htm
+,LRP067b,66.359,Culvert,Slab Culvert,24.8285271,92.1617778,,R281.lrps.htm
+,LRP067c,66.599,Culvert,Slab Culvert,24.8303882,92.16225,,R281.lrps.htm
+,LRP067d,66.667,Culvert,Slab culvert,24.8308327,92.1621111,,R281.lrps.htm
+,LRP067e,66.791,Culvert,Slab Culvert,24.8317216,92.1616667,,R281.lrps.htm
+,LRP068,66.825,Km Post,Km post missing,24.8323604,92.1616111,,R281.lrps.htm
+,LRP068a,66.911,Culvert,Box culvert,24.8331104,92.1613611,,R281.lrps.htm
+,LRP068b,67.689,Culvert,Box culvert,24.8399163,92.1605278,,R281.lrps.htm
+,LRP069,67.825,Km Post,Km post missing,24.8411941,92.1598333,,R281.lrps.htm
+,LRP069a,68.028,Bridge,Bridge start,24.8429441,92.1603056,,R281.lrps.htm
+,LRP069b,68.086,Bridge,Bridge End,24.8434163,92.1604444,,R281.lrps.htm
+,LRP069c,68.345,Culvert,Box culvert,24.8457497,92.1604722,,R281.lrps.htm
+,LRP069d,68.495,Culvert,Box culvert,24.8470274,92.1606111,,R281.lrps.htm
+,LRP069e,68.532,Culvert,Box culvert,24.8473052,92.1607778,,R281.lrps.htm
+,LRP070,68.825,Km Post,Km post missing,24.8492497,92.1626111,,R281.lrps.htm
+,LRP070a,68.914,Culvert,Box culvert,24.8494163,92.1634722,,R281.lrps.htm
+,LRP071,68.995,Km Post,Km post missing,24.8534722,92.1723604,,R281.lrps.htm
+,LRP071a,69.02,Bridge,Bridge Start,24.8535556,92.1725549,,R281.lrps.htm
+,LRP071b,69.775,Bridge,Bridge End,24.8529167,92.1709993,,R281.lrps.htm
+,LRP072,70.615,Km Post,Info Missing,24.8529444,92.1710271,,R281.lrps.htm
+,LRP072a,71.31,Bridge,Bridge Start,24.8564444,92.1854163,,R281.lrps.htm
+,LRP072b,71.329,Bridge,Bridge End,24.8564722,92.1855552,,R281.lrps.htm
+,LRP073,71.765,Km Post,Info missing,24.8598611,92.1869719,,R281.lrps.htm
+,LRP073a,71.981,Culvert,Box Culvert,24.8617778,92.1871108,,R281.lrps.htm
+,LRP074,72.765,Km Post,Info missing,24.8687216,92.1884719,,R281.lrps.htm
+,LRP074a,72.976,Bridge,Bridge Start,24.870416,92.189333,,R281.lrps.htm
+,LRP074b,73.003,Bridge,Bridge End,24.8706104,92.1894719,,R281.lrps.htm
+,LRP074c,73.705,Culvert,Box Culvert,24.8756938,92.1936386,,R281.lrps.htm
+,LRP075,73.765,Km Post,Km post missing,24.8762216,92.1940274,,R281.lrps.htm
+,LRP075a,74.463,Culvert,Box Culvert,24.881666,92.1973608,,R281.lrps.htm
+,LRP075b,74.645,Culvert,Box Culvert,24.8818327,92.198333,,R281.lrps.htm
+,LRP076,74.765,Km Post,Info Missing,24.8807216,92.1989719,,R281.lrps.htm
+,LRP076a,74.802,Culvert,Box Culvert,24.8805549,92.1991108,,R281.lrps.htm
+,LRP076b,75.399,Culvert,Box culvert,24.8631944,92.2047222,,R281.lrps.htm
+,LRP076c,75.636,Bridge,Bridge Strat,24.8802771,92.2069722,,R281.lrps.htm
+,LRP076d,75.654,Bridge,Bridge End,24.8802771,92.2071111,,R281.lrps.htm
+,LRP076e,75.755,"Side Road, Right",Road to Sutrakandi (Z2014) At Sheola.,24.8805827,92.2080556,,R281.lrps.htm
+,LRP077,75.765,Km Post,Km post missing,24.8806938,92.2080833,,R281.lrps.htm
+,LRP077a,75.79,Culvert,Box Culvert,24.880916,92.2080833,,R281.lrps.htm
+,LRP077b,76.081,Bridge,Bridge Start,24.8834997,92.2079722,,R281.lrps.htm
+,LRP077c,76.308,Bridge,Bridge End,24.8854719,92.2078611,,R281.lrps.htm
+,LRP078,76.765,Km Post,Km post missing,24.8885274,92.2051389,,R281.lrps.htm
+,LRP078a,77.305,Culvert,Box culvert,24.8909441,92.2005833,,R281.lrps.htm
+,LRP079,77.765,Km Post,Km post missing,24.8931663,92.196583,,R281.lrps.htm
+,LRP079a,77.913,Culvert,Box Culvert,24.8939719,92.1954163,,R281.lrps.htm
+,LRP079b,78.565,Culvert,Box culvert,24.8959163,92.189833,,R281.lrps.htm
+,LRP080,78.765,Km Post,Km post missing,24.8951941,92.1879719,,R281.lrps.htm
+,LRP081,79.765,Km Post,Km post missing,24.8967774,92.1789438,,R281.lrps.htm
+,LRP081a,80.15,Bridge,Bridge Start,24.8975274,92.1753327,,R281.lrps.htm
+,LRP081b,80.305,Bridge,Bridge End,24.8977219,92.1738049,,R281.lrps.htm
+,LRP082,80.58,Km Post,Info missing,24.8978886,91.1711104,,R281.lrps.htm
+,LRP082a,81.028,Culvert,Box Culvert,24.8981941,92.1666938,,R281.lrps.htm
+,LRP082b,81.356,Culvert,Box culvert,24.8984163,92.1635,,R281.lrps.htm
+,LRP083,81.58,Km Post,Info missing,24.8989719,92.1613333,,R281.lrps.htm
+,LRP083a,82.54,Culvert,Box Culvert,24.9016667,92.1523056,,R281.lrps.htm
+,LRP084,82.58,Km Post,Km post missing,24.9017778,92.1517222,,R281.lrps.htm
+,LRPE,82.871,Others,The road ends Intersecting R250 at Charkhai.,24.9023333,92.1479441,,R281.lrps.htm
+,,,,,,,,R281.lrps.htm
+,,,,,,,,R281.lrps.htm

@@ -1,0 +1,89 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,"Start of Road from Mohora ,Chittagong.",22.3943886,91.868416,,R163.lrps.htm
+,LRPSa,0.06,Rail Road Crossing,Rail Road Crossing,22.3949163,91.8685271,,R163.lrps.htm
+,LRPSb,0.953,Culvert,Box Culvert,22.4023889,91.8674438,,R163.lrps.htm
+,LRP001,1,Km Post,Km post missing,22.4026111,91.8670271,,R163.lrps.htm
+,LRP001a,1.832,Culvert,Box Culvert,22.4079167,91.8620833,,R163.lrps.htm
+,LRP002,1.914,Km Post,Inf missing,22.4086389,91.8621944,,R163.lrps.htm
+,LRP003,2.914,Km Post,Km post missing,22.4188049,91.8662778,,R163.lrps.htm
+,LRP003a,3.13,Culvert,Culvert,22.4171104,91.8656389,,R163.lrps.htm
+,LRP003b,3.68,Culvert,Pipe culvert,22.4234993,91.8667771,,R163.lrps.htm
+,LRP004,4.011,Km Post,Inf missing,22.4262216,91.8683327,,R163.lrps.htm
+,LRP004a,4.608,Bridge,Bridge start,22.4310827,91.870666,,R163.lrps.htm
+,LRP004b,4.632,Bridge,Bridge end,22.4312771,91.8707216,,R163.lrps.htm
+,LRP004c,4.926,Bridge,Bridge start,22.4334719,91.8721104,,R163.lrps.htm
+,LRP005,5.011,Km Post,Km post missing,22.4340552,91.8725827,,R163.lrps.htm
+,LRP005a,5.148,Bridge,Bridge end,22.4349719,91.873416,,R163.lrps.htm
+,LRP006,6.019,Km Post,Information missing,22.4356941,91.8807493,,R163.lrps.htm
+,LRP006a,6.267,Culvert,Pipe Culvert,22.4359441,91.883166,,R163.lrps.htm
+,LRP007,7.011,Km Post,Km post missing,22.4346108,91.8901663,,R163.lrps.htm
+,LRP007a,7.338,Culvert,Pipe Culvert,22.4365552,91.8933886,,R163.lrps.htm
+,LRP007b,7.48,Culvert,Box culvert,22.436833,91.8946941,,R163.lrps.htm
+,LRP008,8.038,Km Post,Inf missing,22.4368886,91.9001667,,R163.lrps.htm
+,LRP008a,8.06,Culvert,Culvert,22.4368886,91.9001667,,R163.lrps.htm
+,LRP009,9.038,Km Post,Km post missing,22.4370274,91.9002222,,R163.lrps.htm
+,LRP009a,9.149,Cross Road,Z 1629 Left to Raozan Right to Jelepara.,22.4413886,91.9092222,,R163.lrps.htm
+,LRP009b,9.871,Culvert,Pipe Culvert,22.4421386,91.9161944,,R163.lrps.htm
+,LRP010,10.042,Km Post,Kaptai 37.50 km,22.4423052,91.917666,,R163.lrps.htm
+,LRP010a,10.668,Bridge,Bridge start,22.4424997,91.9237216,,R163.lrps.htm
+,LRP010b,10.693,Bridge,Bridge end,22.4424997,91.9239716,,R163.lrps.htm
+,LRP010c,11.395,Culvert,Pipe culvert,22.4434997,91.9303049,,R163.lrps.htm
+,LRP011,11.41,Km Post,Information missing,22.4439441,91.9305549,,R163.lrps.htm
+,LRP011a,11.795,Culvert,Box Culvert,22.4450274,91.9351386,,R163.lrps.htm
+,LRP012,12.06,Km Post,Chittagong 12 km,22.445083,91.9359997,,R163.lrps.htm
+,LRP012a,12.225,Culvert,Box Culvert,22.4459441,91.9371108,,R163.lrps.htm
+,LRP013,13.06,Km Post,Km post missing,22.4506944,91.9427774,,R163.lrps.htm
+,LRP013a,13.105,Culvert,Box Culvert,22.4508333,91.9431663,,R163.lrps.htm
+,LRP013b,13.364,Bridge,Bridge start,22.4515,91.9456386,,R163.lrps.htm
+,LRP013c,13.392,Bridge,Bridge end,22.4515278,91.9457497,,R163.lrps.htm
+,LRP013d,13.959,Culvert,Box Culvert,22.45375,91.9506111,,R163.lrps.htm
+,LRP014,14.072,Km Post,Kaptai 33.5 km Pahartali 2 km,22.4542222,91.9543056,,R163.lrps.htm
+,LRP014a,14.662,Culvert,Pipe Culvert,22.456,91.9568611,,R163.lrps.htm
+,LRP014b,15.192,Culvert,Box Culvert,22.4574722,91.9615,,R163.lrps.htm
+,LRP015,15.255,Km Post,Inf missing,22.4577222,91.9620278,,R163.lrps.htm
+,LRP015a,15.753,Cross Road,Left to Ragzen right to katakhali Z1012,22.4592222,91.9665833,,R163.lrps.htm
+,LRP016,16.082,Km Post,Inf missing,22.4596389,91.9696938,,R163.lrps.htm
+,LRP016a,16.827,Culvert,Box Culvert,22.4605556,91.976666,,R163.lrps.htm
+,LRP017,17.207,Km Post,Inf missing,22.4610556,91.9803327,,R163.lrps.htm
+,LRP018,18.088,Km Post,Kaptai 29.5 km,22.4617222,91.9971941,,R163.lrps.htm
+,LRP019,19.088,Km Post,Km post missing,22.4623056,91.9984441,,R163.lrps.htm
+,LRP020,20.087,Km Post,Isakhali 4 km,22.46025,92.0077778,,R163.lrps.htm
+,LRP020a,20.49,Culvert,Pipe culvert,22.46025,92.0077778,,R163.lrps.htm
+,LRP020b,20.94,Culvert,Slab culvert,22.4584444,92.0116111,,R163.lrps.htm
+,LRP021,21.087,Km Post,Km post missing,22.4568056,92.0164444,,R163.lrps.htm
+,LRP021a,21.484,Culvert,Box Culvert,22.4572778,92.0202216,,R163.lrps.htm
+,LRP022,22.087,Km Post,Km post missing,22.4580833,92.0259438,,R163.lrps.htm
+,LRP022a,22.971,Culvert,Slab culvert,22.4598056,92.0340552,,R163.lrps.htm
+,LRP022b,23.059,Culvert,Box Culvert,22.4600278,92.0349163,,R163.lrps.htm
+,LRP023,23.087,Km Post,Km post missing,22.4600833,92.0351386,,R163.lrps.htm
+,LRP023a,23.911,Culvert,Box Culvert,22.4630556,92.0422497,,R163.lrps.htm
+,LRP024,24.122,Km Post,Inf missing,22.4616667,92.0442774,,R163.lrps.htm
+,LRP024a,24.269,Culvert,Box Culvert,22.46275,92.045833,,R163.lrps.htm
+,LRP024b,24.704,Culvert,Box Culvert,22.4639167,92.0496108,,R163.lrps.htm
+,LRP025,25.122,Km Post,Km post missing,22.4654444,92.0532778,,R163.lrps.htm
+,LRP025a,25.248,Culvert,Box culvert,22.4658333,92.05425,,R163.lrps.htm
+,LRP025b,25.651,Bridge,Sluice ghat start,22.4669438,92.0578333,,R163.lrps.htm
+,LRP025c,25.721,Bridge,Sluice ghat end,22.4669438,92.0584444,,R163.lrps.htm
+,LRP025d,25.753,Bridge,Sluice ghat start,22.4169716,92.0587222,,R163.lrps.htm
+,LRP025e,25.79,Bridge,Sluice ghat end,22.4669716,92.0590556,,R163.lrps.htm
+,LRP026,26.189,Km Post,Inf missing,22.467916,92.0626111,,R163.lrps.htm
+,LRP026a,26.308,Culvert,Box Culvert,22.4679716,92.0637778,,R163.lrps.htm
+,LRP026b,26.476,Culvert,Slab Culvert,22.4680827,92.0653333,,R163.lrps.htm
+,LRP027,27.189,Km Post,Km post missing,22.4650556,92.0713604,,R163.lrps.htm
+,LRP027a,27.594,Bridge,Bridge start,22.46325,92.0747771,,R163.lrps.htm
+,LRP027b,27.618,Bridge,Bridge end,22.4631944,92.0749716,,R163.lrps.htm
+,LRP027c,27.906,"Side Road, Left",Z 1617 left to Gabtoli right to Maniamiagor,22.4627222,92.0776938,,R163.lrps.htm
+,LRP028,28.177,Km Post,Inf missing,22.4623611,92.0802771,,R163.lrps.htm
+,LRP028a,28.342,Culvert,Box Culvert,22.4620833,92.0818604,,R163.lrps.htm
+,LRP028b,28.957,Culvert,Box Culvert,22.4611667,92.0877219,,R163.lrps.htm
+,LRP029,29.177,Km Post,Km post missing,22.4611667,92.089833,,R163.lrps.htm
+,LRP029a,29.567,Culvert,Box Culvert,22.4612222,92.093583,,R163.lrps.htm
+,LRP030,30.207,Km Post,Inf missing,22.4618056,92.0996108,,R163.lrps.htm
+,LRP030a,30.239,Culvert,Pipe Culvert,22.4618056,92.0999441,,R163.lrps.htm
+,LRP031,31.207,Km Post,Km post missing,22.4630278,92.1092778,,R163.lrps.htm
+,LRP032,32.207,Km Post,Kaptai 15.5 km Licubegar 1 km,22.4643889,92.1188327,,R163.lrps.htm
+,LRP032a,32.446,Culvert,Box Culvert,22.465,92.1208327,,R163.lrps.htm
+,LRP033,33.207,Km Post,Km post missing,22.4684716,92.1271938,,R163.lrps.htm
+,LRPE,33.436,Others,End of Road at Chandragona Intersection R161.,22.4695827,92.1290549,,R163.lrps.htm
+,,,,,,,,R163.lrps.htm
+,,,,,,,,R163.lrps.htm

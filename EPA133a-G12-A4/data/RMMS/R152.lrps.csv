@@ -1,0 +1,88 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,"Road start from R151 (Baraiyerhat, Haidchokia Road Heako Bazar, Vugpur.",22.8924997,91.6744993,,R152.lrps.htm
+,LRPsa,0.13,Bridge,Bridge Start,22.8929441,91.6756382,,R152.lrps.htm
+,LRPSb,0.144,Bridge,Bridge End,22.8929997,91.6757216,,R152.lrps.htm
+,LRP001,0.55,Km Post,Ramgarh 17 km,22.8958052,91.6773882,,R152.lrps.htm
+,LRP002,1.55,Km Post,Km post missing,22.9046389,91.6770827,,R152.lrps.htm
+,LRP003,2.55,Km Post,Km post missing,22.9134722,91.6784438,,R152.lrps.htm
+,LRP003a,3.165,Culvert,Box Culvert,22.9185827,91.6766938,,R152.lrps.htm
+,LRP004,3.55,Km Post,Km post missing,22.9218604,91.6756104,,R152.lrps.htm
+,LRP005,4.55,Km Post,Km post missing,22.9300549,91.6720827,,R152.lrps.htm
+,LRP006,5.55,Km Post,Km post missing,22.9387774,91.6717771,,R152.lrps.htm
+,LRP006a,5.915,Culvert,Box culvert,22.9418608,91.6720549,,R152.lrps.htm
+,LRP007,6.55,Km Post,Km post missing,22.9457219,91.6743049,,R152.lrps.htm
+,LRP007a,7.177,Culvert,Box Culvert,22.9462774,91.679916,,R152.lrps.htm
+,LRP007b,7.203,Bridge,Bridge end,22.9464163,91.6800271,,R152.lrps.htm
+,LRP008,7.55,Km Post,Km post missing,22.948083,91.6821382,,R152.lrps.htm
+,LRP008a,7.692,Bridge,Bridge Start,22.9492497,91.6823882,,R152.lrps.htm
+,LRP008b,7.707,Bridge,Bridge End,22.949333,91.6823604,,R152.lrps.htm
+,LRP008c,8.375,Bridge,Bridge start,22.9546111,91.6834441,,R152.lrps.htm
+,LRP008d,8.389,Bridge,Bridge end,22.9546389,91.6834719,,R152.lrps.htm
+,LRP009,8.55,Km Post,Km post missing,22.9559722,91.6843608,,R152.lrps.htm
+,LRP010,9.55,Km Post,Km post missing,22.9618056,91.6901108,,R152.lrps.htm
+,LRP010a,9.92,Bridge,Bridge Start,22.9645833,91.6918886,,R152.lrps.htm
+,LRP010b,9.945,Bridge,Bridge End,22.9646667,91.692083,,R152.lrps.htm
+,LRP010c,10.327,Bridge,Bridge Start,22.9645278,91.6956386,,R152.lrps.htm
+,LRP010d,10.343,Bridge,Bridge End,22.9645833,91.6957774,,R152.lrps.htm
+,LRP011,10.53,Km Post,Info missing,22.9649722,91.697583,,R152.lrps.htm
+,LRP011a,11.34,Culvert,Box Culvert,22.96575,91.7028056,,R152.lrps.htm
+,LRP012,11.53,Km Post,Km post missing,22.9670549,91.7043333,,R152.lrps.htm
+,LRP012a,12.32,Culvert,Box Culvert,22.9724716,91.7070556,,R152.lrps.htm
+,LRP013,12.53,Km Post,Km post missing,22.9743882,91.7076111,,R152.lrps.htm
+,LRP013a,12.59,Bridge,Bridge Start,22.974916,91.7076667,,R152.lrps.htm
+,LRP013b,12.606,Bridge,Bridge End,22.9750549,91.7076944,,R152.lrps.htm
+,LRP014,13.53,Km Post,Km post missing,22.9809716,91.7084722,,R152.lrps.htm
+,LRP014a,13.546,Bridge,Bridge Start,22.9809993,91.7086389,,R152.lrps.htm
+,LRP014b,13.581,Bridge,Bridge End,22.9811104,91.7089167,,R152.lrps.htm
+,LRP014c,14.243,Culvert,Box Culvert,22.9827771,91.7149167,,R152.lrps.htm
+,LRP015,14.604,Km Post,Ramgarh 3 km,22.9821382,91.7177771,,R152.lrps.htm
+,LRP015a,14.73,Bridge,Bridge Start/Start of Khagrachari Division,22.9823049,91.7194438,,R152.lrps.htm
+,LRP015a,14.73,Bridge,Bridge Start/Start of Khagrachari Division,22.9823049,91.7194438,,R152.lrps.htm
+,LRP015b,14.769,Bridge,Bridge End,22.9826104,91.719666,,R152.lrps.htm
+,LRP015c,15.124,Culvert,Box Culvert,22.9857219,91.7214716,,R152.lrps.htm
+,LRP015d,15.482,Culvert,Slab Culvert,22.987833,91.7228049,,R152.lrps.htm
+,LRP016,15.604,Km Post,Km post missing,22.9886386,91.7232771,,R152.lrps.htm
+,LRP016a,15.618,Culvert,Box Culvert,22.9891386,91.7236382,,R152.lrps.htm
+,LRP017,16.665,Km Post,Ramgarh 1 km,22.9969997,91.7262216,,R152.lrps.htm
+,LRP017a,17.651,Others,Ramgarh Bazar,22.9994997,91.7349997,,R152.lrps.htm
+,LRP018,17.665,Km Post,Km post missing,0,0,,R152.lrps.htm
+,LRP019,18.655,Km Post,Jaliapara 18 km,22.9919441,91.7404441,,R152.lrps.htm
+,LRP019a,19.616,Bridge,Bridge start,22.9884441,91.7471663,,R152.lrps.htm
+,LRP019b,19.629,Bridge,Bridge end,22.9884163,91.7472774,,R152.lrps.htm
+,LRP020,19.636,Km Post,Jaliapara 17 km,22.9883608,91.7473052,,R152.lrps.htm
+,LRP020a,20.564,Bridge,Bridge start,22.9847219,91.7527778,,R152.lrps.htm
+,LRP020b,20.577,Bridge,Bridge end,22.9846386,91.7528333,,R152.lrps.htm
+,LRP021,20.636,Km Post,Jaliapara 16 km,22.9844719,91.7530556,,R152.lrps.htm
+,LRP021a,21.039,Culvert,Box Culvert,22.9839441,91.7570833,,R152.lrps.htm
+,LRP021b,21.296,Bridge,Bridge start,22.9830271,91.7589167,,R152.lrps.htm
+,LRP021c,21.313,Bridge,Bridge end,22.9829993,91.7592222,,R152.lrps.htm
+,LRP022,21.636,Km Post,Jaliapara 15 km,22.9826382,91.7622778,,R152.lrps.htm
+,LRP022a,22.382,Bridge,Bridge start,22.9827216,91.7678604,,R152.lrps.htm
+,LRP022b,22.397,Bridge,Bridge end,22.9824716,91.767916,,R152.lrps.htm
+,LRP023,22.621,Km Post,Jaliapara 14 km,22.9818882,91.7685549,,R152.lrps.htm
+,LRP024,23.641,Km Post,Jaliapara 13 km,22.9780549,91.7774993,,R152.lrps.htm
+,LRP025,24.641,Km Post,Jaliapara 12 km,22.971666,91.7827493,,R152.lrps.htm
+,LRP026,25.641,Km Post,Jaliapara 11 km,22.9670549,91.7891386,,R152.lrps.htm
+,LRP026a,26.148,Bridge,Bridge start,22.9661667,91.793083,,R152.lrps.htm
+,LRP026b,26.177,Bridge,Bridge end,22.9661111,91.7933608,,R152.lrps.htm
+,LRP027,26.641,Km Post,Jaliapara 10 km,22.9648611,91.7976663,,R152.lrps.htm
+,LRP028,27.641,Km Post,Jaliapara 9 km,22.9634444,91.8130556,,R152.lrps.htm
+,LRP029,28.621,Km Post,Jaliapara 8 km,22.9632222,91.8105278,,R152.lrps.htm
+,LRP029a,28.633,Bridge,Bridge start,22.9631667,91.8105556,,R152.lrps.htm
+,LRP029b,28.663,Bridge,Bridge end,22.9631111,91.8105833,,R152.lrps.htm
+,LRP030,29.671,Km Post,Jaliapara 7 km,22.9598333,91.8181938,,R152.lrps.htm
+,LRP031,30.671,Km Post,Jaliapara 6 km,22.9578611,91.8263604,,R152.lrps.htm
+,LRP032,31.661,Km Post,Jaliapara 5 km,22.9539444,91.8329993,,R152.lrps.htm
+,LRP032a,31.733,Bridge,Bridge start,22.9540278,91.8353886,,R152.lrps.htm
+,LRP032b,31.749,Bridge,Bridge end,22.9541389,91.8355552,,R152.lrps.htm
+,LRP032c,32.343,Bridge,Bridge start,22.9546667,91.8391941,,R152.lrps.htm
+,LRP032d,32.36,Bridge,Bridge end,22.9530278,91.8392774,,R152.lrps.htm
+,LRP033,32.661,Km Post,Jaliapara 4 km,22.9542778,91.8413052,,R152.lrps.htm
+,LRP034,33.661,Km Post,Jaliapara 3 km,22.9536944,91.844583,,R152.lrps.htm
+,LRP035,34.651,Km Post,Jaliapara 2 km,22.9460274,91.8480274,,R152.lrps.htm
+,LRP036,35.651,Km Post,Jaliapara 1 km,22.945833,91.8571944,,R152.lrps.htm
+,LRP036a,35.918,Bridge,Bridge start,22.9467774,91.85925,,R152.lrps.htm
+,LRP036b,35.941,Bridge,Bridge end,22.9467774,91.8593889,,R152.lrps.htm
+,LRPE,36.211,Others,R160 at Hathazari -Khagrachari road,22.9460552,91.86225,,R152.lrps.htm
+,,,,,,,,R152.lrps.htm
+,,,,,,,,R152.lrps.htm

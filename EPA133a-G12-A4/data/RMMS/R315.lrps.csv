@@ -1,0 +1,106 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,Road start from N-3 (Dhaka - Mymansing Road) intersection at Mawna Chowrasta,24.2206382,90.4122778,,R315.lrps.htm
+,LRP001,1,Km Post,Km post missing,24.2235549,90.4031944,,R315.lrps.htm
+,LRP002,2,Km Post,Km post missing,24.2265549,90.3940552,,R315.lrps.htm
+,LRP003,2.253,Km Post,Km post broken,24.2273882,90.3918052,,R315.lrps.htm
+,LRP003a,2.26,Bridge,Bridge start,24.2273882,90.3917219,,R315.lrps.htm
+,LRP003b,2.28,Bridge,Bridge end,24.227416,90.3915274,,R315.lrps.htm
+,LRP003c,2.853,"Side Road, Left",Z 3024 Masterbari Nuhaspalli road,24.2284438,90.3858052,,R315.lrps.htm
+,LRP004,3.259,Km Post,Fulbaria 10 Km,24.2286104,90.381916,,R315.lrps.htm
+,LRP005,4.259,Km Post,Info missing,24.2293049,90.3720827,,R315.lrps.htm
+,LRP005a,4.791,Culvert,Box culvert,24.2287771,90.3668882,,R315.lrps.htm
+,LRP006,5.279,Km Post,Info missing,24.2279716,90.3622222,,R315.lrps.htm
+,LRP006a,5.605,Culvert,Pipe Culvert,24.2273604,90.3581944,,R315.lrps.htm
+,LRP006b,6.22,Bridge,Bridge start,24.2264993,90.3530833,,R315.lrps.htm
+,LRP006c,6.241,Bridge,Bridge end,24.2264993,90.3529167,,R315.lrps.htm
+,LRP007,6.289,Km Post,Fulbaria 7 Km,24.2264438,90.3525,,R315.lrps.htm
+,LRP008,7.299,Km Post,Km post Broken,24.2247493,90.3427774,,R315.lrps.htm
+,LRP009,8.299,Km Post,Km post Missing,24.2201104,90.3344997,,R315.lrps.htm
+,LRP010,9.299,Km Post,Km post Missing,24.2155278,90.3266938,,R315.lrps.htm
+,LRP010a,9.904,Bridge,Bridge start,24.2125833,90.3223049,,R315.lrps.htm
+,LRP010b,9.937,Bridge,Bridge End,24.2125,90.3220271,,R315.lrps.htm
+,LRP011,10.319,Km Post,Fulbaria 3 Km,24.2098611,90.319916,,R315.lrps.htm
+,LRP012,11.319,Km Post,Km post missing,24.2012778,90.3173604,,R315.lrps.htm
+,LRP013,12.319,Km Post,Km post missing,24.193083,90.3136667,,R315.lrps.htm
+,LRP013a,13.236,Bridge,Bridge start,24.1891663,90.3063333,,R315.lrps.htm
+,LRP013b,13.284,Bridge,Bridge End,24.1890274,90.3058889,,R315.lrps.htm
+,LRP014,13.319,Km Post,Km post missing,24.1889719,90.3055278,,R315.lrps.htm
+,LRP014a,13.535,Bridge,Bridge start,24.1869997,90.3009722,,R315.lrps.htm
+,LRP014b,13.545,Bridge,Bridge End,24.1869719,90.3008889,,R315.lrps.htm
+,LRP015,14.319,Km Post,Km post missing,24.1842219,90.2973608,,R315.lrps.htm
+,LRP016,14.969,Km Post,Info missing,24.1810827,90.2926108,,R315.lrps.htm
+,LRP017,15.979,Km Post,Info missing,24.1744716,90.285333,,R315.lrps.htm
+,LRP018,16.979,Km Post,Kaliakoir 14 Km,24.1673604,90.279416,,R315.lrps.htm
+,LRP019,17.979,Km Post,Info missing,24.1644444,90.270916,,R315.lrps.htm
+,LRP019a,17.995,Culvert,Pipe Culvert,24.1643333,90.2707216,,R315.lrps.htm
+,LRP020,18.975,Km Post,Info missing,24.1584722,90.2640278,,R315.lrps.htm
+,LRP021,19.975,Km Post,Info missing,24.1499163,90.2646667,,R315.lrps.htm
+,LRP022,20.965,Km Post,Info missing,24.1411941,90.2653611,,R315.lrps.htm
+,LRP022a,21.936,Culvert,Box culvert,24.133833,90.2611944,,R315.lrps.htm
+,LRP023,21.965,Km Post,Km post missing,24.1336663,90.2610556,,R315.lrps.htm
+,LRP024,22.965,Km Post,Km post missing,24.1252216,90.2585,,R315.lrps.htm
+,LRP024a,23.235,Culvert,Box Culvert,24.1229993,90.2576111,,R315.lrps.htm
+,LRP025,23.952,Km Post,Info missing,24.1171104,90.2553889,,R315.lrps.htm
+,LRP026,24.952,Km Post,Km post missing,24.1098056,90.249833,,R315.lrps.htm
+,LRP027,25.952,Km Post,Km post missing,24.1057778,90.2421386,,R315.lrps.htm
+,LRP027a,26.356,Bridge,Bridge start,24.1052222,90.2382774,,R315.lrps.htm
+,LRP027b,26.438,Bridge,Bridge End,24.1050833,90.2375274,,R315.lrps.htm
+,LRP028,26.952,Km Post,Km post missing,24.1043056,90.2324993,,R315.lrps.htm
+,LRP029,27.952,Km Post,Km post missing,24.0985274,90.225416,,R315.lrps.htm
+,LRP029a,28.193,Culvert,Box culvert,24.0978608,90.2231938,,R315.lrps.htm
+,LRP030,28.952,Km Post,Km post missing,24.0943886,90.2168049,,R315.lrps.htm
+,LRP031,29.952,Km Post,Km post missing,24.0875552,90.2106667,,R315.lrps.htm
+,LRP031a,30.475,Bridge,Bridge start,24.0832771,90.2091667,,R315.lrps.htm
+,LRP031b,30.64,Bridge,Bridge End,24.0817771,90.2092778,,R315.lrps.htm
+,LRP032,30.952,Km Post,Km post missing,24.0789438,90.2094167,,R315.lrps.htm
+,LRP032a,31.355,Cross Road,Cross Road N 4 ( Jaydubpur - Jamalpur Road ),24.075666,90.2089722,,R315.lrps.htm
+,LRP033,31.952,Km Post,Km post missing,24.0708882,90.2064444,,R315.lrps.htm
+,LRP033a,32.746,Bridge,Bridge start,24.0638611,90.2055,,R315.lrps.htm
+,LRP033b,32.764,Bridge,Bridge End,24.0636667,90.2054722,,R315.lrps.htm
+,LRP033c,32.81,Rail Road Crossing,Rail Road Crossing,24.0633056,90.2054722,,R315.lrps.htm
+,LRP034,32.952,Km Post,Km post missing,24.0620833,90.2050556,,R315.lrps.htm
+,LRP034a,33.523,Bridge,Bridge start,24.0573056,90.2030556,,R315.lrps.htm
+,LRP034b,33.555,Bridge,Bridge End,24.0571111,90.2028889,,R315.lrps.htm
+,LRP035,33.952,Km Post,Km post missing,24.0542778,90.2005833,,R315.lrps.htm
+,LRP036,34.952,Km Post,Km post missing,24.0470274,90.1955274,,R315.lrps.htm
+,LRP036a,35.872,Culvert,Box culvert,24.0423886,90.1892774,,R315.lrps.htm
+,LRP037,35.952,Km Post,Km post missing,24.0418052,90.1890274,,R315.lrps.htm
+,LRP037a,36.075,Culvert,Pipe Culvert,24.0389163,90.1890552,,R315.lrps.htm
+,LRP038,36.952,Km Post,Km post missing,24.0329438,90.189333,,R315.lrps.htm
+,LRP038a,37.152,Culvert,Pipe Culvert,24.0295271,90.1907219,,R315.lrps.htm
+,LRP039,37.952,Km Post,Km post missing,24.0245549,90.1926941,,R315.lrps.htm
+,LRP039a,38.111,Bridge,Bridge start,24.023166,90.1929719,,R315.lrps.htm
+,LRP039b,38.209,Bridge,Bridge End,24.0223049,90.1931663,,R315.lrps.htm
+,LRP039c,38.634,Culvert,Box Culvert,24.0188327,90.1949163,,R315.lrps.htm
+,LRP040,38.952,Km Post,Km post missing,24.0161944,90.1961941,,R315.lrps.htm
+,LRP040a,39.473,Others,RHD Manikganj Start,0,0,,R315.lrps.htm
+,LRP040a,39.473,Others,RHD Manikganj Start,0,0,,R315.lrps.htm
+,LRP040b,39.923,Bridge,Bridge start,24.0086667,90.191833,,R315.lrps.htm
+,LRP041,39.992,Km Post,Baily Bridge End,24.0080833,90.1914719,,R315.lrps.htm
+,LRP041a,40.748,Culvert,Box culvert,24.0020278,90.1886108,,R315.lrps.htm
+,LRP042,40.992,Km Post,Km post missing,23.9999441,90.1881108,,R315.lrps.htm
+,LRP043,41.925,Km Post,Infom missing,23.9925552,90.1872774,,R315.lrps.htm
+,LRP043a,42.204,Culvert,Box culvert,23.9907219,90.1886663,,R315.lrps.htm
+,LRP044,42.925,Km Post,Dhamrai 9 Km,24.9847497,90.1909441,,R315.lrps.htm
+,LRP044a,43.882,Bridge,Bridge start,23.9765271,90.1923608,,R315.lrps.htm
+,LRP044b,43.896,Bridge,Bridge End,23.976416,90.192333,,R315.lrps.htm
+,LRP045,43.925,Km Post,Km post missing,23.9761104,90.1923886,,R315.lrps.htm
+,LRP045a,44.787,Bridge,Bridge start,23.9699993,90.1959163,,R315.lrps.htm
+,LRP045b,44.798,Bridge,Bridge End,23.9698604,90.1959719,,R315.lrps.htm
+,LRP046,44.915,Km Post,Dhamrai 7 Km,23.9688049,90.196333,,R315.lrps.htm
+,LRP047,45.915,Km Post,Km post missing,23.96,90.1979997,,R315.lrps.htm
+,LRP048,46.915,Km Post,Km post missing,23.9512778,90.2000556,,R315.lrps.htm
+,LRP049,47.935,Km Post,Dhamrai 4 Km,23.9427774,90.2036389,,R315.lrps.htm
+,LRP049a,48.01,Bridge,Bridge start,23.9422219,90.2038889,,R315.lrps.htm
+,LRP049b,48.032,Bridge,Bridge End,23.9420274,90.2040556,,R315.lrps.htm
+,LRP050,48.935,Km Post,Km post missing,23.9343886,90.2070556,,R315.lrps.htm
+,LRP051,49.935,Km Post,Km post missing,23.9258882,90.2098056,,R315.lrps.htm
+,LRP051a,49.942,Bridge,Bridge start,23.9258604,90.20975,,R315.lrps.htm
+,LRP051b,50.059,Bridge,Bridge End,23.9248604,90.2101111,,R315.lrps.htm
+,LRP052,50.935,Km Post,Km post missing,23.9172771,90.2116667,,R315.lrps.htm
+,LRP052a,51.621,Bridge,Bridge start,23.9112778,90.2119444,,R315.lrps.htm
+,LRP052b,51.629,Bridge,Bridge End,23.9111389,90.2122222,,R315.lrps.htm
+,LRP053,51.935,Km Post,Km post missing,23.9084167,90.2121944,,R315.lrps.htm
+,LRPE,51.985,Others,"Road end at Dulivita Intersection N5 (Dhaka,Mirpur,Utholi, Paturia, Banglabandh road.",23.908,90.2122778,,R315.lrps.htm
+,,,,,,,,R315.lrps.htm
+,,,,,,,,R315.lrps.htm

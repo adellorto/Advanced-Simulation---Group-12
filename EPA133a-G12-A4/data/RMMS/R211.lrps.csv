@@ -1,0 +1,108 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,Start of road from N2 Round about at intersection at Itakhola,23.980166,90.7334719,,R211.lrps.htm
+,LRPSa,0.075,Bridge,Bridge start,23.9808049,90.7337219,,R211.lrps.htm
+,LRPSb,0.086,Bridge,Bridge end,23.9808882,90.7337497,,R211.lrps.htm
+,LRP001,0.901,Km Post,Kishoreganj 48 km Motkhola 29 km,23.9879163,90.735583,,R211.lrps.htm
+,LRP001a,1.162,Culvert,Box Culvert,23.9901108,90.7360552,,R211.lrps.htm
+,LRP001b,1.691,Culvert,Box Culvert,23.9947219,90.7371386,,R211.lrps.htm
+,LRP002,1.923,Km Post,Kishoreganj 47 km Motkhola 28 km,23.9967497,90.7375552,,R211.lrps.htm
+,LRP002a,2.452,Culvert,Box Culvert,24.0015,90.7375274,,R211.lrps.htm
+,LRP003,2.933,Km Post,Kishoreganj 46 km Motkhola 27 km,24.0057778,90.7374163,,R211.lrps.htm
+,LRP003a,3.564,Culvert,Box Culvert,24.0114444,90.7372497,,R211.lrps.htm
+,LRP003b,3.75,"Side Road, Right",Road to Narsingdi Z2033,24.0129722,90.7373052,,R211.lrps.htm
+,LRP004,3.946,Km Post,Kishoreganj 45 km Motkhola 26 km,24.0147778,90.7371941,,R211.lrps.htm
+,LRP004a,4.351,Bridge,Bridge start,24.0183604,90.7375274,,R211.lrps.htm
+,LRP005,4.962,Km Post,"Kishoreganj 44 km ,Motkhola 25 km",24.0238327,90.7381386,,R211.lrps.htm
+,LRP005a,5.178,Culvert,Box Culvert,24.0257216,90.7383052,,R211.lrps.htm
+,LRP006,5.961,Km Post,Kishoreganj 43 km Motkhola 24 km,24.0324993,90.7363608,,R211.lrps.htm
+,LRP006a,5.99,Bridge,Bridge start,24.0327216,90.736333,,R211.lrps.htm
+,LRP006b,6.001,Bridge,Bridge end,24.0328327,90.7363052,,R211.lrps.htm
+,LRP006c,6.196,Culvert,Box Culvert,24.0344997,90.7357497,,R211.lrps.htm
+,LRP006d,6.632,"Side Road, Left",Road to Banren bazar (Z2036),24.0383052,90.7347497,,R211.lrps.htm
+,LRP007,6.978,Km Post,Info missing,24.0406386,90.7367774,,R211.lrps.htm
+,LRP007a,7.284,"Side Road, Left",Road to Hatirdia (Z2044),24.0427219,90.7384441,,R211.lrps.htm
+,LRP007b,7.395,Bridge,Bridge start,24.0436941,90.7383608,,R211.lrps.htm
+,LRP007c,7.409,Bridge,Bridge end,24.043833,90.738333,,R211.lrps.htm
+,LRP007d,7.459,"Side Road, Right",Road to Balebo(Z2035),24.0442219,90.7382497,,R211.lrps.htm
+,LRP008,7.994,Km Post,Koshoreganj 41 km Motkhola 22 km,24.0489719,90.7371941,,R211.lrps.htm
+,LRP008a,8.247,Culvert,Box Culvert,24.0511944,90.7367219,,R211.lrps.htm
+,LRP009,9.007,Km Post,Kishoreganj 40 km Motkhola 21 km,24.0578056,90.7376108,,R211.lrps.htm
+,LRP009a,9.095,Culvert,Box Culvert,24.0585556,90.7374441,,R211.lrps.htm
+,LRP010,10.014,Km Post,Kishoreganj 39 km Motkhola 20 km,24.0665833,90.7357219,,R211.lrps.htm
+,LRP010a,10.017,Culvert,Pipe Culvert,24.0666111,90.7357774,,R211.lrps.htm
+,LRP010b,10.019,Culvert,Pipe Culvert,24.0666389,90.7357774,,R211.lrps.htm
+,LRP011,11.014,Km Post,Km post missing,24.0755549,90.735083,,R211.lrps.htm
+,LRP011a,11.662,"Side Road, Right",Road to Puradia (R212),24.0809993,90.7332216,,R211.lrps.htm
+,LRP012,11.912,Km Post,Info not Clear,24.0826382,90.731916,,R211.lrps.htm
+,LRP013,12.919,Km Post,Kishoreganj 36 km Motkhola 17 km,24.0898608,90.7262493,,R211.lrps.htm
+,LRP013a,13.223,Culvert,Box Culvert,24.0919997,90.7244993,,R211.lrps.htm
+,LRP013b,13.364,Culvert,Box Culvert,24.0930274,90.7236104,,R211.lrps.htm
+,LRP014,14.075,Km Post,Kishoreganj 35 km Motkhola 16 km,24.0957219,90.7175827,,R211.lrps.htm
+,LRP015,15.077,Km Post,Info missing,24.1007222,90.7100556,,R211.lrps.htm
+,LRP016,16.068,Km Post,Kishoreganj 30 km Motkhola 14 km,24.1090278,90.7068056,,R211.lrps.htm
+,LRP016a,16.71,Culvert,Pipe Culvert,24.11475,90.7031111,,R211.lrps.htm
+,LRP016b,17.059,"Side Road, Left",Road to Monohardi,24.1166389,90.7018611,,R211.lrps.htm
+,LRP017,17.081,Km Post,Info missing,24.1167771,90.7017778,,R211.lrps.htm
+,LRP017a,17.137,"Side Road, Left",Mawna-Monohardi(Hetemdi)Road,24.1172493,90.7015833,,R211.lrps.htm
+,LRP017b,17.511,Culvert,Box Culvert,24.1205271,90.7011389,,R211.lrps.htm
+,LRP018,18.11,Km Post,Info not clear,24.1258604,90.7012222,,R211.lrps.htm
+,LRP018a,18.125,Monument,Box Culvert,24.1259716,90.7012222,,R211.lrps.htm
+,LRP018b,18.52,Culvert,Pipe Culvert,24.1303604,90.702,,R211.lrps.htm
+,LRP019,19.13,Km Post,Kishoreganj 30 km Motkhola 11 km,24.134833,90.7020556,,R211.lrps.htm
+,LRP019a,19.579,Bridge,Bridge start,24.1387497,90.7027222,,R211.lrps.htm
+,LRP019b,19.59,Bridge,Bridge end,24.1388052,90.7027222,,R211.lrps.htm
+,LRP019c,19.604,Culvert,Box Culvert,24.1389163,90.7027222,,R211.lrps.htm
+,LRP019d,19.902,"Side Road, Left",Monohardi link road Z 2049,24.1414997,90.7032222,,R211.lrps.htm
+,LRP020,20.169,Km Post,Kishoreganj 29 km Motkhola 10 km,24.1436663,90.7035833,,R211.lrps.htm
+,LRP020a,20.569,Culvert,Box Culvert,24.1469719,90.7048611,,R211.lrps.htm
+,LRP020b,20.804,Culvert,Pipe Culvert,24.1495552,90.7069444,,R211.lrps.htm
+,LRP021,21.181,Km Post,Info missing,24.15125,90.7085556,,R211.lrps.htm
+,LRP022,22.2,Km Post,Kishoreganj 27 km Motkhola 8 km,24.1583611,90.71475,,R211.lrps.htm
+,LRP022a,22.33,Culvert,Box Culvert,24.1592778,90.7155278,,R211.lrps.htm
+,LRP022b,22.638,"Side Road, Right",Ropad to Shaker bazar Z2115,24.1614444,90.7173604,,R211.lrps.htm
+,LRP022c,22.861,Bridge,Bridge start,24.1631667,90.7182771,,R211.lrps.htm
+,LRP022d,22.869,Bridge,Bridge end,24.1631944,90.7182771,,R211.lrps.htm
+,LRP022e,22.981,"Side Road, Left",Monohardi link road Z2049,24.1641389,90.718916,,R211.lrps.htm
+,LRP023,23.234,Km Post,Kishoreganj 26 km Motkhola 7 km,24.1654444,90.7207493,,R211.lrps.htm
+,LRP024,24.245,Km Post,Kishoreganj 25 km Motkhola 6 km,24.1729438,90.7253604,,R211.lrps.htm
+,LRP024a,24.972,Culvert,Box Culvert,24.1804993,90.7278049,,R211.lrps.htm
+,LRP025,25.272,Km Post,Kishoreganj 24 km Motkhola 5 km,24.1816938,90.7280549,,R211.lrps.htm
+,LRP025a,25.457,Culvert,Box Culvert,24.1833049,90.7284716,,R211.lrps.htm
+,LRP026,26.272,Km Post,Km post missing,24.1901941,90.7308882,,R211.lrps.htm
+,LRP026a,26.457,Cross Road,Intersection with Z2122 (Nayerkand-Shaker bazar road),24.1913886,90.7294438,,R211.lrps.htm
+,LRP026b,26.934,Culvert,Box Culvert,24.1947219,90.7269716,,R211.lrps.htm
+,LRP027,27.261,Km Post,Kishoreganj 22 km Motkhola 3 km,24.197333,90.7255271,,R211.lrps.htm
+,LRP027a,27.704,Culvert,Box Culvert,24.20025,90.7242216,,R211.lrps.htm
+,LRP028,28.267,Km Post,Kishoreganj 21 km Motkhola 3 km,24.2060556,90.7232771,,R211.lrps.htm
+,LRP029,29.278,Km Post,Km post Coverad by vesatation,24.2138056,90.7182493,,R211.lrps.htm
+,LRP030,30.283,Km Post,Kishoreganj 19km Motkhola 0 km,24.2214438,90.7130278,,R211.lrps.htm
+,LRP030a,31.13,Culvert,Box Culvert,24.227666,90.7084167,,R211.lrps.htm
+,LRP031,31.288,Km Post,Kishoreganj 18 km,24.2288049,90.7074722,,R211.lrps.htm
+,LRP032,32.292,Km Post,Kishoreganj 17 km,24.2353886,90.7008333,,R211.lrps.htm
+,LRP033,33.039,Km Post,Kotiadi 12 km / Start of kishoregnj road division (Road division demarcation pillar places alongside the Kilometer Post),24.2065556,90.6986663,,R211.lrps.htm
+,LRP033,33.039,Km Post,Kotiadi 12 km / Start of kishoregnj road division (Road division demarcation pillar places alongside the Kilometer Post),24.2065556,90.6986663,,R211.lrps.htm
+,LRP033a,33.126,Bridge,Baily Bridge start,24.2404719,90.6988886,,R211.lrps.htm
+,LRP033b,33.297,Bridge,Baily Bridge end,24.2419441,90.6994997,,R211.lrps.htm
+,LRP034,33.307,Km Post,Kotiadi 12 km,24.2419719,90.6995274,,R211.lrps.htm
+,LRP034a,33.614,Culvert,Box culvert,24.2443052,90.7010833,,R211.lrps.htm
+,LRP035,34.057,Km Post,Kotiadi 11km,24.2481941,90.7013889,,R211.lrps.htm
+,LRP035a,34.087,Culvert,Box Culvert,24.2484997,90.7013889,,R211.lrps.htm
+,LRP035b,34.231,"Side Road, Left","R312,Rajendrapur Chowrata-Motkho,a road",24.2497219,90.7013056,,R211.lrps.htm
+,LRP036,35.06,Km Post,Kotiadi 10 km,24.2521111,90.7088611,,R211.lrps.htm
+,LRP037,36.06,Km Post,Km post missing,24.2562778,90.7177493,,R211.lrps.htm
+,LRP038,37.046,Km Post,Kotiadi 8 km,24.2606944,90.725916,,R211.lrps.htm
+,LRP038a,37.383,Culvert,Box Culvert,24.2621111,90.7288327,,R211.lrps.htm
+,LRP039,38.013,Km Post,Kotiadi 7 km,24.2651111,90.7340552,,R211.lrps.htm
+,LRP040,39.064,Km Post,Itakhola 41 km,24.2658611,90.7437774,,R211.lrps.htm
+,LRP040a,39.505,Culvert,Box Culvert,24.2643611,90.7477774,,R211.lrps.htm
+,LRP041,40.064,Km Post,Km post missing,24.26325,90.7531944,,R211.lrps.htm
+,LRP041a,40.954,Culvert,Box Culvert,24.26375,90.7618889,,R211.lrps.htm
+,LRP042,41.043,Km Post,Kotiadi 4 km,24.2638056,90.7627778,,R211.lrps.htm
+,LRP043,42.054,Km Post,Kotiadi 3 km,24.2587222,90.7697771,,R211.lrps.htm
+,LRP044,43.054,Km Post,Kotiadi 2 km,24.2545833,90.7782216,,R211.lrps.htm
+,LRP044a,43.239,Culvert,Box Culvert,24.2540278,90.7799438,,R211.lrps.htm
+,LRP045,44.054,Km Post,Km post missing,24.2513333,90.7877219,,R211.lrps.htm
+,LRP045a,44.158,Culvert,Box Culvert,24.2513333,90.7881941,,R211.lrps.htm
+,LRPE,45.114,Others,The road ends Intersecting R360 at Kotiadi.,24.2523333,90.7966941,,R211.lrps.htm
+,,,,,,,,R211.lrps.htm
+,,,,,,,,R211.lrps.htm

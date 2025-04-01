@@ -1,0 +1,70 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,"Start of road at Darsana bus stand intersect with R 749 & R 748 Darsana, Chuadanga.",23.5272771,88.8076944,,R749.lrps.htm
+,LRPSa,0.218,Culvert,Box Culvert,23.5273882,88.8059444,,R749.lrps.htm
+,LRP001,1,Km Post,"Mujibnagar 29 km, Meherpur 42 km",23.5263604,88.7981386,,R749.lrps.htm
+,LRP001a,1.355,Rail Road Crossing,Khulna - Darsana Rail,23.524166,88.7965274,,R749.lrps.htm
+,LRP002,2,Km Post,"Mujibnagar 28 km, Meharpur 41 km",23.5255549,88.7907774,,R749.lrps.htm
+,LRP002a,2.23,Culvert,Box culvert,23.525666,88.7889997,,R749.lrps.htm
+,LRP003,3,Km Post,"Mujibnagar 27 km, Meharpur 40 km",23.5274716,88.781666,,R749.lrps.htm
+,LRP004,4,Km Post,"Mujibnagar 26 km, Meharpur 39 km",23.5351941,88.7778604,,R749.lrps.htm
+,LRP004a,4.141,Culvert,Box culvert,23.5359719,88.7768049,,R749.lrps.htm
+,LRP005,5,Km Post,"Mujibnagar 25 km, Meharpur 38 km",23.5406941,88.7701938,,R749.lrps.htm
+,LRP005a,5.583,Bridge,Baily bridge start,23.5431386,88.7651111,,R749.lrps.htm
+,LRP005b,5.685,Bridge,Baily bridge End,23.5434997,88.7641667,,R749.lrps.htm
+,LRP006,5.88,Km Post,"Mujibnagar 24 km, Meharpur 37 km",23.5441386,88.7622778,,R749.lrps.htm
+,LRP006a,6.29,Culvert,Box culvert,23.5445552,88.7583056,,R749.lrps.htm
+,LRP007,6.76,Km Post,"Kustia 93 km, Mujibnagar 23 km",23.5447774,88.75375,,R749.lrps.htm
+,LRP007a,7.12,Culvert,Box culvert,23.5447774,88.7524167,,R749.lrps.htm
+,LRP007b,7.228,Culvert,Box Culvert,23.5447774,88.7491386,,R749.lrps.htm
+,LRP008,7.735,Km Post,"Kustia 92 km, Mujibnagar 22 km",23.5454997,88.7442774,,R749.lrps.htm
+,LRP008a,8.051,Culvert,Box culvert,23.5469163,88.7416941,,R749.lrps.htm
+,LRP008b,8.162,Culvert,Box culvert,23.5477219,88.7406108,,R749.lrps.htm
+,LRP008c,8.406,Culvert,box culvert,23.5486108,88.7387497,,R749.lrps.htm
+,LRP008d,8.625,Culvert,Slab Culvert,23.549583,88.7369719,,R749.lrps.htm
+,LRP009,8.725,Km Post,"Mujibnagar 21 km, Meherpur 31 km",23.5501111,88.7361108,,R749.lrps.htm
+,LRP009a,8.78,Culvert,Box culvert,23.5504167,88.7356663,,R749.lrps.htm
+,LRP009b,9.03,Culvert,Box culvert,23.5516389,88.7336108,,R749.lrps.htm
+,LRP009c,9.315,Culvert,Box Culvert,23.5531944,88.7313882,,R749.lrps.htm
+,LRP009d,9.445,Culvert,Pipe Culvert,23.554,88.7304438,,R749.lrps.htm
+,LRP010,9.785,Km Post,"Mujibnaga 20 km, Kushtia 90 km",23.5560833,88.7281104,,R749.lrps.htm
+,LRP010a,10.045,Culvert,Pipe Culvert,23.5572778,88.7272771,,R749.lrps.htm
+,LRP010b,10.65,Culvert,Box Culvert,23.5623056,88.7230827,,R749.lrps.htm
+,LRP011,10.715,Km Post,"Mujibnaga 19 km, Kushtia 89 km",23.5629167,88.7226382,,R749.lrps.htm
+,LRP011a,10.85,Culvert,Slub culvert,23.5634722,88.7222216,,R749.lrps.htm
+,LRP011b,10.855,Culvert,Box Culvert,23.5636944,88.7216938,,R749.lrps.htm
+,LRP012,11.635,Km Post,"Mujibnaga 18 km, Meherpur 32 km",23.567166,88.7158611,,R749.lrps.htm
+,LRP012a,12.095,Culvert,Box Culvert,23.5710827,88.7149444,,R749.lrps.htm
+,LRP012b,12.225,Culvert,Box Culvert,23.5719993,88.7142222,,R749.lrps.htm
+,LRP013,12.685,Km Post,"Mujibnaga 17 km, Kushtia 87 km",23.5739438,88.7101944,,R749.lrps.htm
+,LRP014,13.665,Km Post,"Mujibnaga 16 km, Kushtia 86 km",23.5755549,88.7011111,,R749.lrps.htm
+,LRP014a,13.745,Culvert,R.C.C Culvert,23.5761104,88.7004444,,R749.lrps.htm
+,LRP014b,14.007,Culvert,Box Culvert,23.5780827,88.6992774,,R749.lrps.htm
+,LRP015,14.725,Km Post,"Mujibnaga 15 km, Meherpur 28 km",23.5836663,88.695333,,R749.lrps.htm
+,LRP015a,15.137,Culvert,R.C.C Culvert,23.5869163,88.6939719,,R749.lrps.htm
+,LRP016,15.725,Km Post,km post Broken,23.5922497,88.6916663,,R749.lrps.htm
+,LRP016a,16.578,Culvert,Box culvert,23.5991663,88.6885552,,R749.lrps.htm
+,LRP017,16.725,Km Post,"Mujibnaga 13 km, Meherpur 26 km",23.5999719,88.6876941,,R749.lrps.htm
+,LRP017a,17.278,Culvert,Box culvert,23.6035833,88.683833,,R749.lrps.htm
+,LRP018,17.765,Km Post,"Mujibnaga 12 km, Kushtia 82 km",23.6069444,88.6809438,,R749.lrps.htm
+,LRP018a,18.371,Culvert,box culvert,23.6113333,88.6775271,,R749.lrps.htm
+,LRP019,18.725,Km Post,"Mujibnaga 11 km, Meherpur 24 km",23.6138889,88.6753327,,R749.lrps.htm
+,LRP019a,18.823,Culvert,Box culvert,23.6145833,88.6748604,,R749.lrps.htm
+,LRP020,19.755,Km Post,"Mujibnaga 10 km, Kushtia 80 km",23.6218604,88.6703604,,R749.lrps.htm
+,LRP020a,20.067,Culvert,Box culvert,23.6241938,88.6689716,,R749.lrps.htm
+,LRP021,20.685,Km Post,"Mujibnaga 9 km, Kushtia 79 km",23.6291382,88.6658611,,R749.lrps.htm
+,LRP022,21.605,Km Post,"Mujibnaga 8 km, Meherpur 21 km",23.6356663,88.6604722,,R749.lrps.htm
+,LRP022a,21.655,Culvert,Box culvert,23.636083,88.6602222,,R749.lrps.htm
+,LRP023,23.005,Km Post,"Mujibnaga 7 km, Meherpur 20 km",23.642333,88.6489441,,R749.lrps.htm
+,LRP023a,23.241,Others,Start of RHD Meherpur,23.6434163,88.6469719,,R749.lrps.htm
+,LRP023a,23.241,Others,Start of RHD Meherpur,23.6434163,88.6469719,,R749.lrps.htm
+,LRP024,24.005,Km Post,km post missing,23.6466108,88.6403886,,R749.lrps.htm
+,LRP024a,24.031,Culvert,Box Culvert,23.646583,88.6401663,,R749.lrps.htm
+,LRP025,25.005,Km Post,Km Post missing,23.6473052,88.6307493,,R749.lrps.htm
+,LRP026,26.005,Km Post,Km post missing,23.6536389,88.6237493,,R749.lrps.htm
+,LRP026a,26.602,Culvert,Box culvert,23.6566667,88.6191938,,R749.lrps.htm
+,LRP026b,26.995,Culvert,Box Culvert,23.6576389,88.6155,,R749.lrps.htm
+,LRP027,27.005,Km Post,Km post missing,23.6576389,88.6154444,,R749.lrps.htm
+,LRP028,28.005,Km Post,Km post missing,23.6630556,88.6076667,,R749.lrps.htm
+,LRPE,28.445,Others,End of Road,23.6644722,88.6042222,,R749.lrps.htm
+,,,,,,,,R749.lrps.htm
+,,,,,,,,R749.lrps.htm

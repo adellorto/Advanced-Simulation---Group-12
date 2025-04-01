@@ -1,0 +1,437 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,Start of road from Kashinathpur more.Left -Nazirganj.,23.9578056,89.6068889,,N6.lrps.htm
+,LRPSa,0.17,Bridge,P.C .Girder Bridge start,23.9585833,89.6056111,,N6.lrps.htm
+,LRPSb,0.24,Bridge,P.C.Girder Bridge end,23.9588889,89.6049722,,N6.lrps.htm
+,LRP001,0.993,Km Post,Pabna 44 km,23.9604167,89.5981663,,N6.lrps.htm
+,LRP002,2.01,Km Post,Rajshahi 150 km,23.9611389,89.5883886,,N6.lrps.htm
+,LRP003,2.999,Km Post,Natore 100 km,23.9621111,89.5786104,,N6.lrps.htm
+,LRP004,3.996,Km Post,Rajshahi 148 km,23.9642778,89.5691104,,N6.lrps.htm
+,LRP005,4.994,Km Post,Pabna 40 km,23.9661389,89.5588889,,N6.lrps.htm
+,LRP006,5.99,Km Post,Natore 97 km,23.9664444,89.549583,,N6.lrps.htm
+,LRP006a,6.79,"Side Road, Right",Z6028,23.9642778,89.5433608,,N6.lrps.htm
+,LRP007,6.985,Km Post,Pabna 38 km,23.9629722,89.5407219,,N6.lrps.htm
+,LRP008,7.982,Km Post,Natore 95 km,23.9581111,89.5323327,,N6.lrps.htm
+,LRP009,8.982,Km Post,Km post missing,23.9546389,89.5234993,,N6.lrps.htm
+,LRP009a,9.74,Culvert,Box culvert,23.9578889,89.5170827,,N6.lrps.htm
+,LRP010,9.977,Km Post,Iswardi 53 km,23.959,89.5153056,,N6.lrps.htm
+,LRP011,10.975,Km Post,Pabna 34 km,23.9606944,89.5059167,,N6.lrps.htm
+,LRP012,11.97,Km Post,Ishwardi 51 km,23.9615278,89.4962497,,N6.lrps.htm
+,LRP012a,12.06,"Side Road, Right",Z6017,23.9616944,89.4958886,,N6.lrps.htm
+,LRP012b,12.16,"Side Road, Left",Z 6024,23.9620833,89.4944997,,N6.lrps.htm
+,LRP013,12.967,Km Post,Pabna 32 km,23.9687493,89.4911941,,N6.lrps.htm
+,LRP013a,13.468,Culvert,Box Culvert,23.9730549,89.4894441,,N6.lrps.htm
+,LRP014,13.963,Km Post,Rajshahi 138 km,23.977166,89.4878052,,N6.lrps.htm
+,LRP014a,14.049,Culvert,Box Culvert,23.9780549,89.4874997,,N6.lrps.htm
+,LRP015,14.961,Km Post,Pabna 30 km,23.9853608,89.4837497,,N6.lrps.htm
+,LRP016,15.956,Km Post,Rajshahi 136 km,23.992833,89.4783327,,N6.lrps.htm
+,LRP017,16.949,Km Post,Natore 86 km,23.9996386,89.4731938,,N6.lrps.htm
+,LRP018,17.947,Km Post,Pabna 27 km,24.0084722,89.4723049,,N6.lrps.htm
+,LRP019,18.944,Km Post,Natore 84 km,24.016916,89.4690271,,N6.lrps.htm
+,LRP019a,19.334,Culvert,Box culvert,24.0192216,89.466,,N6.lrps.htm
+,LRP019b,19.824,Culvert,Box Culvert,24.0218604,89.4623056,,N6.lrps.htm
+,LRP020,19.942,Km Post,Pabna 25 km,24.022416,89.4613333,,N6.lrps.htm
+,LRP021,20.982,Km Post,Natore 82 km,24.0280549,89.4531389,,N6.lrps.htm
+,LRP021a,21.178,Bridge,Start of Bridge,24.0292771,89.4521944,,N6.lrps.htm
+,LRP021b,21.202,Bridge,End of Bridge,24.0294438,89.452,,N6.lrps.htm
+,LRP022,21.982,Km Post,Km post missing,24.0334441,89.4454163,,N6.lrps.htm
+,LRP022a,22.609,"Turn off, Right",Z 6026 (Madhupur-Sathia-Bera road),24.0337497,89.4414997,,N6.lrps.htm
+,LRP023,22.978,Km Post,Pabna 22 km,24.0338886,89.4359719,,N6.lrps.htm
+,LRP023a,23.278,Culvert,Box Culvert,24.0330549,89.4330549,,N6.lrps.htm
+,LRP024,23.976,Km Post,Natore 79 km,24.0333049,89.426166,,N6.lrps.htm
+,LRP024a,24.193,Culvert,Box culvert,24.0333608,89.424166,,N6.lrps.htm
+,LRP025,24.976,Km Post,Km post missing,24.0331938,89.4164444,,N6.lrps.htm
+,LRP025a,25.524,"Side Road, Left",Z 6030 (To Sujanagar),24.0317216,89.4113611,,N6.lrps.htm
+,LRP026,25.972,Km Post,Pabna 19 km,24.0328604,89.4071667,,N6.lrps.htm
+,LRP027,26.971,Km Post,Ishwardi 36 km,24.033333,89.397083,,N6.lrps.htm
+,LRP027a,27.421,Culvert,Box Culvert,24.0336108,89.3927774,,N6.lrps.htm
+,LRP028,27.971,Km Post,Km post missing,24.0346108,89.3869997,,N6.lrps.htm
+,LRP029,28.967,Km Post,Chapainawabganj 172 km,24.035333,89.377916,,N6.lrps.htm
+,LRP029a,29.402,Culvert,Box culvert,24.0359997,89.373666,,N6.lrps.htm
+,LRP030,29.962,Km Post,Pabna 15 km,24.0364163,89.3681938,,N6.lrps.htm
+,LRP030a,30.957,Culvert,Box culvert,24.036833,89.3584167,,N6.lrps.htm
+,LRP031,30.96,Km Post,Rajshahi 121 km,24.036833,89.3583889,,N6.lrps.htm
+,LRP032,31.96,Km Post,Km post missing,24.0364719,89.3476941,,N6.lrps.htm
+,LRP032a,31.97,Culvert,Box culvert,24.0364997,89.3477497,,N6.lrps.htm
+,LRP032b,32.323,Culvert,Box culvert,24.035833,89.3442219,,N6.lrps.htm
+,LRP033,32.952,Km Post,Pabna 12 km,24.0347219,89.3389719,,N6.lrps.htm
+,LRP034,33.949,Km Post,Natore 69 km,24.0329716,89.3293882,,N6.lrps.htm
+,LRP035,34.947,Km Post,Pabna 10 km,24.0299993,89.3200271,,N6.lrps.htm
+,LRP035a,35.503,Culvert,Box Culvert,24.0286938,89.3151389,,N6.lrps.htm
+,LRP036,35.943,Km Post,Natore 67 km,24.0271938,89.3106111,,N6.lrps.htm
+,LRP037,36.941,Km Post,Pabna 8 km,24.0245549,89.3013056,,N6.lrps.htm
+,LRP038,37.941,Km Post,Natore 65 km,24.0211382,89.3088333,,N6.lrps.htm
+,LRP038a,38.191,Culvert,Box culvert,24.0202771,89.2898052,,N6.lrps.htm
+,LRP039,38.94,Km Post,Rajshahi 113 km,24.0175271,89.2831382,,N6.lrps.htm
+,LRP039a,39.04,Culvert,Box Culvert,24.0169438,89.2819438,,N6.lrps.htm
+,LRP039b,39.44,Culvert,Box Culvert,24.015,89.279166,,N6.lrps.htm
+,LRP040,39.937,Km Post,Km post broken,24.0119722,89.274416,,N6.lrps.htm
+,LRP040a,40.537,Culvert,Box Culvert,24.0102778,89.2697216,,N6.lrps.htm
+,LRP041,40.935,Km Post,Kushtia 68 km,24.0088056,89.2660833,,N6.lrps.htm
+,LRP041a,41.755,Round About,Towards Left Pabna N 604,24.0075,89.2586111,,N6.lrps.htm
+,LRP042,41.957,Km Post,Chapainawabganj 159 km,24.0090833,89.2573333,,N6.lrps.htm
+,LRP043,42.957,Km Post,Km post missing,24.0170271,89.2527222,,N6.lrps.htm
+,LRP043a,43.873,Bridge,PC Girder Bridge start,24.0239716,89.248083,,N6.lrps.htm
+,LRP043b,43.94,Bridge,PC Girder Bridge end,24.0243882,89.2476108,,N6.lrps.htm
+,LRP044,43.952,Km Post,Rajshahi 108 km,24.0246104,89.2474163,,N6.lrps.htm
+,LRP045,44.949,Km Post,Natore 58 km,24.0278049,89.2384997,,N6.lrps.htm
+,LRP046,45.949,Km Post,Km post missing,24.030916,89.2289716,,N6.lrps.htm
+,LRP046a,46.269,"Side Road, Left",Towards left Pabna (N604),24.0318327,89.2261382,,N6.lrps.htm
+,LRP046b,46.849,Culvert,Box Culvert,24.035833,89.2222216,,N6.lrps.htm
+,LRP047,46.912,Km Post,Ishwardi 20 km,24.0363052,89.2216104,,N6.lrps.htm
+,LRP047a,47.365,Culvert,Box Culvert,24.0392219,89.2186104,,N6.lrps.htm
+,LRP047b,47.839,Bridge,Start of Bridge,24.0424441,89.2155,,N6.lrps.htm
+,LRP047c,47.88,Bridge,End of Bridge,24.0424719,89.2152778,,N6.lrps.htm
+,LRP048,47.936,Km Post,Natore 55 km,24.0430552,89.2150556,,N6.lrps.htm
+,LRP048a,48.736,Culvert,Box culvert,24.0486108,89.2097222,,N6.lrps.htm
+,LRP049,48.932,Km Post,Rajshahi 103 km,24.0496108,89.2084167,,N6.lrps.htm
+,LRP049a,49.432,Culvert,Box culvert,24.0541667,89.2066667,,N6.lrps.htm
+,LRP050,49.929,Km Post,Kushtia 59 km,24.0582778,89.2068611,,N6.lrps.htm
+,LRP050a,50.229,Culvert,Box culvert,24.0613889,89.2072222,,N6.lrps.htm
+,LRP051,50.929,Km Post,Km post missing,24.0677493,89.2075833,,N6.lrps.htm
+,LRP051a,51.339,"Side Road, Right",R 604,24.0714438,89.2078611,,N6.lrps.htm
+,LRP052,51.924,Km Post,Km post missing,24.0739716,89.2025556,,N6.lrps.htm
+,LRP052a,51.934,Culvert,Box culvert,24.0738882,89.2029167,,N6.lrps.htm
+,LRP052b,52.674,Culvert,Box Culvert,24.076666,89.1963886,,N6.lrps.htm
+,LRP053,52.924,Km Post,Natore 50 km,24.0771938,89.1933052,,N6.lrps.htm
+,LRP054,53.919,Km Post,Rajshahi 98 km,24.0789993,89.1839163,,N6.lrps.htm
+,LRP054a,54.469,Culvert,Box culvert,24.0808327,89.1802771,,N6.lrps.htm
+,LRP055,54.859,Km Post,Kushtia 56 km,24.0825271,89.1755827,,N6.lrps.htm
+,LRP056,55.809,Km Post,Natore 47 km,24.0872219,89.1683604,,N6.lrps.htm
+,LRP057,56.859,Km Post,Infor.not clear,24.091833,89.1598611,,N6.lrps.htm
+,LRP058,57.859,Km Post,Km post missing,24.0954719,89.1503611,,N6.lrps.htm
+,LRP058a,58.299,Culvert,Box Culvert,24.0976941,89.1468608,,N6.lrps.htm
+,LRP059,58.856,Km Post,Infor.not clear,24.1001944,89.1421663,,N6.lrps.htm
+,LRP059a,59.206,Culvert,Box Culvert,24.1016667,89.1391663,,N6.lrps.htm
+,LRP060,60.206,Km Post,Natore 43 km,24.1061389,89.1303049,,N6.lrps.htm
+,LRP060a,60.806,Culvert,Box culvert,24.1066667,89.1299993,,N6.lrps.htm
+,LRP061,61.206,Km Post,Km post missing,24.1116389,89.1228604,,N6.lrps.htm
+,LRP061a,61.306,"Side Road, Right",N 704 (Towards Paksey),24.1126389,89.1216104,,N6.lrps.htm
+,LRP062,62.029,Km Post,Natore 40 km,24.1174993,89.1174993,,N6.lrps.htm
+,LRP062a,62.629,Culvert,Box culvert,24.1224993,89.1272216,,N6.lrps.htm
+,LRP062b,63.016,Culvert,Box culvert,24.1252771,89.1286104,,N6.lrps.htm
+,LRP063,63.029,Km Post,Rajshahi 88 km,24.1253049,89.1286938,,N6.lrps.htm
+,LRP063a,63.219,Culvert,Box Culvert,24.128166,89.1299993,,N6.lrps.htm
+,LRP063b,63.399,Culvert,Box Culvert,24.129666,89.1303882,,N6.lrps.htm
+,LRP064,64.032,Km Post,Muladoli 4 km,24.1338886,89.1319716,,N6.lrps.htm
+,LRP064a,64.091,Culvert,Box culvert,24.1345274,89.1314993,,N6.lrps.htm
+,LRP064b,64.406,Culvert,Box Culvert,24.1372774,89.1318327,,N6.lrps.htm
+,LRP064c,64.811,Culvert,Box Culvert,24.1408608,89.1324716,,N6.lrps.htm
+,LRP065,65.028,Km Post,Chapainawabganj 131 km,24.1428886,89.133166,,N6.lrps.htm
+,LRP065a,65.105,Culvert,Box Culvert,24.1435552,89.1167216,,N6.lrps.htm
+,LRP066,66.026,Km Post,Sanamoszid 165 km,24.1515833,89.1189716,,N6.lrps.htm
+,LRP067,67.026,Km Post,Rajshahi 84 km,24.1600833,89.1389997,,N6.lrps.htm
+,LRP067a,67.463,Rail Road Crossing,Rail road crossing,24.1636111,89.1406663,,N6.lrps.htm
+,LRP067b,67.896,"Turn off, Left",Left Turn,24.1679438,89.1423052,,N6.lrps.htm
+,LRP067c,67.926,Culvert,Box culvert,24.1680271,89.1421941,,N6.lrps.htm
+,LRP067d,68.008,Others,Start of Natore road Division,24.1680549,89.1421108,,N6.lrps.htm
+,LRP067d,68.008,Others,Start of Natore road Division,24.1680549,89.1421108,,N6.lrps.htm
+,LRP068,68.024,Km Post,Natore 34 km,24.1686938,89.1413608,,N6.lrps.htm
+,LRP068a,68.504,"Turn off, Right",Right Turn,24.1692493,89.1383608,,N6.lrps.htm
+,LRP069,69.044,Km Post,Bogra 102 km,24.1759993,89.1379719,,N6.lrps.htm
+,LRP069a,69.514,Culvert,Box Culvert,24.1802493,89.1384163,,N6.lrps.htm
+,LRP070,70.054,Km Post,Bonpara 13 km,24.1878052,89.1381108,,N6.lrps.htm
+,LRP071,71.044,Km Post,Chapainawabganj 125 km,24.1936663,89.1359441,,N6.lrps.htm
+,LRP072,72.064,Km Post,Rajshahi 78 km,24.2025833,89.1339719,,N6.lrps.htm
+,LRP072a,72.114,Culvert,Box Culvert,24.203,89.1338886,,N6.lrps.htm
+,LRP072b,72.909,Culvert,Box Culvert,24.21,89.1323327,,N6.lrps.htm
+,LRP073,73.064,Km Post,Bonpara 10 km,24.2113611,89.1318327,,N6.lrps.htm
+,LRP073a,73.744,Culvert,Box culvert,24.2161111,89.1283604,,N6.lrps.htm
+,LRP074,74.074,Km Post,Bogra 97 km,24.2216938,89.1262493,,N6.lrps.htm
+,LRP074a,74.584,Culvert,Box Culvert,24.222666,89.1239993,,N6.lrps.htm
+,LRP075,75.094,Km Post,Sonamoszid 155 km,24.226666,89.1216382,,N6.lrps.htm
+,LRP075a,75.654,Bridge,P.C.Girder Bridge start,24.231166,89.1194993,,N6.lrps.htm
+,LRP075b,75.744,Bridge,P.C.Girder Bridge end,24.2319438,89.1196938,,N6.lrps.htm
+,LRP076,76.104,Km Post,Natore 26 km,24.2340552,89.1176938,,N6.lrps.htm
+,LRP077,77.104,Km Post,Rajshahi 73 km,24.2386386,89.1092222,,N6.lrps.htm
+,LRP077a,77.524,Culvert,Box culvert,24.240583,89.1056944,,N6.lrps.htm
+,LRP078,78.104,Km Post,Chapainawabganj 116 km,24.2599722,89.1008056,,N6.lrps.htm
+,LRP078a,78.624,"Side Road, Left",Z 6022,24.2456386,89.0964441,,N6.lrps.htm
+,LRP079,79.104,Km Post,Sonamoszid 151 km,24.2492497,89.0943886,,N6.lrps.htm
+,LRP079a,79.374,Culvert,Box culvert,24.2515833,89.0937219,,N6.lrps.htm
+,LRP080,80.114,Km Post,Natore 22 km,24.2581944,89.0926108,,N6.lrps.htm
+,LRP081,81.124,Km Post,Rajshahi 69 km,24.2672771,89.0909719,,N6.lrps.htm
+,LRP081a,81.714,Culvert,Box culvert,24.2731104,89.0895552,,N6.lrps.htm
+,LRP082,82.124,Km Post,Bogra 88 km,24.2756382,89.0881663,,N6.lrps.htm
+,LRP082a,82.284,Culvert,Box Culvert,24.2768049,89.0874997,,N6.lrps.htm
+,LRP083,83.124,Km Post,Rangpur 194 km,24.283583,89.0836108,,N6.lrps.htm
+,LRP083a,83.424,"Side Road, Left",Z 6014,24.2859163,89.0823049,,N6.lrps.htm
+,LRP083b,84.084,Culvert,Box culvert,24.291583,89.0811938,,N6.lrps.htm
+,LRP084,84.144,Km Post,Natore 18 km,24.2922219,89.0810549,,N6.lrps.htm
+,LRP084a,84.844,"Side Road, Right",N 507 (Towaeds Sirajganj),24.2984441,89.0798327,,N6.lrps.htm
+,LRP085,85.144,Km Post,Rajshahi 65 km,24.3011111,89.0793604,,N6.lrps.htm
+,LRP086,86.154,Km Post,Chapainawabganj 110 km,24.31,89.078666,,N6.lrps.htm
+,LRP087,87.164,Km Post,Sonamosjid 143 km,24.3187493,89.0766382,,N6.lrps.htm
+,LRP087a,87.374,Culvert,Box culvert,24.3205827,89.0762216,,N6.lrps.htm
+,LRP087b,87.849,Culvert,Box culvert,24.3248049,89.0752771,,N6.lrps.htm
+,LRP088,88.179,Km Post,Bogra 82 km,24.327666,89.074666,,N6.lrps.htm
+,LRP088a,88.436,Culvert,Box culvert,24.3298604,89.0742216,,N6.lrps.htm
+,LRP088b,88.836,Culvert,Box culvert,24.333333,89.0734716,,N6.lrps.htm
+,LRP089,89.574,Km Post,Rajshahi 61 km,24.3364997,89.0727493,,N6.lrps.htm
+,LRP089a,90.064,"Side Road, Right",Z 6015 (Right side Gurudaspur),24.3443052,89.0705827,,N6.lrps.htm
+,LRP090,90.177,Km Post,Km post broken,24.3451663,89.0701382,,N6.lrps.htm
+,LRP090a,90.824,Bridge,PC Girder Bridge start,24.3496108,89.0678882,,N6.lrps.htm
+,LRP090b,90.924,Bridge,PC Girder Bridge end,24.3496386,89.0668604,,N6.lrps.htm
+,LRP091,91.199,Km Post,Natore 11 km,24.35075,89.0647222,,N6.lrps.htm
+,LRP092,92.199,Km Post,Rajshahi 58 km,24.3581389,89.0593889,,N6.lrps.htm
+,LRP093,93.199,Km Post,Sonamosjid 137 km,24.3661389,89.0548611,,N6.lrps.htm
+,LRP093a,93.944,Culvert,Box culvert,24.3704993,89.0492497,,N6.lrps.htm
+,LRP094,94.209,Km Post,Chapinawabganj 102 km,24.3718882,89.0472774,,N6.lrps.htm
+,LRP094a,95.209,Culvert,Slab Culvert,24.3792493,89.0419719,,N6.lrps.htm
+,LRP095,95.214,Km Post,Rajshahi 55 km,24.3793882,89.0419163,,N6.lrps.htm
+,LRP096,96.214,Km Post,Bogra 74 km,24.3872774,89.0371663,,N6.lrps.htm
+,LRP096a,96.799,Culvert,Box culvert,24.3918608,89.0344441,,N6.lrps.htm
+,LRP097,97.239,Km Post,Natore 5 km,24.3951663,89.0324716,,N6.lrps.htm
+,LRP097a,97.724,Bridge,Bridge start,24.3991941,89.0311104,,N6.lrps.htm
+,LRP097b,97.725,Bridge,Bridge end,24.3994997,89.0311104,,N6.lrps.htm
+,LRP098,98.234,Km Post,Sonamosjid 132 km,24.4033333,89.029166,,N6.lrps.htm
+,LRP098a,99.249,Culvert,Box culvert,24.4064722,89.0203049,,N6.lrps.htm
+,LRP099,99.264,Km Post,Rajshahi 51 km,24.4065,89.0201938,,N6.lrps.htm
+,LRP099a,100.124,Culvert,Slab culvert,24.4090556,89.0122222,,N6.lrps.htm
+,LRP100,100.264,Km Post,Km post missing,24.4095,89.0105556,,N6.lrps.htm
+,LRP100a,100.644,"Side Road, Right",N602 at Sohid Zakir Chattor,24.4103889,89.0076389,,N6.lrps.htm
+,LRP100b,101.174,Bridge,P.C.Girder Bridge start,24.4071667,89.0039167,,N6.lrps.htm
+,LRP100c,101.204,Bridge,P.C.Girder Bridge end,24.4069167,89.0036389,,N6.lrps.htm
+,LRP101,101.264,Km Post,Rajshahi 49 km,24.4064444,89.0031667,,N6.lrps.htm
+,LRP101a,101.684,Culvert,Box culvert,24.4054444,88.9993608,,N6.lrps.htm
+,LRP102,102.269,Km Post,"Rajshahi 47 km,N.Ganj 93 km",24.4052222,88.9936108,,N6.lrps.htm
+,LRP102a,103.174,Cross Road,Z 6011,24.4039167,88.9847497,,N6.lrps.htm
+,LRP103,103.269,Km Post,Rajshahi 46 km,24.4036389,88.9839719,,N6.lrps.htm
+,LRP103a,103.674,Culvert,Box culvert,24.4018333,88.9805549,,N6.lrps.htm
+,LRP103b,104.264,Culvert,Box Culvert,24.4010556,88.9750271,,N6.lrps.htm
+,LRP104,104.269,Km Post,Km post missing,24.4011111,88.9745827,,N6.lrps.htm
+,LRP104a,104.904,Bridge,P.C.Girder Bridge start,24.4020278,88.9687771,,N6.lrps.htm
+,LRP104b,104.949,Bridge,P.C.Girder Bridge end,24.4020833,88.968416,,N6.lrps.htm
+,LRP104c,105.224,Rail Road Crossing,"Ishwardi ,Saidpur Rail",24.4024167,88.9654722,,N6.lrps.htm
+,LRP105,105.284,Km Post,"N.Ganj 90 km,Rajshahi 40 km",24.4025556,88.9651389,,N6.lrps.htm
+,LRP105a,105.524,Culvert,Slab culvert,24.4028611,88.9628889,,N6.lrps.htm
+,LRP105b,105.844,Culvert,Box Culvert,24.4035833,88.9598056,,N6.lrps.htm
+,LRP105c,106.274,"Side Road, Right",N 602 (Bus stand-Harishpur road),24.4063889,88.9570556,,N6.lrps.htm
+,LRP106,106.284,Km Post,Km post missing,24.4063889,88.9565556,,N6.lrps.htm
+,LRP106a,107.054,Culvert,2 V- Box Box culvert,24.4035833,88.9500833,,N6.lrps.htm
+,LRP107,107.284,Km Post,"Rajshahi 43 km,N Ganj 89 km",24.4026111,88.9482774,,N6.lrps.htm
+,LRP108,108.264,Km Post,"Rajshahi 42 km,N Ganj 88 km",24.3979441,88.9400552,,N6.lrps.htm
+,LRP108a,108.265,Culvert,Slab Culvert,24.3979163,88.9399997,,N6.lrps.htm
+,LRP109,109.284,Km Post,"Rajshahi 41 km, Shibganj 109 km",24.393083,89.9315549,,N6.lrps.htm
+,LRP110,110.284,Km Post,"Rajshahi 40 km, Shibganj 108 km",24.3882497,89.9231104,,N6.lrps.htm
+,LRP111,111.294,Km Post,"Rajshahi 39 km,Sonamoszid 119 km",24.3838052,89.9145556,,N6.lrps.htm
+,LRP111a,111.604,Culvert,3 V-Box culvert,24.3818882,89.9123056,,N6.lrps.htm
+,LRP112,112.294,Km Post,Rajshahi 38 km,24.3759716,89.9059444,,N6.lrps.htm
+,LRP112a,112.709,Culvert,Box Culvert,24.3734993,88.9045556,,N6.lrps.htm
+,LRP113,113.314,Km Post,Rajshahi 37 km,24.372666,88.8995274,,N6.lrps.htm
+,LRP113a,113.824,Others,RHD Rajshahi,24.3722493,88.8945274,,N6.lrps.htm
+,LRP113a,113.824,Others,RHD Rajshahi,24.3722493,88.8945274,,N6.lrps.htm
+,LRP114,114.314,Km Post,"Rajshahi 36 km,Godagari 67 km",24.372416,88.8893886,,N6.lrps.htm
+,LRP115,115.284,Km Post,"Rajshahi 35 km,N.Ganj 81 km",24.3718327,88.8803882,,N6.lrps.htm
+,LRP116,116.284,Km Post,Km post missing,24.3683604,88.8701938,,N6.lrps.htm
+,LRP116a,116.324,Culvert,Box Culvert,24.3686382,88.8709438,,N6.lrps.htm
+,LRP117,117.324,Km Post,Km post missing,0,0,,N6.lrps.htm
+,LRP117a,117.344,Bridge,R.C.C Girder Bridge start,24.3669438,88.8511389,,N6.lrps.htm
+,LRP117b,117.384,Bridge,R.C.C Girder Bridge end,24.3670271,88.8607778,,N6.lrps.htm
+,LRP118,118.294,Km Post,"Rajshahi 32 km,Shibganj 100 km",24.3683882,88.8523056,,N6.lrps.htm
+,LRP119,119.294,Km Post,Km post missing,24.3713049,88.8428052,,N6.lrps.htm
+,LRP119a,119.454,"Side Road, Right",Z 6004,24.371666,88.8414997,,N6.lrps.htm
+,LRP119b,119.694,"Side Road, Left",Z 6019,24.3721382,88.8391663,,N6.lrps.htm
+,LRP120,120.304,Km Post,"Rajshahi 30 km,Sonamosjid 110 km",24.3728049,88.8333049,,N6.lrps.htm
+,LRP121,121.304,Km Post,"Rajshahi 29 km,Sonamosjid 109 km",24.3734438,88.8235549,,N6.lrps.htm
+,LRP121a,121.584,Culvert,4 V-Box culvert,24.3739716,88.8208604,,N6.lrps.htm
+,LRP122,122.304,Km Post,"Rajshahi 28 km,N.Ganj 74 km",24.3756104,88.8140278,,N6.lrps.htm
+,LRP122a,123.144,Culvert,Box Culvert,24.3778327,88.8061667,,N6.lrps.htm
+,LRP123,123.304,Km Post,"Rajshahi 27 km,Shibganj 95 km",24.3783049,88.8046667,,N6.lrps.htm
+,LRP123a,123.704,Bridge,P.C Girder Bridge start,24.3794438,88.8008889,,N6.lrps.htm
+,LRP123b,123.764,Bridge,P.C Girder Bridge end,24.3795827,88.8003333,,N6.lrps.htm
+,LRP124,124.304,Km Post,Km post missing,24.3803327,88.795083,,N6.lrps.htm
+,LRP125,125.314,Km Post,"Rajshahi 25 km,Sonamosjid 105 km",24.3808327,88.7852774,,N6.lrps.htm
+,LRP125a,125.624,Culvert,Box Culvert,24.3819438,88.7826382,,N6.lrps.htm
+,LRP126,126.314,Km Post,Km post broken,24.3821938,88.7760271,,N6.lrps.htm
+,LRP126a,126.434,Culvert,Box culvert,24.3824438,88.7751382,,N6.lrps.htm
+,LRP126b,126.944,"Side Road, Right","Z-6005,Durgapur",24.3813882,88.7702771,,N6.lrps.htm
+,LRP127,127.314,Km Post,Km post missing,24.3798882,88.7662222,,N6.lrps.htm
+,LRP128,128.414,Km Post,"Rajshahi 22 km,N.Gani 68 km",24.3741382,88.7605556,,N6.lrps.htm
+,LRP129,129.424,Km Post,"Rajshahi 21 km,Godaganj 52 km",24.366666,88.7559722,,N6.lrps.htm
+,LRP129a,129.53,"Side Road, Left","Z-6006,Police Academi",24.3667216,88.7550556,,N6.lrps.htm
+,LRP129b,130.388,Culvert,Box culvert,24.3690549,88.747083,,N6.lrps.htm
+,LRP130,130.434,Km Post,Rajshahi 20 km,24.3690549,88.7466941,,N6.lrps.htm
+,LRP131,131.434,Km Post,"Rajshahi 19 km,Naogan 93 km",24.3667493,88.7371941,,N6.lrps.htm
+,LRP131a,131.486,Culvert,Box culvert,24.3667216,88.7367774,,N6.lrps.htm
+,LRP131b,132.177,Culvert,Box culvert,24.3666389,88.7299993,,N6.lrps.htm
+,LRP132,132.424,Km Post,"Rajshahi 18 km,Naogan 92 km",24.3663889,88.7275271,,N6.lrps.htm
+,LRP132a,132.589,"Side Road, Right",N 603 (Rajshahi By pass),24.3661944,88.7261104,,N6.lrps.htm
+,LRP132b,132.819,Rail Road Crossing,Rajshahi Rail,24.3655556,88.7238327,,N6.lrps.htm
+,LRP132c,133.128,Bridge,P.C Girder Bridge start,24.3651389,88.7208604,,N6.lrps.htm
+,LRP132d,133.19,Bridge,P.C Girder Bridge end,24.3650278,88.7202493,,N6.lrps.htm
+,LRP133,133.434,Km Post,Rajshahi 17 km,24.3644167,88.7179716,,N6.lrps.htm
+,LRP134,134.434,Km Post,Rajshahi 16 km,24.3618889,88.7252216,,N6.lrps.htm
+,LRP135,135.434,Km Post,Infor.missing,24.3597222,88.6986108,,N6.lrps.htm
+,LRP135a,135.804,Culvert,4 V-Box culvert,24.3606944,88.6956108,,N6.lrps.htm
+,LRP136,136.434,Km Post,Km post missing,24.3624722,88.6891663,,N6.lrps.htm
+,LRP136a,136.524,Culvert,4 V-Box Culvert,24.3625278,88.6888886,,N6.lrps.htm
+,LRP137,137.434,Km Post,Rajshahi 13 km,24.3647778,88.6801938,,N6.lrps.htm
+,LRP137a,138.064,Culvert,Box Culvert,24.3654167,88.6742771,,N6.lrps.htm
+,LRP138,138.444,Km Post,"Rajshahi 12 km,N.Ganj 58 km",24.3653056,88.670416,,N6.lrps.htm
+,LRP139,139.454,Km Post,"Rajshahi 11 km,Naogaon 85 km",24.3830549,88.6606944,,N6.lrps.htm
+,LRP139a,140.029,Culvert,Box culvert,24.3673049,88.6552778,,N6.lrps.htm
+,LRP140,140.454,Km Post,"Rajshahi 10 km,Naogaon 84 km",24.3677216,88.6508333,,N6.lrps.htm
+,LRP141,141.454,Km Post,Km post missing,24.366666,88.6413052,,N6.lrps.htm
+,LRP142,142.454,Km Post,Km post missing,24.3642222,88.6322216,,N6.lrps.htm
+,LRP142a,142.624,Culvert,Box culvert,24.3634444,88.6307493,,N6.lrps.htm
+,LRP142b,142.734,"Side Road, Right",Z 6010,24.3628333,88.6296104,,N6.lrps.htm
+,LRP142c,143.374,Culvert,Box Culvert,24.3603889,88.6242216,,N6.lrps.htm
+,LRP143,143.444,Km Post,Rajshahi 7 km,24.3600833,88.6237216,,N6.lrps.htm
+,LRP144,144.444,Km Post,Km post missing,24.3616944,88.6138333,,N6.lrps.htm
+,LRP145,145.444,Km Post,Km post missing,24.3635,88.6043889,,N6.lrps.htm
+,LRP146,146.444,Km Post,Km post missing,24.3663889,88.5954163,,N6.lrps.htm
+,LRP147,147.444,Km Post,Km post missing,24.3678327,88.5851386,,N6.lrps.htm
+,LRP147a,147.704,Culvert,Box Culvert,24.3680549,88.5834163,,N6.lrps.htm
+,LRP147b,147.974,Culvert,Box Culvert,24.3683882,88.581416,,N6.lrps.htm
+,LRP148,148.924,Km Post,"Rajshahi 1 km,N.Ganj 49 km",24.369666,88.5721938,,N6.lrps.htm
+,LRP149,149.924,Km Post,Km post missing,0,0,,N6.lrps.htm
+,LRP149a,149.944,Others,Rajshahi Infront of Life Care Farmacy Intersection at N6 &,24.3731382,88.5636944,,N6.lrps.htm
+,LRP149b,150.214,Culvert,Cross Drain,24.3736938,88.5619444,,N6.lrps.htm
+,LRP150,150.924,Km Post,Km post missing,0,0,,N6.lrps.htm
+,LRP150a,151.026,Culvert,Box Culvert,24.3756938,88.55475,,N6.lrps.htm
+,LRP150b,151.686,Culvert,Box Culvert,24.3767493,88.5484719,,N6.lrps.htm
+,LRP151,151.924,Km Post,Km post missing,0,0,,N6.lrps.htm
+,LRP151a,152.529,"Side Road, Right",Kasia Danga More (N603),24.3830271,88.5450552,,N6.lrps.htm
+,LRP151b,152.579,"Side Road, Right",Amnura road (Z6809),24.3832216,88.5446663,,N6.lrps.htm
+,LRP151c,152.72,Culvert,Box Culvert,24.3830271,88.5433608,,N6.lrps.htm
+,LRP152,153.034,Km Post,Nowabganj 43 km,24.3821104,88.5407497,,N6.lrps.htm
+,LRP153,154.034,Km Post,Sona Moszid 78 km,24.3808327,88.5313049,,N6.lrps.htm
+,LRP154,155.034,Km Post,Km post broken,24.3818882,88.5215549,,N6.lrps.htm
+,LRP155,156.034,Km Post,Km post broken,24.3790549,88.51225,,N6.lrps.htm
+,LRP155a,156.491,Culvert,Box Culvert,24.3783327,88.5079444,,N6.lrps.htm
+,LRP156,157.034,Km Post,Sona Moszid 75 km,24.3773327,88.5026111,,N6.lrps.htm
+,LRP156a,157.25,Culvert,Box Culvert,24.377166,88.5006389,,N6.lrps.htm
+,LRP157,158.034,Km Post,Nowabganj 38 km,24.3770827,88.4929163,,N6.lrps.htm
+,LRP157a,158.456,Culvert,Box Culvert,24.3753049,88.4909163,,N6.lrps.htm
+,LRP158,159.034,Km Post,Sona Moszid 73 km,24.3764438,88.4837774,,N6.lrps.htm
+,LRP158a,159.494,Culvert,Box Culvert,24.3799438,88.4801104,,N6.lrps.htm
+,LRP158b,159.846,Culvert,Box Culvert,24.3788327,88.4784993,,N6.lrps.htm
+,LRP159,160.034,Km Post,Nowabganj 36 km,24.3824993,88.4766104,,N6.lrps.htm
+,LRP160,161.034,Km Post,Godagari 18 km,24.3867219,88.467916,,N6.lrps.htm
+,LRP161,162.034,Km Post,Sona Moszid 70 km,24.3911663,88.4596667,,N6.lrps.htm
+,LRP162,163.034,Km Post,Nowabganj 33 km,24.395083,88.4509167,,N6.lrps.htm
+,LRP162a,163.52,"Side Road, Left",Premtoli road (R681) Bijoynagar to Uzanpara,24.3976663,88.4454441,,N6.lrps.htm
+,LRP163,164.034,Km Post,Sonamoszid 68 km,24.3997219,88.4424997,,N6.lrps.htm
+,LRP164,165.034,Km Post,Nowabganj 31 km,24.4058333,88.4353052,,N6.lrps.htm
+,LRP164a,165.865,Culvert,Box Culvert,24.4100556,88.4286938,,N6.lrps.htm
+,LRP165,166.034,Km Post,Sonamoszid 66 km,24.4111111,88.4273604,,N6.lrps.htm
+,LRP166,167.034,Km Post,Nowabganj 29 km,24.4178049,88.4207493,,N6.lrps.htm
+,LRP167,168.034,Km Post,Godagari 11 km,24.4237216,88.4134444,,N6.lrps.htm
+,LRP167a,168.069,"Side Road, Right",Kakonhat road (Z6855),24.4239993,88.4131111,,N6.lrps.htm
+,LRP168,169.029,Km Post,Sonamoszid 63 km,24.4273882,88.4045,,N6.lrps.htm
+,LRP169,170.034,Km Post,Nowabganj 26 km,24.4306938,88.395333,,N6.lrps.htm
+,LRP170,171.034,Km Post,Sonamoszid 61 km,24.4334719,88.3859441,,N6.lrps.htm
+,LRP170a,171.251,Culvert,Box Culvert,24.4339719,88.3839163,,N6.lrps.htm
+,LRP171,172.034,Km Post,Nowabganj 24 km,24.4357774,88.3764438,,N6.lrps.htm
+,LRP172,173.034,Km Post,Godagari 6 km,24.4381108,88.3668604,,N6.lrps.htm
+,LRP172a,173.082,Culvert,Box Culvert,24.4382219,88.3661667,,N6.lrps.htm
+,LRP172b,173.981,Culvert,Box Culvert,24.4402774,88.3578333,,N6.lrps.htm
+,LRP173,174.034,Km Post,Km post missing,24.4404163,88.3569444,,N6.lrps.htm
+,LRP174,175.034,Km Post,Nowabganj 21 km,24.4449163,88.3489163,,N6.lrps.htm
+,LRP174a,175.224,"Side Road, Left",Uzanpara by pass (R681),24.446083,88.3476386,,N6.lrps.htm
+,LRP175,176.034,Km Post,Sonamoszid 56 km,24.4525,88.3438886,,N6.lrps.htm
+,LRP175a,176.516,Culvert,Box Culvert,24.4541667,88.3394441,,N6.lrps.htm
+,LRP176,177.034,Km Post,Godagari 2 km,24.4566111,88.335083,,N6.lrps.htm
+,LRP176a,177.127,Culvert,Box Culvert,24.4576944,88.3336663,,N6.lrps.htm
+,LRP176b,177.689,Culvert,Box Culvert,24.4604167,88.3304716,,N6.lrps.htm
+,LRP177,178.029,Km Post,Nowabganj 18 km,24.463,88.3286104,,N6.lrps.htm
+,LRP177a,178.829,Round About,Godagari (Z6813) to Niametpur,24.4684993,88.3237493,,N6.lrps.htm
+,LRP177b,179.024,Culvert,Box Culvert,24.4700827,88.3225271,,N6.lrps.htm
+,LRP178,179.029,Km Post,Sonamoszid 53 km,24.4702216,88.3223882,,N6.lrps.htm
+,LRP178a,179.344,Culvert,Box Culvert,24.472416,88.3206938,,N6.lrps.htm
+,LRP179,180.029,Km Post,Km post missing,24.4773049,88.3168882,,N6.lrps.htm
+,LRP179a,180.159,Bridge,Bridge start,24.478166,88.3162222,,N6.lrps.htm
+,LRP179b,180.179,Bridge,Bridge end,24.4782771,88.3161389,,N6.lrps.htm
+,LRP180,181.034,Km Post,Sonamoszid 51 km,24.486083,88.3141944,,N6.lrps.htm
+,LRP180a,181.052,Culvert,Slab Culvert,24.4862219,88.3141667,,N6.lrps.htm
+,LRP180b,181.936,Culvert,Box Culvert,24.4947497,88.3150278,,N6.lrps.htm
+,LRP181,182.034,Km Post,Nowanganj 14 km,24.4948886,88.3124722,,N6.lrps.htm
+,LRP182,183.034,Km Post,Sonamoszid 49 km,24.5035833,88.3136667,,N6.lrps.htm
+,LRP182a,183.451,Culvert,Box Culvert,24.5070278,88.3153056,,N6.lrps.htm
+,LRP182b,183.937,Culvert,Box Culvert,24.5111111,88.3173604,,N6.lrps.htm
+,LRP183,184.039,Km Post,Nowabganj 12 km,24.5118333,88.317666,,N6.lrps.htm
+,LRP183a,184.449,Bridge,Baily Bridge start,24.5150278,88.3169438,,N6.lrps.htm
+,LRP183b,184.469,Bridge,Baily Bridge end,24.5151944,88.3168049,,N6.lrps.htm
+,LRP184,185.034,Km Post,Sonamoszid 47 km,24.5197771,88.3150556,,N6.lrps.htm
+,LRP185,186.034,Km Post,Nowabganj 10 km,24.5288049,88.31475,,N6.lrps.htm
+,LRP185a,186.759,Culvert,Box Culvert,24.5352219,88.3146111,,N6.lrps.htm
+,LRP186,187.034,Km Post,Sonamoszid 45 km,24.5377774,88.3140833,,N6.lrps.htm
+,LRP186a,187.182,Culvert,Box Culvert,24.538833,88.3134722,,N6.lrps.htm
+,LRP186b,187.666,Culvert,R.C.C Culvert,24.5426386,88.3112222,,N6.lrps.htm
+,LRP187,188.044,Km Post,Nowabganj 8 km,24.5456941,88.3093889,,N6.lrps.htm
+,LRP187a,188.407,Culvert,Box Culvert,24.5485274,88.3077778,,N6.lrps.htm
+,LRP188,189.034,Km Post,Sonamoszid 43 km,24.5541389,88.3063333,,N6.lrps.htm
+,LRP188a,189.524,"Side Road, Right",Side road right (Z6814),24.5584167,88.3051944,,N6.lrps.htm
+,LRP189,190.044,Km Post,Nowabganj 6 km,24.5629722,88.3041944,,N6.lrps.htm
+,LRP189a,190.054,Others,Nowabganj RHD Start,24.5631111,88.3041944,,N6.lrps.htm
+,LRP189a,190.054,Others,Nowabganj RHD Start,24.5631111,88.3041944,,N6.lrps.htm
+,LRP189b,190.854,Culvert,Box Culvert,24.5699438,88.3027778,,N6.lrps.htm
+,LRP190,191.054,Km Post,Sonamoszid 41 km,24.5713327,88.3013611,,N6.lrps.htm
+,LRP190a,191.494,Culvert,Box Culvert,24.572666,88.2973886,,N6.lrps.htm
+,LRP190b,192.064,Bridge,Bridge start,24.5765271,88.2938886,,N6.lrps.htm
+,LRP190c,192.074,Bridge,Bridge end,24.5766104,88.2937774,,N6.lrps.htm
+,LRP191,192.079,Km Post,Nowabganj 4 km,24.5764716,88.2937219,,N6.lrps.htm
+,LRP191a,193.06,Culvert,Box Culvert,24.5836108,88.2877774,,N6.lrps.htm
+,LRP192,193.079,Km Post,Km post missing,0,0,,N6.lrps.htm
+,LRP193,194.084,Km Post,Nowabganj 2 km,24.5911108,88.2821938,,N6.lrps.htm
+,LRP193a,194.134,Others,"Bisaw road more, Bus Terminal",24.5915552,88.2820271,,N6.lrps.htm
+,LRP194,195.134,Km Post,Sonamoszid 34 km,24.5899163,88.2723882,,N6.lrps.htm
+,LRP194a,195.334,Round About,Santir Mohr,24.5896941,88.2203049,,N6.lrps.htm
+,LRP195,196.084,Km Post,Infor.missing,24.5928052,88.2639444,,N6.lrps.htm
+,LRP195a,196.814,Culvert,Box Culvert,24.5958608,88.2577778,,N6.lrps.htm
+,LRP196,197.134,Km Post,Shibganj 16 km,24.5977497,88.2556944,,N6.lrps.htm
+,LRP196a,197.194,Bridge,Mohanonda Bridge start,24.5983608,88.2555,,N6.lrps.htm
+,LRP196b,197.734,Bridge,Mohanonda Bridge end,24.6020833,88.2539722,,N6.lrps.htm
+,LRP196c,197.884,Round About,Baroghoria More,24.6027222,88.2534167,,N6.lrps.htm
+,LRP197,198.114,Km Post,Infor.mising,24.6015,88.2517778,,N6.lrps.htm
+,LRP197a,198.454,Culvert,Box Culvert,24.60125,88.2466663,,N6.lrps.htm
+,LRP198,199.134,Km Post,Kansat 19 km,24.6018611,88.2401663,,N6.lrps.htm
+,LRP199,200.134,Km Post,Ranihati 5 km,24.6016944,88.2306104,,N6.lrps.htm
+,LRP200,201.134,Km Post,Sonamoszid 28 km,24.6051111,88.2217771,,N6.lrps.htm
+,LRP201,202.154,Km Post,Shibganj 11 km,24.6103056,88.2137778,,N6.lrps.htm
+,LRP202,203.144,Km Post,Ranihati 2 km,24.6158889,88.2061944,,N6.lrps.htm
+,LRP202a,204.004,Culvert,Two Box culvert,24.6217493,88.2012778,,N6.lrps.htm
+,LRP203,204.174,Km Post,Kansat 14 km,24.6230549,88.2004167,,N6.lrps.htm
+,LRP204,205.184,Km Post,Sibganj 11 km,24.6309438,88.1958886,,N6.lrps.htm
+,LRP204a,205.624,Culvert,Box culvert,24.6332493,88.1923886,,N6.lrps.htm
+,LRP205,206.194,Km Post,Sonamoszid 23 km,24.6357497,88.1875274,,N6.lrps.htm
+,LRP206,207.174,Km Post,Kansat 11 km,24.6384719,88.1777216,,N6.lrps.htm
+,LRP207,208.304,Km Post,Shibganj 5 km,24.6462774,88.1749993,,N6.lrps.htm
+,LRP208,209.314,Km Post,Shibganj 4 km,24.6517778,88.1688882,,N6.lrps.htm
+,LRP208a,209.384,Culvert,Box culvert,24.6522222,88.1683327,,N6.lrps.htm
+,LRP209,210.284,Km Post,Kansat 8 km,24.6588889,88.1636944,,N6.lrps.htm
+,LRP209a,210.684,"Side Road, Left",Side road Z6816,24.6591944,88.1635556,,N6.lrps.htm
+,LRP210,211.304,Km Post,Sonamoszid 18 km,24.6509444,88.1623611,,N6.lrps.htm
+,LRP211,212.304,Km Post,Kansat 6 km,24.6762493,88.1650278,,N6.lrps.htm
+,LRP211a,213.254,Culvert,Box Culvert,24.6846108,88.1661667,,N6.lrps.htm
+,LRP212,213.304,Km Post,Km post missing,24.6804716,88.1557778,,N6.lrps.htm
+,LRP213,214.324,Km Post,Sonamoszid 14 km,24.693583,88.1633056,,N6.lrps.htm
+,LRP213a,214.964,"Side Road, Left",Side road Z6816,24.698583,88.1604444,,N6.lrps.htm
+,LRP214,215.364,Km Post,Kansat 3 km,24.702,88.1594722,,N6.lrps.htm
+,LRP215,216.374,Km Post,Sonamoszid 16 km,24.7101667,88.1643611,,N6.lrps.htm
+,LRP216,217.394,Km Post,Kansat 1 km,24.7184993,88.1669993,,N6.lrps.htm
+,LRP217,218.394,Km Post,Sonamoszid 11 km,24.7267493,88.1702216,,N6.lrps.htm
+,LRP217a,218.409,"Side Road, Right",Side road right Z 6802,23.7269438,88.1704438,,N6.lrps.htm
+,LRP217b,219.184,Bridge,Bridge start,24.7335552,88.1712493,,N6.lrps.htm
+,LRP217c,219.224,Bridge,Bridge end,24.7339441,88.1712771,,N6.lrps.htm
+,LRP218,219.394,Km Post,Km Post Missing,24.7357219,88.1711938,,N6.lrps.htm
+,LRP219,219.414,Km Post,Sonamoszid 9 km,24.7441663,88.1705549,,N6.lrps.htm
+,LRP220,221.424,Km Post,Sonamoszid 8 km,24.75275,88.168916,,N6.lrps.htm
+,LRP221,222.434,Km Post,Sonamoszid 7 km,24.7611944,88.1655833,,N6.lrps.htm
+,LRP222,223.444,Km Post,Sonamoszid 6 km,24.7688049,88.161,,N6.lrps.htm
+,LRP222a,224.046,Culvert,Box culvert,24.7732771,88.1580833,,N6.lrps.htm
+,LRP223,224.444,Km Post,Sonamoszid 5 km,24.7598056,88.1555556,,N6.lrps.htm
+,LRP224,225.444,Km Post,Sonamoszid 7 km,24.7841386,88.1506667,,N6.lrps.htm
+,LRP224a,225.557,Culvert,Box culvert,24.784833,88.1500278,,N6.lrps.htm
+,LRP225,226.454,Km Post,Sonamoszid 3 km,24.7912497,88.1446663,,N6.lrps.htm
+,LRP226,227.454,Km Post,Sonamoszid 5 km,24.7997219,88.142833,,N6.lrps.htm
+,LRP227,228.454,Km Post,Sonamoszid 1 km,24.8086389,88.142833,,N6.lrps.htm
+,LRP227a,229.064,Monument,Historical Sonamoszid,24.8137778,88.142833,,N6.lrps.htm
+,LRP228,229.474,Km Post,Sonamoszid 3 km,24.8175827,88.142833,,N6.lrps.htm
+,LRP229,230.484,Km Post,Km post missing,24.8271382,88.1422497,,N6.lrps.htm
+,LRP230,231.494,Km Post,Sonamoszid Chek Post 1 km,24.8355552,88.1415552,,N6.lrps.htm
+,LRP230a,232.164,Culvert,Box culvert,24.8413052,88.1417497,,N6.lrps.htm
+,LRP230b,232.214,Culvert,Box culvert,24.8416663,88.1416663,,N6.lrps.htm
+,LRPE,232.244,Others,Road end at Balia Dighi Cheek Post Road Pav.Marking area..,24.3731382,88.5636944,,N6.lrps.htm
+,,,,,,,,N6.lrps.htm
+,,,,,,,,N6.lrps.htm

@@ -1,0 +1,543 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,Start of road from Dauladia Ferry Ghat Infront of 3NO Ghat.,23.7689716,89.7870552,,N7.lrps.htm
+,LRPSa,0.195,Culvert,Box Culvert,23.7672493,89.7872497,,N7.lrps.htm
+,LRPSb,0.52,Culvert,Box Culvert,23.7656111,89.7852219,,N7.lrps.htm
+,LRP001,1,Km Post,Km post missing,23.7651389,89.7805549,,N7.lrps.htm
+,LRP002,2,Km Post,Km post missing,23.7573056,89.7757771,,N7.lrps.htm
+,LRP003,3,Km Post,Km post missing,23.7498608,89.7699716,,N7.lrps.htm
+,LRP004,4,Km Post,Km post missing,23.7414719,89.7663889,,N7.lrps.htm
+,LRP005,5,Km Post,Km post missing,23.7331938,89.7625,,N7.lrps.htm
+,LRP005a,5.29,Bridge,Start of Bridge,23.7316104,89.7602778,,N7.lrps.htm
+,LRP005b,5.3,Bridge,End of Bridge,23.7315271,89.7601667,,N7.lrps.htm
+,LRP006,6,Km Post,Km post Missing,23.728166,89.7541944,,N7.lrps.htm
+,LRP006a,6.4,"Side Road, Right",Z7106 to Habashpur,23.726666,89.7519444,,N7.lrps.htm
+,LRP006b,6.974,Culvert,Box Culvert,23.7226382,89.7469163,,N7.lrps.htm
+,LRP006c,6.995,Rail Road Crossing,Rail road crossing,23.7224993,89.7467497,,N7.lrps.htm
+,LRP007,7,Km Post,Km post missing,23.722416,89.7466386,,N7.lrps.htm
+,LRP007a,7.67,"Side Road, Left",Z7108 to Tarail,23.7172216,89.7422497,,N7.lrps.htm
+,LRP007b,7.768,Bridge,Start of Bridge,23.7169993,89.7421108,,N7.lrps.htm
+,LRP007c,7.781,Bridge,End of Bridge,23.7169438,89.7420274,,N7.lrps.htm
+,LRP008,8,Km Post,Km post missing,23.7152222,89.7407497,,N7.lrps.htm
+,LRP008a,8.912,Culvert,Box culvert,23.7086944,89.7359441,,N7.lrps.htm
+,LRP009,9,Km Post,Km post missing,23.70775,89.7352774,,N7.lrps.htm
+,LRP009a,9.253,Culvert,Box culvert,23.7058056,89.7341663,,N7.lrps.htm
+,LRP009b,9.632,Bridge,Start of Bridge,23.7032778,89.731916,,N7.lrps.htm
+,LRP009c,9.648,Bridge,End of Bridge,23.7032222,89.7317771,,N7.lrps.htm
+,LRP010,10,Km Post,"Faridpur 24 km,Barisal 156 km",23.7022222,89.7283882,,N7.lrps.htm
+,LRP010a,10.274,Culvert,Box culvert,23.7012222,89.7259993,,N7.lrps.htm
+,LRP011,11,Km Post,Km post missing,23.6970274,89.7204993,,N7.lrps.htm
+,LRP011a,11.004,Culvert,Box culvert,23.6969997,89.7204716,,N7.lrps.htm
+,LRP011b,11.7,Bridge,Start of Bridge,23.6934163,89.7152778,,N7.lrps.htm
+,LRP011c,11.736,Bridge,End of Bridge,23.6933886,89.7149167,,N7.lrps.htm
+,LRP012,12,Km Post,"Faridpur 22 km,Kushtia 75 km",23.6929441,89.7122222,,N7.lrps.htm
+,LRP012a,12.288,Rail Road Crossing,Rail Road Crossing,23.6928608,89.7095,,N7.lrps.htm
+,LRP012b,12.757,Culvert,Box culvert,23.6910274,89.7056944,,N7.lrps.htm
+,LRP013,13,Km Post,"Faridpur 21 km,Khulna 167 km",23.6893608,89.704,,N7.lrps.htm
+,LRP013a,13.288,Culvert,Box culvert,23.6875274,89.7021389,,N7.lrps.htm
+,LRP013b,13.78,"Side Road, Right",R710 to Rajbari,23.684333,89.6989719,,N7.lrps.htm
+,LRP014,14,Km Post,Km post missing,23.6824993,89.699833,,N7.lrps.htm
+,LRP014a,14.716,Culvert,Box culvert,23.6769993,89.7030556,,N7.lrps.htm
+,LRP015,15.005,Km Post,Km post missing,23.6753327,89.7051667,,N7.lrps.htm
+,LRP016,16.02,Km Post,"Faridpur 18 km,Barisal 150 km",23.6693049,89.7128889,,N7.lrps.htm
+,LRP016a,16.078,Culvert,Box culvert,23.6689993,89.7131944,,N7.lrps.htm
+,LRP016b,16.538,Rail Road Crossing,Rail Road Crossing,23.6658889,89.7160278,,N7.lrps.htm
+,LRP017,17.02,Km Post,Km post missing,23.6623889,89.719166,,N7.lrps.htm
+,LRP017a,17.331,Culvert,Box culvert,23.6605556,89.7213327,,N7.lrps.htm
+,LRP017b,17.95,Culvert,Box culvert,23.657,89.7259716,,N7.lrps.htm
+,LRP018,18.02,Km Post,"Faridpur 16 km,Barisal 148 km",23.6564444,89.726666,,N7.lrps.htm
+,LRP018a,18.649,Others,Start of Faridpur Road Division,23.6527778,89.731416,,N7.lrps.htm
+,LRP018a,18.649,Others,Start of Faridpur Road Division,23.6527778,89.731416,,N7.lrps.htm
+,LRP019,19.02,Km Post,Km post missing,23.6505556,89.734083,,N7.lrps.htm
+,LRP019a,19.212,Bridge,Start of Bridge,23.649583,89.7354997,,N7.lrps.htm
+,LRP019b,19.27,Bridge,End of Bridge,23.6492497,89.7359441,,N7.lrps.htm
+,LRP019c,20.015,Culvert,Box culvert,23.6448608,89.7414441,,N7.lrps.htm
+,LRP020,20.02,Km Post,"Faridpur 14 km,Barisal 140 km",23.6447497,89.7416663,,N7.lrps.htm
+,LRP021,21.02,Km Post,Km post missing,23.6393052,89.7495274,,N7.lrps.htm
+,LRP022,22.02,Km Post,"Faridpur 12 km,Barisal 144 km",23.6343052,89.7576944,,N7.lrps.htm
+,LRP022a,22.867,Bridge,Start of Bridge,23.6296938,89.7640278,,N7.lrps.htm
+,LRP022b,22.877,Bridge,End of Bridge,23.6296382,89.7640556,,N7.lrps.htm
+,LRP023,23.02,Km Post,Km post missing,23.6282493,89.7649722,,N7.lrps.htm
+,LRP023a,23.993,Rail Road Crossing,Rail Road Crossing,23.6210827,89.7697771,,N7.lrps.htm
+,LRP024,24.02,Km Post,Km post missing,23.6205271,89.7700827,,N7.lrps.htm
+,LRP025,25.02,Km Post,Km post missing,23.61275,89.7748882,,N7.lrps.htm
+,LRP025a,25.635,Bridge,Start of Bridge,23.6081111,89.7776938,,N7.lrps.htm
+,LRP025b,25.667,Bridge,End of Bridge,23.6079167,89.7778327,,N7.lrps.htm
+,LRP026,26.02,Km Post,Km post missing,23.605,89.7796382,,N7.lrps.htm
+,LRP026a,26.605,Bridge,Start of Bridge,23.6007778,89.7830827,,N7.lrps.htm
+,LRP026b,26.664,Bridge,End of Bridge,23.6004444,89.783583,,N7.lrps.htm
+,LRP027,27.04,Km Post,"Faridpur 7 km,Khulna 153 km",23.598583,89.7865552,,N7.lrps.htm
+,LRP028,28.04,Km Post,"Faridpur 6 km,Barisal 138 km",23.5943886,89.7952774,,N7.lrps.htm
+,LRP029,29.04,Km Post,Km post missing,23.5905552,89.8041667,,N7.lrps.htm
+,LRP029a,29.54,"Side Road, Left",N804 to Faridpur,23.5884997,89.8086944,,N7.lrps.htm
+,LRP030,30,Km Post,"Magura 49 km,Jessore 91 km",23.5861108,89.80525,,N7.lrps.htm
+,LRP030a,30.76,Bridge,Start of Bridge,23.5830271,89.7986941,,N7.lrps.htm
+,LRP030b,30.78,Bridge,End of Bridge,23.5829438,89.7985274,,N7.lrps.htm
+,LRP031,31.01,Km Post,"Magura 46 km,Jhenaidah 75 km",23.5821104,89.7963608,,N7.lrps.htm
+,LRP031a,31.512,Bridge,Start of Bridge,23.5795271,89.7925552,,N7.lrps.htm
+,LRP031b,31.527,Bridge,End of Bridge,23.5793604,89.7924719,,N7.lrps.htm
+,LRP032,32.02,Km Post,"Magura 45 km,Khulna 148 km",23.5749438,89.7917497,,N7.lrps.htm
+,LRP032a,32.479,Culvert,Box culvert,23.5708882,89.7922497,,N7.lrps.htm
+,LRP033,33.03,Km Post,"Magura 44 km,Jessore 88 km",23.5659167,89.7916386,,N7.lrps.htm
+,LRP033a,33.772,Culvert,Box culvert,23.5604167,89.7876108,,N7.lrps.htm
+,LRP034,33.994,Km Post,"Magura 43 km, Jessore 87 km",23.559,89.7863608,,N7.lrps.htm
+,LRP035,35.05,Km Post,"Magura 42 km,Jessore 86 km",23.5520556,89.7789993,,N7.lrps.htm
+,LRP036,36.026,Km Post,"Magura41 km, Jessore 85 km",23.5454163,89.7756382,,N7.lrps.htm
+,LRP036a,36.58,Culvert,Box culvert,23.5406108,89.7717216,,N7.lrps.htm
+,LRP036b,36.745,Culvert,Box culvert,23.5399719,89.7702771,,N7.lrps.htm
+,LRP036c,37.004,Bridge,Start of Bridge,23.5390552,89.7680271,,N7.lrps.htm
+,LRP036d,37.076,Bridge,End of Bridge,23.5390274,89.7677771,,N7.lrps.htm
+,LRP037,37.086,Km Post,"Magura 40 km, Jhenaidah 69 km",23.5390274,89.7675827,,N7.lrps.htm
+,LRP037a,37.484,Culvert,Box Culvert,23.5384441,89.7633333,,N7.lrps.htm
+,LRP037b,37.922,Culvert,Box Culvert,23.5377219,89.7591667,,N7.lrps.htm
+,LRP038,38.11,Km Post,"Magura 39 km , Jessore 83 km",23.5373052,89.7577778,,N7.lrps.htm
+,LRP039,39.055,Km Post,"Magura 39 km , Jhenaidah 59 km",23.5356386,89.749083,,N7.lrps.htm
+,LRP039a,39.332,Bridge,Start of Bridge,23.5371386,89.7469997,,N7.lrps.htm
+,LRP039b,39.382,Bridge,End of Bridge,23.5374441,89.7466108,,N7.lrps.htm
+,LRP039c,39.966,Culvert,Box culvert,23.5404997,89.7419163,,N7.lrps.htm
+,LRP040,40.013,Km Post,Km post broken,23.5406663,89.7415552,,N7.lrps.htm
+,LRP040a,40.672,Culvert,Box culvert,23.539083,89.735583,,N7.lrps.htm
+,LRP041,41.02,Km Post,"Magura 36 km,Jessore 80 km",23.5377219,89.7326104,,N7.lrps.htm
+,LRP041a,41.099,Culvert,Box culvert,23.5373886,89.7319716,,N7.lrps.htm
+,LRP041b,41.549,Culvert,Box culvert,23.5352774,89.7282216,,N7.lrps.htm
+,LRP041c,42.001,"Side Road, Left",Z 7001 to Bhatiapara,23.5331938,89.7243882,,N7.lrps.htm
+,LRP042,42.012,Km Post,Km post missing,23.533166,89.7242493,,N7.lrps.htm
+,LRP042a,42.467,Culvert,Box culvert,23.533583,89.7199438,,N7.lrps.htm
+,LRP042b,42.802,Culvert,Box culvert,23.5348052,89.7171382,,N7.lrps.htm
+,LRP043,43.052,Km Post,"Magura 34 km,Jessore 78 km",23.5362219,89.7149722,,N7.lrps.htm
+,LRP043a,44.072,Culvert,Box culvert,23.5348886,89.7058056,,N7.lrps.htm
+,LRP044,44.142,Km Post,"Magura 33 km,Khulna 136 km",23.534583,89.7051667,,N7.lrps.htm
+,LRP044a,44.452,Culvert,Box culvert,23.5333049,89.7025,,N7.lrps.htm
+,LRP045,45.142,Km Post,"Magura 32 km,Jessore 76 km",23.5325549,89.6956941,,N7.lrps.htm
+,LRP045a,45.607,Bridge,Start of Bridge,23.5323604,89.6913608,,N7.lrps.htm
+,LRP045b,45.627,Bridge,End of Bridge,23.5323882,89.6911108,,N7.lrps.htm
+,LRP046,46.165,Km Post,"Magura 31 km,Jhenaidah 52 km",23.5330271,89.6857219,,N7.lrps.htm
+,LRP046a,46.998,Culvert,Box culvert,23.5339163,89.6777493,,N7.lrps.htm
+,LRP047,47.165,Km Post,Km post broken,23.5339719,89.6762493,,N7.lrps.htm
+,LRP047a,47.562,Bridge,Start of Bridge,23.5342497,89.6723882,,N7.lrps.htm
+,LRP047b,47.613,Bridge,End of Bridge,23.5343052,89.6718882,,N7.lrps.htm
+,LRP048,48.17,Km Post,"Magura 29 km,Jessore 73 km",23.5351386,89.6664444,,N7.lrps.htm
+,LRP048a,48.215,Bridge,Start of Bridge,23.5351386,89.6660833,,N7.lrps.htm
+,LRP048b,48.24,Bridge,End of Bridge,23.5351663,89.6658056,,N7.lrps.htm
+,LRP049,49.21,Km Post,"Magura 28 km,Jessore 72 km",23.5369997,89.6564722,,N7.lrps.htm
+,LRP049a,49.365,Bridge,Start of Bridge,23.537333,89.6550278,,N7.lrps.htm
+,LRP049b,49.39,Bridge,End of Bridge,23.5373608,89.6548056,,N7.lrps.htm
+,LRP050,50.24,Km Post,"Magura 27 km,Jhenaidah 47 km",23.5391108,89.646583,,N7.lrps.htm
+,LRP050a,50.926,Culvert,Box culvert,23.5389441,89.6399719,,N7.lrps.htm
+,LRP051,51.222,Km Post,"Magura 26 km,Jessore 70 km",23.5399719,89.6371941,,N7.lrps.htm
+,LRP051a,52.116,Rail Road Crossing,Rail road crossing,23.5422774,89.6308604,,N7.lrps.htm
+,LRP052,52.203,Km Post,"Magura 25 km,Jessore 69 km",23.5428608,89.6295827,,N7.lrps.htm
+,LRP052a,52.309,"Side Road, Right",Z 7102 to Rajbari,23.5429163,89.6271938,,N7.lrps.htm
+,LRP052b,52.655,Culvert,Box culvert,23.5424441,89.6239716,,N7.lrps.htm
+,LRP052c,53.12,Culvert,Box Culvert,23.5401108,89.6206382,,N7.lrps.htm
+,LRP053,53.233,Km Post,Km post broken,23.5391663,89.6199438,,N7.lrps.htm
+,LRP053a,53.591,Culvert,Box culvert,23.5366663,89.6180549,,N7.lrps.htm
+,LRP053b,54.072,Culvert,Box culvert,23.5329716,89.6154722,,N7.lrps.htm
+,LRP054,54.293,Km Post,"Magura 23 km,Jessore 67 km",23.531166,89.6143333,,N7.lrps.htm
+,LRP054a,54.935,Bridge,Start of Bridge,23.5292493,89.6088611,,N7.lrps.htm
+,LRP054b,55.017,Bridge,End of Bridge,23.5291938,89.6080556,,N7.lrps.htm
+,LRP055,55.235,Km Post,"Magura 22 km,Khulna 125 km",23.5286382,89.6060278,,N7.lrps.htm
+,LRP055a,55.583,Culvert,Box culvert,23.5269438,89.6032778,,N7.lrps.htm
+,LRP055b,56.175,Culvert,Box Culvert,23.526416,89.5976108,,N7.lrps.htm
+,LRP055c,56.339,Culvert,Box Culvert,23.5266104,89.5961108,,N7.lrps.htm
+,LRP056,56.365,Km Post,"Magura 21 km,Jessore 65 km",23.5267216,89.5958608,,N7.lrps.htm
+,LRP056a,56.63,Culvert,Box culvert,23.5271104,89.5931941,,N7.lrps.htm
+,LRP056b,57.235,Culvert,Box Culvert,23.5278882,89.5873886,,N7.lrps.htm
+,LRP057,57.445,Km Post,"Magura 20 km,Khulna 123 km",23.528166,89.5855552,,N7.lrps.htm
+,LRP057a,57.59,Culvert,Box culvert,23.5282771,89.5842219,,N7.lrps.htm
+,LRP057b,58.372,Culvert,Box culvert,23.5291938,89.5766382,,N7.lrps.htm
+,LRP058,58.525,Km Post,"Magura 19 km,Jessore 63 km",23.5292771,89.5751938,,N7.lrps.htm
+,LRP058a,58.906,Culvert,Box culvert,23.5295827,89.5714716,,N7.lrps.htm
+,LRP059,59.305,Km Post,"Magura 18 km,Jessore 62 km",23.5298604,89.5675827,,N7.lrps.htm
+,LRP059a,59.317,Culvert,Box culvert,23.5298604,89.5674993,,N7.lrps.htm
+,LRP060,60.305,Km Post,"Magura 17 km,Jhenaidah 46 km",23.5312216,89.5580278,,N7.lrps.htm
+,LRP060a,60.367,Culvert,Box culvert,23.5312771,89.5573333,,N7.lrps.htm
+,LRP060b,60.639,Culvert,Box culvert,23.5316104,89.55475,,N7.lrps.htm
+,LRP061,61.315,Km Post,"Magura 16 km,Jessore 60 km",23.5324993,89.5481663,,N7.lrps.htm
+,LRP062,62.395,Km Post,"Magura 15 km,Jessore 59 km",23.538333,89.5406663,,N7.lrps.htm
+,LRP062a,62.749,Bridge,Start of Bridge,23.5403052,89.5380274,,N7.lrps.htm
+,LRP062b,62.763,Bridge,End of Bridge,23.5404719,89.537833,,N7.lrps.htm
+,LRP063,63.475,Km Post,Khulna 117 km,23.544083,89.532416,,N7.lrps.htm
+,LRP064,64.347,Km Post,"Magura 13 km,Jessore 57 km",23.5460274,89.5241938,,N7.lrps.htm
+,LRP064a,64.597,Culvert,Box culvert,23.546583,89.5218604,,N7.lrps.htm
+,LRP064b,65.092,Bridge,Start of Gorai Bridge,23.5444719,89.5183327,,N7.lrps.htm
+,LRP064c,65.714,Bridge,End od Gorai Bridge,23.5393052,89.5159722,,N7.lrps.htm
+,LRP064d,65.759,Others,Start of Magura road Division,23.5389719,89.5158056,,N7.lrps.htm
+,LRP064d,65.759,Others,Start of Magura road Division,23.5389719,89.5158056,,N7.lrps.htm
+,LRP065,65.806,Km Post,"Magura 12 km,Khulna 115 km",23.5385552,89.5156111,,N7.lrps.htm
+,LRP065a,66.187,Culvert,Box Culvert,23.5364997,89.5127778,,N7.lrps.htm
+,LRP066,66.347,Km Post,"Magura 11 km,Jessore 55 km",23.5357774,89.5113889,,N7.lrps.htm
+,LRP066a,66.587,"Side Road, Right",Z 7008 to Sripur,23.5347774,89.5095278,,N7.lrps.htm
+,LRP066b,67.133,Culvert,Box Culvert,23.5323327,89.50475,,N7.lrps.htm
+,LRP067,67.357,Km Post,"Magura 10 km,Jhenaidah 39 km",23.5313049,89.5027778,,N7.lrps.htm
+,LRP067a,68.013,Bridge,Start of Bridge,23.5283327,89.497333,,N7.lrps.htm
+,LRP067b,68.027,Bridge,End of Bridge,23.5282771,89.4972219,,N7.lrps.htm
+,LRP068,68.357,Km Post,Km post missing,23.5267771,89.4945552,,N7.lrps.htm
+,LRP068a,69.265,Bridge,Start of Bridge,23.5241938,89.4861108,,N7.lrps.htm
+,LRP068b,69.279,Bridge,End of Bridge,23.5241938,89.4860274,,N7.lrps.htm
+,LRP069,69.357,Km Post,Km post missing,23.5240549,89.4857497,,N7.lrps.htm
+,LRP070,70.357,Km Post,Km post missing,23.522166,89.4762493,,N7.lrps.htm
+,LRP070a,70.489,Culvert,Box Culvert,23.5217771,89.4745549,,N7.lrps.htm
+,LRP070b,70.967,"Side Road, Right",Z 7007 to Sripur,23.5199716,89.4703327,,N7.lrps.htm
+,LRP071,71.357,Km Post,Km post missing,23.517916,89.467916,,N7.lrps.htm
+,LRP072,72.407,Km Post,"Magura 5 km,Jessore 49 km",23.5121667,89.4592222,,N7.lrps.htm
+,LRP073,73.407,Km Post,Km post missing,23.508,89.4505556,,N7.lrps.htm
+,LRP074,74.447,Km Post,"Magura 3 km,Jessore 47 km",23.5036111,89.4414163,,N7.lrps.htm
+,LRP075,75.447,Km Post,Km post missing,23.4983886,89.4338052,,N7.lrps.htm
+,LRP076,76.367,Km Post,"Magura 1 km,Jessore 45 km",23.4908052,89.429916,,N7.lrps.htm
+,LRP076a,76.382,"Side Road, Left",Left Z7012 to Mohammadpur,23.4907219,89.429916,,N7.lrps.htm
+,LRP076b,76.477,Culvert,Start Sluice Gate,23.4899997,89.4295271,,N7.lrps.htm
+,LRP076c,76.524,Culvert,End Sluice Gate,23.4895552,89.4293327,,N7.lrps.htm
+,LRP076d,76.587,Culvert,Start Sluice Gate,23.4890552,89.4291104,,N7.lrps.htm
+,LRP076e,76.607,Culvert,End Sluice Gate,23.4889163,89.4290271,,N7.lrps.htm
+,LRP076f,76.752,"Side Road, Left",Left R720 to Narail,23.4877774,89.4283882,,N7.lrps.htm
+,LRP077,77.367,Km Post,Km post missing,23.4859997,89.4231938,,N7.lrps.htm
+,LRP077a,77.787,"Side Road, Left",Left N702 to Jessore,23.4856386,89.4190827,,N7.lrps.htm
+,LRP078,78.337,Km Post,"Jhenaidah 27 km,Kushtia 71 km",23.4853886,89.4136667,,N7.lrps.htm
+,LRP078a,78.487,"Side Road, Right",Z 7011 to Sripur,23.4853608,89.4122778,,N7.lrps.htm
+,LRP078b,78.799,Culvert,Box Culvert,23.4851941,89.4092222,,N7.lrps.htm
+,LRP079,79.337,Km Post,Km post missing,23.4848886,89.4038889,,N7.lrps.htm
+,LRP079a,79.45,Culvert,Box culvert,23.4847774,89.4029167,,N7.lrps.htm
+,LRP079b,79.974,Culvert,Box culvert,23.4845552,89.3978608,,N7.lrps.htm
+,LRP080,80.461,Km Post,"Jhenaidah 26 km,Kushtia 70 km",23.4842774,89.3932219,,N7.lrps.htm
+,LRP080a,81.024,Culvert,Box culvert,23.4844441,89.3877497,,N7.lrps.htm
+,LRP081,81.461,Km Post,Km post missing,23.484833,89.3837497,,N7.lrps.htm
+,LRP081a,81.503,Culvert,Box culvert,23.4848052,89.3830827,,N7.lrps.htm
+,LRP081b,82.273,Culvert,Box culvert,23.4835552,89.3758049,,N7.lrps.htm
+,LRP082,82.461,Km Post,Km post missing,23.4833886,89.3740271,,N7.lrps.htm
+,LRP082a,83.399,Culvert,Box culvert,23.4887774,89.3677216,,N7.lrps.htm
+,LRP083,83.491,Km Post,"Jhenaidah 23 km,Chuadanga 58 km",23.489583,89.3676104,,N7.lrps.htm
+,LRP083a,83.936,Culvert,Box culvert,23.4934163,89.3663056,,N7.lrps.htm
+,LRP084,84.491,Km Post,Km post missing,23.496083,89.3619722,,N7.lrps.htm
+,LRP085,85.491,Km Post,Km post missing,23.5005,89.3535556,,N7.lrps.htm
+,LRP086,86.521,Km Post,"Jhenaidah 20 km,Kushtia 64 km",23.5058611,89.3454163,,N7.lrps.htm
+,LRP086a,86.888,Culvert,Box culvert,23.50725,89.3423052,,N7.lrps.htm
+,LRP086b,87.44,Culvert,Box culvert,23.5093889,89.3373052,,N7.lrps.htm
+,LRP087,87.521,Km Post,Km post missing,23.5095556,89.3364441,,N7.lrps.htm
+,LRP088,88.521,Km Post,Km post missing,23.51275,89.3282493,,N7.lrps.htm
+,LRP088a,88.545,Culvert,Box culvert,23.5130278,89.3272216,,N7.lrps.htm
+,LRP088b,89.461,Bridge,Start of Bridge,23.5164444,89.319166,,N7.lrps.htm
+,LRP088c,89.483,Bridge,End of Bridge,23.5165556,89.3189716,,N7.lrps.htm
+,LRP089,89.541,Km Post,"Jhenaidah 17 km,Chuadanga 52 km",23.5168604,89.3184716,,N7.lrps.htm
+,LRP089a,89.855,Culvert,Box culvert,23.5182771,89.3158056,,N7.lrps.htm
+,LRP089b,90.179,Culvert,Box culvert,23.5196104,89.3130278,,N7.lrps.htm
+,LRP090,90.541,Km Post,Km post missing,23.5213049,89.3099722,,N7.lrps.htm
+,LRP090a,90.721,Culvert,Box culvert,23.5221938,89.3087222,,N7.lrps.htm
+,LRP090b,90.841,Others,Start of Jhenaidah road Division,23.5229993,89.3076944,,N7.lrps.htm
+,LRP090b,90.841,Others,Start of Jhenaidah road Division,23.5229993,89.3076944,,N7.lrps.htm
+,LRP091,91.541,Km Post,Km post missing,23.5261104,89.3019167,,N7.lrps.htm
+,LRP092,92.541,Km Post,Km post missing,23.5300271,89.2929719,,N7.lrps.htm
+,LRP092a,93.252,Culvert,Box culvert,23.5322771,89.2864997,,N7.lrps.htm
+,LRP093,93.541,Km Post,Km post missing,23.5332493,89.283833,,N7.lrps.htm
+,LRP093a,93.633,Culvert,Box culvert,23.5334719,89.2831382,,N7.lrps.htm
+,LRP093b,94.311,Culvert,Box culvert,23.5357774,89.277166,,N7.lrps.htm
+,LRP094,94.541,Km Post,Km post missing,23.536583,89.2748049,,N7.lrps.htm
+,LRP094a,95.383,Culvert,Box culvert,23.5382497,89.2670549,,N7.lrps.htm
+,LRP095,95.591,Km Post,"Jhenaidah 11 km,Jessore 56 km",23.5391941,89.2650556,,N7.lrps.htm
+,LRP096,96.591,Km Post,Km post missing,23.5415274,89.2563333,,N7.lrps.htm
+,LRP097,97.591,Km Post,Km post missing,23.5406663,89.2466941,,N7.lrps.htm
+,LRP097a,97.861,Culvert,Box culvert,23.5410274,89.2436663,,N7.lrps.htm
+,LRP097b,98.547,Culvert,Box culvert,23.5418886,89.2371108,,N7.lrps.htm
+,LRP098,98.601,Km Post,"Jhenaidah 8 km,Khulna 114 km",23.5416663,89.2364997,,N7.lrps.htm
+,LRP099,99.461,Km Post,"Jhenaidah 7 km,Jessore 52 km",23.541833,89.2265827,,N7.lrps.htm
+,LRP100,100.601,Km Post,"Jhenaidah 6 km,Kushtia 50 km",23.540333,89.2171382,,N7.lrps.htm
+,LRP100a,101.536,Culvert,Box culvert,23.5399719,89.2083056,,N7.lrps.htm
+,LRP101,101.611,Km Post,"Jhenaidah 5 km,Chuadanga 40 km",23.540083,89.2075,,N7.lrps.htm
+,LRP102,102.611,Km Post,"Jhenaidah 4 km,Khulna 110 km",23.5414719,89.1976941,,N7.lrps.htm
+,LRP102a,103.063,Culvert,Box culvert,23.5420552,89.1932774,,N7.lrps.htm
+,LRP102b,103.311,"Side Road, Right","N712 to Arappur,N703 to Jhenaidah town",23.5424441,89.190583,,N7.lrps.htm
+,LRP102c,103.411,Culvert,Box Culvert,23.5422497,89.1906108,,N7.lrps.htm
+,LRP103,103.611,Km Post,Km post missing,23.5401386,89.1899163,,N7.lrps.htm
+,LRP103a,103.649,Culvert,Box Culvert,23.5398052,89.189833,,N7.lrps.htm
+,LRP103b,103.919,Culvert,Box Culvert,23.5374719,89.1891386,,N7.lrps.htm
+,LRP104,104.009,Km Post,Infor .missing,23.5367219,89.1889163,,N7.lrps.htm
+,LRP104a,104.154,Culvert,Box Culvert,23.5354719,89.188583,,N7.lrps.htm
+,LRP104b,104.386,Culvert,Box Culvert,23.5334719,89.1879441,,N7.lrps.htm
+,LRP104c,104.657,Bridge,Start of Bridge,23.531916,89.1862497,,N7.lrps.htm
+,LRP104d,104.701,Bridge,End of Bridge,23.5318049,89.1858608,,N7.lrps.htm
+,LRP104e,104.914,Culvert,Box Culvert,23.531166,89.1839441,,N7.lrps.htm
+,LRP105,105.011,Km Post,Infor.missing,23.5308049,89.1831382,,N7.lrps.htm
+,LRP105a,105.071,Culvert,Box Culvert,23.5305549,89.1826104,,N7.lrps.htm
+,LRP105b,105.344,Culvert,Box Culvert,23.5294438,89.1802493,,N7.lrps.htm
+,LRP105c,106.011,Culvert,Box Culvert,23.5261104,89.1746938,,N7.lrps.htm
+,LRP106,106.041,Km Post,Km post broken,23.5259993,89.1745271,,N7.lrps.htm
+,LRP106a,106.582,Culvert,Box Culvert,23.5233604,89.1701104,,N7.lrps.htm
+,LRP106b,106.639,"Side Road, Right",N712 to Jhenaidah town,23.5230549,89.1696104,,N7.lrps.htm
+,LRP106c,106.811,Culvert,Box Culvert,23.5216104,89.1692216,,N7.lrps.htm
+,LRP107,107.473,Km Post,"Kaliganj 13 km,Khulna 103 km",23.5158611,89.1676104,,N7.lrps.htm
+,LRP108,108.503,Km Post,"Khulna 102 km,Jessore 41 km",23.5071944,89.1643056,,N7.lrps.htm
+,LRP108a,108.562,Culvert,Box Culvert,23.5066667,89.1640833,,N7.lrps.htm
+,LRP108b,109.157,Culvert,Box culvert,23.5021667,89.1615278,,N7.lrps.htm
+,LRP108c,109.299,Culvert,Box culvert,23.5015278,89.1603611,,N7.lrps.htm
+,LRP109,109.503,Km Post,"Kaliganj 11 km,Jessore 40 km",23.5002222,89.159,,N7.lrps.htm
+,LRP109a,110.053,Culvert,Box culvert,23.4962497,89.1558889,,N7.lrps.htm
+,LRP110,110.5,Km Post,"Kaliganj 10 km,Khulna 100 km",23.4931108,89.1531389,,N7.lrps.htm
+,LRP110a,111.194,Culvert,Box Culvert,23.4878052,89.1498052,,N7.lrps.htm
+,LRP111,111.537,Km Post,"Khulna 09 km,Jessore 38 km",23.4851108,89.1481386,,N7.lrps.htm
+,LRP112,112.537,Km Post,"Jessore 37 km,Khulna 99 km",23.4772771,89.1432774,,N7.lrps.htm
+,LRP112a,112.698,Bridge,Start of Bridge,23.4758882,89.1429719,,N7.lrps.htm
+,LRP112b,112.73,Bridge,End of Bridge,23.475666,89.1428608,,N7.lrps.htm
+,LRP113,113.537,Km Post,"Kaliganj 7 km,Khulna 27 km",23.4685827,89.1414441,,N7.lrps.htm
+,LRP113a,113.929,Culvert,Box Culvert,23.4650833,89.1411386,,N7.lrps.htm
+,LRP113b,114.477,Culvert,Box Culvert,23.4602778,89.1412219,,N7.lrps.htm
+,LRP114,114.487,Km Post,"Jessore 35 km,Khulna 96 km",23.4600556,89.1412219,,N7.lrps.htm
+,LRP114a,114.772,Culvert,Box Culvert,23.4575278,89.1408608,,N7.lrps.htm
+,LRP115,115.567,Km Post,Khulna 95 km,23.4504722,89.1391663,,N7.lrps.htm
+,LRP115a,116.325,Culvert,Box Culvert,23.4438052,89.1375552,,N7.lrps.htm
+,LRP115b,116.518,Culvert,Box culvert,23.4421386,89.1371663,,N7.lrps.htm
+,LRP116,116.587,Km Post,"Kaliganj 4 km,Jessore 33 km",23.4747771,89.1371108,,N7.lrps.htm
+,LRP117,117.588,Km Post,"Jessore 32 km,Khulna 93 km",23.4324716,89.1362774,,N7.lrps.htm
+,LRP117a,117.868,Culvert,Box culvert,23.4301104,89.1371108,,N7.lrps.htm
+,LRP118,118.598,Km Post,"Kaliganj 2 km,Jessore 31 km",23.423666,89.1378886,,N7.lrps.htm
+,LRP119,119.638,Km Post,"Jessore 30 km,Khulna 91 km",23.4148889,89.1352219,,N7.lrps.htm
+,LRP119a,119.74,"Side Road, Right",Z 7460 to Talsher Bazar,23.4140278,89.1346386,,N7.lrps.htm
+,LRP119b,119.908,Bridge,Start of Bridge,23.4124444,89.1509722,,N7.lrps.htm
+,LRP119c,119.951,Bridge,End of Bridge,23.4120556,89.1343886,,N7.lrps.htm
+,LRP119d,120.358,"Side Road, Right",R748 to Jibonnagar,23.4085556,89.1350552,,N7.lrps.htm
+,LRP119e,120.36,"Side Road, Left",Z 7021 to Arpara,23.4085556,89.1350552,,N7.lrps.htm
+,LRP120,120.623,Km Post,Km post broken,23.4061944,89.1355274,,N7.lrps.htm
+,LRP120a,120.983,Culvert,Box culvert,23.4028611,89.1361663,,N7.lrps.htm
+,LRP121,121.638,Km Post,"Jessore 28 km,Khulna 89 km",23.3972219,89.1367497,,N7.lrps.htm
+,LRP121a,122.369,Culvert,Box Culvert,23.3908052,89.1370274,,N7.lrps.htm
+,LRP122,122.638,Km Post,"Jessore 27 km,Khulna 88 km",23.388333,89.1371941,,N7.lrps.htm
+,LRP122a,122.756,Culvert,Box Culvert,23.3873052,89.137333,,N7.lrps.htm
+,LRP122b,123.08,Culvert,Box Culvert,23.3842219,89.137583,,N7.lrps.htm
+,LRP122c,123.448,"Side Road, Left",Z7057 to Khajura,23.3808327,89.1381663,,N7.lrps.htm
+,LRP123,123.638,Km Post,"Jessore 26 km,Khulna 87 km",23.3794716,89.1386941,,N7.lrps.htm
+,LRP123a,124.259,Culvert,Box culvert,23.3739993,89.1402497,,N7.lrps.htm
+,LRP124,124.658,Km Post,"Jessore 25 km,Khulna 86 km",23.3705549,89.1412219,,N7.lrps.htm
+,LRP124a,125.36,Culvert,Box Culvert,23.3641389,89.1416386,,N7.lrps.htm
+,LRP125,125.638,Km Post,"Jessore 24 km,Khulna 85 km",23.36175,89.1418052,,N7.lrps.htm
+,LRP125a,126.419,Culvert,Box culvert,23.3546111,89.1427219,,N7.lrps.htm
+,LRP126,126.625,Km Post,"Jessore 23 km,Khulna 84 km",23.3529722,89.142833,,N7.lrps.htm
+,LRP126a,126.685,Culvert,Box culvert,23.3523889,89.1428608,,N7.lrps.htm
+,LRP126b,127.152,Culvert,Box Culvert,23.3481108,89.1427219,,N7.lrps.htm
+,LRP126c,127.444,Culvert,Box Culvert,23.3455552,89.1426663,,N7.lrps.htm
+,LRP126d,127.585,Culvert,Box Culvert,23.344333,89.1426663,,N7.lrps.htm
+,LRP127,127.635,Km Post,"Jessore 22 km,Khulna 83 km",23.3438886,89.1426386,,N7.lrps.htm
+,LRP127a,127.917,Culvert,Box culvert,23.341333,89.1426663,,N7.lrps.htm
+,LRP128,128.635,Km Post,"Jessore 21 km,Khulna 32 km",23.3349163,89.1430274,,N7.lrps.htm
+,LRP128a,129.531,Culvert,Box culvert,23.3269716,89.1446108,,N7.lrps.htm
+,LRP129,129.655,Km Post,"Jessore 20 km,Khulna 81 km",23.3259716,89.144833,,N7.lrps.htm
+,LRP130,130.655,Km Post,"Jessore 19 km,Khulna 80 km",23.3173049,89.1474441,,N7.lrps.htm
+,LRP130a,131.268,Culvert,Box culvert,23.3120556,89.1486108,,N7.lrps.htm
+,LRP131,131.665,Km Post,"Jessore 18 km,Khulna 79 km",23.3086944,89.15,,N7.lrps.htm
+,LRP131a,132.646,Culvert,Box culvert,23.3269716,89.1446108,,N7.lrps.htm
+,LRP132,132.665,Km Post,Km post missing,23.3006389,89.1541389,,N7.lrps.htm
+,LRP133,133.645,Km Post,"Jessore 16 km,Khulna 77 km",23.2920274,89.1557778,,N7.lrps.htm
+,LRP133a,134.573,Culvert,Box culvert,23.2836941,89.1553889,,N7.lrps.htm
+,LRP134,134.675,Km Post,"Jessore 15 km,Khulna 76 km",23.2830271,89.1556389,,N7.lrps.htm
+,LRP134a,134.676,Others,Start of Jessore road Division,23.2830271,89.1556389,,N7.lrps.htm
+,LRP134a,134.676,Others,Start of Jessore road Division,23.2830271,89.1556389,,N7.lrps.htm
+,LRP135,135.675,Km Post,"Jessore 14 km,Benapol 52 km",23.2743882,89.1586111,,N7.lrps.htm
+,LRP136,136.705,Km Post,"Jessore 13 km,Satkhira 80 km",23.2654167,89.1615278,,N7.lrps.htm
+,LRP136a,137.14,Culvert,Box culvert,23.2617222,89.1626389,,N7.lrps.htm
+,LRP137,137.671,Km Post,"Jessore 12 km,Satkhira 79 km",23.2571111,89.1638056,,N7.lrps.htm
+,LRP138,138.641,Km Post,"Jessore 11 km,Khulna 72 km",23.2486663,89.1661389,,N7.lrps.htm
+,LRP138a,139.419,Bridge,Start of Bridge,23.2418886,89.1665833,,N7.lrps.htm
+,LRP138b,139.457,Bridge,End of Bridge,23.2416108,89.1665,,N7.lrps.htm
+,LRP139,139.69,Km Post,"Jessore 10 km,Benapol 48 km",23.2396386,89.1659167,,N7.lrps.htm
+,LRP140,140.652,Km Post,"Jessore 09 km,Khulna 52 km",23.2312771,89.1639722,,N7.lrps.htm
+,LRP140a,141.219,Culvert,Box Culvert,23.2261938,89.1637222,,N7.lrps.htm
+,LRP141,141.702,Km Post,"Jessore 08 km,Satkhira 75 km",23.221916,89.1640833,,N7.lrps.htm
+,LRP141a,142.142,"Side Road, Right",Z 7031 to Chawgachha,23.2180827,89.1654444,,N7.lrps.htm
+,LRP142,142.772,Km Post,"Jessore 7 km,Benapol 44 km",23.214,89.1669993,,N7.lrps.htm
+,LRP143,143.71,Km Post,"Jessore 6 km,Satkhira 73 km",23.2061667,89.1727493,,N7.lrps.htm
+,LRP144,144.678,Km Post,"Jessore 5 km,Khulna 68 km",23.1989441,89.1775549,,N7.lrps.htm
+,LRP145,145.718,Km Post,"Jessore 4 km,Benapol 41 km",23.1916386,89.183833,,N7.lrps.htm
+,LRP145a,145.806,Culvert,Box Culvert,23.1909163,89.1838886,,N7.lrps.htm
+,LRP145b,146.192,Culvert,Box Culvert,23.1875552,89.1850274,,N7.lrps.htm
+,LRP145c,146.536,"Side Road, Right",Z 7050 to Shadhinata Sharoni,23.1851386,89.187083,,N7.lrps.htm
+,LRP146,146.671,Km Post,"Jessore 3 km,Satkhira 70 km",23.1842774,89.1879441,,N7.lrps.htm
+,LRP146a,147.121,"Side Road, Left",N707 to Monihar,23.1810549,89.1911663,,N7.lrps.htm
+,LRP147,147.671,Km Post,"Satkhira 69 km,Khulna 65 km",23.1764716,89.1918052,,N7.lrps.htm
+,LRP148,148.671,Km Post,"Benapol 38 km,Khulna 64 km",23.1675549,89.1931941,,N7.lrps.htm
+,LRP148a,149.256,Rail Road Crossing,Rail road crossing,23.1621944,89.1940274,,N7.lrps.htm
+,LRP148b,149.516,Culvert,Box culvert,23.1599167,89.1944441,,N7.lrps.htm
+,LRP149,149.671,Km Post,"Benapol 37 km,Satkhira 67 km",23.1585556,89.1946663,,N7.lrps.htm
+,LRP149a,149.802,Culvert,Box Culvert,23.1575556,89.194833,,N7.lrps.htm
+,LRP149b,149.989,Culvert,Box Culvert,23.1559167,89.1950552,,N7.lrps.htm
+,LRP149c,149.996,Rail Road Crossing,Rail road crossing,23.1556667,89.1951108,,N7.lrps.htm
+,LRP149d,150.358,Culvert,Box Culvert,23.1524167,89.195583,,N7.lrps.htm
+,LRP150,150.691,Km Post,"Benapol 36 km,Khulna 62 km",23.1495552,89.1959719,,N7.lrps.htm
+,LRP150a,151.235,Culvert,Box Culvert,23.144833,89.1966108,,N7.lrps.htm
+,LRP150b,151.261,"Side Road, Right",N706 to Benapole,23.1445552,89.1967219,,N7.lrps.htm
+,LRP150c,151.362,Culvert,Box Culvert,23.1445274,89.1967774,,N7.lrps.htm
+,LRP150d,151.379,Culvert,Box Culvert,23.144583,89.1971663,,N7.lrps.htm
+,LRP150e,151.411,"Side Road, Left",N706 to Jessore,23.1447219,89.1979719,,N7.lrps.htm
+,LRP151,151.428,Km Post,"Jessore 3 km,Khulna 61 km",23.144833,89.198083,,N7.lrps.htm
+,LRP152,152.528,Km Post,"Khulna 60 km,Noapara 28 km",23.1453886,89.2101944,,N7.lrps.htm
+,LRP152a,152.909,Culvert,Box Culvert,23.1452497,89.2119722,,N7.lrps.htm
+,LRP152b,153.445,Culvert,Box culvert,23.1444997,89.2170549,,N7.lrps.htm
+,LRP153,153.528,Km Post,Km post missing,23.1436663,89.2197493,,N7.lrps.htm
+,LRP154,154.448,Km Post,"Noapara 26 km,Khulna 58 km",23.1425552,89.2263604,,N7.lrps.htm
+,LRP154a,154.688,Culvert,Box Culvert,23.1426386,89.2286104,,N7.lrps.htm
+,LRP154b,154.958,Rail Road Crossing,Rail road crossing,23.1428052,89.2313327,,N7.lrps.htm
+,LRP155,155.448,Km Post,Km post missing,23.1429441,89.2361386,,N7.lrps.htm
+,LRP155a,155.578,"Side Road, Left",N707 to Monihar,23.1431386,89.2373052,,N7.lrps.htm
+,LRP156,156.478,Km Post,"Khulna 65 km,Daulatpur 45 km",23.1420274,89.2457219,,N7.lrps.htm
+,LRP156a,156.871,Culvert,Box Culvert,23.1400274,89.2488608,,N7.lrps.htm
+,LRP156b,157.078,"Side Road, Right",R755 to Satkhira,23.1388608,89.25025,,N7.lrps.htm
+,LRP157,157.488,Km Post,"Khulna 54 km,Magura 71 km",23.1354441,89.2518056,,N7.lrps.htm
+,LRP157a,157.8,Culvert,Box Culvert,23.1337497,89.2541389,,N7.lrps.htm
+,LRP158,158.488,Km Post,"Khulna 53 km,Daulatpur 43 km",23.1304993,89.2597778,,N7.lrps.htm
+,LRP159,159.498,Km Post,Infor.missing,23.1263882,89.2683604,,N7.lrps.htm
+,LRP160,160.498,Km Post,Km post missing,23.1274993,89.2774993,,N7.lrps.htm
+,LRP161,161.498,Km Post,Km post missing,23.1274993,89.2868886,,N7.lrps.htm
+,LRP162,162.498,Km Post,Km post missing,23.1281938,89.2963886,,N7.lrps.htm
+,LRP162a,162.82,Culvert,Box Culvert,23.1293327,89.2987774,,N7.lrps.htm
+,LRP163,163.508,Km Post,Km post broken,23.1302216,89.3056389,,N7.lrps.htm
+,LRP163a,164.439,Culvert,Box Culvert,23.1285549,89.3145833,,N7.lrps.htm
+,LRP164,164.508,Km Post,Km post missing,23.128416,89.3152778,,N7.lrps.htm
+,LRP165,165.508,Km Post,"Khulna 47 km,Daulatpur 37 km",23.1282771,89.3248327,,N7.lrps.htm
+,LRP165a,165.974,Culvert,Box culvert,23.1280271,89.329416,,N7.lrps.htm
+,LRP166,166.508,Km Post,Km post missing,23.1276104,89.3344997,,N7.lrps.htm
+,LRP167,167.508,Km Post,"Khulna 45 km,Daulatpur 35 km",23.1244716,89.3424163,,N7.lrps.htm
+,LRP167a,167.51,Culvert,Box Culvert,23.124416,89.3424163,,N7.lrps.htm
+,LRP167b,167.568,Rail Road Crossing,Rail road crossing,23.123916,89.3426108,,N7.lrps.htm
+,LRP168,168.508,Km Post,Km post missing,23.1187493,89.3498608,,N7.lrps.htm
+,LRP168a,168.833,Rail Road Crossing,Rail road crossing,23.1172493,89.3525833,,N7.lrps.htm
+,LRP169,169.508,Km Post,"Khulna 43 km,Mongla 80 km",23.1119167,89.3544722,,N7.lrps.htm
+,LRP170,170.518,Km Post,"Khulna 42 km,Noapara 10 km",23.1029722,89.3533889,,N7.lrps.htm
+,LRP170a,170.604,Culvert,Box culvert,23.1021944,89.3533889,,N7.lrps.htm
+,LRP170b,171.168,"Side Road, Left",Z7049 to Bahirghat,23.097083,89.3534444,,N7.lrps.htm
+,LRP171,171.518,Km Post,"Khulna 41 km,Bagerhat 61 km",23.0941108,89.3541667,,N7.lrps.htm
+,LRP171a,171.894,"Side Road, Right",Z7048 to Dakuria,23.0910552,89.3556111,,N7.lrps.htm
+,LRP172,172.518,Km Post,"Khulna 40 km, Noapara 8 km",23.086583,89.3593611,,N7.lrps.htm
+,LRP172a,173.028,Culvert,Box Culvert,23.0830549,89.3626389,,N7.lrps.htm
+,LRP173,173.518,Km Post,Km post missing,23.0796104,89.3655556,,N7.lrps.htm
+,LRP174,174.518,Km Post,"Khulna 38 km,Mongla 75 km",23.0716382,89.3701104,,N7.lrps.htm
+,LRP174a,174.595,Culvert,Box Culvert,23.0709438,89.3704716,,N7.lrps.htm
+,LRP174b,175.12,Bridge,Start of Bridge,23.0668604,89.3729716,,N7.lrps.htm
+,LRP174c,175.136,Bridge,End of Bridge,23.0667493,89.3730271,,N7.lrps.htm
+,LRP175,175.518,Km Post,"Khulna 37 km,Daulatpur",23.0638056,89.3748049,,N7.lrps.htm
+,LRP175a,176.386,Rail Road Crossing,Rail road crossing,23.0568611,89.3789716,,N7.lrps.htm
+,LRP176,176.518,Km Post,"Khulna 35 km,Mongla 77 km",23.0479719,89.3844997,,N7.lrps.htm
+,LRP177,177.528,Km Post,"Khulna 38 km,Mongla 75 km",23.0716382,89.3701104,,N7.lrps.htm
+,LRP178,178.518,Km Post,"Khulna 34 km,Noapara 2 km",23.0406941,89.3898608,,N7.lrps.htm
+,LRP178a,179.003,Rail Road Crossing,Rail Road Crossing,23.0373052,89.3926108,,N7.lrps.htm
+,LRP178b,179.268,Rail Road Crossing,Rail road crossing,23.0357497,89.3944719,,N7.lrps.htm
+,LRP179,179.528,Km Post,"Khulna 33 km,Daulatpur 23 km",23.0337774,89.3958886,,N7.lrps.htm
+,LRP180,180.528,Km Post,"Khulna 32 km,Daulatpur 22 km",23.0262771,89.4024167,,N7.lrps.htm
+,LRP180a,181.352,Culvert,Box Culvert,23.0213882,89.4069167,,N7.lrps.htm
+,LRP181,181.486,Km Post,"Khulna 30 km,Daulatpur 20 km",23.0196104,89.4081667,,N7.lrps.htm
+,LRP182,182.506,Km Post,"Khulna 29 km,Daulatpur 19 km",23.0124167,89.4141944,,N7.lrps.htm
+,LRP183,183.499,Km Post,"Khulna 29 km,Daulatpur 19 km",23.0060278,89.420666,,N7.lrps.htm
+,LRP183a,184.397,Culvert,Box culvert,23.0010833,89.427416,,N7.lrps.htm
+,LRP184,184.499,Km Post,"Khulna 27 km,Bagerhat 48 km",23.0003889,89.4280827,,N7.lrps.htm
+,LRP184a,185.054,Others,Start of Khulna road Division,22.996833,89.4317493,,N7.lrps.htm
+,LRP184b,185.12,Culvert,Box culvert,22.9964441,89.4321382,,N7.lrps.htm
+,LRP185,185.499,Km Post,Km post missing,22.9936386,89.4344441,,N7.lrps.htm
+,LRP185a,185.648,Culvert,Box culvert,22.9927497,89.4352219,,N7.lrps.htm
+,LRP185b,185.826,Culvert,Box culvert,22.9912497,89.4362497,,N7.lrps.htm
+,LRP186,185.899,Km Post,Khulna 27 km,22.991083,89.4363886,,N7.lrps.htm
+,LRP186a,186.586,Culvert,Box Culvert,22.9865274,89.4414719,,N7.lrps.htm
+,LRP187,186.759,Km Post,Khulna 26 km,22.9858608,89.4429719,,N7.lrps.htm
+,LRP187a,186.97,Culvert,Box Culvert,22.9848886,89.4447497,,N7.lrps.htm
+,LRP187b,187.736,Culvert,Box Culvert,22.9820271,89.4514722,,N7.lrps.htm
+,LRP188,187.838,Km Post,Infor.missing,22.9818882,89.4519167,,N7.lrps.htm
+,LRP188a,187.991,Culvert,Box culvert,22.9816382,89.4534167,,N7.lrps.htm
+,LRP188b,188.585,Culvert,Box Culvert,22.9802216,89.4588889,,N7.lrps.htm
+,LRP189,188.885,Km Post,Khulna 24 km,22.9791104,89.4616389,,N7.lrps.htm
+,LRP190,189.91,Km Post,Khulna 23 km,22.9773882,89.4703327,,N7.lrps.htm
+,LRP190a,190.105,"Side Road, Left",Z7030 to Narail,23.9763049,89.471916,,N7.lrps.htm
+,LRP190b,190.144,Culvert,Box Culvert,22.976166,89.472166,,N7.lrps.htm
+,LRP190c,190.465,"Side Road, Right",Z7043 to Dumuria,22.9743327,89.474666,,N7.lrps.htm
+,LRP191,190.89,Km Post,Khulna 22 km,22.9708327,89.4762493,,N7.lrps.htm
+,LRP191a,191.16,Culvert,Box culvert,22.9686382,89.4770271,,N7.lrps.htm
+,LRP191b,191.38,Culvert,Box culvert,22.9668049,89.4775271,,N7.lrps.htm
+,LRP192,191.928,Km Post,Khulna 21 km,22.9620833,89.4790549,,N7.lrps.htm
+,LRP193,192.938,Km Post,Khulna 20 km,22.9531944,89.4797216,,N7.lrps.htm
+,LRP193a,193.157,Culvert,Box Culvert,22.9513333,89.4792771,,N7.lrps.htm
+,LRP194,193.938,Km Post,Khulna 19 km,22.9449163,89.4813882,,N7.lrps.htm
+,LRP195,194.968,Km Post,Khulna 18 km,22.9371941,89.4870274,,N7.lrps.htm
+,LRP195a,195.154,"Side Road, Right",N709 to Khanjahan Ali Bridge,22.9357219,89.4878608,,N7.lrps.htm
+,LRP195b,195.222,Culvert,Box Culvert,22.9352497,89.4882219,,N7.lrps.htm
+,LRP196,195.943,Km Post,Khulna 17 km,22.9304716,89.4929441,,N7.lrps.htm
+,LRP196a,196.579,Culvert,Box Culvert,22.926166,89.4969719,,N7.lrps.htm
+,LRP197,196.998,Km Post,Infor.missing,22.9228604,89.4989163,,N7.lrps.htm
+,LRP197a,197.131,Culvert,Box Culvert,22.9218049,89.4995274,,N7.lrps.htm
+,LRP198,197.998,Km Post,Km post missing,22.9147222,89.5029444,,N7.lrps.htm
+,LRP199,198.963,Km Post,Khulna 14 km,22.9073611,89.50775,,N7.lrps.htm
+,LRP200,199.943,Km Post,Khulna 13 km,22.8988886,89.5098611,,N7.lrps.htm
+,LRP200a,200.138,Rail Road Crossing,Rail road crossing,22.8972774,89.5099444,,N7.lrps.htm
+,LRP201,200.975,Km Post,Khulna 12 km,22.8906941,89.5134722,,N7.lrps.htm
+,LRP201a,201.9,"Side Road, Left",Left Z7040,22.8831382,89.5173049,,N7.lrps.htm
+,LRP202,201.985,Km Post,Khulna 11 km,22.8824716,89.5176938,,N7.lrps.htm
+,LRP203,202.985,Km Post,Km post missing,22.874666,89.5224438,,N7.lrps.htm
+,LRP204,204.005,Km Post,Khulna 10 km,22.8667771,89.5275549,,N7.lrps.htm
+,LRP205,205.005,Km Post,Km post missing,22.8588889,89.5322216,,N7.lrps.htm
+,LRP205a,205.445,Culvert,Box Culvert,22.8554722,89.5343052,,N7.lrps.htm
+,LRP206,205.975,Km Post,Khulna 7 km,22.8510833,89.5368052,,N7.lrps.htm
+,LRP206a,206.667,Culvert,Box Culvert,22.8451108,89.538583,,N7.lrps.htm
+,LRP207,206.985,Km Post,Khulna 6 km,22.8423608,89.5391663,,N7.lrps.htm
+,LRP208,207.985,Km Post,Km post missing,22.8342774,89.5424997,,N7.lrps.htm
+,LRP209,209.035,Km Post,Khulna 3 km,22.8278327,89.5499441,,N7.lrps.htm
+,LRP210,210.015,Km Post,Khulna 2 km,22.8209993,89.5554444,,N7.lrps.htm
+,LRP210a,210.364,"Side Road, Right","Power House More, R760",22.8189716,89.5581111,,N7.lrps.htm
+,LRP211,211.015,Km Post,Km post missing,22.8143611,89.5605556,,N7.lrps.htm
+,LRP212,212.015,Km Post,Km post missing,22.8077778,89.5664722,,N7.lrps.htm
+,LRP213,213.015,Km Post,Km post missing,22.8037222,89.5749438,,N7.lrps.htm
+,LRP213a,213.7,Others,Rupsha Ghat start,22.8019444,89.5811104,,N7.lrps.htm
+,LRP214,214.015,Km Post,Km post missing,22.8010556,89.5843886,,N7.lrps.htm
+,LRP214a,214.1,Others,Rupsha Ghat end,22.8006667,89.5859997,,N7.lrps.htm
+,LRP214b,214.34,"Side Road, Left",R771 to Bagerhat,22.8005833,89.5867497,,N7.lrps.htm
+,LRP214c,214.541,"Side Road, Left",Z7041 to Terokhada,22.8001111,89.5884441,,N7.lrps.htm
+,LRP215,215.015,Km Post,Km post missing,22.7991108,89.5929163,,N7.lrps.htm
+,LRP216,215.481,Km Post,Mongla 40 km,22.7981108,89.5973052,,N7.lrps.htm
+,LRP217,216.491,Km Post,Mongla 39 km,22.7931108,89.605,,N7.lrps.htm
+,LRP218,217.491,Km Post,Mongla 38 km,22.7860552,89.6110556,,N7.lrps.htm
+,LRP219,218.491,Km Post,Mongla 37 km,22.7786382,89.6165278,,N7.lrps.htm
+,LRP219a,218.961,"Side Road, Left",N709 to Khanjahan Ali Bridge,22.7745271,89.6171938,,N7.lrps.htm
+,LRP219b,219.115,Others,Start of Bagerhat Road Division,22.7732493,89.6173604,,N7.lrps.htm
+,LRP219b,219.115,Others,Start of Bagerhat Road Division,22.7732493,89.6173604,,N7.lrps.htm
+,LRP219c,219.126,Culvert,Box Culvert,22.7731382,89.617416,,N7.lrps.htm
+,LRP220,219.501,Km Post,Mongla 36 km,22.7697771,89.6179993,,N7.lrps.htm
+,LRP221,220.501,Km Post,Mongla 35 km,22.7618333,89.6220271,,N7.lrps.htm
+,LRP222,221.501,Km Post,Mongla 34 km,22.7548889,89.6283604,,N7.lrps.htm
+,LRP223,222.511,Km Post,Mongla 33 km,22.7469997,89.6327771,,N7.lrps.htm
+,LRP223a,222.8,Bridge,Start of Bridge,22.7448608,89.6336108,,N7.lrps.htm
+,LRP223b,222.85,Bridge,End of Bridge,22.7441663,89.6339163,,N7.lrps.htm
+,LRP223c,223.226,"Side Road, Left",N805 to Mollarhat,22.7409163,89.6349719,,N7.lrps.htm
+,LRP224,223.511,Km Post,Mongla 32 km,22.7383886,89.6356941,,N7.lrps.htm
+,LRP225,224.511,Km Post,Mongla 31 km,22.7298604,89.6386108,,N7.lrps.htm
+,LRP226,225.521,Km Post,Mongla 30 km,22.7214716,89.6423052,,N7.lrps.htm
+,LRP227,226.531,Km Post,Mongla 29 km,22.7131111,89.6459997,,N7.lrps.htm
+,LRP228,227.531,Km Post,Mongla 28 km,22.7046944,89.6496941,,N7.lrps.htm
+,LRP229,228.531,Km Post,Mongla 27 km,22.6958608,89.6510833,,N7.lrps.htm
+,LRP230,229.541,Km Post,Km post broken,22.6868052,89.6514167,,N7.lrps.htm
+,LRP230a,230.176,Bridge,Start of Bridge,22.6811382,89.6516111,,N7.lrps.htm
+,LRP230b,230.201,Bridge,End of Bridge,22.6807771,89.6516111,,N7.lrps.htm
+,LRP231,230.551,Km Post,Mongla 25 km,22.6778049,89.6517222,,N7.lrps.htm
+,LRP232,231.551,Km Post,Km post missing,22.6695271,89.6494441,,N7.lrps.htm
+,LRP233,232.571,Km Post,Mongla 23 km,22.6618611,89.6439997,,N7.lrps.htm
+,LRP234,233.571,Km Post,Mongla 22 km,22.6535833,89.6411108,,N7.lrps.htm
+,LRP234a,234.145,Culvert,Box Culvert,22.6484719,89.641333,,N7.lrps.htm
+,LRP235,234.571,Km Post,Mongla 21 km,22.6445552,89.6414997,,N7.lrps.htm
+,LRP236,235.571,Km Post,Infor.missing,22.6355552,89.6418608,,N7.lrps.htm
+,LRP236a,235.952,Bridge,Start of Bridge,22.6321382,89.6419997,,N7.lrps.htm
+,LRP236b,235.996,Bridge,End of Bridge,22.6317493,89.6419997,,N7.lrps.htm
+,LRP237,236.571,Km Post,Mongla 19 km,22.6265271,89.6422219,,N7.lrps.htm
+,LRP238,237.571,Km Post,Mongla 18 km,22.6174993,89.642583,,N7.lrps.htm
+,LRP239,239.571,Km Post,Mongla 17 km,22.6084444,89.6429441,,N7.lrps.htm
+,LRP240,239.581,Km Post,Mongla 16 km,22.5994719,89.642833,,N7.lrps.htm
+,LRP241,240.581,Km Post,Mongla 15 km,22.5928608,89.636333,,N7.lrps.htm
+,LRP241a,241.268,Bridge,Start of Bridge,22.5886108,89.6315549,,N7.lrps.htm
+,LRP241b,241.332,Bridge,End of Bridge,22.5881941,89.6310827,,N7.lrps.htm
+,LRP242,241.581,Km Post,Mongla 14 km,22.5866108,89.6293049,,N7.lrps.htm
+,LRP242a,241.912,Bridge,Start of Bridge,22.5845274,89.6270549,,N7.lrps.htm
+,LRP242b,241.954,Bridge,End of Bridge,22.5842219,89.6267493,,N7.lrps.htm
+,LRP243,242.581,Km Post,Mongla 13 km,22.5801382,89.6225271,,N7.lrps.htm
+,LRP244,243.581,Km Post,Infor.missing,22.5741938,89.6153889,,N7.lrps.htm
+,LRP244a,243.735,Bridge,Start of Bridge,22.5732771,89.6143333,,N7.lrps.htm
+,LRP244b,243.809,Bridge,End of Bridge,22.5728049,89.6138333,,N7.lrps.htm
+,LRP245,244.591,Km Post,Mongla 11 km,22.5677771,89.6083333,,N7.lrps.htm
+,LRP246,245.591,Km Post,Mongla 10 km,22.5614444,89.6014444,,N7.lrps.htm
+,LRP246a,246.467,Bridge,Start of Bridge,22.5561389,89.5951386,,N7.lrps.htm
+,LRP246b,246.505,Bridge,End of Bridge,22.5559167,89.5948608,,N7.lrps.htm
+,LRP247,246.591,Km Post,Mongla 09 km,22.5553611,89.5941941,,N7.lrps.htm
+,LRP248,247.591,Km Post,Mongla 8 km,22.5479163,89.5899997,,N7.lrps.htm
+,LRP249,248.591,Km Post,Mongla 7 km,22.5388608,89.5902219,,N7.lrps.htm
+,LRP250,249.591,Km Post,Mongla 6 km,22.529916,89.5898052,,N7.lrps.htm
+,LRPE,249.665,Others,"End of road at Digraj,Mongla,Bagerhat.",22.5293327,89.5894441,,N7.lrps.htm
+,,,,,,,,N7.lrps.htm
+,,,,,,,,N7.lrps.htm

@@ -1,0 +1,122 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,"Start at Road Patuakhali Chow -Raster more Near Power Station End Point of N-8,Patuakhali.",22.3596111,90.3184716,,R880.lrps.htm
+,LRP001,0.24,Km Post,"Kuakata 70 km,Barguna 41 km",22.3574444,90.3182216,,R880.lrps.htm
+,LRP001a,0.907,Culvert,Box culvert,22.3494441,90.3172216,,R880.lrps.htm
+,LRP002,1.24,Km Post,"Kuakata 69 km,Amtali 26 km",22.3484997,90.3171104,,R880.lrps.htm
+,LRP002a,2.19,Culvert,Box culvert,22.3401386,90.3174993,,R880.lrps.htm
+,LRP003,2.238,Km Post,"Kuakata 68 km,Amtali 25 km",22.3397497,90.3177493,,R880.lrps.htm
+,LRP003a,2.421,Bridge,R.C.C bridge start,22.3381663,90.3183049,,R880.lrps.htm
+,LRP003b,2.436,Bridge,R.C.C Bridge end,22.338083,90.3183327,,R880.lrps.htm
+,LRP003c,2.622,Culvert,Box Culvert,22.3364997,90.3189716,,R880.lrps.htm
+,LRP004,3.253,Km Post,Kuakta 67 km Khepupara 44 km,22.331166,90.320916,,R880.lrps.htm
+,LRP004a,3.577,Culvert,Box Culvert,22.328416,90.321916,,R880.lrps.htm
+,LRP005,4.253,Km Post,Kuakata 66 km Khepupara 43 km,22.3227771,90.3242493,,R880.lrps.htm
+,LRP006,5.253,Km Post,Kuakata 65 km Barguna 36 km,22.3141667,90.3252771,,R880.lrps.htm
+,LRP006a,5.297,Culvert,Box Culvert,22.3137778,90.3252493,,R880.lrps.htm
+,LRP006b,6.014,Culvert,Box Culvert,22.3072778,90.3247493,,R880.lrps.htm
+,LRP007,6.247,Km Post,Kuakata 64 km Barguna 35 km,22.30525,90.3245827,,R880.lrps.htm
+,LRP008,7.253,Km Post,Kuakata 63 km Amtoli 22 km,22.2962774,90.3248327,,R880.lrps.htm
+,LRP008a,7.941,Culvert,Box Culvert,22.290083,90.3253049,,R880.lrps.htm
+,LRP009,8.263,Km Post,Kuakata 62 km Amtoli 21 km,22.2872497,90.3251938,,R880.lrps.htm
+,LRP009a,8.727,Culvert,Box Culvert,22.2830827,90.324916,,R880.lrps.htm
+,LRP010,9.263,Km Post,Kuakata 61 km Khepupa 238 km,22.2782216,90.3247216,,R880.lrps.htm
+,LRP010a,9.343,Culvert,Box Culvert,22.2774993,90.3246938,,R880.lrps.htm
+,LRP010b,9.855,Culvert,Box Culvert,22.2728327,90.3244438,,R880.lrps.htm
+,LRP011,10.257,Km Post,Kuakata 60 km Khepupara 37 km,22.2692216,90.3244716,,R880.lrps.htm
+,LRP012,11.267,Km Post,Kuakata 59 km Barguna 30 km,22.26025,90.3255271,,R880.lrps.htm
+,LRP012a,11.537,Bridge,R.c.c Bridge start,22.2578333,90.3255549,,R880.lrps.htm
+,LRP012b,11.555,Bridge,R.C.C Bridge end,22.2576667,90.3258604,,R880.lrps.htm
+,LRP012c,11.862,"Side Road, Left",Z 8804 Golachipa road,22.2546667,90.3261382,,R880.lrps.htm
+,LRP013,12.267,Km Post,Kuakata 58 km Bargana 29 km,22.2515833,90.3244716,,R880.lrps.htm
+,LRP013a,12.339,Culvert,Box Culvert,22.251,90.3241938,,R880.lrps.htm
+,LRP013b,13.184,Culvert,Box Culvert,22.2482219,90.322666,,R880.lrps.htm
+,LRP013c,13.736,Culvert,Box Culvert,22.2453886,90.3183604,,R880.lrps.htm
+,LRP014,13.767,Km Post,Kuakata 57 km Amtoli 16 km,22.2451663,90.3180549,,R880.lrps.htm
+,LRP014a,13.827,Bridge,R.C.C Bridge start,22.2419719,90.3138611,,R880.lrps.htm
+,LRP014b,13.845,Bridge,R.CC Bridge end,22.2418608,90.3137778,,R880.lrps.htm
+,LRP015,14.267,Km Post,Kuakata 56 km Amtoli 15 km,22.2385552,90.3118333,,R880.lrps.htm
+,LRP016,15.267,Km Post,Kuakata 55 km Khepapara 32 km,22.2302771,90.3080278,,R880.lrps.htm
+,LRP016a,15.297,Culvert,Box Culvert,22.2299716,90.3079167,,R880.lrps.htm
+,LRP016b,16.247,Culvert,Box Culvert,22.2221938,90.30525,,R880.lrps.htm
+,LRP017,16.267,Km Post,Kukata 54 km Khepupara 31 km,22.2220271,90.3049444,,R880.lrps.htm
+,LRP018,17.267,Km Post,Kuakata 53 km Barguna 24 km,22.215,90.2989441,,R880.lrps.htm
+,LRP018a,17.78,Culvert,Box Culvert,22.2115,90.2956108,,R880.lrps.htm
+,LRP019,18.267,Km Post,Kuakata 52 km Barguna 23 km,22.2081389,90.2926663,,R880.lrps.htm
+,LRP019a,18.72,Culvert,Box Culvert,22.2049167,90.2899997,,R880.lrps.htm
+,LRP020,19.258,Km Post,Kuakata 51 km Amtoli 10 km,22.2008056,90.2869441,,R880.lrps.htm
+,LRP020a,19.272,Culvert,Box Culvert,22.2007778,90.2869163,,R880.lrps.htm
+,LRP020b,19.537,Culvert,Box Culvert,22.1988052,90.285333,,R880.lrps.htm
+,LRP021,20.258,Km Post,Kuakata 50 km Amtoli 9 km,22.1934719,90.2813049,,R880.lrps.htm
+,LRP022,21.267,Km Post,Khepupara 26 km Kuakata 49 km,22.1856941,90.2763604,,R880.lrps.htm
+,LRP022a,21.543,"Side Road, Left",Z 8806 to Galachipa,22.1836386,90.2748604,,R880.lrps.htm
+,LRP022b,21.879,Bridge,R.C.c Bridge start,22.1817771,90.2723327,,R880.lrps.htm
+,LRP022c,21.915,Bridge,R.c.c Bridge end,22.1815549,90.2720271,,R880.lrps.htm
+,LRP023,22.267,Km Post,Kuakata 48 km Khepapara 25 km,22.1794993,90.2693882,,R880.lrps.htm
+,LRP023a,22.879,Culvert,Box Culvert,22.1758604,90.2648889,,R880.lrps.htm
+,LRP024,23.267,Km Post,Kuakata 47 km Barguna 18 km,22.1735549,90.2620833,,R880.lrps.htm
+,LRP024a,23.987,Culvert,Box Culvert,22.169166,90.2568333,,R880.lrps.htm
+,LRP025,24.267,Km Post,Kuakata 46 km Amtoli 5 km,22.1673604,90.2550556,,R880.lrps.htm
+,LRP025a,24.585,Culvert,Box Culvert,22.1651667,90.2529444,,R880.lrps.htm
+,LRP025b,24.88,Bridge,R.C.c Bridge start,22.1635833,90.2509722,,R880.lrps.htm
+,LRP025c,24.897,Bridge,R.C.c Bridge end,22.1633333,90.2509444,,R880.lrps.htm
+,LRP026,25.265,Km Post,Kuakata 45 km Amtoli 4 km,22.161,90.248333,,R880.lrps.htm
+,LRP027,26.265,Km Post,Kuakata 44 km Amtoli 3 km,22.154,90.2422219,,R880.lrps.htm
+,LRP027a,26.415,Culvert,Box Culvert,22.1528611,90.2411663,,R880.lrps.htm
+,LRP027b,27.235,Culvert,Box Culvert,22.1473886,90.2360552,,R880.lrps.htm
+,LRP028,27.265,Km Post,Kuakata 43 km Khepupara 20 km,22.1471941,90.2358886,,R880.lrps.htm
+,LRP028a,27.719,Culvert,Box Culvert,22.1439163,90.2334719,,R880.lrps.htm
+,LRP029,28.265,Km Post,Kuakata 42 km Khepupara 19 km,22.1389997,90.2337774,,R880.lrps.htm
+,LRP029a,29.138,"Side Road, Left",R 881 Kuakata road,22.1331938,90.2306104,,R880.lrps.htm
+,LRP029b,29.2,Others,Start of Barguna RHD,0,0,,R880.lrps.htm
+,LRP029b,29.2,Others,Start of Barguna RHD,0,0,,R880.lrps.htm
+,LRP030,29.265,Km Post,Km post missing,22.1327493,90.2295271,,R880.lrps.htm
+,LRP030a,30.095,Others,Ferry ghat start(paira river),22.1344163,90.2230271,,R880.lrps.htm
+,LRP031,30.265,Km Post,LRP Winthin River,22.1345274,90.2226104,,R880.lrps.htm
+,LRP032,31.265,Km Post,LRP Winthin River,22.1398052,90.2138056,,R880.lrps.htm
+,LRP032a,31.913,Others,ferry ghat end Barguna,22.1434719,90.2081667,,R880.lrps.htm
+,LRP033,32.043,Km Post,Barguna 12 km,22.1435552,90.20725,,R880.lrps.htm
+,LRP034,33.053,Km Post,Barguna 10 km,22.1513889,90.2058333,,R880.lrps.htm
+,LRP034a,33.903,Culvert,Box Culvert,22.1558333,90.198833,,R880.lrps.htm
+,LRP035,34.053,Km Post,Barguna 9 km,22.1565556,90.1973608,,R880.lrps.htm
+,LRP036,35.103,Km Post,Barguna 8 km,22.1612222,90.1889997,,R880.lrps.htm
+,LRP037,36.053,Km Post,Barguna 7 km,22.1655556,90.1811104,,R880.lrps.htm
+,LRP038,37.053,Km Post,Barguna 6 km,22.1703049,90.1730271,,R880.lrps.htm
+,LRP038a,37.368,Culvert,Sluice gate,22.1705549,90.1703604,,R880.lrps.htm
+,LRP039,38.063,Km Post,Barguna 5 km,22.170416,90.1633611,,R880.lrps.htm
+,LRP039a,38.418,Culvert,Sluice Ghat,22.1699993,90.1605556,,R880.lrps.htm
+,LRP040,39.073,Km Post,Barguna 4 km,22.1682216,90.154,,R880.lrps.htm
+,LRP041,40.073,Km Post,Barguna 3 km,22.1641944,90.1496386,,R880.lrps.htm
+,LRP041a,40.633,Culvert,Slice ghat,22.1603889,90.1476108,,R880.lrps.htm
+,LRP042,41.073,Km Post,Barguna 2 km,22.1595278,90.1429719,,R880.lrps.htm
+,LRP042a,41.178,Culvert,Sluice ghat,22.1594444,90.1425552,,R880.lrps.htm
+,LRP043,42.073,Km Post,Barguna 1 km,22.1595833,90.1332493,,R880.lrps.htm
+,LRP043a,42.52,Culvert,Box Culvert,22.15975,90.1293882,,R880.lrps.htm
+,LRP043b,43.021,"Side Road, Right",Z 8810 to Bakergonj,22.1613333,90.1244716,,R880.lrps.htm
+,LRP044,43.073,Km Post,Km post missing,22.1612778,90.1239716,,R880.lrps.htm
+,LRP044a,43.419,Bridge,R.C.c Bridge start,22.1608333,90.1208049,,R880.lrps.htm
+,LRP044b,43.47,Bridge,R.C.c Bridge end,22.1606389,90.1205271,,R880.lrps.htm
+,LRP045,44.073,Km Post,Km post missing,22.1594722,90.1140556,,R880.lrps.htm
+,LRP046,45.098,Km Post,Info missing,22.1578889,90.10475,,R880.lrps.htm
+,LRP046a,45.116,Bridge,R.C.C Bridge start,22.1579722,90.1050833,,R880.lrps.htm
+,LRP046b,45.148,Bridge,R.C.C Bridge end,22.1579167,90.1048056,,R880.lrps.htm
+,LRP047,46.098,Km Post,Kachira 10 km,22.1571944,90.095083,,R880.lrps.htm
+,LRP047a,46.183,Culvert,Box Culvert,22.1572222,90.0949997,,R880.lrps.htm
+,LRP047b,46.513,Culvert,Box Culvert,22.1573889,90.091083,,R880.lrps.htm
+,LRP047c,46.9,Bridge,Bridge Start,22.1576944,90.0879441,,R880.lrps.htm
+,LRP047d,46.927,Bridge,Bridge end,22.1576944,90.0876663,,R880.lrps.htm
+,LRP048,47.098,Km Post,Kachira 9 km,22.158,90.0854441,,R880.lrps.htm
+,LRP048a,47.478,Culvert,Sluice gate,22.1584444,90.0769438,,R880.lrps.htm
+,LRP049,48.098,Km Post,Km post missing,22.15775,90.0763604,,R880.lrps.htm
+,LRP050,49.108,Km Post,Km post missing,22.1521111,90.069416,,R880.lrps.htm
+,LRP050a,49.373,Others,ferry ghat start,22.1518056,90.067166,,R880.lrps.htm
+,LRP051,50.108,Km Post,Km post with river,22.1569722,90.05925,,R880.lrps.htm
+,LRP051a,50.973,Others,Ferry ghat end,22.1591667,90.0545,,R880.lrps.htm
+,LRP052,51.108,Km Post,Km post missing,22.1595833,90.054,,R880.lrps.htm
+,LRP053,52.423,Km Post,Kachira 3 km,22.1550833,90.042083,,R880.lrps.htm
+,LRP054,53.423,Km Post,Kachira 2 km,22.1569444,90.0330271,,R880.lrps.htm
+,LRP055,54.423,Km Post,Kachira 1 km,22.1612778,90.0245827,,R880.lrps.htm
+,LRP055a,55.168,Culvert,Box Culvert,22.16,90.0198327,,R880.lrps.htm
+,LRP056,55.423,Km Post,Kachira 00 km,22.1600833,90.0174716,,R880.lrps.htm
+,LRPE,55.728,Others,"End of road at Kachira more and meet with Z8708, Barguna.",22.1604722,90.0145833,,R880.lrps.htm
+,,,,,,,,R880.lrps.htm
+,,,,,,,,R880.lrps.htm

@@ -1,0 +1,84 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,Road start from N4,24.9075556,89.9501389,,R460.lrps.htm
+,LRPSa,0.172,Culvert,Box culvert,24.9075278,89.9518056,,R460.lrps.htm
+,LRPSb,0.524,Culvert,Box culvert,24.9075278,89.9553889,,R460.lrps.htm
+,LRPSc,0.892,Culvert,Box culvert,24.9010556,89.9583611,,R460.lrps.htm
+,LRP001,1,Km Post,Km post missing,24.9086389,89.9584167,,R460.lrps.htm
+,LRP001a,1.01,Culvert,Box culvert,24.9093056,89.9593611,,R460.lrps.htm
+,LRP001b,1.293,Culvert,Box culvert,24.9111944,89.96125,,R460.lrps.htm
+,LRP001c,1.314,Rail Road Crossing,Rail road crossing,24.9113611,89.9614167,,R460.lrps.htm
+,LRP001d,1.319,Culvert,Box culvert,24.9280549,89.9782216,,R460.lrps.htm
+,LRP001e,1.604,Culvert,Box culvert,24.9132222,89.96325,,R460.lrps.htm
+,LRP001f,1.944,Culvert,Box culvert,24.915,89.9656389,,R460.lrps.htm
+,LRP002,2,Km Post,Km post missing,24.9150833,89.9656944,,R460.lrps.htm
+,LRP002a,2.312,Culvert,Box culvert,24.9184438,89.9666111,,R460.lrps.htm
+,LRP002b,2.665,Bridge,Start of the bridge,24.9216104,89.9672771,,R460.lrps.htm
+,LRP002c,3.113,Bridge,End of the bridge,24.9254438,89.968416,,R460.lrps.htm
+,LRP003,3.28,Km Post,Sherpur 14 km,24.9265549,89.968416,,R460.lrps.htm
+,LRP003a,3.568,Culvert,Box culvert,24.9290827,89.9674716,,R460.lrps.htm
+,LRP004,4.236,Km Post,Sherpur 13 km,24.9300271,89.9670271,,R460.lrps.htm
+,LRP005,5.302,Km Post,Sherpur 12 km,24.9382219,89.9630556,,R460.lrps.htm
+,LRP005a,6.14,Culvert,Box culvert,24.9485274,89.9619167,,R460.lrps.htm
+,LRP006,6.352,Km Post,Sherpur 11 km,24.9511944,89.9625833,,R460.lrps.htm
+,LRP007,7.38,Km Post,Sherpur 10 km,24.96,89.9644444,,R460.lrps.htm
+,LRP007a,7.543,"Side Road, Left",Z 4606 to Bakshiganj,24.979166,89.9688327,,R460.lrps.htm
+,LRP008,8.405,Km Post,Sherpur 9 km,24.9689993,89.9650556,,R460.lrps.htm
+,LRP009,9.414,Km Post,Sherpur 8 km,24.9772771,89.9679716,,R460.lrps.htm
+,LRP009a,9.632,"Side Road, Left",Z 4606 to Bakshiganj,24.979166,89.9688327,,R460.lrps.htm
+,LRP010,10.438,Km Post,Sherpur 7 km,24.9809993,89.9726938,,R460.lrps.htm
+,LRP010a,11.265,Culvert,Box Culvert,24.9818604,89.9839441,,R460.lrps.htm
+,LRP011,11.436,Km Post,Sherpur 6 km,24.9821104,89.9855552,,R460.lrps.htm
+,LRP011a,11.496,Culvert,Box culvert,24.982416,89.9861663,,R460.lrps.htm
+,LRP012,12.432,Km Post,Sherpur 5 km,24.9844441,89.9950552,,R460.lrps.htm
+,LRP012a,12.921,Culvert,Box culvert,24.9864441,89.9993052,,R460.lrps.htm
+,LRP013,13.442,Km Post,Sherpur 4 km,24.989833,90.0026667,,R460.lrps.htm
+,LRP014,14.435,Km Post,Sherpur 3 km,24.9971941,90.0078611,,R460.lrps.htm
+,LRP014a,14.451,Bridge,Bridge start,24.9972774,90.0079167,,R460.lrps.htm
+,LRP014b,14.539,Bridge,Bridge end,24.9979441,90.0083333,,R460.lrps.htm
+,LRP014c,14.6,"Side Road, Right",Side road Z 4617,24.9985274,90.0086389,,R460.lrps.htm
+,LRP014d,15.016,Culvert,Box Culvert,25.0020556,90.0093889,,R460.lrps.htm
+,LRP014e,15.443,Culvert,Box Culvert,25.0083889,90.0082778,,R460.lrps.htm
+,LRP015,15.474,Km Post,Sherpur 2 km,25.0085833,90.0080833,,R460.lrps.htm
+,LRP016,16.555,Km Post,Sherpur 1 km,25.0145,90.0053889,,R460.lrps.htm
+,LRP016a,16.557,Culvert,Box Culvert,25.0176382,90.0046944,,R460.lrps.htm
+,LRP017,17.552,Km Post,Km post missing,25.0230549,90.0064167,,R460.lrps.htm
+,LRP017a,18.23,Culvert,Box Culvert,25.0283049,90.0100278,,R460.lrps.htm
+,LRP018,18.551,Km Post,Nalita bari 26 km,25.0298327,90.0123889,,R460.lrps.htm
+,LRP018a,18.592,Culvert,Box Culvert,25.0300827,90.0126944,,R460.lrps.htm
+,LRP018b,18.883,"Side Road, Right",Side road R371,25.0323049,90.0155556,,R460.lrps.htm
+,LRP018c,18.895,"Side Road, Left",Side road Z 4604,25.0323327,90.0155278,,R460.lrps.htm
+,LRP019,19.562,Km Post,Nalita bari 25 km,25.036833,90.0182771,,R460.lrps.htm
+,LRP019a,19.637,Culvert,Box Culvert,25.0373886,90.0185549,,R460.lrps.htm
+,LRP020,20.604,Km Post,Nalita bari 24 km,25.045083,90.0223049,,R460.lrps.htm
+,LRP020a,21.337,Culvert,Box Culvert,25.0511389,90.0243882,,R460.lrps.htm
+,LRP021,21.613,Km Post,Nalita bari 23 km,25.0536111,90.0247493,,R460.lrps.htm
+,LRP021a,22.29,Culvert,Box Culvert,25.0590833,90.0267493,,R460.lrps.htm
+,LRP022,22.664,Km Post,Nalita bari 22 km,25.062,90.0281104,,R460.lrps.htm
+,LRP023,23.664,Km Post,Nalita bari 21 km,25.0702771,90.0319993,,R460.lrps.htm
+,LRP023a,23.942,Culvert,Box Culvert,25.0782771,90.0366108,,R460.lrps.htm
+,LRP024,24.732,Km Post,Nalita bari 20 km,25.0787771,90.0367219,,R460.lrps.htm
+,LRP025,25.742,Km Post,Nalita bari 19 km,25.0867219,90.0407774,,R460.lrps.htm
+,LRP025a,25.863,Culvert,Box Culvert,25.0881108,90.0411108,,R460.lrps.htm
+,LRP026,26.761,Km Post,Nalita bari 18 km,25.0956108,90.0421108,,R460.lrps.htm
+,LRP026a,27.21,Bridge,Bridge start,25.099583,90.0417497,,R460.lrps.htm
+,LRP026b,27.267,Bridge,Bridge end,25.1000278,90.0415552,,R460.lrps.htm
+,LRP026c,27.743,Culvert,Pipe Culvert,25.1045556,90.0410552,,R460.lrps.htm
+,LRP027,27.792,Km Post,Nalita bari 17 km,25.1043889,90.041083,,R460.lrps.htm
+,LRP027a,28.12,Culvert,Box Culvert,25.1071944,90.0418608,,R460.lrps.htm
+,LRP027b,28.412,Culvert,Box Culvert,25.1094722,90.0428608,,R460.lrps.htm
+,LRP028,28.81,Km Post,Nalita bari 16 km,25.1098611,90.0467219,,R460.lrps.htm
+,LRP028a,29.107,"Side Road, Left",Side road Z 4605,25.11125,90.0496663,,R460.lrps.htm
+,LRP028b,29.344,Culvert,Box culvert,25.1121389,90.0510278,,R460.lrps.htm
+,LRP028c,29.653,Culvert,Box Culvert,25.1134167,90.0536667,,R460.lrps.htm
+,LRP029,29.837,Km Post,Nalita bari 15 km,25.114,90.0553333,,R460.lrps.htm
+,LRP029a,29.952,Culvert,Box Culvert,25.1143333,90.0563056,,R460.lrps.htm
+,LRP029b,30.676,Culvert,Box Culvert,25.1166938,90.0630556,,R460.lrps.htm
+,LRP030,30.855,Km Post,Nalita bari 14 km,25.1172771,90.0646111,,R460.lrps.htm
+,LRP030a,31.415,Culvert,Box Culvert,25.1160278,90.069666,,R460.lrps.htm
+,LRP031,31.871,Km Post,Nalita bari 13 km,25.1149722,90.0739438,,R460.lrps.htm
+,LRP031a,32.43,Bridge,Bridge start,25.1159722,90.0792216,,R460.lrps.htm
+,LRP031b,32.432,Bridge,Bridge end,25.116,90.0802216,,R460.lrps.htm
+,LRP032,32.532,Km Post,Nalita bari 12 km,25.117916,90.0827493,,R460.lrps.htm
+,LRPE,32.875,Others,The road ends Intersecting Z 4602 and Z4603.,25.1213882,90.0846663,,R460.lrps.htm
+,,,,,,,,R460.lrps.htm
+,,,,,,,,R460.lrps.htm

@@ -1,0 +1,249 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,Road start from N1 (Dhaka Teknaf) road at Patiya bazar.,22.291833,91.9823327,,R170.lrps.htm
+,LRPSa,0.637,Culvert,Box Culvert,22.2892497,91.9783327,,R170.lrps.htm
+,LRPSb,0.853,Culvert,Box Culvert,22.287333,91.9782771,,R170.lrps.htm
+,LRP001,1,Km Post,Km post missing,22.286083,91.9787771,,R170.lrps.htm
+,LRP001a,1.064,Culvert,Box Culvert,22.2855274,91.9787771,,R170.lrps.htm
+,LRP001b,1.212,Culvert,Pipe Culvert,22.2842497,91.9787216,,R170.lrps.htm
+,LRP001c,1.425,Culvert,Box Culvert,22.2830271,91.9774438,,R170.lrps.htm
+,LRP002,2,Km Post,Km post missing,22.2795549,91.9747216,,R170.lrps.htm
+,LRP002a,2.093,Culvert,Box Culvert,22.2793604,91.973916,,R170.lrps.htm
+,LRP002b,2.331,Culvert,Box Culvert,22.2777493,91.9730827,,R170.lrps.htm
+,LRP002c,2.504,Bridge,Bridge start,22.2762771,91.9725827,,R170.lrps.htm
+,LRP002d,2.525,Bridge,Bridge end,22.2761104,91.9724993,,R170.lrps.htm
+,LRP002e,2.783,Culvert,Box Culvert,22.2738327,91.9725827,,R170.lrps.htm
+,LRP002f,2.98,Culvert,Box Culvert,22.272166,91.9728882,,R170.lrps.htm
+,LRP003,3,Km Post,Km post missing,22.2719993,91.9730549,,R170.lrps.htm
+,LRP003a,3.165,Culvert,Box Culvert,22.2705549,91.9733882,,R170.lrps.htm
+,LRP003b,3.342,Culvert,Box Culvert,22.2690271,91.9734993,,R170.lrps.htm
+,LRP004,4,Km Post,Km post missing,22.2635278,91.9735271,,R170.lrps.htm
+,LRP004a,4.243,Culvert,Box Culvert,22.2622778,91.9719993,,R170.lrps.htm
+,LRP004b,4.762,Culvert,Box Culvert,22.2584444,91.9700271,,R170.lrps.htm
+,LRP005,5,Km Post,Km post missing,22.2565,91.9689438,,R170.lrps.htm
+,LRP005a,5.2,Culvert,Box Culvert,22.255,91.9679993,,R170.lrps.htm
+,LRP005b,5.868,Culvert,Box Culvert,22.2496941,91.9654444,,R170.lrps.htm
+,LRP006,6,Km Post,Km post missing,22.2486108,91.9646111,,R170.lrps.htm
+,LRP006a,6.403,Bridge,Bridge start,22.2468886,91.9619722,,R170.lrps.htm
+,LRP006b,6.51,Bridge,Bridge end,22.246333,91.9613056,,R170.lrps.htm
+,LRP007,7,Km Post,Km post missing,22.2449163,91.9570556,,R170.lrps.htm
+,LRP007a,7.18,Culvert,Box Culvert,22.2439163,91.9557222,,R170.lrps.htm
+,LRP007b,7.695,Culvert,Box Culvert,22.2418886,91.9517778,,R170.lrps.htm
+,LRP008,8,Km Post,Km post missing,22.2414719,91.9488608,,R170.lrps.htm
+,LRP008a,8.162,Culvert,Pipe Culvert,22.2414719,91.9477774,,R170.lrps.htm
+,LRP008b,8.405,Culvert,Box Culvert,22.2416108,91.9449441,,R170.lrps.htm
+,LRP008c,8.527,Bridge,Bridge start,22.2410552,91.9439441,,R170.lrps.htm
+,LRP008d,8.54,Bridge,Bridge end,22.2411108,91.9438886,,R170.lrps.htm
+,LRP009,9,Km Post,Km post missing,22.2419441,91.9401663,,R170.lrps.htm
+,LRP009a,9.295,Culvert,Box Culvert,22.2414719,91.9374163,,R170.lrps.htm
+,LRP010,10,Km Post,Km post missing,22.2401108,91.9312493,,R170.lrps.htm
+,LRP010a,10.265,Culvert,Box Culvert,22.2388052,91.9291938,,R170.lrps.htm
+,LRP010b,10.46,"Side Road, Right","Z1070, Patiya(Manaswertek)-Anwara road",22.2384719,91.9285827,,R170.lrps.htm
+,LRP011,11,Km Post,Km post missing,22.2337219,91.9270271,,R170.lrps.htm
+,LRP011a,11.228,Culvert,Box Culvert,22.2332493,91.9250827,,R170.lrps.htm
+,LRP011b,11.426,Bridge,Baily Bridge start,22.2330271,91.9231938,,R170.lrps.htm
+,LRP011c,11.445,Bridge,Baily Bridge end,22.2329716,91.9230549,,R170.lrps.htm
+,LRP011d,11.685,Culvert,Box Culvert,22.2318882,91.9214993,,R170.lrps.htm
+,LRP011e,11.912,Culvert,Box Culvert,22.2303049,91.9195549,,R170.lrps.htm
+,LRP012,12,Km Post,Km post missing,22.2297493,91.9188882,,R170.lrps.htm
+,LRP013,13,Km Post,Km post missing,22.222916,91.9145833,,R170.lrps.htm
+,LRP013a,13.795,"Side Road, Left","Z 1040 , Gasbaria Anwara road",22.220666,91.9090556,,R170.lrps.htm
+,LRP014,14,Km Post,Km post missing,22.2208882,91.9069444,,R170.lrps.htm
+,LRP015,14.75,Km Post,Info missing,22.2244438,91.9019167,,R170.lrps.htm
+,LRP015a,14.947,Bridge,Bridge start,22.224416,91.9000278,,R170.lrps.htm
+,LRP015b,14.985,Bridge,Bridge end,22.224416,91.8996941,,R170.lrps.htm
+,LRP015c,15.235,Bridge,Bridge start,22.2243049,91.8973052,,R170.lrps.htm
+,LRP015d,15.255,Bridge,Bridge end,22.2243049,91.897083,,R170.lrps.htm
+,LRP016,15.745,Km Post,Chittagong 23 km,22.2237771,91.8924163,,R170.lrps.htm
+,LRP016a,15.771,Bridge,Bridge start,22.2237493,91.8921386,,R170.lrps.htm
+,LRP016b,15.79,Bridge,Bridge end,22.2237216,91.8919441,,R170.lrps.htm
+,LRP016c,16.055,"Side Road, Left",Z1703 Anowara to Towilerdip,22.2233049,91.8894441,,R170.lrps.htm
+,LRP017,16.745,Km Post,Info missing,22.2229438,91.8827771,,R170.lrps.htm
+,LRP017a,16.8,Culvert,Box Culvert,22.222916,91.8822216,,R170.lrps.htm
+,LRP017b,17.145,"Side Road, Right",z 1018 Anowara to Shikalbaha,22.2227493,91.8788882,,R170.lrps.htm
+,LRP017c,17.31,Culvert,Box Culvert,22.2215549,91.879666,,R170.lrps.htm
+,LRP018,17.745,Km Post,Km post missing,22.2181938,91.8819993,,R170.lrps.htm
+,LRP018a,17.94,Culvert,Box Culvert,22.2168049,91.8829993,,R170.lrps.htm
+,LRP019,18.745,Km Post,Km post missing,22.2105833,91.8872774,,R170.lrps.htm
+,LRP019a,18.843,Culvert,Box Culvert,22.2098056,91.8877219,,R170.lrps.htm
+,LRP020,19.135,Km Post,Banshkhali 25 km,22.2076389,91.889333,,R170.lrps.htm
+,LRP020a,19.439,Culvert,Box Culvert,22.2054167,91.8909719,,R170.lrps.htm
+,LRP020b,20.095,Culvert,Box Culvert,22.1998608,91.8943052,,R170.lrps.htm
+,LRP021,20.145,Km Post,Km post broken,22.1992774,91.893083,,R170.lrps.htm
+,LRP021a,20.41,Culvert,Box Culvert,22.1969441,91.8932774,,R170.lrps.htm
+,LRP021b,20.84,Culvert,Box Culvert,22.1937774,91.8936663,,R170.lrps.htm
+,LRP021c,21.016,Bridge,Bridge start,22.1916108,91.8941663,,R170.lrps.htm
+,LRP021d,21.04,Bridge,Bridge end,22.1914719,91.8942774,,R170.lrps.htm
+,LRP022,21.155,Km Post,Banshkhali 23 km,22.1905274,91.8949997,,R170.lrps.htm
+,LRP022a,21.208,Culvert,Box Culvert,22.1894441,91.8958886,,R170.lrps.htm
+,LRP023,22.155,Km Post,Banshkhali 22 km,22.1831382,91.90075,,R170.lrps.htm
+,LRP023a,22.307,Culvert,Box Culvert,22.1820271,91.9016389,,R170.lrps.htm
+,LRP023b,22.772,Culvert,Box Culvert,22.1797493,91.9031389,,R170.lrps.htm
+,LRP023c,22.837,Bridge,Bridge Start,22.1782493,91.9046111,,R170.lrps.htm
+,LRP023d,22.861,Bridge,Bridge end,22.1781938,91.9048056,,R170.lrps.htm
+,LRP023e,23.064,Culvert,Box Culvert,22.1774993,91.9065833,,R170.lrps.htm
+,LRP024,23.155,Km Post,Info missing,22.1769993,91.9074722,,R170.lrps.htm
+,LRP024a,23.222,"Side Road, Left","Z 1703, Anowara to Towilerdip",22.1762771,91.9089167,,R170.lrps.htm
+,LRP024b,23.51,Bridge,Bridge Start,22.1743604,91.909,,R170.lrps.htm
+,LRP024c,24.035,Bridge,Bridge end,22.1721104,91.9134722,,R170.lrps.htm
+,LRP024c,24.035,Bridge,Bridge end,22.1721104,91.9134722,,R170.lrps.htm
+,LRP025,24.175,Km Post,Banshkhali 20 km,22.1712771,91.9145,,R170.lrps.htm
+,LRP025a,24.314,Culvert,Box Culvert,22.1700549,91.9145,,R170.lrps.htm
+,LRP025b,24.87,Culvert,Box Culvert,22.1650833,91.9141667,,R170.lrps.htm
+,LRP026,25.165,Km Post,Km post broken,22.1625278,91.9146667,,R170.lrps.htm
+,LRP026a,25.349,Culvert,Box Culvert,22.1611111,91.9148056,,R170.lrps.htm
+,LRP027,25.75,Km Post,Info missing,22.158,91.9148889,,R170.lrps.htm
+,LRP027a,25.955,Culvert,Box Culvert,22.15625,91.9144444,,R170.lrps.htm
+,LRP027b,26.279,Culvert,Box Culvert,22.1534722,91.9146667,,R170.lrps.htm
+,LRP027c,26.47,Culvert,Box Culvert,22.1517778,91.9145556,,R170.lrps.htm
+,LRP028,26.75,Km Post,Km post broken,22.1492497,91.9142222,,R170.lrps.htm
+,LRP028a,26.782,Culvert,Box Culvert,22.1489441,91.9142222,,R170.lrps.htm
+,LRP028b,27.108,Culvert,Box Culvert,22.146083,91.9138611,,R170.lrps.htm
+,LRP028c,27.45,Culvert,Box Culvert,22.142833,91.9138889,,R170.lrps.htm
+,LRP029,27.75,Km Post,Info missing,22.1403886,91.9140833,,R170.lrps.htm
+,LRP029a,28.63,Culvert,Box Culvert,22.132666,91.9156111,,R170.lrps.htm
+,LRP030,28.75,Km Post,Km post missing,22.1316382,91.9161389,,R170.lrps.htm
+,LRP030a,29.335,Culvert,Box Culvert,22.1237493,91.9170827,,R170.lrps.htm
+,LRP030b,29.505,Culvert,Box Culvert,22.1252493,91.9178882,,R170.lrps.htm
+,LRP031,29.7,Km Post,Info missing,22.1235549,91.9186382,,R170.lrps.htm
+,LRP031a,29.749,Culvert,Box Culvert,22.123166,91.9188049,,R170.lrps.htm
+,LRP031b,30.615,Culvert,Box Culvert,22.1173327,91.9231382,,R170.lrps.htm
+,LRP032,30.7,Km Post,Banshkhali 13 km,22.1165,91.9235271,,R170.lrps.htm
+,LRP032a,30.882,Culvert,Box Culvert,22.1150278,91.9242771,,R170.lrps.htm
+,LRP032b,31.216,Culvert,Box Culvert,22.1122778,91.9255827,,R170.lrps.htm
+,LRP033,31.7,Km Post,Km post missing,22.1083056,91.9277771,,R170.lrps.htm
+,LRP033a,31.838,Culvert,Box Culvert,22.1071111,91.9280827,,R170.lrps.htm
+,LRP033b,32.32,Culvert,Box Culvert,22.1029722,91.9293327,,R170.lrps.htm
+,LRP033c,32.604,Culvert,Box Culvert,22.1005556,91.9300549,,R170.lrps.htm
+,LRP034,32.7,Km Post,Km post missing,22.099583,91.9303327,,R170.lrps.htm
+,LRP034a,33.138,Culvert,Box Culvert,22.0957497,91.9312771,,R170.lrps.htm
+,LRP034b,33.404,Culvert,Box Culvert,22.0906386,91.9317216,,R170.lrps.htm
+,LRP034c,33.645,Culvert,Box Culvert,22.0913608,91.9323604,,R170.lrps.htm
+,LRP035,33.7,Km Post,Banshkhali 10 km,22.0907774,91.9325271,,R170.lrps.htm
+,LRP035a,33.868,Culvert,Box Culvert,22.0893608,91.9330271,,R170.lrps.htm
+,LRP035b,34.37,Culvert,Box Culvert,22.085083,91.9345274,,R170.lrps.htm
+,LRP035c,34.688,"Side Road, Left",Z 1019 Keranirhat Gunaigari road,22.0823049,91.9353608,,R170.lrps.htm
+,LRP036,34.7,Km Post,Km post missing,22.0821938,91.9353886,,R170.lrps.htm
+,LRP036a,34.87,Culvert,Box Culvert,22.0806938,91.9355274,,R170.lrps.htm
+,LRP036b,35.39,Culvert,Box Culvert,22.0760549,91.9358608,,R170.lrps.htm
+,LRP037,35.7,Km Post,Info missing,22.0732771,91.9361108,,R170.lrps.htm
+,LRP037a,35.785,Culvert,Box Culvert,22.0725827,91.9362774,,R170.lrps.htm
+,LRP037b,36.445,Culvert,Box Culvert,22.0668327,91.9376663,,R170.lrps.htm
+,LRP037c,36.458,"Side Road, Right","Z 1705, Bacharcharchara- Beribandh road",22.0665556,91.9376941,,R170.lrps.htm
+,LRP038,36.7,Km Post,Km post missing,22.0643611,91.9381386,,R170.lrps.htm
+,LRP038a,36.989,Culvert,Pipe Culvert,22.0601944,91.9399163,,R170.lrps.htm
+,LRP038b,37.39,Culvert,Box Culvert,22.0586111,91.9398608,,R170.lrps.htm
+,LRP038c,37.67,Culvert,Box Culvert,22.05625,91.940333,,R170.lrps.htm
+,LRP039,37.695,Km Post,Banshkhali 6 km,22.0560278,91.9404163,,R170.lrps.htm
+,LRP039a,37.837,Culvert,Box Culvert,22.05475,91.9406941,,R170.lrps.htm
+,LRP039b,38.24,Bridge,Bridge start,22.05125,91.9414997,,R170.lrps.htm
+,LRP039c,38.258,Bridge,Bridge end,22.0510833,91.9415274,,R170.lrps.htm
+,LRP039d,38.69,Culvert,Box Culvert,22.0472219,91.9416941,,R170.lrps.htm
+,LRP040,38.695,Km Post,Banshkhali 5 km,22.0471386,91.9417219,,R170.lrps.htm
+,LRP040a,39.165,Culvert,Box Culvert,22.0429441,91.9417497,,R170.lrps.htm
+,LRP041,39.695,Km Post,Banshkhali 4 km,22.0382774,91.9424997,,R170.lrps.htm
+,LRP041a,40.095,Culvert,Box Culvert,22.0348052,91.9435552,,R170.lrps.htm
+,LRP041b,40.52,Culvert,Box Culvert,22.031166,91.9346386,,R170.lrps.htm
+,LRP042,40.695,Km Post,Banshkhali 3 km,22.0295549,91.9451108,,R170.lrps.htm
+,LRP042a,40.889,Culvert,Pipe Culvert,22.0273604,91.9462219,,R170.lrps.htm
+,LRP042b,41.377,Culvert,Box Culvert,22.0236938,91.946833,,R170.lrps.htm
+,LRP043,41.695,Km Post,Banshkhali 2 km,22.0208882,91.9477219,,R170.lrps.htm
+,LRP043a,41.833,Culvert,Box Culvert,22.0197493,91.948083,,R170.lrps.htm
+,LRP043b,42.283,Culvert,Box Culvert,22.0159722,91.9494441,,R170.lrps.htm
+,LRP043c,42.43,Culvert,Box Culvert,22.0147222,91.9499163,,R170.lrps.htm
+,LRP044,42.7,Km Post,Banshkhali 1 km,22.0123611,91.9506389,,R170.lrps.htm
+,LRP044a,43.03,Culvert,Box Culvert,22.0093889,91.95125,,R170.lrps.htm
+,LRP044b,43.314,Culvert,Box Culvert,22.0068611,91.9513056,,R170.lrps.htm
+,LRP044c,43.66,Culvert,Box Culvert,22.00375,91.9515833,,R170.lrps.htm
+,LRP044d,43.7,"Side Road, Left","R 171, Bashkhali (Charti)- Chunti road",22.0019444,91.9518333,,R170.lrps.htm
+,LRP045,43.888,Km Post,Km post missing,22.0017778,91.9518889,,R170.lrps.htm
+,LRP045a,43.958,Culvert,Box Culvert,22.0009167,91.9519722,,R170.lrps.htm
+,LRP045b,44.274,Culvert,Box Culvert,21.9981108,91.9521389,,R170.lrps.htm
+,LRP046,44.7,Km Post,Km post missing,21.9941663,91.9524444,,R170.lrps.htm
+,LRP046a,44.895,Culvert,Box Culvert,21.9924441,91.9526389,,R170.lrps.htm
+,LRP046b,45.334,Culvert,Box Culvert,21.9885274,91.9530833,,R170.lrps.htm
+,LRP047,45.88,Km Post,Chombol 3 km,21.9835274,91.9536944,,R170.lrps.htm
+,LRP047a,46.409,Bridge,Bridge start,21.9954719,91.9543611,,R170.lrps.htm
+,LRP047b,46.445,Bridge,Bridge end,21.9784993,91.9543333,,R170.lrps.htm
+,LRP047c,46.779,Culvert,Box Culvert,21.9754993,91.9546944,,R170.lrps.htm
+,LRP047d,46.84,Culvert,Box Culvert,21.9747216,91.95475,,R170.lrps.htm
+,LRP048,46.88,Km Post,Km post missing,21.974416,91.9548333,,R170.lrps.htm
+,LRP049,47.76,Km Post,Info missing,21.9664722,91.9558611,,R170.lrps.htm
+,LRP049a,48.015,Bridge,Bridge start,21.9641944,91.9561111,,R170.lrps.htm
+,LRP049b,48.027,Bridge,Bridge end,21.9640833,91.9561111,,R170.lrps.htm
+,LRP049c,48.35,Culvert,Box Culvert,21.9611667,91.9563611,,R170.lrps.htm
+,LRP050,48.77,Km Post,Napora 3 km,21.9573056,91.9565278,,R170.lrps.htm
+,LRP050a,49.66,Culvert,Box Culvert,21.9494163,91.9575,,R170.lrps.htm
+,LRP051,49.75,Km Post,Info missing,21.9486108,91.9575833,,R170.lrps.htm
+,LRP051a,50.365,Culvert,Box Culvert,21.9431108,91.9584167,,R170.lrps.htm
+,LRP052,50.75,Km Post,Info missing,21.9396386,91.9591667,,R170.lrps.htm
+,LRP052a,50.878,Bridge,Bridge start,21.9386108,91.9595556,,R170.lrps.htm
+,LRP052b,50.893,Bridge,Bridge end,21.9384441,91.9595833,,R170.lrps.htm
+,LRP052c,51.525,Culvert,Box Culvert,21.9328049,91.9604167,,R170.lrps.htm
+,LRP053,51.75,Km Post,Km post missing,21.9307216,91.9606111,,R170.lrps.htm
+,LRP054,52.75,Km Post,Km post missing,21.9216938,91.9613333,,R170.lrps.htm
+,LRP054a,52.89,Culvert,Box Culvert,21.9204716,91.9614722,,R170.lrps.htm
+,LRP054b,53.084,Culvert,Box Culvert,21.9187493,91.9616389,,R170.lrps.htm
+,LRP054c,53.66,Culvert,Box Culvert,21.9137222,91.9621111,,R170.lrps.htm
+,LRP055,53.81,Km Post,Info missing,21.9122778,91.9622778,,R170.lrps.htm
+,LRP056,54.82,Km Post,Info missing,21.9028889,91.9635278,,R170.lrps.htm
+,LRP056a,55.375,Bridge,Bridge start,21.898083,91.9659722,,R170.lrps.htm
+,LRP056b,55.418,Bridge,Bridge end,21.8977219,91.9643611,,R170.lrps.htm
+,LRP057,55.83,Km Post,Info missing,21.893833,91.9651667,,R170.lrps.htm
+,LRP057a,56.19,Bridge,Bridge start,21.8906386,91.96575,,R170.lrps.htm
+,LRP057b,56.21,Bridge,Bridge end,21.8904997,91.9657778,,R170.lrps.htm
+,LRP057c,56.308,Culvert,Box Culvert,21.8896386,91.966,,R170.lrps.htm
+,LRP058,56.832,Km Post,Km post missing,21.8854163,91.9681938,,R170.lrps.htm
+,LRP058a,56.848,Bridge,Baily Bridge start/ Start of Cox'sBazar Division,21.8852497,91.9683327,,R170.lrps.htm
+,LRP058a,56.848,Bridge,Baily Bridge start/ Start of Cox'sBazar Division,21.8852497,91.9683327,,R170.lrps.htm
+,LRP058b,56.876,Bridge,Baily Bridge end,21.8851941,91.9684993,,R170.lrps.htm
+,LRP058c,56.901,"Side Road, Left","Z 1124 , Harbang -Taitong road",21.8851663,91.968666,,R170.lrps.htm
+,LRP058d,57.295,Culvert,Box Culvert,21.8833886,91.9719438,,R170.lrps.htm
+,LRP059,57.83,Km Post,Km post missing,21.8790271,91.9739438,,R170.lrps.htm
+,LRP059a,58.43,Culvert,Box Culvert,21.8737493,91.975416,,R170.lrps.htm
+,LRP059b,58.81,Culvert,Box Culvert,21.8703882,91.975666,,R170.lrps.htm
+,LRP060,58.83,Km Post,Km post missing,21.870166,91.9756938,,R170.lrps.htm
+,LRP061,59.83,Km Post,Km post missing,21.8614167,91.9778049,,R170.lrps.htm
+,LRP061a,59.955,Culvert,Box Culvert,21.8603056,91.9779993,,R170.lrps.htm
+,LRP061b,60.229,Culvert,Box Culvert,21.8579444,91.9785271,,R170.lrps.htm
+,LRP062,60.83,Km Post,Km post missing,21.8528056,91.9799438,,R170.lrps.htm
+,LRP062a,60.982,Culvert,Box Culvert,21.8516667,91.9807216,,R170.lrps.htm
+,LRP062b,61.455,Culvert,Box Culvert,21.8484997,91.9782771,,R170.lrps.htm
+,LRP063,61.83,Km Post,Km post missing,21.8462774,91.9754993,,R170.lrps.htm
+,LRP064,62.83,Km Post,Km post missing,21.8398052,91.969666,,R170.lrps.htm
+,LRP064a,62.895,Bridge,Bridge end,21.8392497,91.9697216,,R170.lrps.htm
+,LRP065,63.83,Km Post,Km post missing,21.8310549,91.9696104,,R170.lrps.htm
+,LRP065a,63.845,Cross Road,Z 1125 left,21.8306938,91.9695827,,R170.lrps.htm
+,LRP066,64.83,Km Post,Km post missing,21.8215549,91.9696382,,R170.lrps.htm
+,LRP066a,64.97,Culvert,Box Culvert,21.8203049,91.9696382,,R170.lrps.htm
+,LRP067,65.83,Km Post,Km post missing,21.8121389,91.969666,,R170.lrps.htm
+,LRP067a,65.891,Culvert,Box Culvert,21.81175,91.9696104,,R170.lrps.htm
+,LRP067b,66.305,Culvert,Box Culvert,21.8088333,91.971666,,R170.lrps.htm
+,LRP068,66.83,Km Post,Km post missing,21.8047222,91.9742216,,R170.lrps.htm
+,LRP068a,67.42,Culvert,Box Culvert,21.8005556,91.9777493,,R170.lrps.htm
+,LRP069,67.83,Km Post,Km post missing,21.8000833,91.9814716,,R170.lrps.htm
+,LRP069a,68.388,Bridge,Bridge start,21.7971386,91.9857774,,R170.lrps.htm
+,LRP069b,68.582,Bridge,Bridge end,21.7963608,91.9874441,,R170.lrps.htm
+,LRP069c,68.612,"Side Road, Right",Z 1128 to Illasha bazar,21.7962774,91.9876941,,R170.lrps.htm
+,LRP070,68.83,Km Post,Km post missing,21.795333,91.9896108,,R170.lrps.htm
+,LRP070a,69.14,Cross Road,Z 1127 to Baguzzara -Chokoria road,21.7933052,91.991583,,R170.lrps.htm
+,LRP071,69.83,Km Post,Km post missing,21.7900552,91.9969719,,R170.lrps.htm
+,LRP071a,70.115,Culvert,Box Culvert,21.789083,91.9994441,,R170.lrps.htm
+,LRP072,70.83,Km Post,Km post missing,21.7837219,92.0020278,,R170.lrps.htm
+,LRP072a,70.875,Culvert,Box Culvert,21.7833049,92.002,,R170.lrps.htm
+,LRP072b,71.082,Culvert,Box Culvert,21.7814716,92.0020278,,R170.lrps.htm
+,LRP072c,71.665,Culvert,Box Culvert,21.7747493,92.0020278,,R170.lrps.htm
+,LRP073,71.83,Km Post,Km post missing,21.7747493,92.0020278,,R170.lrps.htm
+,LRP073a,72.15,Bridge,Bridge start,21.7719716,92.0025556,,R170.lrps.htm
+,LRP073b,72.188,Bridge,Bridge end,21.7717493,92.0028333,,R170.lrps.htm
+,LRP073c,72.595,Culvert,Box Culvert,21.7695271,92.0059444,,R170.lrps.htm
+,LRP074,72.83,Km Post,Km post missing,21.7681382,92.0077222,,R170.lrps.htm
+,LRP074a,73.616,Bridge,Bridge start,21.7615278,92.0022778,,R170.lrps.htm
+,LRP074b,73.664,Bridge,Bridge end,21.7611111,92.00775,,R170.lrps.htm
+,LRP075,73.83,Km Post,Km post missing,21.7595556,92.0076667,,R170.lrps.htm
+,LRP075a,74.025,Culvert,Box Culvert,21.7577778,92.0076111,,R170.lrps.htm
+,LRP075b,74.38,Culvert,Box culvert,21.7545833,92.0078056,,R170.lrps.htm
+,LRP075c,74.524,Bridge,Bridge start,21.7533056,92.0078333,,R170.lrps.htm
+,LRP075d,74.568,Bridge,Bridge end,21.7529167,92.0078333,,R170.lrps.htm
+,LRPE,74.635,Others,Road End With R172 at Eidmoni Badarkhali -Chokoria Road N1.,21.7521667,92.0078333,,R170.lrps.htm
+,,,,,,,,R170.lrps.htm
+,,,,,,,,R170.lrps.htm

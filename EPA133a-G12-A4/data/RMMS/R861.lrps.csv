@@ -1,0 +1,27 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,Start of road from R860 at Monoharpur more.,23.1869997,90.3318882,,R861.lrps.htm
+,LRPSa,0.708,Culvert,Box Culvert,23.1930552,90.3337219,,R861.lrps.htm
+,LRP001,1.13,Km Post,"Sariatpur 02 km, Dhaka 76 km, Majhirghat 30 km",23.1964719,90.3351108,,R861.lrps.htm
+,LRP001a,1.435,Culvert,Start of Box Culvert,23.1989997,90.3362774,,R861.lrps.htm
+,LRP001b,1.456,Culvert,End of Box Culvert,23.1989997,90.3362774,,R861.lrps.htm
+,LRP001c,1.93,Culvert,Box Culvert,23.2026944,90.3379163,,R861.lrps.htm
+,LRP002,2.12,Km Post,"Majhirghat 29 km, Katal bari 34.50 km",23.2026944,90.3396941,,R861.lrps.htm
+,LRP002a,2.157,Culvert,Box Culvert,23.2027222,90.3400552,,R861.lrps.htm
+,LRP002b,2.68,Bridge,Start of Bridge,23.2053611,90.3450552,,R861.lrps.htm
+,LRP002c,2.788,Bridge,End of Bridge,23.2055,90.3451386,,R861.lrps.htm
+,LRP003,3.12,Km Post,Km post missing,23.2077778,90.3467774,,R861.lrps.htm
+,LRP003a,3.82,Bridge,Start of Bridge,23.2138889,90.3474441,,R861.lrps.htm
+,LRP003b,3.842,Bridge,End of Bridge,23.2139722,90.3474441,,R861.lrps.htm
+,LRP004,4.12,Km Post,Km post missing,23.2166938,90.3474163,,R861.lrps.htm
+,LRP004a,4.819,Bridge,Start of Bridge,23.2225827,90.3488052,,R861.lrps.htm
+,LRP004b,4.83,Bridge,End of Bridge,23.2227216,90.3488052,,R861.lrps.htm
+,LRP005,5.12,Km Post,Km post missing,23.2253327,90.3494997,,R861.lrps.htm
+,LRP005a,5.48,Bridge,Start of Bridge,23.2283882,90.3496386,,R861.lrps.htm
+,LRP005b,5.492,Bridge,End of Bridge,23.2283882,90.3493886,,R861.lrps.htm
+,LRP006,5.86,Km Post,"Jajira 13 km, Dhaka 71 km, Katalbari 30.5 km.",23.2318604,90.3491108,,R861.lrps.htm
+,LRP006a,6.37,"Side Road, Left",Left Z8065 to Mongalmajir ghat,23.2364163,90.348583,,R861.lrps.htm
+,LRP006b,6.39,Culvert,Box Culvert,23.2364997,90.3486663,,R861.lrps.htm
+,LRP006c,6.884,Culvert,Box Culvert,23.2363608,90.3536111,,R861.lrps.htm
+,LRPE,6.904,Others,End of road at Premtola more at Intersection of with Z 8012 and Z 8602.,23.2363608,90.3538056,,R861.lrps.htm
+,,,,,,,,R861.lrps.htm
+,,,,,,,,R861.lrps.htm

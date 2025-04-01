@@ -1,0 +1,59 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,Road Start at Intersection 2 Golapganj-Chowmohoni Road R250 and R251.,24.8574722,92.0137778,,R251.lrps.htm
+,LRPSa,0.633,Bridge,Bridge start,24.8541944,92.0183049,,R251.lrps.htm
+,LRPSb,0.66,Bridge,Bridge end,24.8540833,92.0185271,,R251.lrps.htm
+,LRP001,1,Km Post,Km post missing,24.8517778,92.0203604,,R251.lrps.htm
+,LRP001a,1.025,Culvert,Box culvert,24.8515833,92.0204716,,R251.lrps.htm
+,LRP001b,1.491,Culvert,Box culvert,24.8474719,92.0204716,,R251.lrps.htm
+,LRP002,1.95,Km Post,Information missing,24.8438052,92.0208604,,R251.lrps.htm
+,LRP002a,2.744,Culvert,Box culvert,24.8389997,92.0245827,,R251.lrps.htm
+,LRP003,2.92,Km Post,Km post broken,24.8374163,92.0248049,,R251.lrps.htm
+,LRP003a,3.633,Culvert,Box culvert,24.8325271,92.0288604,,R251.lrps.htm
+,LRP003b,3.686,Culvert,Box culvert,24.832166,92.0288882,,R251.lrps.htm
+,LRP003c,3.94,Culvert,Box culvert,24.8302216,92.0302216,,R251.lrps.htm
+,LRP004,3.955,Km Post,Vadeswar 10 km,24.8300827,92.0303049,,R251.lrps.htm
+,LRP004a,4.011,Culvert,Box culvert,24.829666,92.0305827,,R251.lrps.htm
+,LRP004b,4.19,Culvert,Box culvert,24.8281938,92.0309993,,R251.lrps.htm
+,LRP004c,4.404,Culvert,Box culvert,24.826416,92.0313604,,R251.lrps.htm
+,LRP005,4.955,Km Post,Km post missing,24.8218327,92.0333049,,R251.lrps.htm
+,LRP005a,5.59,Culvert,Box culvert,24.8165556,92.0355274,,R251.lrps.htm
+,LRP006,5.975,Km Post,Information missing,24.8131944,92.0349163,,R251.lrps.htm
+,LRP006a,6.311,Culvert,Box culvert,24.8106111,92.0352219,,R251.lrps.htm
+,LRP006b,6.824,Bridge,Bridge start,24.8082778,92.039333,,R251.lrps.htm
+,LRP006c,6.845,Bridge,Bridge end,24.8081389,92.0393886,,R251.lrps.htm
+,LRP007,6.975,Km Post,Km post missing,24.8070278,92.039833,,R251.lrps.htm
+,LRP007a,7.032,Culvert,Box culvert,24.8065556,92.0398608,,R251.lrps.htm
+,LRP007b,7.351,Culvert,Box culvert,24.8037778,92.0393052,,R251.lrps.htm
+,LRP007c,7.637,"Side Road, Right",Z2832 to Daudabad,24.8018889,92.0376663,,R251.lrps.htm
+,LRP008,7.945,Km Post,Information missing,24.799583,92.0374441,,R251.lrps.htm
+,LRP008a,8.014,Culvert,Box culvert,24.7989997,92.0375552,,R251.lrps.htm
+,LRP008b,8.594,Bridge,Bridge start,24.7944163,92.0348886,,R251.lrps.htm
+,LRP008c,8.613,Bridge,Bridge end,24.7942774,92.0348052,,R251.lrps.htm
+,LRP009,8.945,Km Post,Km post broken,24.7915274,92.0342774,,R251.lrps.htm
+,LRP009a,9.092,Culvert,Box culvert,24.7902497,92.0340552,,R251.lrps.htm
+,LRP009b,9.181,Culvert,Box culvert,24.7894719,92.0339997,,R251.lrps.htm
+,LRP009c,9.447,Culvert,Box culvert,24.7871941,92.0333049,,R251.lrps.htm
+,LRP009d,9.683,Culvert,Box culvert,24.7868608,92.0312216,,R251.lrps.htm
+,LRP009e,9.935,Culvert,Box culvert,24.7852219,92.0302216,,R251.lrps.htm
+,LRP010,9.96,Km Post,Information missing,24.7849997,92.0302216,,R251.lrps.htm
+,LRP010a,10.075,Culvert,Box culvert,24.7841941,92.029666,,R251.lrps.htm
+,LRP010b,10.3,Culvert,Box culvert,24.7825549,92.0290827,,R251.lrps.htm
+,LRP010c,10.86,Bridge,Bridge start,24.777916,92.0282493,,R251.lrps.htm
+,LRP010d,10.879,Bridge,Bridge end,24.7805271,92.0282493,,R251.lrps.htm
+,LRP011,10.96,Km Post,Information missing,24.7769438,92.0281104,,R251.lrps.htm
+,LRP011a,11.098,Culvert,Box culvert,24.7760827,92.0279993,,R251.lrps.htm
+,LRP011b,11.192,Culvert,Box culvert,24.7751382,92.0273049,,R251.lrps.htm
+,LRP011c,11.435,Culvert,Box culvert,24.7731382,92.0266104,,R251.lrps.htm
+,LRP011d,11.773,Culvert,Box culvert,24.7715271,92.0242493,,R251.lrps.htm
+,LRP011e,11.875,Culvert,Box culvert,24.7706104,92.0241104,,R251.lrps.htm
+,LRP012,11.96,Km Post,Km post missing,24.7703049,92.0233327,,R251.lrps.htm
+,LRP012a,12.29,Culvert,Box culvert,24.767666,92.0222771,,R251.lrps.htm
+,LRP012b,12.49,Culvert,Box culvert,24.7666389,92.0210827,,R251.lrps.htm
+,LRP012c,12.706,Culvert,Box culvert,24.7649167,92.020416,,R251.lrps.htm
+,LRP013,12.96,Km Post,Km post missing,24.7626944,92.0203049,,R251.lrps.htm
+,LRP013a,13.275,Culvert,Box culvert,24.7601667,92.0196104,,R251.lrps.htm
+,LRP013b,13.374,Culvert,Box culvert,24.7593056,92.0195549,,R251.lrps.htm
+,LRP013c,13.491,Culvert,Box culvert,24.7582778,92.0196104,,R251.lrps.htm
+,LRPE,13.62,Others,Road End With Kora River.,24.7571667,92.0192771,,R251.lrps.htm
+,,,,,,,,R251.lrps.htm
+,,,,,,,,R251.lrps.htm

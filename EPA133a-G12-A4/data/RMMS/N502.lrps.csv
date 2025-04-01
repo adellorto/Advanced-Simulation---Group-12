@@ -1,0 +1,154 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,Road start from N 5 at Jahangirabad Bogra,24.821916,89.36275,,N502.lrps.htm
+,LRP001,0.01,Km Post,Nababgonj 159 lm,24.8218882,89.3626389,,N502.lrps.htm
+,LRP001a,0.45,Culvert,Box culvert,24.8200271,89.35925,,N502.lrps.htm
+,LRP002,1,Km Post,Rajshshi 113 km,24.8151667,89.3576111,,N502.lrps.htm
+,LRP002a,1.537,Culvert,Box culvert,24.8105,89.3565833,,N502.lrps.htm
+,LRP003,2,Km Post,Km post Broken,24.8063056,89.3561667,,N502.lrps.htm
+,LRP003a,2.542,Culvert,Brick Machinary Culvert,24.8016667,89.3554722,,N502.lrps.htm
+,LRP004,3.01,Km Post,Natore 60 km,24.7974163,89.3545,,N502.lrps.htm
+,LRP004a,3.532,Culvert,Box Culvert,24.7928608,89.3534444,,N502.lrps.htm
+,LRP005,4,Km Post,Nababgonj 155 km,24.7888052,89.3525833,,N502.lrps.htm
+,LRP006,5,Km Post,LRP 005 R C C post,24.7799993,89.3505278,,N502.lrps.htm
+,LRP006a,5.934,Culvert,Brick Machinary Culvert,24.7717493,89.3486663,,N502.lrps.htm
+,LRP007,6.02,Km Post,Pabna 117 km,24.7709438,89.3484719,,N502.lrps.htm
+,LRP008,7.02,Km Post,Km post missing,24.76225,89.3464441,,N502.lrps.htm
+,LRP008a,7.936,Culvert,Brick Manory Culvert,24.7541111,89.344583,,N502.lrps.htm
+,LRP009,8.02,Km Post,Nawabganj 151 km,24.7533333,89.344333,,N502.lrps.htm
+,LRP010,9.02,Km Post,Km post missing,24.7461663,89.3383886,,N502.lrps.htm
+,LRP010a,9.237,Culvert,Brick Masonry Culvert,24.7448886,89.3371108,,N502.lrps.htm
+,LRP011,10.02,Km Post,Pabna 113 km,24.7394997,89.331916,,N502.lrps.htm
+,LRP012,11.02,Km Post,Natore 52 km,24.7326382,89.3253049,,N502.lrps.htm
+,LRP012a,11.62,Bridge,Start of Bridge,24.7290827,89.3212771,,N502.lrps.htm
+,LRP012b,11.64,Bridge,End of Bridge,24.7289438,89.3211104,,N502.lrps.htm
+,LRP013,12.02,Km Post,Info missing,24.7263882,89.3182493,,N502.lrps.htm
+,LRP014,13.02,Km Post,Km post missing,24.7183327,89.3145833,,N502.lrps.htm
+,LRP014a,13.422,Culvert,Brick Masonry Culvert,24.7146667,89.3143611,,N502.lrps.htm
+,LRP015,14.02,Km Post,Pabna 109 km,24.7095278,89.3130833,,N502.lrps.htm
+,LRP015a,14.432,Culvert,Brick Masonry Cxulvert,24.7066944,89.3106944,,N502.lrps.htm
+,LRP016,15.02,Km Post,Natore 48 km,24.7024722,89.3068889,,N502.lrps.htm
+,LRP016a,15.042,Culvert,Brick Masonry Culvert,24.7023333,89.3067222,,N502.lrps.htm
+,LRP017,16.03,Km Post,Nababgonj 143 km,24.7122222,89.3006111,,N502.lrps.htm
+,LRP018,17.03,Km Post,Rajshahi 97 km,24.6885552,89.294333,,N502.lrps.htm
+,LRP019,18.03,Km Post,Pabna 105 km,24.6816382,89.288083,,N502.lrps.htm
+,LRP020,19.03,Km Post,Natore 44 km,24.6747493,89.281666,,N502.lrps.htm
+,LRP020a,19.936,"Side Road, Right",side road right Z 5207,24.668666,89.2756382,,N502.lrps.htm
+,LRP021,20.03,Km Post,Nababgonj 139 km,24.6681104,89.2750549,,N502.lrps.htm
+,LRP022,21.02,Km Post,Info missing,24.6614167,89.2683604,,N502.lrps.htm
+,LRP023,22.02,Km Post,Pabna 101 km,24.6546111,89.2618611,,N502.lrps.htm
+,LRP023a,22.556,"Side Road, Left",Side road left Z 5034,24.6508889,89.2583333,,N502.lrps.htm
+,LRP024,23.02,Km Post,Km post missing,24.6474441,89.2560556,,N502.lrps.htm
+,LRP025,24.02,Km Post,Nabagonj 135 km,24.6395552,89.2511944,,N502.lrps.htm
+,LRP026,25.02,Km Post,Info missing,24.6482774,89.2463886,,N502.lrps.htm
+,LRP026a,25.578,"Side Road, Right",Side road right Z 5202,24.627416,89.0271104,,N502.lrps.htm
+,LRP027,26.02,Km Post,Km post missing,24.6242216,89.241833,,N502.lrps.htm
+,LRP028,27.03,Km Post,Info missing,24.61475,89.240833,,N502.lrps.htm
+,LRP029,28.03,Km Post,Km post missing,24.6061667,89.240083,,N502.lrps.htm
+,LRP030,29.03,Km Post,Rajshahi 85 km,24.5968886,89.2380552,,N502.lrps.htm
+,LRP030a,29.1,Bridge,Start of Bridge,24.5966108,89.2379441,,N502.lrps.htm
+,LRP030b,29.11,Bridge,End of Bridge,24.596583,89.2379163,,N502.lrps.htm
+,LRP030c,29.685,Bridge,Start of Bridge,24.5917497,89.2358608,,N502.lrps.htm
+,LRP030d,29.695,Bridge,End of Bridge,24.5916663,89.235833,,N502.lrps.htm
+,LRP031,30.03,Km Post,Pabna 93 km,24.5891386,89.2332216,,N502.lrps.htm
+,LRP032,31.03,Km Post,Km post broken,24.5824993,89.2265271,,N502.lrps.htm
+,LRP032a,31.513,Others,Bogra RHD end/ Natore RHD Start,24.5802771,89.2242493,,N502.lrps.htm
+,LRP032a,31.513,Others,Bogra RHD end/ Natore RHD Start,24.5802771,89.2242493,,N502.lrps.htm
+,LRP033,32.03,Km Post,Km post Broken,24.5758327,89.2198049,,N502.lrps.htm
+,LRP033a,32.385,Culvert,Brick Masonry Culvert,24.5736104,89.2175549,,N502.lrps.htm
+,LRP033b,32.708,Culvert,Brick Masonry Culvert,24.5715271,89.2154444,,N502.lrps.htm
+,LRP034,33.03,Km Post,Km post missing,24.5693604,89.2128889,,N502.lrps.htm
+,LRP034a,33.802,Culvert,Box culvert,24.5649722,89.2077778,,N502.lrps.htm
+,LRP035,34.03,Km Post,Km post missing,24.5635278,89.2060278,,N502.lrps.htm
+,LRP035a,34.934,Culvert,Box Culvert,24.5578333,89.2159444,,N502.lrps.htm
+,LRP036,35.03,Km Post,Natore 28 km,24.5571667,89.2150833,,N502.lrps.htm
+,LRP036a,35.24,Bridge,Start of bridge,24.5559167,89.1969719,,N502.lrps.htm
+,LRP036b,35.28,Bridge,End of bridge,24.5556944,89.1967219,,N502.lrps.htm
+,LRP036c,35.35,"Side Road, Left",Side road,24.5552778,89.1963886,,N502.lrps.htm
+,LRP037,36.03,Km Post,Nababgonj 123 km,24.5506944,89.1916941,,N502.lrps.htm
+,LRP037a,36.21,Bridge,Start of bridge,24.5495552,89.1908608,,N502.lrps.htm
+,LRP037b,36.225,Bridge,End of bridge,24.5494719,89.1908052,,N502.lrps.htm
+,LRP038,37.03,Km Post,Rajshahi 77 km,24.5431941,89.1862497,,N502.lrps.htm
+,LRP038a,37.045,Bridge,Start of bridge,24.5431663,89.1695271,,N502.lrps.htm
+,LRP038b,37.085,Bridge,End of bridge,24.5428886,89.1693327,,N502.lrps.htm
+,LRP039,38.03,Km Post,Info missing,24.5357774,89.1806104,,N502.lrps.htm
+,LRP039a,38.39,Bridge,Start of bridge,24.5334997,89.1784438,,N502.lrps.htm
+,LRP039b,38.45,Bridge,End of bridge,24.533166,89.1781382,,N502.lrps.htm
+,LRP040,39.03,Km Post,Natore 24 km,24.5290549,89.1741104,,N502.lrps.htm
+,LRP040a,39.315,Bridge,Start of bridge,24.5272493,89.1724438,,N502.lrps.htm
+,LRP040b,39.385,Bridge,End of bridge,24.5267493,89.1719438,,N502.lrps.htm
+,LRP041,40.03,Km Post,Km post missing,24.5223327,89.1677216,,N502.lrps.htm
+,LRP041a,40.675,Bridge,Start of bridge,24.5181104,89.1636389,,N502.lrps.htm
+,LRP041b,40.755,Bridge,End of bridge,24.5175827,89.1631389,,N502.lrps.htm
+,LRP042,41.03,Km Post,Km post missing,24.5157778,89.1613889,,N502.lrps.htm
+,LRP042a,41.19,Bridge,Start of bridge,24.5146944,89.1603333,,N502.lrps.htm
+,LRP042b,41.27,Bridge,Endof bridge,24.5141667,89.1598889,,N502.lrps.htm
+,LRP043,42.03,Km Post,Start of bridge,24.50875,89.1546389,,N502.lrps.htm
+,LRP043a,42.12,Bridge,End of Bridge,24.5083889,89.1542778,,N502.lrps.htm
+,LRP043b,42.21,Bridge,Start of bridge,24.5078889,89.1538333,,N502.lrps.htm
+,LRP044,43.025,Km Post,Km post missing,24.5022778,89.1484163,,N502.lrps.htm
+,LRP044a,43.035,"Side Road, Left",Side road,24.4999719,89.1428608,,N502.lrps.htm
+,LRP044b,43.1,Bridge,Start of bridge,24.5018056,89.1479719,,N502.lrps.htm
+,LRP044c,43.11,Bridge,End of Bridge,24.5017222,89.1478886,,N502.lrps.htm
+,LRP044d,43.19,"Side Road, Left",Road to Tarash Z 5208,24.5013333,89.147583,,N502.lrps.htm
+,LRP044e,43.7,"Side Road, Left",Road to Chatmohor Z 5209,24.4999719,89.1428886,,N502.lrps.htm
+,LRP045,44.01,Km Post,Nababgonj 115 km,24.4998886,89.1399441,,N502.lrps.htm
+,LRP045a,44.03,Bridge,Start of Atrai river bridge,24.4999163,89.1397219,,N502.lrps.htm
+,LRP045b,44.155,Bridge,End of bridge,24.4998886,89.1385274,,N502.lrps.htm
+,LRP046,45.01,Km Post,Km post missing,24.4996663,89.1299438,,N502.lrps.htm
+,LRP046a,45.495,"Side Road, Right",Side road right to Atrai Z 5469,24.4989441,89.1251382,,N502.lrps.htm
+,LRP046b,45.855,Bridge,Start of bridge,24.4983886,89.1216104,,N502.lrps.htm
+,LRP046c,45.87,Bridge,end of Bridge,24.4983608,89.1214993,,N502.lrps.htm
+,LRP047,46,Km Post,Km post missing,24.4982497,89.1202493,,N502.lrps.htm
+,LRP047a,46.31,Bridge,Start of bridge,24.4977497,89.1173049,,N502.lrps.htm
+,LRP047b,46.32,Bridge,End of bridge,24.4977219,89.117166,,N502.lrps.htm
+,LRP048,47,Km Post,Km post missing,24.496833,89.1105556,,N502.lrps.htm
+,LRP048a,47.685,Bridge,Start of bridge,24.4949997,89.1041944,,N502.lrps.htm
+,LRP048b,47.705,Bridge,End of bridge,24.4948608,89.1039722,,N502.lrps.htm
+,LRP049,48,Km Post,Nababgonj 111 km,24.4927497,89.1016667,,N502.lrps.htm
+,LRP049a,48.255,"Side Road, Right",Side road right to Sharkutia Z 5210,24.4912497,89.1006944,,N502.lrps.htm
+,LRP049b,48.44,Bridge,Start of bridge,24.4896663,89.1001111,,N502.lrps.htm
+,LRP049c,48.49,Bridge,End of bridge,24.4891663,89.0998886,,N502.lrps.htm
+,LRP050,49,Km Post,Rajshahi 65 km,24.4845274,89.0977497,,N502.lrps.htm
+,LRP050a,49.13,Bridge,Start of bridge,24.4839163,89.0972774,,N502.lrps.htm
+,LRP050b,49.17,Bridge,End of Bridge,24.4837774,89.0971663,,N502.lrps.htm
+,LRP051,50,Km Post,Km post missing,24.479166,89.0901386,,N502.lrps.htm
+,LRP051a,50.793,Culvert,Box culvert,24.4755549,89.0837497,,N502.lrps.htm
+,LRP052,51.01,Km Post,Km post missing,24.4743882,89.0816938,,N502.lrps.htm
+,LRP053,52.01,Km Post,Km post broken,24.4684993,89.0733882,,N502.lrps.htm
+,LRP053a,52.44,Bridge,Start of bridge,24.4679993,89.0701104,,N502.lrps.htm
+,LRP053b,52.452,Bridge,End of bridge,24.4679716,89.0700549,,N502.lrps.htm
+,LRP054,53.01,Km Post,Rajshahi 61 km,24.4655556,89.065,,N502.lrps.htm
+,LRP054a,53.265,Bridge,Star of bridge,24.4646111,89.0629444,,N502.lrps.htm
+,LRP054b,53.273,Bridge,End of bridge,24.4645556,89.0628611,,N502.lrps.htm
+,LRP055,54.01,Km Post,Km post broken,24.4614167,89.0561944,,N502.lrps.htm
+,LRP055a,54.802,Others,Sluice gate start,24.4558611,89.0527778,,N502.lrps.htm
+,LRP055b,54.82,Others,Sluice gate end,24.4556667,89.0527222,,N502.lrps.htm
+,LRP056,55.01,Km Post,Info missing,24.4536944,89.0527222,,N502.lrps.htm
+,LRP056a,55.862,Culvert,Box Culvert,24.4487219,89.0472774,,N502.lrps.htm
+,LRP057,56.01,Km Post,Km post missing,24.448083,89.0456386,,N502.lrps.htm
+,LRP057a,56.13,"Side Road, Left",Side road left Gurudaspur Z 5211,24.4477219,89.0449163,,N502.lrps.htm
+,LRP057b,56.61,Bridge,Start of bridge,24.445833,89.0404997,,N502.lrps.htm
+,LRP057c,56.62,Bridge,End of Bridge,24.4456663,89.0401663,,N502.lrps.htm
+,LRP058,57.01,Km Post,Km post missing,24.4439163,89.0347497,,N502.lrps.htm
+,LRP058a,57.365,Bridge,Start of bridge,24.4436663,89.0337497,,N502.lrps.htm
+,LRP058b,57.38,Bridge,End of bridge,24.4436386,89.0336386,,N502.lrps.htm
+,LRP059,58.02,Km Post,Pabna 65 km,24.4416663,89.0273327,,N502.lrps.htm
+,LRP059a,58.115,Bridge,Start of Bridge,24.4414719,89.0266382,,N502.lrps.htm
+,LRP059b,58.127,Bridge,End of Bridge,24.4414163,89.0265827,,N502.lrps.htm
+,LRP059c,58.915,Bridge,Start of Bridge,24.4379441,89.0198327,,N502.lrps.htm
+,LRP059d,58.925,Bridge,End of bridge,24.4379163,89.0197216,,N502.lrps.htm
+,LRP060,59.01,Km Post,Natore 4 km,24.4375274,89.0184716,,N502.lrps.htm
+,LRP060a,59.576,Culvert,Box Culvert,24.4365274,89.0134167,,N502.lrps.htm
+,LRP061,60.01,Km Post,Nababgonj 99 km,24.435083,89.0091389,,N502.lrps.htm
+,LRP061a,60.11,"Side Road, Right",Side road right Z 5212,24.4349997,89.0088611,,N502.lrps.htm
+,LRP061b,60.21,Bridge,Start of Bridge,24.434083,89.00825,,N502.lrps.htm
+,LRP061c,60.22,Bridge,End of bridge,24.4340274,89.0082222,,N502.lrps.htm
+,LRP061d,60.657,Culvert,Box Culvert,24.430666,89.0059167,,N502.lrps.htm
+,LRP062,61.01,Km Post,Km post missing,24.427916,89.0039167,,N502.lrps.htm
+,LRP062a,61.946,Culvert,Box Culvert,24.4202493,89.0011111,,N502.lrps.htm
+,LRP063,62.01,Km Post,Km post missing,24.4194993,89.0004167,,N502.lrps.htm
+,LRP063a,62.945,Others,Madrasha more lsland,24.4124167,88.9963608,,N502.lrps.htm
+,LRP064,63.28,Km Post,Natore 0 km,24.4119444,88.9961108,,N502.lrps.htm
+,LRPE,63.29,Others,"End at Madrasha more,Natore.",24.4118889,88.9961108,,N502.lrps.htm
+,,,,,,,,N502.lrps.htm
+,,,,,,,,N502.lrps.htm

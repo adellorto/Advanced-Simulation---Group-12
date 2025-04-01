@@ -1,0 +1,78 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,Road Start from R371 at Nakla.,24.9718049,90.1785549,,N402.lrps.htm
+,LRPSa,0.14,Bridge,Bridge start,24.9730827,90.1786104,,N402.lrps.htm
+,LRPSb,0.2,Bridge,Bridge end,24.9734993,90.1784993,,N402.lrps.htm
+,LRPSc,0.629,Culvert,Box Culvert,24.977416,90.1773327,,N402.lrps.htm
+,LRPSd,0.722,Culvert,Box Culvert,24.978166,90.1771382,,N402.lrps.htm
+,LRPSe,0.888,"Side Road, Right",Z4610 to Lava,24.9791938,90.176916,,N402.lrps.htm
+,LRP001,1,Km Post,Km post missing,24.980666,90.1765827,,N402.lrps.htm
+,LRP001a,1.18,"Side Road, Left",Z4609 to Shibbari,24.982166,90.1762493,,N402.lrps.htm
+,LRP001b,1.711,Culvert,Box Culvert,24.9868608,90.1752216,,N402.lrps.htm
+,LRP001c,1.995,"Side Road, Left",Z4610 to Tarakandi,24.9894719,90.1748882,,N402.lrps.htm
+,LRP002,2,Km Post,Km post missing,24.9894997,90.1748882,,N402.lrps.htm
+,LRP002a,2.276,Culvert,Box Culvert,24.9919163,90.1754993,,N402.lrps.htm
+,LRP003,3,Km Post,Km post missing,24.9979441,90.1775827,,N402.lrps.htm
+,LRP003a,3.76,Bridge,Bridge Start,25.0046944,90.1785549,,N402.lrps.htm
+,LRP003b,3.835,Bridge,Bridge end,25.0053611,90.1786382,,N402.lrps.htm
+,LRP004,4,Km Post,Km post missing,25.0068333,90.1779993,,N402.lrps.htm
+,LRP005,5,Km Post,Km post missing,25.0150833,90.1740549,,N402.lrps.htm
+,LRP005a,5.64,Culvert,Box Culvert,25.0203882,90.171666,,N402.lrps.htm
+,LRP005b,5.8,Culvert,Box Culvert,25.0232771,90.1703604,,N402.lrps.htm
+,LRP006,6,Km Post,Km post missing,25.0249438,90.1695827,,N402.lrps.htm
+,LRP007,7,Km Post,Km post missing,25.0317493,90.1675549,,N402.lrps.htm
+,LRP007a,7.19,Bridge,Bridge start,25.0334997,90.1671938,,N402.lrps.htm
+,LRP007b,7.285,Bridge,Bridge end,25.034083,90.1832771,,N402.lrps.htm
+,LRP007c,7.68,Culvert,Box Culvert,25.0375274,90.1673049,,N402.lrps.htm
+,LRP008,8,Km Post,Km post missing,25.0401663,90.1679993,,N402.lrps.htm
+,LRP009,9,Km Post,Km post missing,25.0488052,90.171166,,N402.lrps.htm
+,LRP009a,9.005,Culvert,Box Culvert,25.0488052,90.171166,,N402.lrps.htm
+,LRP009b,9.03,Culvert,Box Culvert,25.0490552,90.1712493,,N402.lrps.htm
+,LRP009c,9.35,Culvert,Box Culvert,25.0518889,90.171916,,N402.lrps.htm
+,LRP010,10,Km Post,Km post missing,25.0573889,90.1734993,,N402.lrps.htm
+,LRP010a,10.71,Bridge,R.C.C Bridge,25.0608889,90.1784438,,N402.lrps.htm
+,LRP010b,10.808,Bridge,R.C.C Bridge,25.06175,90.1785271,,N402.lrps.htm
+,LRP010c,10.908,Culvert,Box Culvert,25.0626111,90.1786382,,N402.lrps.htm
+,LRP011,11,Km Post,Information missing,25.0645833,90.1789993,,N402.lrps.htm
+,LRP011a,11.72,Culvert,Box culvert,25.0696938,90.1804438,,N402.lrps.htm
+,LRP012,12,Km Post,Km post missing,25.0732216,90.1815271,,N402.lrps.htm
+,LRP012a,12.27,Culvert,Box culvert,25.0767216,90.1670549,,N402.lrps.htm
+,LRP012b,12.57,Culvert,Box culvert,25.0768882,90.1840274,,N402.lrps.htm
+,LRP012c,12.59,Culvert,Box culvert,25.077416,90.1849997,,N402.lrps.htm
+,LRP013,13,Km Post,Information missing,25.0791382,90.1875274,,N402.lrps.htm
+,LRP014,14,Km Post,Km post missing,25.0875552,90.1904163,,N402.lrps.htm
+,LRP014a,14.54,"Turn off, Left","Left Turn Bangoan, Right Haluaghat",25.0915552,90.1919719,,N402.lrps.htm
+,LRP015,15,Km Post,Km post missing,25.0942497,90.1884441,,N402.lrps.htm
+,LRP015a,15.41,Culvert,Box Culvert,25.0970552,90.1887219,,N402.lrps.htm
+,LRP015b,15.63,Culvert,Box Culvert,25.0991108,90.1889441,,N402.lrps.htm
+,LRP015c,15.88,Culvert,Box Culvert,25.1136111,90.1903608,,N402.lrps.htm
+,LRP016,16,Km Post,Information missing,25.1020278,90.1892219,,N402.lrps.htm
+,LRP016a,16.19,Others,Pipe Drain,25.1042778,90.1893886,,N402.lrps.htm
+,LRP016b,16.22,Bridge,Bridge start,25.1065278,90.1896386,,N402.lrps.htm
+,LRP016c,16.46,Bridge,Bridge end,25.1066944,90.1895552,,N402.lrps.htm
+,LRP016d,16.82,Culvert,Box Culvert,25.1096944,90.1899441,,N402.lrps.htm
+,LRP017,17,Km Post,Km post missing,25.111,90.1900552,,N402.lrps.htm
+,LRP017a,17.49,Culvert,Box culvert,25.1157778,90.1904997,,N402.lrps.htm
+,LRP018,18,Km Post,Information missing,25.1201104,90.1909163,,N402.lrps.htm
+,LRP018a,18.38,Culvert,Box culvert,25.1235827,90.191333,,N402.lrps.htm
+,LRP019,19,Km Post,Information missing,25.1293604,90.191833,,N402.lrps.htm
+,LRP019a,19.79,Culvert,Box culvert,25.1358052,90.1929997,,N402.lrps.htm
+,LRP020,20,Km Post,Information missing,25.1370274,90.1938052,,N402.lrps.htm
+,LRP020a,20.99,Others,Pipe Drain,25.1380552,90.1944441,,N402.lrps.htm
+,LRP021,21,Km Post,Information missing,25.145083,90.1988052,,N402.lrps.htm
+,LRP022,22,Km Post,Information missing,25.1545556,90.2017778,,N402.lrps.htm
+,LRP022a,22.72,Culvert,Box Culvert,25.1601111,90.20325,,N402.lrps.htm
+,LRP023,23,Km Post,Km post missing,25.1633611,90.2035278,,N402.lrps.htm
+,LRP023a,23.65,Culvert,Box culvert,25.167416,90.2061944,,N402.lrps.htm
+,LRP024,24,Km Post,Km post missing,25.1711938,90.2073333,,N402.lrps.htm
+,LRP024a,24.12,Culvert,Box culvert,25.1712771,90.2073611,,N402.lrps.htm
+,LRP024b,24.77,Culvert,Box culvert,25.177166,90.2088056,,N402.lrps.htm
+,LRP025,25,Km Post,Km post missing,25.1800549,90.2094722,,N402.lrps.htm
+,LRP025a,25.95,Culvert,Box Culvert,25.1867774,90.2121944,,N402.lrps.htm
+,LRP026,26,Km Post,Km post missing,25.1882219,90.2130833,,N402.lrps.htm
+,LRP026a,26.44,"Side Road, Left",Left Z2834,25.1906941,90.2145833,,N402.lrps.htm
+,LRP026b,26.72,"Side Road, Right",Right to Bhogai Bridge,25.1929719,90.2155556,,N402.lrps.htm
+,LRP027,27,Km Post,Km post missing,25.1956108,90.2183049,,N402.lrps.htm
+,LRP027a,27.87,Culvert,Nakugaon Border,25.1999441,90.2237216,,N402.lrps.htm
+,LRPE,28,Others,End of road at Boarder Pillar.,25.2005556,90.2242493,,N402.lrps.htm
+,,,,,,,,N402.lrps.htm
+,,,,,,,,N402.lrps.htm

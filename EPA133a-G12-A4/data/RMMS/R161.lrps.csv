@@ -1,0 +1,192 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,"Start of road from N 106 at Ghagra, Rangamati.",22.6087778,92.0964719,,R161.lrps.htm
+,LRP001,0.984,Km Post,"Bandarban 63 km, Chandragona 20 km",22.6008056,92.0978052,,R161.lrps.htm
+,LRP001a,1.757,Bridge,Bridge start,22.594833,92.0968886,,R161.lrps.htm
+,LRP001b,1.79,Bridge,Bridge end,22.5946941,92.0966108,,R161.lrps.htm
+,LRP002,1.996,Km Post,Bandarban 62 km,22.593083,92.097333,,R161.lrps.htm
+,LRP003,2.996,Km Post,Km post missing,22.5869719,92.1023611,,R161.lrps.htm
+,LRP004,3.988,Km Post,Bandarban 60 km,22.5789993,92.1052222,,R161.lrps.htm
+,LRP005,4.988,Km Post,Km post missing,22.5712493,92.1084722,,R161.lrps.htm
+,LRP006,5.988,Km Post,Km post missing,22.5651389,92.1120278,,R161.lrps.htm
+,LRP007,6.981,Km Post,Info missing,22.5576667,92.1134167,,R161.lrps.htm
+,LRP008,7.981,Km Post,Km post missing,22.5498608,92.1167771,,R161.lrps.htm
+,LRP009,8.985,Km Post,Info missing,22.5427219,92.119416,,R161.lrps.htm
+,LRP010,9.999,Km Post,Info missing,22.5352497,92.1208604,,R161.lrps.htm
+,LRP011,10.994,Km Post,Info missing,22.5309438,92.1258327,,R161.lrps.htm
+,LRP012,11.994,Km Post,Km post missing,22.5228604,92.1292771,,R161.lrps.htm
+,LRP012a,12.329,Bridge,Baily Bridge start,22.5202771,92.1306938,,R161.lrps.htm
+,LRP012b,12.341,Bridge,Baily Bridge end,22.5201938,92.1307216,,R161.lrps.htm
+,LRP013,12.949,Km Post,Info missing,22.5160833,92.1329993,,R161.lrps.htm
+,LRP014,13.949,Km Post,Km post missing,22.5105556,92.135833,,R161.lrps.htm
+,LRP015,14.956,Km Post,Info missing,22.5028889,92.1389719,,R161.lrps.htm
+,LRP015a,14.971,"Side Road, Left",Road to Baraichhari Kaptai (R 164) Road,22.5027778,92.139083,,R161.lrps.htm
+,LRP015b,14.978,Culvert,Box Culvert,22.5027222,92.1390274,,R161.lrps.htm
+,LRP015c,15.136,Culvert,Box Culvert,22.5018611,92.1377774,,R161.lrps.htm
+,LRP016,15.183,Km Post,"Ctg (Mohona) 38 km, Chandragona 3 km",22.5016111,92.1375552,,R161.lrps.htm
+,LRP016a,15.349,Culvert,Box Culvert,22.5013333,92.1363886,,R161.lrps.htm
+,LRP016b,15.667,Culvert,Box Culvert,22.5004444,92.1344719,,R161.lrps.htm
+,LRP017,16.183,Km Post,Km post missing,22.4959441,92.1341663,,R161.lrps.htm
+,LRP017a,16.544,Culvert,Box Culvert,22.4929163,92.134583,,R161.lrps.htm
+,LRP017b,16.77,Culvert,Box Culvert,22.4917219,92.1329993,,R161.lrps.htm
+,LRP017c,16.817,Culvert,Box Culvert,22.4913886,92.1327771,,R161.lrps.htm
+,LRP018,17.17,Km Post,"Ctg (Mohona) 36 km, Chandragona 01 km",22.4907497,92.1300271,,R161.lrps.htm
+,LRP018a,17.28,Bridge,Bridge start,22.490083,92.1294438,,R161.lrps.htm
+,LRP018b,17.285,Bridge,Bridge end,22.4900274,92.129416,,R161.lrps.htm
+,LRP018c,17.802,Culvert,Box Culvert,22.4894163,92.1276382,,R161.lrps.htm
+,LRP019,17.973,Km Post,Info missing,22.4868886,92.1249993,,R161.lrps.htm
+,LRP019a,18.935,Culvert,Box Culvert,22.4787493,92.1275271,,R161.lrps.htm
+,LRP020,18.973,Km Post,Km post missing,22.4783327,92.1274993,,R161.lrps.htm
+,LRP021,19.184,Km Post,Info missing,22.4765549,92.1278604,,R161.lrps.htm
+,LRP021a,19.677,Culvert,Box Culvert,22.4722493,92.1288049,,R161.lrps.htm
+,LRP021b,19.972,"Side Road, Right","R163, Chittagong -Chandraghona road",22.471666,92.1288882,,R161.lrps.htm
+,LRP022,20.184,Km Post,Km post missing,22.4676938,92.1296104,,R161.lrps.htm
+,LRP022a,20.369,Others,Start of Ferry ghat,22.4661389,92.1299438,,R161.lrps.htm
+,LRP022b,20.725,Others,End of Ferry ghat,22.4631111,92.1177771,,R161.lrps.htm
+,LRP022c,21.085,Bridge,Bridge start,22.459,92.1356941,,R161.lrps.htm
+,LRP022d,21.104,Bridge,Bridge end,22.4588333,92.1357774,,R161.lrps.htm
+,LRP023,21.184,Km Post,Km post missing,22.45825,92.1360552,,R161.lrps.htm
+,LRP024,21.626,Km Post,Gohira 21 km,22.4579167,92.136333,,R161.lrps.htm
+,LRP024a,21.738,Culvert,Slab Culvert,22.4509722,92.1384441,,R161.lrps.htm
+,LRP025,22.656,Km Post,Gohira 22 km,22.4459997,92.1391663,,R161.lrps.htm
+,LRP025a,22.711,Culvert,Box Culvert,22.4456386,92.1394163,,R161.lrps.htm
+,LRP025b,23.272,Culvert,Slab Culvert,22.4413886,92.1421108,,R161.lrps.htm
+,LRP026,23.664,Km Post,Gohira 23 km,22.4382774,92.1436663,,R161.lrps.htm
+,LRP027,24.664,Km Post,Gohira 24 km,22.4308049,92.1478886,,R161.lrps.htm
+,LRP028,25.664,Km Post,Gohira 25 km,22.4231938,92.1500556,,R161.lrps.htm
+,LRP029,26.689,Km Post,Gohira 26 km,22.4160278,92.1525833,,R161.lrps.htm
+,LRP029a,26.959,Culvert,Box Culvert,22.4143333,92.1541944,,R161.lrps.htm
+,LRP030,27.701,Km Post,Gohira 27 km,22.4089167,92.1570556,,R161.lrps.htm
+,LRP031,28.701,Km Post,Gohira 28 km,22.4021667,92.1527222,,R161.lrps.htm
+,LRP032,29.701,Km Post,Gohira 29 km,22.3911941,92.1502222,,R161.lrps.htm
+,LRP033,30.728,Km Post,Gohira 30 km/ Start of Bandarban road Division,22.3853886,92.1513889,,R161.lrps.htm
+,LRP033,30.728,Km Post,Gohira 30 km/ Start of Bandarban road Division,22.3853886,92.1513889,,R161.lrps.htm
+,LRP034,31.756,Km Post,Gohira 31 km,22.3795827,92.1461386,,R161.lrps.htm
+,LRP034a,32.085,Bridge,Baily Bridge start,22.3773049,92.1444997,,R161.lrps.htm
+,LRP034b,32.118,Bridge,Baily Bridge end,22.3770271,92.1444441,,R161.lrps.htm
+,LRP034c,32.294,"Side Road, Left",Z1814 to Rajshali.,22.3754716,92.1442774,,R161.lrps.htm
+,LRP035,32.775,Km Post,Gohira 32 km,22.3715549,92.1427497,,R161.lrps.htm
+,LRP035a,33.145,Bridge,Baily Bridge start,22.3682771,92.1424997,,R161.lrps.htm
+,LRP035b,33.174,Bridge,Baily Bridge end,22.3680271,92.1424719,,R161.lrps.htm
+,LRP036,33.775,Km Post,Gohira 33 km,22.363,92.1415274,,R161.lrps.htm
+,LRP036a,34.496,Bridge,Baily Bridge start,22.3578611,92.1389997,,R161.lrps.htm
+,LRP036b,34.5,Bridge,Baily Bridge end,22.35775,92.1388608,,R161.lrps.htm
+,LRP037,34.775,Km Post,Gohira 34 km,22.3563611,92.1370274,,R161.lrps.htm
+,LRP037a,35.6,"Side Road, Right","Z 1636, RANGUNIA-SUKBILASH ROAD",22.3556667,92.1328882,,R161.lrps.htm
+,LRP037b,35.642,Culvert,Box Culvert,22.3534167,92.132166,,R161.lrps.htm
+,LRP037c,35.708,Culvert,Box Culvert,22.3529167,92.1324438,,R161.lrps.htm
+,LRP038,35.775,Km Post,Gohira 35 km,22.3524444,92.1327771,,R161.lrps.htm
+,LRP038a,35.824,Culvert,Box Culvert,22.3521111,92.1330271,,R161.lrps.htm
+,LRP039,36.775,Km Post,Gohira 36 km,22.3449441,92.1376663,,R161.lrps.htm
+,LRP039a,37.014,Bridge,Baily Bridge start,22.3431941,92.1389719,,R161.lrps.htm
+,LRP039b,37.031,Bridge,Baily Bridge end,22.343083,92.139083,,R161.lrps.htm
+,LRP039c,37.179,Bridge,Bridge start,22.3419163,92.1393608,,R161.lrps.htm
+,LRP039d,37.282,Bridge,Bridge end,22.3410552,92.1389997,,R161.lrps.htm
+,LRP040,37.775,Km Post,Gohira 37 km,22.3353886,92.1394997,,R161.lrps.htm
+,LRP041,38.775,Km Post,Gohira 38 km,22.3265827,92.1408886,,R161.lrps.htm
+,LRP041a,39.032,Bridge,Baily Bridge start,22.3256938,92.1412497,,R161.lrps.htm
+,LRP041b,39.13,Bridge,Baily Bridge end,22.3248327,92.1414441,,R161.lrps.htm
+,LRP042,39.495,Km Post,Gohira 39 km,22.3247216,92.1441663,,R161.lrps.htm
+,LRP043,40.507,Km Post,Gohira 40 km,22.3180549,92.1491386,,R161.lrps.htm
+,LRP043a,40.801,Bridge,Baily Bridge start,22.316,92.1508056,,R161.lrps.htm
+,LRP043b,40.817,Bridge,Baily Bridge end,22.3158889,92.1508056,,R161.lrps.htm
+,LRP043c,41.104,Bridge,Bridge start,22.3133611,92.1511944,,R161.lrps.htm
+,LRP043d,41.127,Bridge,Bridge end,22.31325,92.1513056,,R161.lrps.htm
+,LRP043e,41.473,Bridge,Bridge start,22.3106667,92.1527778,,R161.lrps.htm
+,LRP044,41.507,Km Post,Gohira 41 km,22.3105278,92.1529722,,R161.lrps.htm
+,LRP044a,41.514,Bridge,Baily Bridge start,22.3105,92.1530833,,R161.lrps.htm
+,LRP044b,41.805,Bridge,Baily Bridge end,22.3092222,92.1551389,,R161.lrps.htm
+,LRP044c,41.82,Bridge,Baily Bridge start,22.3092222,92.15525,,R161.lrps.htm
+,LRP044d,41.868,Bridge,Baily Bridge end,22.3092222,92.1557222,,R161.lrps.htm
+,LRP044e,41.887,Bridge,Bridge end,22.3091944,92.1558889,,R161.lrps.htm
+,LRP044f,42.365,Culvert,Pipe Culvert,22.3068333,92.1590556,,R161.lrps.htm
+,LRP045,42.507,Km Post,Km post missing,22.3058889,92.1586944,,R161.lrps.htm
+,LRP045a,42.525,Bridge,Baily Bridge start,22.30575,92.1586389,,R161.lrps.htm
+,LRP045b,42.539,Bridge,Baily Bridge end,22.3056667,92.1585833,,R161.lrps.htm
+,LRP045c,42.736,Bridge,Bridge start,22.3040833,92.1589722,,R161.lrps.htm
+,LRP045d,42.753,Bridge,Bridge end,22.3039444,92.1590278,,R161.lrps.htm
+,LRP045e,42.836,Bridge,Bridge start,22.3032222,92.1590833,,R161.lrps.htm
+,LRP045f,42.849,Bridge,Bridge end,22.3031111,92.1591111,,R161.lrps.htm
+,LRP045g,43.126,Culvert,Box Culvert,22.3011389,92.1578333,,R161.lrps.htm
+,LRP045h,43.325,Culvert,Box Culvert,22.2996941,92.1576389,,R161.lrps.htm
+,LRP045i,43.455,Bridge,Baily Bridge start,22.2986663,92.1574167,,R161.lrps.htm
+,LRP045j,43.474,Bridge,Baily Bridge end,22.2985274,92.1573333,,R161.lrps.htm
+,LRP046,43.569,Km Post,Gohira 43 km,22.2978052,92.1573333,,R161.lrps.htm
+,LRP046a,43.681,Culvert,Box Culvert,22.2969719,92.1573611,,R161.lrps.htm
+,LRP046b,43.899,Culvert,Box Culvert,22.2954441,92.1578056,,R161.lrps.htm
+,LRP047,44.569,Km Post,Gohira 44 km,22.2901386,92.1589444,,R161.lrps.htm
+,LRP047a,44.852,Bridge,Baily Bridge start,22.2878608,92.1590833,,R161.lrps.htm
+,LRP047b,44.868,Bridge,Baily Bridge end,22.2877497,92.159,,R161.lrps.htm
+,LRP047c,45.132,Bridge,Baily Bridge start,22.2854719,92.1585833,,R161.lrps.htm
+,LRP047d,45.152,Bridge,Baily Bridge end,22.2852774,92.1585556,,R161.lrps.htm
+,LRP047e,45.547,Bridge,Baily Bridge start,22.2826382,92.1579444,,R161.lrps.htm
+,LRP047f,45.565,Bridge,Baily Bridge end,22.2824438,92.1579722,,R161.lrps.htm
+,LRP048,45.569,Km Post,Gohira 45 km,22.2823882,92.1579722,,R161.lrps.htm
+,LRP048a,45.721,Culvert,Box Culvert,22.2811938,92.15775,,R161.lrps.htm
+,LRP048b,45.768,Culvert,Box Culvert,22.2808327,92.1576111,,R161.lrps.htm
+,LRP048c,46.049,Bridge,Baily Bridge start,22.2788604,92.1576667,,R161.lrps.htm
+,LRP048d,46.068,Bridge,Baily Bridge end,22.2788327,92.1575,,R161.lrps.htm
+,LRP048e,46.187,Bridge,Baily Bridge start,22.2780271,92.1568333,,R161.lrps.htm
+,LRP048f,46.2,Bridge,Baily Bridge end,22.277916,92.15675,,R161.lrps.htm
+,LRP049,46.569,Km Post,Km post missing,22.2747493,92.1569444,,R161.lrps.htm
+,LRP049a,47.03,Bridge,Bridge start,22.2713049,92.15475,,R161.lrps.htm
+,LRP049b,47.064,Bridge,Bridge end,22.2710549,92.1545833,,R161.lrps.htm
+,LRP049c,47.419,Culvert,Box culvert,22.268166,92.1531944,,R161.lrps.htm
+,LRP050,47.569,Km Post,Km post missing,22.2671104,92.1531944,,R161.lrps.htm
+,LRP050a,47.693,Culvert,Box Culvert,22.2664722,92.1525833,,R161.lrps.htm
+,LRP050b,47.937,Culvert,Box Culvert,22.2645278,92.1517222,,R161.lrps.htm
+,LRP051,48.569,Km Post,Gohira 47 km,22.2597222,92.1544167,,R161.lrps.htm
+,LRP051a,48.657,Culvert,Slab Culvert,22.2591944,92.1548333,,R161.lrps.htm
+,LRP051b,48.839,Bridge,Baily Bridge start,22.2577778,92.1553333,,R161.lrps.htm
+,LRP051c,48.86,Bridge,Baily Bridge end,22.2575833,92.1553333,,R161.lrps.htm
+,LRP051d,49.114,Culvert,Box Culvert,22.2555278,92.1552778,,R161.lrps.htm
+,LRP051e,49.15,"Side Road, Right",Road to Khanhat (Z1026),22.2553056,92.15525,,R161.lrps.htm
+,LRP051f,49.302,Culvert,Box Culvert,22.2544167,92.1561944,,R161.lrps.htm
+,LRP051g,49.443,Bridge,Baily Bridge start,22.2546944,92.1573889,,R161.lrps.htm
+,LRP051h,49.452,Bridge,Baily Bridge end,22.2546944,92.1574444,,R161.lrps.htm
+,LRP052,49.569,Km Post,Gohira 48 km,22.2543056,92.1585278,,R161.lrps.htm
+,LRP052a,50.247,Culvert,Box Culvert,22.2544444,92.1646389,,R161.lrps.htm
+,LRP052b,50.518,Bridge,Bridge start,22.2537222,92.1669438,,R161.lrps.htm
+,LRP052c,50.538,Bridge,Bridge end,22.2536389,92.1671104,,R161.lrps.htm
+,LRP053,50.569,Km Post,Gohira 49 km,22.2533889,92.167416,,R161.lrps.htm
+,LRP053a,50.978,Bridge,Bridge start,22.2528056,92.1709716,,R161.lrps.htm
+,LRP053b,50.987,Bridge,Bridge end,22.2528056,92.1710827,,R161.lrps.htm
+,LRP054,51.569,Km Post,Gohira 50 km,22.2518889,92.1750827,,R161.lrps.htm
+,LRP055,52.569,Km Post,Gohira 51 km,22.2441108,92.1786382,,R161.lrps.htm
+,LRP056,52.77,Km Post,Gohira 52 km,22.2429719,92.1794716,,R161.lrps.htm
+,LRP056a,52.839,Bridge,Baily Bridge start,22.2424441,92.1796104,,R161.lrps.htm
+,LRP056b,52.857,Bridge,Baily Bridge end,22.2423886,92.1797771,,R161.lrps.htm
+,LRP056c,53.714,Culvert,Box Culvert,22.2359163,92.1832771,,R161.lrps.htm
+,LRP057,53.77,Km Post,Gohira 53 km,22.2356108,92.1837219,,R161.lrps.htm
+,LRP057a,53.853,Culvert,Box Culvert,22.2351941,92.1843886,,R161.lrps.htm
+,LRP057b,54.041,Culvert,Box Culvert,22.2340552,92.183583,,R161.lrps.htm
+,LRP057c,54.366,Culvert,Box Culvert,22.231416,92.1842219,,R161.lrps.htm
+,LRP058,54.77,Km Post,Km post missing,22.2311382,92.186583,,R161.lrps.htm
+,LRP058a,54.791,Culvert,Box Culvert,22.2311382,92.1867774,,R161.lrps.htm
+,LRP058b,55.05,Culvert,Box Culvert,22.2311382,92.1891941,,R161.lrps.htm
+,LRP058c,55.28,Culvert,Box Culvert,22.2306104,92.1911941,,R161.lrps.htm
+,LRP058d,55.724,Bridge,Baily Bridge start,22.2283327,92.1943886,,R161.lrps.htm
+,LRP058e,55.745,Bridge,Baily Bridge end,22.2282216,92.1944719,,R161.lrps.htm
+,LRP059,55.814,Km Post,Gohira 54 km,22.2277771,92.1947497,,R161.lrps.htm
+,LRP059a,56.23,Culvert,Box Culvert,22.224666,92.1968886,,R161.lrps.htm
+,LRP059b,56.503,Bridge,Bridge start,22.2231382,92.1989163,,R161.lrps.htm
+,LRP059c,56.553,Bridge,Bridge end,22.2229438,92.1993052,,R161.lrps.htm
+,LRP059d,56.665,Culvert,Box Culvert,22.2233882,92.20025,,R161.lrps.htm
+,LRP060,56.814,Km Post,Gohira 55 km,22.2231938,92.2015556,,R161.lrps.htm
+,LRP060a,57.231,Culvert,Box Culvert,22.2210549,92.2044167,,R161.lrps.htm
+,LRP061,57.829,Km Post,Gohira 56 km,22.2178604,92.2086944,,R161.lrps.htm
+,LRP061a,58.474,Culvert,Box Culvert,22.2125,92.2109722,,R161.lrps.htm
+,LRP061b,58.512,Culvert,Box Culvert,22.2121667,92.2110278,,R161.lrps.htm
+,LRP062,58.831,Km Post,Gohira 57 km,22.2093889,92.2116944,,R161.lrps.htm
+,LRP062a,58.917,Bridge,Bridge start,22.2087222,92.2119722,,R161.lrps.htm
+,LRP062b,58.93,Bridge,Bridge end,22.2086667,92.2120556,,R161.lrps.htm
+,LRP062c,59.219,Culvert,Box Culvert,22.2070833,92.2142778,,R161.lrps.htm
+,LRP062d,59.386,Culvert,Slab Culvert,22.2061944,92.2155,,R161.lrps.htm
+,LRP062e,59.707,Culvert,Box Culvert,22.2035,92.2166111,,R161.lrps.htm
+,LRP063,59.831,Km Post,Gohira 58 km,22.2026389,92.2173604,,R161.lrps.htm
+,LRP063a,59.994,"Side Road, Left",Road to Rowangchhari (Z 1813),22.2014444,92.2180827,,R161.lrps.htm
+,LRP063b,60.687,Bridge,Bridge start,22.1969163,92.2323604,,R161.lrps.htm
+,LRP064,60.831,Km Post,Km post missing,22.1963886,92.2169716,,R161.lrps.htm
+,LRP064a,60.863,Bridge,Bridge end,22.1962774,92.217166,,R161.lrps.htm
+,LRPE,61.178,Others,End of road at Bandarban Intersecting with N108.,22.1959719,92.1962497,,R161.lrps.htm
+,,,,,,,,R161.lrps.htm
+,,,,,,,,R161.lrps.htm

@@ -1,0 +1,79 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,Start of road from N8 at round about Takerhat Bus stand.,23.227166,90.0198882,,R850.lrps.htm
+,LRPSa,0.22,Culvert,Drain Culvert,23.229166,90.0198049,,R850.lrps.htm
+,LRP001,0.315,Km Post,"Gopalgonj 38 km, khulna 93 km",23.2295827,90.0190549,,R850.lrps.htm
+,LRP002,1.315,Km Post,"Gopalgonj 37 km, Khulna 92 km",23.2335552,90.0106111,,R850.lrps.htm
+,LRP002a,1.355,Culvert,Regalator,23.2336663,90.0101667,,R850.lrps.htm
+,LRP003,2.315,Km Post,"Gopalgonj 36 km, khulna 91 km",23.2306938,90.0020833,,R850.lrps.htm
+,LRP004,3.315,Km Post,"Gopalgonj 35 km, khulna 90 km",23.2262493,89.9935552,,R850.lrps.htm
+,LRP005,4.32,Km Post,"Gopalgonj 34 km, Khulna 89 km",23.221916,89.9849997,,R850.lrps.htm
+,LRP006,5.33,Km Post,"Gopalgonj 33 km, khulna 88 km",23.2184993,89.9760271,,R850.lrps.htm
+,LRP006a,5.567,Culvert,Regulatar,23.2178882,89.9739438,,R850.lrps.htm
+,LRP007,6.33,Km Post,"Gopalgonj 32 km, khulna 87 km",23.2135833,89.9692493,,R850.lrps.htm
+,LRP007a,6.612,Culvert,Regulatar,23.2108611,89.9679993,,R850.lrps.htm
+,LRP008,7.33,Km Post,"Gopalgonj 31 km, khulna 86 km",23.2053889,89.9640278,,R850.lrps.htm
+,LRP009,8.34,Km Post,"Gopalgonj 30 km, Khulna 85 km",23.197083,89.9601944,,R850.lrps.htm
+,LRP010,9.34,Km Post,"Gopalgonj 29 km, Khulna 84 km",23.188833,89.95625,,R850.lrps.htm
+,LRP010a,9.408,Culvert,Pipe Culvert,23.1883052,89.9558889,,R850.lrps.htm
+,LRP010b,10.29,Culvert,Box Culvert,23.1813604,89.9521111,,R850.lrps.htm
+,LRP011,10.35,Km Post,"Gopalgonj 28 km, Khulna 83 km",23.1808882,89.9516944,,R850.lrps.htm
+,LRP012,11.35,Km Post,Km post missing,23.1732493,89.9471663,,R850.lrps.htm
+,LRP013,12.35,Km Post,"Gopalgonj 26 km, khulna 81 km",23.1647778,89.9428886,,R850.lrps.htm
+,LRP013a,12.518,Culvert,Regulatar,23.1636111,89.9422497,,R850.lrps.htm
+,LRP013b,13.245,Culvert,Regulatar,23.1581389,89.9384441,,R850.lrps.htm
+,LRP014,13.35,Km Post,"Gopalgonj 25 km, khulna 80 km",23.1571389,89.938083,,R850.lrps.htm
+,LRP015,14.35,Km Post,"Gopalgonj 24 km, Khulna 79 km",23.151,89.9317216,,R850.lrps.htm
+,LRP016,15.35,Km Post,"Gopalgonj 23 km, Khulna 78 km",23.1439441,89.9256938,,R850.lrps.htm
+,LRP017,16.35,Km Post,Km post missing,23.1364997,89.9207493,,R850.lrps.htm
+,LRP017a,16.669,"Side Road, Right",Right Z 8419,23.1351663,89.9178604,,R850.lrps.htm
+,LRP018,17.35,Km Post,"Gopalgonj 21 km, Khulna 76 km",23.1305827,89.9133889,,R850.lrps.htm
+,LRP019,18.35,Km Post,"Gopalgonj 20 km, Khulna 75 km",23.1238327,89.9068889,,R850.lrps.htm
+,LRP019a,19.028,Culvert,Regulator,23.1190827,89.9038333,,R850.lrps.htm
+,LRP019b,19.07,"Side Road, Left",Left Z8412,23.1188327,89.9033333,,R850.lrps.htm
+,LRP020,19.35,Km Post,"Gopalgonj 19 km, Khulna 74 km",23.1170549,89.9013333,,R850.lrps.htm
+,LRP021,20.35,Km Post,"Gopalgonj 18 km, Khulna 73 km",23.1109722,89.8936663,,R850.lrps.htm
+,LRP022,21.35,Km Post,"Gopalgonj 17 km, khulna 72 km",23.1040278,89.8880274,,R850.lrps.htm
+,LRP022a,22.124,Culvert,Ragulatar,23.0980552,89.8847219,,R850.lrps.htm
+,LRP023,22.35,Km Post,Km post missing,23.0972774,89.884083,,R850.lrps.htm
+,LRP024,23.35,Km Post,"Gopalgonj 15 km, Khulna 70 km",23.0921386,89.8747216,,R850.lrps.htm
+,LRP025,24.35,Km Post,km post missing,23.0859163,89.8678049,,R850.lrps.htm
+,LRP026,25.35,Km Post,"Gopalgonj 13 km, Khulna 68 km",23.079916,89.8605833,,R850.lrps.htm
+,LRP027,26.35,Km Post,"Gopalgonj 12 km, Khulna 67 km",23.0735549,89.8536389,,R850.lrps.htm
+,LRP028,27.35,Km Post,"Gopalgonj 11 km, Khulna 66 km",23.0691104,89.8460274,,R850.lrps.htm
+,LRP028a,28.28,Bridge,Start of Bridge,23.0637778,89.8395552,,R850.lrps.htm
+,LRP028b,28.293,Bridge,End of Bridge,23.0637222,89.8394163,,R850.lrps.htm
+,LRP029,28.35,Km Post,"Gopalgonj 10 km, Khulna 65 km",23.0633056,89.8388608,,R850.lrps.htm
+,LRP030,29.35,Km Post,"Gopalgonj 9 km, Khulna 64 km",23.059,89.8307493,,R850.lrps.htm
+,LRP031,30.34,Km Post,"Gopalgonj 8 km, Khulna 63 km",23.0557778,89.8218604,,R850.lrps.htm
+,LRP032,31.34,Km Post,Km post missing,23.048833,89.8160833,,R850.lrps.htm
+,LRP033,32.34,Km Post,"Gopalgonj 6 km, Khulna 61 km",23.0406663,89.818416,,R850.lrps.htm
+,LRP034,33.34,Km Post,Km post missing,23.0317216,89.8189993,,R850.lrps.htm
+,LRP034a,33.42,"Turn off, Left",Turn off Left,23.0313049,89.8188604,,R850.lrps.htm
+,LRP034b,33.93,Culvert,Box Culvert,23.0298604,89.8236104,,R850.lrps.htm
+,LRP035,34.35,Km Post,"Gopalgonj 4 km, Khulna 59 km",23.0287216,89.8275549,,R850.lrps.htm
+,LRP035a,34.508,Cross Road,N805 to Bhanga,23.0278327,89.8287216,,R850.lrps.htm
+,LRP035b,35.09,"Side Road, Left",N805 to Mollarhat,23.0263327,89.8349163,,R850.lrps.htm
+,LRP036,35.3,Km Post,"Gopalgonj 3 km, Khulna 58 km",23.0245271,89.8344163,,R850.lrps.htm
+,LRP036a,36.005,Bridge,Start of Bridge,23.0163889,89.8353886,,R850.lrps.htm
+,LRP036b,36.018,Bridge,End of Bridge,23.0163889,89.8353886,,R850.lrps.htm
+,LRP037,36.32,Km Post,"Gopalgonj 2 km, Khulna 57 km",23.0163333,89.835333,,R850.lrps.htm
+,LRP037a,36.36,"Side Road, Left",Left Z8031,23.0161944,89.8352774,,R850.lrps.htm
+,LRP037b,36.59,Culvert,Box Culvert,23.0146111,89.8335552,,R850.lrps.htm
+,LRP038,37.32,Km Post,Km post missing,23.00975,89.8292493,,R850.lrps.htm
+,LRP039,37.88,Km Post,"Khulna 55 km, Tungipara 19 km",23.0057222,89.8264716,,R850.lrps.htm
+,LRP039a,38.46,"Side Road, Left",Left Z8408,23.0023333,89.8223327,,R850.lrps.htm
+,LRP040,39.34,Km Post,Tungipara 18 km,22.9974719,89.8153611,,R850.lrps.htm
+,LRP040a,39.402,"Turn off, Left",Z8414 to Chapail,22.9971386,89.8151944,,R850.lrps.htm
+,LRP040b,40.105,Culvert,Box Culvert,22.9907497,89.8146667,,R850.lrps.htm
+,LRP041,40.35,Km Post,"Tungipara 17 km, Khulna 53 km",22.9885274,89.8139444,,R850.lrps.htm
+,LRP041a,40.98,Culvert,Box Culvert,22.9837774,89.8114722,,R850.lrps.htm
+,LRP042,41.38,Km Post,"Tungipara 16 km, Khulna 52 km",22.9808604,89.80925,,R850.lrps.htm
+,LRP043,42.39,Km Post,"Tungipara 15 km, Pirojpur 53 km",22.9723882,89.8124444,,R850.lrps.htm
+,LRP043a,43.17,Culvert,Box Culvert,22.9660833,89.8154167,,R850.lrps.htm
+,LRP044,43.4,Km Post,"Tungipara 14 km, Khulna 50 km",22.9641111,89.8163889,,R850.lrps.htm
+,LRP044a,44.27,Culvert,Box Culvert,22.957,89.8198882,,R850.lrps.htm
+,LRP045,44.4,Km Post,"Tungipara 13 km, Pirojpur 51 km",22.9558611,89.8205271,,R850.lrps.htm
+,LRP045a,44.453,Culvert,Box Culvert,22.9553889,89.820666,,R850.lrps.htm
+,LRPE,44.83,Others,End of road at Mollahhat and Intersection with Z7704 and N805,22.9526389,89.8216382,,R850.lrps.htm
+,,,,,,,,R850.lrps.htm
+,,,,,,,,R850.lrps.htm

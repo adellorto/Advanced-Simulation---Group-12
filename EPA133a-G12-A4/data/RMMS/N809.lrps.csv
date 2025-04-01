@@ -1,0 +1,98 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,"Start from N8 at Amtali Medical more,Barishal",22.685583,90.3568056,,N809.lrps.htm
+,LRPSa,0.26,Culvert,Box culvert,22.6846663,90.3589444,,N809.lrps.htm
+,LRP001,1,Km Post,Km post missing,22.6871663,90.3655833,,N809.lrps.htm
+,LRP001a,1.06,Culvert,Box culvert,22.6873886,90.3661111,,N809.lrps.htm
+,LRP001b,1.389,Culvert,Box culvert,22.6897497,90.3679716,,N809.lrps.htm
+,LRP002,2,Km Post,Km post missing,22.6938608,90.3704438,,N809.lrps.htm
+,LRP002a,2.49,Culvert,Box culvert,22.6985552,90.3730271,,N809.lrps.htm
+,LRP002b,2.77,Ferry-ghat Start,Ferry Ghat start,22.6979441,90.3744438,,N809.lrps.htm
+,LRP003,3,Km Post,Within River,0,0,,N809.lrps.htm
+,LRP003a,3.18,Ferry-ghat End,Ferry Ghat end,22.6976108,90.3784716,,N809.lrps.htm
+,LRP004,4,Km Post,Km post missing,22.6929997,90.3838886,,N809.lrps.htm
+,LRP004a,4.014,Culvert,Box culvert,22.6929441,90.384083,,N809.lrps.htm
+,LRP004b,4.61,Culvert,Box culvert,22.7064444,90.3886386,,N809.lrps.htm
+,LRP005,5,Km Post,Km post missing,22.6881108,90.391833,,N809.lrps.htm
+,LRP005a,5.3,"Side Road, Right",Right Z8044,22.6869441,90.3945552,,N809.lrps.htm
+,LRP006,6,Km Post,Km post missing,22.6897219,90.4005278,,N809.lrps.htm
+,LRP006a,6.108,Culvert,Box culvert,22.690333,90.40125,,N809.lrps.htm
+,LRP006b,6.274,Culvert,Box culvert,22.6913886,90.4023611,,N809.lrps.htm
+,LRP007,7,Km Post,Information missing,22.6965274,90.4064444,,N809.lrps.htm
+,LRP007a,7.932,Culvert,Box culvert,22.7035,90.4110278,,N809.lrps.htm
+,LRP008,8,Km Post,Km post missing,22.70325,90.4116667,,N809.lrps.htm
+,LRP008a,8.396,Culvert,Box culvert,22.7026667,90.4154167,,N809.lrps.htm
+,LRP008b,8.88,Bridge,Start of bridge,22.7020833,90.4200549,,N809.lrps.htm
+,LRP008c,8.892,Bridge,End of bridge,22.7020833,90.4201938,,N809.lrps.htm
+,LRP009,9,Km Post,Km post missing,22.7021944,90.4211104,,N809.lrps.htm
+,LRP009a,9.795,Culvert,Box culvert,22.7039722,90.4283327,,N809.lrps.htm
+,LRP010,10.01,Km Post,Bhola 24 km,22.7038333,90.4304438,,N809.lrps.htm
+,LRP010a,10.79,Bridge,Start of bridge,22.7018611,90.4373052,,N809.lrps.htm
+,LRP010b,10.805,Bridge,End of bridge,22.7017778,90.4372774,,N809.lrps.htm
+,LRP011,11.01,Km Post,"Bhola 23 km,Laherhat 6 km",22.7005,90.4385274,,N809.lrps.htm
+,LRP011a,11.12,Culvert,Box culvert,22.7000556,90.4394719,,N809.lrps.htm
+,LRP012,12.01,Km Post,"Bhola 22 km,Laherhat 15 km",22.696833,90.4471941,,N809.lrps.htm
+,LRP012a,12.17,Culvert,Box culvert,22.6964719,90.4486663,,N809.lrps.htm
+,LRP012b,12.814,Culvert,Box culvert,22.6951941,90.4548056,,N809.lrps.htm
+,LRP013,13.015,Km Post,"Bhola 21 km,Laherhat 14 km",22.6953052,90.4566944,,N809.lrps.htm
+,LRP013a,13.355,Bridge,Start of bridge,22.6956386,90.4599722,,N809.lrps.htm
+,LRP013b,13.375,Bridge,End of Bridge,22.6956386,90.4601111,,N809.lrps.htm
+,LRP014,14.015,Km Post,"Bhola 20 km,Laherhat 3 km",22.6931941,90.4656389,,N809.lrps.htm
+,LRP015,15.015,Km Post,"Bhola 19 km,Laherhat 2 km",22.6913608,90.4751382,,N809.lrps.htm
+,LRP016,16.015,Km Post,Km post broken,22.6896386,90.4845552,,N809.lrps.htm
+,LRP016a,16.56,Others,Ferry Ghat start,22.6885274,90.4893886,,N809.lrps.htm
+,LRP025a,25.69,Others,Ferry Ghat end,22.70475,90.5646944,,N809.lrps.htm
+,LRP026,26,Km Post,Illisha Ferry Ghat 10 km,22.7089167,90.5665,,N809.lrps.htm
+,LRP027,27.2,Km Post,Km post missing,22.7173327,90.5700271,,N809.lrps.htm
+,LRP027a,27.97,Bridge,Start of bridge,22.7233049,90.5739716,,N809.lrps.htm
+,LRP027b,28.005,Bridge,End of bridge,22.7235271,90.574166,,N809.lrps.htm
+,LRP028,28.2,Km Post,Bhola 12 km,22.7248882,90.5753049,,N809.lrps.htm
+,LRP029,29.2,Km Post,Illisha Frrry Ghat 14 km,22.7320827,90.5812216,,N809.lrps.htm
+,LRP030,30.17,Km Post,Illisha Ferry Ghat 13 km,22.7387497,90.5873052,,N809.lrps.htm
+,LRP030a,30.34,Bridge,Start of bridge,22.7387219,90.5888886,,N809.lrps.htm
+,LRP030b,30.468,Bridge,End of bridge,22.7384163,90.5901386,,N809.lrps.htm
+,LRP031,31.2,Km Post,Illisha Ferry Ghat 12 km,22.7369441,90.5972497,,N809.lrps.htm
+,LRP032,32.2,Km Post,Bhola 8 km,22.7366386,90.6069167,,N809.lrps.htm
+,LRP033,33.2,Km Post,Illisha Ferry Ghat 10 km,22.7339997,90.6160278,,N809.lrps.htm
+,LRP034,34.2,Km Post,Illisha Ferry Ghat 9 km,22.7315827,90.6253049,,N809.lrps.htm
+,LRP034a,34.26,Culvert,Box culvert,22.7313327,90.6258882,,N809.lrps.htm
+,LRP034b,34.45,Culvert,Box culvert,22.7304716,90.6274438,,N809.lrps.htm
+,LRP034c,35.195,"Side Road, Right",Right R890,22.7292216,90.6342497,,N809.lrps.htm
+,LRP035,35.2,Km Post,Illisha Ferry Ghat 8 km,22.7292771,90.6343052,,N809.lrps.htm
+,LRP035a,35.89,Culvert,Box culvert,22.735333,90.633333,,N809.lrps.htm
+,LRP036,36.2,Km Post,Illisha Fery Ghat 6 km,22.7381941,90.6338886,,N809.lrps.htm
+,LRP037,37.22,Km Post,Illisha Ferry Ghat 5 km,22.7471941,90.6343052,,N809.lrps.htm
+,LRP038,38.22,Km Post,Lakshmpur 21 km,22.7558056,90.636583,,N809.lrps.htm
+,LRP038a,38.985,Culvert,Box culvert,22.762,90.6397219,,N809.lrps.htm
+,LRP039,39.225,Km Post,Illisha Ferry Ghat 3 km,22.7639167,90.640833,,N809.lrps.htm
+,LRP039a,39.9,Bridge,Start of Bridge,22.7690827,90.6443608,,N809.lrps.htm
+,LRP039b,39.901,Bridge,End of Bridge,22.7690827,90.6443608,,N809.lrps.htm
+,LRP040,40.2,Km Post,Informatrion missing,22.7715549,90.6451663,,N809.lrps.htm
+,LRP040a,40.857,Culvert,Box Culvert,22.7770827,90.6469163,,N809.lrps.htm
+,LRP041,41.215,Km Post,Lakshmipur 26 km,22.780166,90.6479441,,N809.lrps.htm
+,LRP041a,41.305,"Side Road, Right",Right R891,22.780916,90.6481386,,N809.lrps.htm
+,LRP041b,42.16,Ferry-ghat Start,River start,22.7884997,90.647583,,N809.lrps.htm
+,LRP057a,57.785,Ferry-ghat End,River end,22.873416,90.7819993,,N809.lrps.htm
+,LRP058,58.115,Km Post,Lakshimipur 12 km,22.8740549,90.7839719,,N809.lrps.htm
+,LRP059,59.125,Km Post,Lakshmipur 11 km,22.8805271,90.7881941,,N809.lrps.htm
+,LRP060,60.085,Km Post,Lakshmipur 10 km,22.8888608,90.7897219,,N809.lrps.htm
+,LRP061,61.115,Km Post,Lakshmipur 9 km,22.8978052,90.7918886,,N809.lrps.htm
+,LRP062,62.115,Km Post,Lakshmipur 8 km,22.9058333,90.7956386,,N809.lrps.htm
+,LRP062a,62.56,Culvert,Box Culvert,22.9079444,90.7991941,,N809.lrps.htm
+,LRP063,63.115,Km Post,Lakshmipur 7 km,22.9083333,90.8046111,,N809.lrps.htm
+,LRP063a,63.237,Culvert,Box Culvert,22.9084167,90.8057778,,N809.lrps.htm
+,LRP063b,63.585,Culvert,Box Culvert,22.9145556,90.8051667,,N809.lrps.htm
+,LRP064,64.085,Km Post,Lakshmipur 6 km,22.9156389,90.8053889,,N809.lrps.htm
+,LRP064a,64.101,Culvert,Box Culvert,22.9157778,90.8054167,,N809.lrps.htm
+,LRP064b,64.535,Culvert,Box Culvert,22.9196104,90.8061111,,N809.lrps.htm
+,LRP064c,64.635,Culvert,Box Culvert,22.9201382,90.8066667,,N809.lrps.htm
+,LRP065,65.085,Km Post,Lakshmipur 5 km,22.9233882,90.8086667,,N809.lrps.htm
+,LRP066,66.095,Km Post,Lakshmipur 4 km,22.9318327,90.8105833,,N809.lrps.htm
+,LRP066a,66.177,"Side Road, Right",R147 to Lakshmipur,22.9324993,90.8106389,,N809.lrps.htm
+,LRP066b,66.315,Culvert,Box Culvert,22.933583,90.8109167,,N809.lrps.htm
+,LRP066c,66.509,Culvert,Box Culvert,22.9352497,90.8113333,,N809.lrps.htm
+,LRP066d,66.715,Culvert,Box Culvert,22.9370552,90.8115278,,N809.lrps.htm
+,LRP067,67.125,Km Post,Lakshmipur 3 km,22.9378052,90.8121111,,N809.lrps.htm
+,LRP067a,67.707,Culvert,Box Culvert,22.9454163,90.8136944,,N809.lrps.htm
+,LRPE,67.815,Others,End of Road with R140 at Bus stand Lakshmipur .,22.946333,90.8137222,,N809.lrps.htm
+,,,,,,,,N809.lrps.htm
+,,,,,,,,N809.lrps.htm

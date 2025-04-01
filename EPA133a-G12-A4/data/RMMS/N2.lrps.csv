@@ -1,0 +1,900 @@
+,LRP No,Road Chainage,LRP TYPE,Description,Latitude Decimal,Longitued Decimal,,source_file
+,LRPS,0,Others,Road Start from N1 at Katchpur,23.7059167,90.5214438,,N2.lrps.htm
+,LRP001,0.166,Km Post,Sylhet 230 km,23.7068889,90.5204716,,N2.lrps.htm
+,LRP002,1.166,Km Post,Sylhet 229 km,23.7151389,90.5168327,,N2.lrps.htm
+,LRP002a,1.536,Bridge,Bridge start,23.7182771,90.5156944,,N2.lrps.htm
+,LRP002b,1.576,Bridge,Bridge end,23.7186104,90.5155556,,N2.lrps.htm
+,LRP003,2.166,Km Post,Km post missing,23.723666,90.5136667,,N2.lrps.htm
+,LRP003a,2.313,"Side Road, Left",Road to Demra (R201),23.7249438,90.5134167,,N2.lrps.htm
+,LRP004,3.176,Km Post,Information missing,23.7310549,90.5187493,,N2.lrps.htm
+,LRP005,4.176,Km Post,Sylhet 226 km,23.7386663,90.523916,,N2.lrps.htm
+,LRP006,5.176,Km Post,Km post broken,23.7431108,90.5322493,,N2.lrps.htm
+,LRP006a,6.076,Cross Road,"Z1090 Left to Keyatpara,Right to Mahajanpur.",23.7466386,90.5402774,,N2.lrps.htm
+,LRP007,6.186,Km Post,Km post broken,23.7471941,90.5410552,,N2.lrps.htm
+,LRP008,7.186,Km Post,Sylhet 223 km,23.7551111,90.5453608,,N2.lrps.htm
+,LRP009,8.186,Km Post,Km post missing,23.7630278,90.5503889,,N2.lrps.htm
+,LRP010,9.186,Km Post,Km post broken,23.769666,90.5566389,,N2.lrps.htm
+,LRP011,10.196,Km Post,Km post broken,23.7774716,90.5616667,,N2.lrps.htm
+,LRP011a,11.111,"Side Road, Left",R202 to Rupganj,23.7848052,90.5650556,,N2.lrps.htm
+,LRP012,11.196,Km Post,Km post missing,23.7849719,90.5660278,,N2.lrps.htm
+,LRP012a,11.464,Cross Road,Intersection with N105,23.785333,90.5685549,,N2.lrps.htm
+,LRP012b,11.476,Bridge,Bridge start,23.7853886,90.5688882,,N2.lrps.htm
+,LRP012c,11.517,Bridge,Bridge end,23.7853886,90.5691104,,N2.lrps.htm
+,LRP012d,11.977,"Side Road, Right",R203 to Ramchandri,23.7856663,90.5705827,,N2.lrps.htm
+,LRP012e,12.191,Culvert,Box culvert,23.7891108,90.5741104,,N2.lrps.htm
+,LRP013,12.211,Km Post,Km post broken,23.7892497,90.5742771,,N2.lrps.htm
+,LRP014,13.211,Km Post,Km post missing,23.7966941,90.5798049,,N2.lrps.htm
+,LRP014a,13.373,Culvert,Box culvert,23.7977219,90.5808882,,N2.lrps.htm
+,LRP015,14.211,Km Post,Km post missing,23.8035833,90.5860552,,N2.lrps.htm
+,LRP015a,14.343,Culvert,Box culvert,23.8044167,90.5869163,,N2.lrps.htm
+,LRP016,15.211,Km Post,Sylhet 215 km,23.8108333,90.5919163,,N2.lrps.htm
+,LRP016a,15.678,Culvert,Box culvert,23.8141389,90.5946941,,N2.lrps.htm
+,LRP016b,16.189,Bridge,Bridge start,23.8175827,90.5980274,,N2.lrps.htm
+,LRP016c,16.211,Bridge,Bridge end,23.8177493,90.5982219,,N2.lrps.htm
+,LRP017,16.219,Km Post,Km post missing,23.8180549,90.5985274,,N2.lrps.htm
+,LRP017a,17.133,Culvert,Box culvert,23.8240271,90.6041389,,N2.lrps.htm
+,LRP018,17.211,Km Post,Sylhet 213 km,23.8246104,90.6045,,N2.lrps.htm
+,LRP018a,17.965,Culvert,Box culvert,23.829666,90.6093056,,N2.lrps.htm
+,LRP019,18.211,Km Post,Km post missing,23.8313049,90.611,,N2.lrps.htm
+,LRP019a,18.66,Others,Start of Narsingdi road Division,23.8342497,90.6139444,,N2.lrps.htm
+,LRP019a,18.66,Others,Start of Narsingdi road Division,23.8342497,90.6139444,,N2.lrps.htm
+,LRP019b,18.948,Culvert,Box Culvert,25.8362219,90.6158056,,N2.lrps.htm
+,LRP020,19.221,Km Post,Sylhet 211 km,23.8380552,90.6176104,,N2.lrps.htm
+,LRP020a,19.896,Culvert,Box culvert,23.8420274,90.6225549,,N2.lrps.htm
+,LRP021,20.221,Km Post,Sylhet 210 km,22.8439163,90.6249993,,N2.lrps.htm
+,LRP021a,20.509,Culvert,Box culvert,23.8455274,90.6272216,,N2.lrps.htm
+,LRP021b,21.171,Culvert,Box culvert,23.8498608,90.6315827,,N2.lrps.htm
+,LRP022,21.221,Km Post,Sylhet 209 km,23.8501944,90.6318604,,N2.lrps.htm
+,LRP022a,22.147,Culvert,Box culvert,23.8552222,90.6386941,,N2.lrps.htm
+,LRP023,22.226,Km Post,Sylhet 208 km,23.8554444,90.6394997,,N2.lrps.htm
+,LRP024,23.226,Km Post,Sylhet 207 km,23.8554722,90.6491663,,N2.lrps.htm
+,LRP024a,23.548,Culvert,Box culvert,23.8551389,90.6522778,,N2.lrps.htm
+,LRP024b,24.194,Culvert,Box culvert,23.8548333,90.6585556,,N2.lrps.htm
+,LRP025,24.226,Km Post,Sylhet 206 km,23.8548056,90.6589167,,N2.lrps.htm
+,LRP025a,24.695,Culvert,Box culvert,23.8544722,90.6635,,N2.lrps.htm
+,LRP025b,25.094,Culvert,Box culvert,23.8539167,90.6673049,,N2.lrps.htm
+,LRP026,25.236,Km Post,Sylhet 205 km,23.8536111,90.6686938,,N2.lrps.htm
+,LRP027,26.226,Km Post,Km post broken,23.8587778,90.672666,,N2.lrps.htm
+,LRP028,27.226,Km Post,Km post missing,23.8668882,90.6685271,,N2.lrps.htm
+,LRP028a,27.356,"Side Road, Left",Road to Shakerchar (Z2038),23.8679993,90.668166,,N2.lrps.htm
+,LRP029,28.226,Km Post,Sylhet 202 km,23.8757771,90.6667493,,N2.lrps.htm
+,LRP029a,28.413,Culvert,Box culvert,23.8774438,90.6666389,,N2.lrps.htm
+,LRP029b,28.916,Culvert,Box culvert,23.8818882,90.6665556,,N2.lrps.htm
+,LRP030,29.226,Km Post,Sylhet 201 km,23.8846108,90.6658056,,N2.lrps.htm
+,LRP030a,29.316,Culvert,Box culvert,23.8853608,90.6655278,,N2.lrps.htm
+,LRP030b,30.225,"Side Road, Left","R301 to Ghorashal, Z2047 to Ghorashal",23.8934163,90.6644167,,N2.lrps.htm
+,LRP031,30.226,Km Post,Sylhet 200 km,23.8934163,90.6644167,,N2.lrps.htm
+,LRP031a,30.476,Bridge,Bridge start,23.8936386,90.6667771,,N2.lrps.htm
+,LRP031b,30.51,Bridge,Bridge end,23.8936663,90.6670827,,N2.lrps.htm
+,LRP031c,30.993,Culvert,Box culvert,23.8943052,90.6717771,,N2.lrps.htm
+,LRP032,31.226,Km Post,Km post missing,23.8950274,90.6740271,,N2.lrps.htm
+,LRP032a,31.236,Culvert,Box culvert,23.8950552,90.6740827,,N2.lrps.htm
+,LRP033,32.256,Km Post,Sylhet 198 km,23.8994163,90.6825549,,N2.lrps.htm
+,LRP033a,32.921,Culvert,Box culvert,23.9048611,90.6851386,,N2.lrps.htm
+,LRP034,33.256,Km Post,Km post missing,23.9076667,90.6864719,,N2.lrps.htm
+,LRP034a,33.536,"Side Road, Right",R210 to Narsingdi,23.9099444,90.6875552,,N2.lrps.htm
+,LRP034b,33.944,Culvert,Box culvert,23.9131389,90.6894163,,N2.lrps.htm
+,LRP035,34.266,Km Post,Sylhet 196 km,23.9154167,90.6913886,,N2.lrps.htm
+,LRP035a,34.691,Culvert,Box culvert,23.9183882,90.6939719,,N2.lrps.htm
+,LRP035b,35.165,Culvert,Box culvert,23.921666,90.6968886,,N2.lrps.htm
+,LRP036,35.266,Km Post,Km post broken,23.9224716,90.6975552,,N2.lrps.htm
+,LRP036a,35.511,Culvert,Box culvert,23.924166,90.699083,,N2.lrps.htm
+,LRP037,36.266,Km Post,Km post missing,23.922666,90.7036389,,N2.lrps.htm
+,LRP037a,36.43,Bridge,Bridge start,23.9307216,90.7045833,,N2.lrps.htm
+,LRP037b,36.458,Bridge,Bridge end,23.930916,90.70475,,N2.lrps.htm
+,LRP038,37.266,Km Post,Km post missing,23.9367219,90.7098056,,N2.lrps.htm
+,LRP038a,37.529,Bridge,Bridge start,23.9390552,90.7100278,,N2.lrps.htm
+,LRP038b,37.593,Bridge,Bridge end,23.9396386,90.71,,N2.lrps.htm
+,LRP038c,37.942,Culvert,Box culvert,23.9427774,90.7099444,,N2.lrps.htm
+,LRP039,38.266,Km Post,Sylhet 192 km,23.9454441,90.71075,,N2.lrps.htm
+,LRP039a,38.287,Culvert,Box culvert,23.9456108,90.7108333,,N2.lrps.htm
+,LRP039b,39.181,Culvert,Box culvert,23.9527778,90.4314716,,N2.lrps.htm
+,LRP040,39.266,Km Post,Sylhet 191 km,23.9536111,90.71525,,N2.lrps.htm
+,LRP040a,39.519,Culvert,Box culvert,23.9556111,90.7163333,,N2.lrps.htm
+,LRP040b,40.044,Culvert,Box culvert,23.9598056,90.7019722,,N2.lrps.htm
+,LRP041,40.266,Km Post,Km post missing,23.9615833,90.7196382,,N2.lrps.htm
+,LRP041a,40.496,Culvert,Box culvert,23.9634167,90.7206382,,N2.lrps.htm
+,LRP041b,40.754,Culvert,Box culvert,23.9654722,90.7217771,,N2.lrps.htm
+,LRP042,41.266,Km Post,Sylhet 189 km,23.9695549,90.7242216,,N2.lrps.htm
+,LRP042a,41.306,Culvert,Box culvert,26.9698327,90.724416,,N2.lrps.htm
+,LRP042b,41.669,Culvert,Box culvert,23.9723882,90.7265827,,N2.lrps.htm
+,LRP042c,42.096,Culvert,Box culvert,23.9753882,90.7291104,,N2.lrps.htm
+,LRP043,42.266,Km Post,Km post missing,23.9766382,90.730166,,N2.lrps.htm
+,LRP043a,42.449,Culvert,Box culvert,23.977916,90.7312771,,N2.lrps.htm
+,LRP043b,43.097,"Side Road, Left","R310 to Gazipur ,R211 to Shibpur",23.9802216,90.7333886,,N2.lrps.htm
+,LRP043c,43.256,Culvert,Box culvert,23.9803882,90.7347774,,N2.lrps.htm
+,LRP044,43.286,Km Post,Sylhet 187 km,23.981416,90.7381941,,N2.lrps.htm
+,LRP044a,43.446,Culvert,Box culvert,23.9818604,90.7396663,,N2.lrps.htm
+,LRP044b,43.747,Cross Road,Z2033,23.9827771,90.7424441,,N2.lrps.htm
+,LRP044c,44.199,Culvert,Box culvert,23.9853886,90.7457774,,N2.lrps.htm
+,LRP045,44.286,Km Post,Sylhet 186 km,23.9859441,90.7463886,,N2.lrps.htm
+,LRP045a,44.616,Culvert,Box culvert,23.9880274,90.7487219,,N2.lrps.htm
+,LRP046,45.286,Km Post,Sylhet 185 km,23.9911941,90.7543611,,N2.lrps.htm
+,LRP046a,45.844,Bridge,Bridge start,23.9936941,90.7590833,,N2.lrps.htm
+,LRP046b,45.949,Bridge,Bridge end,23.9941941,90.7599722,,N2.lrps.htm
+,LRP046c,46.256,Culvert,Box culvert,23.995583,90.7625,,N2.lrps.htm
+,LRP047,46.296,Km Post,Sylhet 184 km,23.9957497,90.7628333,,N2.lrps.htm
+,LRP047a,46.436,Culvert,Box culvert,23.9963886,90.7640278,,N2.lrps.htm
+,LRP047b,46.693,Culvert,Box culvert,23.9975274,90.7661944,,N2.lrps.htm
+,LRP048,47.301,Km Post,Sylhet 183 km,24.0002222,90.7713882,,N2.lrps.htm
+,LRP048a,47.311,Culvert,Box culvert,24.0002222,90.7714716,,N2.lrps.htm
+,LRP048b,48.196,Culvert,Box culvert,24.00275,90.7797216,,N2.lrps.htm
+,LRP049,48.301,Km Post,Sylhet 182 km,24.0030278,90.7806938,,N2.lrps.htm
+,LRP049a,49.27,Culvert,Box culvert,24.0066944,90.7891941,,N2.lrps.htm
+,LRP050,49.321,Km Post,Information missing,24.0069722,90.7896108,,N2.lrps.htm
+,LRP050a,49.689,Culvert,Box culvert,24.0089167,90.7924719,,N2.lrps.htm
+,LRP051,50.421,Km Post,Sylhet 180 km,24.0127778,90.7983052,,N2.lrps.htm
+,LRP051a,51.173,Culvert,Box culvert,24.0167493,90.8042778,,N2.lrps.htm
+,LRP052,51.321,Km Post,Sylhet 179 km,24.0174993,90.8054167,,N2.lrps.htm
+,LRP052a,51.921,Culvert,Box culvert,24.0205549,90.81025,,N2.lrps.htm
+,LRP053,52.321,Km Post,Sylhet 178 km,24.0226104,90.8135,,N2.lrps.htm
+,LRP053a,53.034,Culvert,Box culvert,24.0262493,90.8192216,,N2.lrps.htm
+,LRP054,53.326,Km Post,Sylhet 177 km,24.0277771,90.8215827,,N2.lrps.htm
+,LRP054a,53.507,Culvert,Box culvert,24.0288327,90.8232493,,N2.lrps.htm
+,LRP054b,54.298,Culvert,Box culvert,24.0326382,90.8294716,,N2.lrps.htm
+,LRP055,54.326,Km Post,Sylhet 176 km,24.0328049,90.8297493,,N2.lrps.htm
+,LRP055a,54.606,"Side Road, Left",Road to Belobo(Z2042),24.0341386,90.8320827,,N2.lrps.htm
+,LRP055b,55.054,Culvert,Box culvert,24.0364719,90.8356663,,N2.lrps.htm
+,LRP056,55.326,Km Post,Sylhet 175 km,24.0378052,90.8378886,,N2.lrps.htm
+,LRP056a,55.486,Culvert,Box cuylvert,24.0386108,90.8391941,,N2.lrps.htm
+,LRP056b,55.904,Bridge,Bridge start,24.040083,90.8429163,,N2.lrps.htm
+,LRP056c,55.922,Bridge,Bridge end,24.0401386,90.8431108,,N2.lrps.htm
+,LRP057,56.326,Km Post,Km post missing,24.0411386,90.8473886,,N2.lrps.htm
+,LRP057a,56.497,Culvert,Box culvert,24.0414441,90.848583,,N2.lrps.htm
+,LRP057b,56.653,Culvert,Box culvert,24.0418052,90.8501389,,N2.lrps.htm
+,LRP057c,57.044,Culvert,Box culvert,24.042583,90.8538333,,N2.lrps.htm
+,LRP058,57.326,Km Post,Sylhet 173 km,24.0431941,90.8565278,,N2.lrps.htm
+,LRP058a,58.035,Bridge,Bridge start,24.0469163,90.8621389,,N2.lrps.htm
+,LRP058b,58.192,Bridge,Bridge end,24.0477497,90.8633056,,N2.lrps.htm
+,LRP058c,58.301,Bridge,Bridge start,24.0484163,90.8641111,,N2.lrps.htm
+,LRP058d,58.336,Bridge,Bridge end,24.0486663,90.8644167,,N2.lrps.htm
+,LRP059,58.426,Km Post,Sylhet 172 km,24.0491941,90.8650833,,N2.lrps.htm
+,LRP059a,58.506,Culvert,Box culvert,24.0496663,90.8656389,,N2.lrps.htm
+,LRP059b,58.926,"Side Road, Right",Road to Rajpur (Z2041),24.0514167,90.8693327,,N2.lrps.htm
+,LRP060,59.333,Km Post,Sylhet 171 km,24.0515,90.8731104,,N2.lrps.htm
+,LRP060a,59.442,Bridge,Bridge start,24.0514722,90.874166,,N2.lrps.htm
+,LRP060b,59.483,Bridge,Bridge end,24.0514722,90.8745549,,N2.lrps.htm
+,LRP060c,59.921,Culvert,Box culvert,24.0515,90.8788604,,N2.lrps.htm
+,LRP061,60.333,Km Post,Sylhet 170 km,24.0515833,90.8829438,,N2.lrps.htm
+,LRP061a,60.663,Culvert,Box culvert,24.0518889,90.8861386,,N2.lrps.htm
+,LRP062,61.338,Km Post,Sylhet 169 km,24.0525,90.8927497,,N2.lrps.htm
+,LRP062a,61.967,Bridge,Bridge start,24.0529167,90.8988608,,N2.lrps.htm
+,LRP062b,61.982,Bridge,Bridge end,24.0529444,90.8989719,,N2.lrps.htm
+,LRP063,62.338,Km Post,Sylhet 168 km,24.0532222,90.9025,,N2.lrps.htm
+,LRP063a,62.445,Bridge,Bridge start,24.0533056,90.9035556,,N2.lrps.htm
+,LRP063b,62.458,Bridge,Bridge end,24.0533056,90.9036667,,N2.lrps.htm
+,LRP064,63.348,Km Post,Sylhet 167 km,24.054,90.9124167,,N2.lrps.htm
+,LRP064a,63.767,Culvert,Box culvert,24.0543056,90.9164722,,N2.lrps.htm
+,LRP064b,63.969,"Side Road, Left",Z2032 to Belabo,24.0545,90.9184716,,N2.lrps.htm
+,LRP064c,64.264,Bridge,Bridge start,24.0547222,90.9213049,,N2.lrps.htm
+,LRP064d,64.278,Bridge,Bridge end,24.0547222,90.9214438,,N2.lrps.htm
+,LRP065,64.343,Km Post,Sylhet 166 km,24.0547778,90.9220827,,N2.lrps.htm
+,LRP066,65.343,Km Post,Km post broken,24.0555556,90.9319993,,N2.lrps.htm
+,LRP066a,66.121,Culvert,Box culvert,24.0560278,90.9396108,,N2.lrps.htm
+,LRP067,66.333,Km Post,Sylhet 164 km,24.0561667,90.9416941,,N2.lrps.htm
+,LRP067a,66.768,Bridge,Bridge start,24.0565833,90.9459163,,N2.lrps.htm
+,LRP067b,66.784,Bridge,Bridge end,24.0565833,90.9460552,,N2.lrps.htm
+,LRP067c,67.073,Culvert,Box culvert,24.05675,90.9488886,,N2.lrps.htm
+,LRP068,67.333,Km Post,Sylhet 163 km,24.0569167,90.9513889,,N2.lrps.htm
+,LRP068a,67.543,Culvert,Box culvert,24.0569167,90.9534167,,N2.lrps.htm
+,LRP068b,67.803,Culvert,Box culvert,24.057,90.9559722,,N2.lrps.htm
+,LRP069,68.098,Km Post,Sylhet 162 km,24.0575556,90.9587778,,N2.lrps.htm
+,LRP069a,68.356,Bridge,Bridge start,24.0576111,90.9612222,,N2.lrps.htm
+,LRP069b,68.786,Bridge,Bridge end/ Start of Kishoreganj road Division,24.0570556,90.9654167,,N2.lrps.htm
+,LRP069b,68.786,Bridge,Bridge end/ Start of Kishoreganj road Division,24.0570556,90.9654167,,N2.lrps.htm
+,LRP070,69.098,Km Post,Km post missing,24.0570833,90.9685271,,N2.lrps.htm
+,LRP070a,69.215,Bridge,Bridge start,24.0570278,90.9696382,,N2.lrps.htm
+,LRP070b,69.243,Bridge,Bridge end,24.057,90.969916,,N2.lrps.htm
+,LRP070c,69.706,Culvert,Box culvert,24.0563056,90.9743604,,N2.lrps.htm
+,LRP070d,69.797,Culvert,Box culvert,24.0561944,90.9752216,,N2.lrps.htm
+,LRP071,70.098,Km Post,Km post missing,24.0558611,90.9783327,,N2.lrps.htm
+,LRP071a,70.576,"Side Road, Left",Road to Kishoreganj(R360),24.0553889,90.9828604,,N2.lrps.htm
+,LRP071b,71.08,Others,Start of Narsingdi road Division,24.054,90.9876386,,N2.lrps.htm
+,LRP071b,71.08,Others,Start of Narsingdi road Division,24.054,90.9876386,,N2.lrps.htm
+,LRP072,71.098,Km Post,Km post missing,24.0539722,90.9877219,,N2.lrps.htm
+,LRP072a,71.638,Culvert,Box Culvert,24.0508333,90.9901108,,N2.lrps.htm
+,LRP072b,71.821,Bridge,Bhairab Bridge,24.048833,90.9916941,,N2.lrps.htm
+,LRP073,72.098,Km Post,Km post missing,24.047083,90.9934997,,N2.lrps.htm
+,LRP073a,73.032,Bridge,Bridge end,24.0409997,90.9998052,,N2.lrps.htm
+,LRP074,73.098,Km Post,Km post missing,24.0405552,91.0002778,,N2.lrps.htm
+,LRP074a,73.373,Culvert,Over pass,24.0390274,91.0023611,,N2.lrps.htm
+,LRP074b,73.533,"Side Road, Right",Road to Nabinagar (Z2031),24.0387219,91.0037778,,N2.lrps.htm
+,LRP074c,73.566,Others,Start of Brahamanbaria road Division,24.0385274,91.00425,,N2.lrps.htm
+,LRP074c,73.566,Others,Start of Brahamanbaria road Division,24.0385274,91.00425,,N2.lrps.htm
+,LRP074d,73.867,Culvert,Box Culvert,24.0376386,91.0067778,,N2.lrps.htm
+,LRP074e,73.932,Culvert,Box Culvert,24.0373052,91.0073056,,N2.lrps.htm
+,LRP075,74.098,Km Post,Km post missing,24.0368608,91.0090278,,N2.lrps.htm
+,LRP075a,74.547,Culvert,Box culvert,24.0360274,91.01325,,N2.lrps.htm
+,LRP075b,74.818,Culvert,Box culvert,24.0364441,91.0158611,,N2.lrps.htm
+,LRP075c,75.079,Culvert,Box culvert,24.0368886,91.0183604,,N2.lrps.htm
+,LRP076,75.098,Km Post,Km post missing,24.0368886,91.0185271,,N2.lrps.htm
+,LRP076a,75.68,Bridge,Bridge start,24.0379441,91.0241382,,N2.lrps.htm
+,LRP076b,75.766,Bridge,Bridge end,24.0381108,91.0248604,,N2.lrps.htm
+,LRP077,76.098,Km Post,Km post missing,24.0386941,91.0280827,,N2.lrps.htm
+,LRP077a,76.114,Culvert,Box culvert,24.0386941,91.0281938,,N2.lrps.htm
+,LRP078,77.098,Km Post,Sylhet 154 km,24.0390274,91.0299716,,N2.lrps.htm
+,LRP078a,77.673,Culvert,Box culvert,24.0401663,91.0354997,,N2.lrps.htm
+,LRP078b,77.99,Culvert,Box culvert,24.0407219,91.0384719,,N2.lrps.htm
+,LRP079,78.098,Km Post,Sylhet 153 km,24.0408886,91.0395552,,N2.lrps.htm
+,LRP079a,79.038,Culvert,Box culvert,24.0426108,91.048583,,N2.lrps.htm
+,LRP080,79.098,Km Post,Sylhet 152 km,24.0426941,91.0491941,,N2.lrps.htm
+,LRP080a,80.024,Culvert,Box culvert,24.0437219,91.0581944,,N2.lrps.htm
+,LRP081,80.098,Km Post,Km post missing,24.0437774,91.059,,N2.lrps.htm
+,LRP081a,80.616,Culvert,Box culvert,24.0443886,91.0640556,,N2.lrps.htm
+,LRP081b,80.996,Culvert,Box culvert,24.044833,91.0677771,,N2.lrps.htm
+,LRP082,81.098,Km Post,Sylhet 150 km,24.0449441,91.0687493,,N2.lrps.htm
+,LRP082a,81.69,Culvert,Box culvert,24.0456941,91.074416,,N2.lrps.htm
+,LRP082b,82.108,Culvert,Box culvert,24.0461941,91.0784438,,N2.lrps.htm
+,LRP083,82.118,Km Post,Sylhet 149 km,24.0461941,91.0786382,,N2.lrps.htm
+,LRP084,83.103,Km Post,Sylhet 178 km,24.0473608,91.0882219,,N2.lrps.htm
+,LRP084a,83.681,Culvert,Box culvert,24.0480274,91.0937497,,N2.lrps.htm
+,LRP085,84.103,Km Post,Sylhet 147 km,24.4318604,91.0979719,,N2.lrps.htm
+,LRP085a,84.148,Culvert,Box culvert,24.048583,91.0984163,,N2.lrps.htm
+,LRP085b,85.098,Culvert,Box culvert,24.0496941,91.1076389,,N2.lrps.htm
+,LRP086,85.113,Km Post,Sylhet 146 km,24.0497219,91.10775,,N2.lrps.htm
+,LRP086a,85.823,"Side Road, Right",Road to Mainamoti(N102),24.0508333,91.1144444,,N2.lrps.htm
+,LRP087,86.113,Km Post,Km post missing,24.0533056,91.1146111,,N2.lrps.htm
+,LRP087a,86.413,"Side Road, Left",Road to Nasimagar(R220),24.0576944,91.1151389,,N2.lrps.htm
+,LRP087b,86.81,Bridge,Bridge start,24.0584167,91.1186938,,N2.lrps.htm
+,LRP087c,86.835,Bridge,Bridge end,24.0583889,91.118916,,N2.lrps.htm
+,LRP088,86.896,Km Post,Sylhet 144 km,24.0583333,91.1195271,,N2.lrps.htm
+,LRP088a,87.82,Culvert,Box culvert,24.0571667,91.1285271,,N2.lrps.htm
+,LRP089,87.896,Km Post,Sylhet 143 km,24.0570556,91.1292216,,N2.lrps.htm
+,LRP089a,88.783,Bridge,Bridge start,24.0558889,91.1378608,,N2.lrps.htm
+,LRP089b,88.808,Bridge,Bridge end,24.0558611,91.138083,,N2.lrps.htm
+,LRP090,88.896,Km Post,Sylhet 142 km,24.0557778,91.1389719,,N2.lrps.htm
+,LRP090a,89.539,Bridge,Bridge start,24.0549722,91.1451941,,N2.lrps.htm
+,LRP090b,89.558,Bridge,Bridge end,24.0549444,91.1453886,,N2.lrps.htm
+,LRP091,89.896,Km Post,Sylhet 141 km,24.0543611,91.1486941,,N2.lrps.htm
+,LRP091a,90.068,Bridge,Bridge start,24.05425,91.1503889,,N2.lrps.htm
+,LRP091b,90.115,Bridge,Bridge end,24.0541944,91.1508333,,N2.lrps.htm
+,LRP092,90.896,Km Post,Sylhet 140 km,24.0533889,91.1584444,,N2.lrps.htm
+,LRP092a,90.989,Culvert,Box culvert,24.0532222,91.1593333,,N2.lrps.htm
+,LRP092b,91.67,Bridge,Bridge start,24.0524444,91.1659722,,N2.lrps.htm
+,LRP092c,91.727,Bridge,Bridge end,24.0523611,91.1665,,N2.lrps.htm
+,LRP093,91.896,Km Post,Sylhet 139 km,24.0521111,91.1681938,,N2.lrps.htm
+,LRP093a,92.186,Culvert,Box culvert,24.0514167,91.1708882,,N2.lrps.htm
+,LRP094,92.901,Km Post,Sylhet 138 km,24.0479163,91.1767493,,N2.lrps.htm
+,LRP094a,93.097,Bridge,Bridge start,24.0462497,91.1772216,,N2.lrps.htm
+,LRP094b,93.304,Bridge,Bridge end,24.0444163,91.1772493,,N2.lrps.htm
+,LRP094c,93.726,Bridge,Bridge start,24.0428052,91.1803327,,N2.lrps.htm
+,LRP094d,93.754,Bridge,Bridge end,24.0428052,91.1805827,,N2.lrps.htm
+,LRP095,93.901,Km Post,Km post missing,24.0427774,91.1820549,,N2.lrps.htm
+,LRP095a,94.703,Culvert,Box culvert,24.0428052,91.1899441,,N2.lrps.htm
+,LRP096,94.901,Km Post,Sylhet 136 km,24.042833,91.1919997,,N2.lrps.htm
+,LRP096a,95.697,Culvert,Box culvert,24.0430552,91.1997774,,N2.lrps.htm
+,LRP097,95.891,Km Post,Sylhet 135 km,24.0431108,91.2016944,,N2.lrps.htm
+,LRP097a,96.186,Culvert,Box culvert,24.0429997,91.2045,,N2.lrps.htm
+,LRP097b,96.599,Bridge,Bridge start,24.0409719,91.2079444,,N2.lrps.htm
+,LRP097c,96.666,Bridge,Bridge end,24.0406108,91.2084722,,N2.lrps.htm
+,LRP098,96.891,Km Post,Km post missing,24.0407497,91.2105,,N2.lrps.htm
+,LRP098a,97.263,Bridge,Bridge start,24.0419719,91.2138333,,N2.lrps.htm
+,LRP098b,97.3,Bridge,Bridge end,24.042083,91.2141667,,N2.lrps.htm
+,LRP099,97.891,Km Post,Km post missing,24.043833,91.2196938,,N2.lrps.htm
+,LRP099a,98.072,Bridge,Bridge start,24.0443608,91.2213882,,N2.lrps.htm
+,LRP099b,98.1,Bridge,Bridge end,24.0444163,91.2216382,,N2.lrps.htm
+,LRP100,98.896,Km Post,Sylhet 132 km,24.0460552,91.2292771,,N2.lrps.htm
+,LRP100a,99.585,Culvert,Box culvert,24.0472219,91.2358608,,N2.lrps.htm
+,LRP101,99.896,Km Post,Sylhet 131 km,24.0487497,91.2382497,,N2.lrps.htm
+,LRP101a,100.447,Bridge,Bridge start,24.0529167,91.2412497,,N2.lrps.htm
+,LRP101b,100.514,Bridge,Bridge end,24.0534444,91.2415274,,N2.lrps.htm
+,LRP102,100.896,Km Post,Sylhet 130 km,24.0566111,91.2431941,,N2.lrps.htm
+,LRP102a,101.395,Culvert,Box culvert,24.0599722,91.2464163,,N2.lrps.htm
+,LRP102b,101.791,Culvert,Box culvert,24.0624722,91.2491663,,N2.lrps.htm
+,LRP103,101.896,Km Post,Sylhet 129 km,24.0631667,91.2499163,,N2.lrps.htm
+,LRP103a,102.727,Culvert,Box culvert,24.0683604,91.2558056,,N2.lrps.htm
+,LRP104,102.896,Km Post,Sylhet 128 km,24.0694438,91.257,,N2.lrps.htm
+,LRP104a,103.228,Culvert,Box culvert,24.0715271,91.2593056,,N2.lrps.htm
+,LRP104b,103.757,Culvert,Box culvert,24.074916,91.2629444,,N2.lrps.htm
+,LRP105,103.901,Km Post,Sylhet 127 km,24.0758604,91.2639444,,N2.lrps.htm
+,LRP105a,104.6,Culvert,Box culvert,24.0803049,91.2687771,,N2.lrps.htm
+,LRP106,104.901,Km Post,Km post missing,24.0820827,91.2709438,,N2.lrps.htm
+,LRP106a,105.851,Culvert,Box culvert,24.0823604,91.2796938,,N2.lrps.htm
+,LRP107,105.901,Km Post,Sylhet 125 km,24.082666,91.2801104,,N2.lrps.htm
+,LRP107a,106.356,Culvert,Box culvert,24.0850552,91.2836941,,N2.lrps.htm
+,LRP107b,106.775,Culvert,Box culvert,24.0869997,91.2870274,,N2.lrps.htm
+,LRP108,106.906,Km Post,Information missing,24.0881108,91.2874997,,N2.lrps.htm
+,LRP108a,107.607,Bridge,Bridge start/ Start of Habiganj road Division,24.094083,91.2896386,,N2.lrps.htm
+,LRP108a,107.607,Bridge,Bridge start/ Start of Habiganj road Division,24.094083,91.2896386,,N2.lrps.htm
+,LRP108b,107.672,Bridge,Bridge end,24.0946386,91.289833,,N2.lrps.htm
+,LRP109,107.906,Km Post,Km post missing,24.0967774,91.2906386,,N2.lrps.htm
+,LRP109a,108.344,Culvert,Box culvert,24.0995274,91.2936386,,N2.lrps.htm
+,LRP110,108.906,Km Post,Sylhet 122 km,24.1032778,91.2972219,,N2.lrps.htm
+,LRP110a,109.403,Bridge,Bridge start,24.1069722,91.2999441,,N2.lrps.htm
+,LRP110b,109.425,Bridge,Bridge end,24.1071111,91.3000278,,N2.lrps.htm
+,LRP111,109.906,Km Post,Sylhet 121 km,24.1105556,91.3030833,,N2.lrps.htm
+,LRP111a,110.163,Bridge,Bridge start,24.1121667,91.3048611,,N2.lrps.htm
+,LRP111b,110.201,Bridge,Bridge end,24.1123889,91.3050556,,N2.lrps.htm
+,LRP112,110.911,Km Post,Sylhet 120 km,24.1169993,91.3099722,,N2.lrps.htm
+,LRP112a,111.406,Culvert,Box culvert,24.1202771,91.3131667,,N2.lrps.htm
+,LRP113,111.911,Km Post,Sylhet 119 km,24.1238882,91.3163611,,N2.lrps.htm
+,LRP113a,112.332,Bridge,Bridge start,24.1268049,91.3189438,,N2.lrps.htm
+,LRP113b,112.366,Bridge,Bridge end,27.1269438,91.3191104,,N2.lrps.htm
+,LRP114,112.916,Km Post,Sylhet 118 km,24.1313604,91.3215827,,N2.lrps.htm
+,LRP114a,113.437,Bridge,Bridge start,24.1356941,91.3234993,,N2.lrps.htm
+,LRP114b,113.463,Bridge,Bridge end,24.1359163,91.3235271,,N2.lrps.htm
+,LRP115,113.916,Km Post,Sylhet 117 km,24.1396941,91.3253049,,N2.lrps.htm
+,LRP115a,114.193,Bridge,Bridge start,24.1416663,91.326916,,N2.lrps.htm
+,LRP115b,114.235,Bridge,Bridge end,24.1418886,91.3272216,,N2.lrps.htm
+,LRP116,114.916,Km Post,Sylhet 116 km,24.1440552,91.3336386,,N2.lrps.htm
+,LRP116a,115.236,Bridge,Bridge start,24.1448886,91.3366108,,N2.lrps.htm
+,LRP116b,115.258,Bridge,Bridge end,24.1449441,91.336833,,N2.lrps.htm
+,LRP117,115.916,Km Post,Sylhet 115 km,24.1466386,91.3430552,,N2.lrps.htm
+,LRP117a,116.13,Culvert,Box culvert,24.1471663,91.345083,,N2.lrps.htm
+,LRP117b,116.294,"Side Road, Right",Road to Chunarughat(N204),24.1478608,91.3464441,,N2.lrps.htm
+,LRP117c,116.338,Culvert,Box culvert,24.1481941,91.3466108,,N2.lrps.htm
+,LRP117d,116.543,Culvert,Box culvert,24.1498886,91.3474441,,N2.lrps.htm
+,LRP117e,116.83,Culvert,Box culvert,24.15225,91.3484441,,N2.lrps.htm
+,LRP118,116.916,Km Post,Sylhet 114 km,24.1530278,91.3486108,,N2.lrps.htm
+,LRP118a,117.057,Culvert,Box culvert,24.15425,91.3487774,,N2.lrps.htm
+,LRP118b,117.411,Culvert,Box culvert,24.1574167,91.3488608,,N2.lrps.htm
+,LRP118c,117.574,Culvert,Box culvert,24.1592222,91.3489163,,N2.lrps.htm
+,LRP118d,117.867,Culvert,Box culvert,24.1615,91.3489719,,N2.lrps.htm
+,LRP119,117.916,Km Post,Km post missing,24.1619722,91.3489997,,N2.lrps.htm
+,LRP119a,118.098,Culvert,Box culvert,24.1635278,91.3490274,,N2.lrps.htm
+,LRP119b,118.317,Culvert,Box culvert,24.1655278,91.3490274,,N2.lrps.htm
+,LRP119c,118.665,Culvert,Box culvert,24.1686104,91.3490274,,N2.lrps.htm
+,LRP119d,118.829,Culvert,Box culvert,24.1700827,91.3490274,,N2.lrps.htm
+,LRP120,118.921,Km Post,Sylhet 112 km,24.1709993,91.3490552,,N2.lrps.htm
+,LRP120a,119.115,Culvert,Box culvert,24.1727493,91.3490552,,N2.lrps.htm
+,LRP120b,119.348,Culvert,Box culvert,24.1748604,91.3490552,,N2.lrps.htm
+,LRP120c,119.815,Culvert,Box culvert,24.1790271,91.349833,,N2.lrps.htm
+,LRP121,119.921,Km Post,Sylhet 111 km,24.1799993,91.35,,N2.lrps.htm
+,LRP121a,120.517,Culvert,Box culvert,24.1685549,91.3506111,,N2.lrps.htm
+,LRP122,120.921,Km Post,Sylhet 110 km,24.1889719,91.3505556,,N2.lrps.htm
+,LRP122a,121.158,Culvert,Box culvert,24.191083,91.3505278,,N2.lrps.htm
+,LRP122b,121.504,Culvert,Box culvert,24.1941386,91.3505278,,N2.lrps.htm
+,LRP123,121.911,Km Post,Sylhet 109 km,24.1977774,91.3509167,,N2.lrps.htm
+,LRP123a,121.992,Culvert,Box culvert,24.1985274,91.351,,N2.lrps.htm
+,LRP123b,122.421,Culvert,Box culvert,24.20225,91.3515833,,N2.lrps.htm
+,LRP123c,122.631,Culvert,Box culvert,24.2041389,91.3519167,,N2.lrps.htm
+,LRP124,122.941,Km Post,Sylhet 108 km,24.2067222,91.3532222,,N2.lrps.htm
+,LRP124a,123.09,Culvert,Box culvert,24.2078056,91.3539722,,N2.lrps.htm
+,LRP124b,123.235,Culvert,Box culvert,24.2088889,91.3546944,,N2.lrps.htm
+,LRP124c,123.487,Bridge,Bridge start,24.2108333,91.3560278,,N2.lrps.htm
+,LRP124d,123.52,Bridge,Bridge end,24.2110556,91.3561944,,N2.lrps.htm
+,LRP125,123.941,Km Post,Sylhet 107 km,24.2141667,91.3586111,,N2.lrps.htm
+,LRP125a,123.947,Culvert,Box culvert,24.2141944,91.3586389,,N2.lrps.htm
+,LRP125b,124.597,Culvert,Box culvert,24.2185827,91.36275,,N2.lrps.htm
+,LRP125c,124.755,Culvert,Box culvert,24.2197493,91.3635833,,N2.lrps.htm
+,LRP125d,124.933,Culvert,Box culvert,24.2212771,91.36425,,N2.lrps.htm
+,LRP126,124.946,Km Post,Sylhet 106 km,24.2214438,91.3642778,,N2.lrps.htm
+,LRP126a,125.143,Culvert,Box culvert,24.223166,91.3647222,,N2.lrps.htm
+,LRP126b,125.429,Culvert,Box culvert,24.2256382,91.3645278,,N2.lrps.htm
+,LRP126c,125.878,Culvert,Box culvert,24.2295549,91.3664722,,N2.lrps.htm
+,LRP126d,125.941,Culvert,Box culvert,24.2300827,91.3666111,,N2.lrps.htm
+,LRP127,125.951,Km Post,Sylhet 105 km,24.2301938,91.3666389,,N2.lrps.htm
+,LRP127a,126.067,Culvert,Box culvert,24.231166,91.3669716,,N2.lrps.htm
+,LRP127b,126.496,Culvert,Box culvert,24.2349163,91.3679438,,N2.lrps.htm
+,LRP127c,126.605,Culvert,Box culvert,24.2358608,91.3680827,,N2.lrps.htm
+,LRP128,126.951,Km Post,Sylhet 104 km,24.2390274,91.3687216,,N2.lrps.htm
+,LRP128a,127.049,Culvert,Box culvert,24.7065278,91.3689438,,N2.lrps.htm
+,LRP128b,127.354,Culvert,Box culvert,24.2424997,91.369666,,N2.lrps.htm
+,LRP129,127.956,Km Post,Sylhet 103 km,24.2476663,91.3712493,,N2.lrps.htm
+,LRP129a,127.967,Culvert,Box culvert,24.2477774,91.3712771,,N2.lrps.htm
+,LRP129b,128.317,Culvert,Box culvert,24.2506111,91.3726104,,N2.lrps.htm
+,LRP129c,128.652,Culvert,Box culvert,24.25325,91.3741382,,N2.lrps.htm
+,LRP130,128.976,Km Post,Sylhet 102 km,24.2555556,91.3761104,,N2.lrps.htm
+,LRP130a,129.02,Culvert,Box culvert,24.2558889,91.3763049,,N2.lrps.htm
+,LRP130b,129.369,Culvert,Box culvert,24.2585833,91.3780827,,N2.lrps.htm
+,LRP130c,129.675,Culvert,Box culvert,24.2609444,91.3794716,,N2.lrps.htm
+,LRP130d,129.813,Culvert,Box culvert,24.2620833,91.3801382,,N2.lrps.htm
+,LRP131,129.976,Km Post,Sylhet 101 km,24.2633333,91.3808604,,N2.lrps.htm
+,LRP131a,130.251,Culvert,Box culvert,24.2655278,91.3821382,,N2.lrps.htm
+,LRP131b,130.495,Culvert,Box culvert,24.2675549,91.3830827,,N2.lrps.htm
+,LRP132,130.986,Km Post,Sylhet 100 km,24.2713327,91.3853608,,N2.lrps.htm
+,LRP132a,131.154,Rail Road Crossing,Rail Road Crossing,24.2712493,91.3869719,,N2.lrps.htm
+,LRP132b,131.736,Culvert,Box culvert,24.2710271,91.3923052,,N2.lrps.htm
+,LRP132c,131.85,Culvert,Box culvert,24.2714716,91.3932219,,N2.lrps.htm
+,LRP133,131.996,Km Post,Sylhet 99 km,24.2720549,91.3946386,,N2.lrps.htm
+,LRP133a,132.037,Culvert,Box culvert,24.2721938,91.3949441,,N2.lrps.htm
+,LRP134,132.996,Km Post,Sylhet 98 km,24.2759993,91.4034167,,N2.lrps.htm
+,LRP134a,133.06,Bridge,Bridge start,24.2762771,91.4039167,,N2.lrps.htm
+,LRP134b,133.144,Bridge,Bridge end,24.2768882,91.4046111,,N2.lrps.htm
+,LRP134c,133.516,Culvert,Box culvert,24.278416,91.4077222,,N2.lrps.htm
+,LRP134d,133.713,Culvert,Box culvert,24.2793604,91.4093056,,N2.lrps.htm
+,LRP134e,133.93,Culvert,Box culvert,24.2803882,91.4111389,,N2.lrps.htm
+,LRP135,134.016,Km Post,Sylhet 97 km,24.2806938,91.4118333,,N2.lrps.htm
+,LRP135a,134.698,Culvert,Box culvert,24.2819993,91.4183049,,N2.lrps.htm
+,LRP136,135.006,Km Post,Sylhet 96 km,24.2821938,91.4213882,,N2.lrps.htm
+,LRP136a,135.082,"Side Road, Left",R221,24.2821382,91.4219716,,N2.lrps.htm
+,LRP136b,135.234,Culvert,Box culvert,24.2818882,91.4235549,,N2.lrps.htm
+,LRP137,136.016,Km Post,Sylhet 95 km,24.2806104,91.4312771,,N2.lrps.htm
+,LRP137a,136.516,Culvert,Box culvert,24.2799993,91.436083,,N2.lrps.htm
+,LRP138,137.001,Km Post,Sylhet 94 km,24.2790827,91.4407774,,N2.lrps.htm
+,LRP138a,137.532,Culvert,Box culvert,24.2759438,91.4445274,,N2.lrps.htm
+,LRP139,138.021,Km Post,Sylhet 93 km,24.2725271,91.4477774,,N2.lrps.htm
+,LRP139a,138.042,Culvert,Box culvert,24.272416,91.4478608,,N2.lrps.htm
+,LRP139b,138.525,Culvert,Box culvert,24.2691382,91.4509722,,N2.lrps.htm
+,LRP139c,139.021,Culvert,Box culvert,24.2663611,91.45475,,N2.lrps.htm
+,LRP140,139.031,Km Post,Sylhet 92 km,24.2663889,91.45475,,N2.lrps.htm
+,LRP140a,139.53,Culvert,Box culvert,24.2665556,91.4595833,,N2.lrps.htm
+,LRP140b,140.029,Culvert,Box culvert,24.2668327,91.4645278,,N2.lrps.htm
+,LRP141,140.036,Km Post,Sylhet 91 km,24.2668327,91.4645833,,N2.lrps.htm
+,LRP141a,140.657,Culvert,Box culvert,24.2671382,91.4706382,,N2.lrps.htm
+,LRP142,141.031,Km Post,Sylhet 90 km,24.2672493,91.4743604,,N2.lrps.htm
+,LRP142a,141.057,Culvert,Box culvert,24.2672216,91.4745827,,N2.lrps.htm
+,LRP142b,141.308,"Side Road, Left",R240 to Habiganj,24.2676938,91.4768882,,N2.lrps.htm
+,LRP142c,141.309,"Side Road, Right",N204 to Chunarughat,24.2676938,91.4768882,,N2.lrps.htm
+,LRP142d,141.623,Bridge,Bridge start,24.2701104,91.478416,,N2.lrps.htm
+,LRP142e,141.819,Bridge,Bridge end,24.271666,91.4792493,,N2.lrps.htm
+,LRP143,142.026,Km Post,Sylhet 89 km,24.2733604,91.4801382,,N2.lrps.htm
+,LRP143a,142.372,Rail Road Crossing,Rail Road Crossing,24.276166,91.4815549,,N2.lrps.htm
+,LRP144,143.031,Km Post,Sylhet 88 km,24.2793882,91.4868886,,N2.lrps.htm
+,LRP144a,143.154,Bridge,Bridge start,24.2799716,91.4879163,,N2.lrps.htm
+,LRP144b,143.181,Bridge,Bridge end,24.2801104,91.4881386,,N2.lrps.htm
+,LRP145,144.031,Km Post,Sylhet 87 km,24.2843608,91.4951108,,N2.lrps.htm
+,LRP145a,144.397,Culvert,Box culvert,24.2861663,91.4980552,,N2.lrps.htm
+,LRP145b,144.675,Culvert,Box culvert,24.2873886,91.5003333,,N2.lrps.htm
+,LRP146,145.041,Km Post,Sylhet 86 km,24.2892219,91.5034444,,N2.lrps.htm
+,LRP146a,145.322,Culvert,Box culvert,24.2908052,91.5055278,,N2.lrps.htm
+,LRP146b,145.961,"Side Road, Right",Road to Srimongal(N207),24.2947219,91.5100833,,N2.lrps.htm
+,LRP147,146.046,Km Post,Information missing,24.2954163,91.5104167,,N2.lrps.htm
+,LRP147a,146.36,Culvert,Box culvert,24.2978886,91.5111944,,N2.lrps.htm
+,LRP147b,146.656,Culvert,Box culvert,24.3004444,91.5119444,,N2.lrps.htm
+,LRP147c,146.944,Culvert,Box culvert,24.30275,91.51325,,N2.lrps.htm
+,LRP148,147.066,Km Post,Sylhet 84 km,24.3036944,91.514,,N2.lrps.htm
+,LRP148a,147.331,Culvert,Box culvert,24.3055556,91.5169438,,N2.lrps.htm
+,LRP148b,147.693,Culvert,Box Culvert,24.3075278,91.518166,,N2.lrps.htm
+,LRP148c,147.693,Culvert,Box culvert,24.3075278,91.518166,,N2.lrps.htm
+,LRP149,147.991,Km Post,Sylhet 83 km,24.3098056,91.5196104,,N2.lrps.htm
+,LRP149a,148.457,Culvert,Box culvert,24.313,91.522416,,N2.lrps.htm
+,LRP150,149.001,Km Post,Sylhet 82 km,24.3165833,91.5260827,,N2.lrps.htm
+,LRP150a,149.262,Culvert,Box culvert,24.3183604,91.5276382,,N2.lrps.htm
+,LRP150b,149.785,Bridge,Bridge start,24.3225271,91.5300271,,N2.lrps.htm
+,LRP150c,149.831,Bridge,Bridge end,24.3228604,91.5301938,,N2.lrps.htm
+,LRP151,150.001,Km Post,Sylhet 81 km,24.3243049,91.530916,,N2.lrps.htm
+,LRP151a,150.346,Culvert,Box culvert,24.3271104,91.5321938,,N2.lrps.htm
+,LRP152,151.001,Km Post,Km post missing,24.3329716,91.5334719,,N2.lrps.htm
+,LRP152a,151.089,Culvert,Box culvert,24.3336663,91.5334997,,N2.lrps.htm
+,LRP152b,151.536,Culvert,Box culvert,24.3367497,91.5336108,,N2.lrps.htm
+,LRP152c,151.678,Culvert,Box culvert,24.3379163,91.5337774,,N2.lrps.htm
+,LRP152d,151.852,Culvert,Box culvert,24.340333,91.5342497,,N2.lrps.htm
+,LRP153,152.031,Km Post,Sylhet 79 km,24.3419441,91.5346108,,N2.lrps.htm
+,LRP153a,152.157,Culvert,Box culvert,24.3429719,91.5348052,,N2.lrps.htm
+,LRP153b,152.497,Culvert,Box culvert,24.3459719,91.535333,,N2.lrps.htm
+,LRP153c,152.802,Culvert,Box culvert,24.3487497,91.5357497,,N2.lrps.htm
+,LRP154,153.041,Km Post,Sylhet 78 km,24.3508333,91.536083,,N2.lrps.htm
+,LRP154a,153.399,Bridge,Bridge start,24.3535,91.5379441,,N2.lrps.htm
+,LRP154b,153.465,Bridge,Bridge end,24.3538611,91.5384441,,N2.lrps.htm
+,LRP154c,153.667,Culvert,Box culvert,24.3551111,91.5398608,,N2.lrps.htm
+,LRP155,154.051,Km Post,Km post broken,24.3582222,91.5411386,,N2.lrps.htm
+,LRP155a,154.597,Culvert,Box culvert,24.363,91.5421663,,N2.lrps.htm
+,LRP156,155.051,Km Post,Sylhet 76 km,24.3668604,91.5438886,,N2.lrps.htm
+,LRP156a,155.22,Bridge,Bridge start,24.3682216,91.544583,,N2.lrps.htm
+,LRP156b,155.238,Bridge,Bridge end,24.3683049,91.5446663,,N2.lrps.htm
+,LRP156c,155.83,Culvert,Box culvert,24.3731382,91.5470274,,N2.lrps.htm
+,LRP157,156.061,Km Post,Sylhet 75 km,24.3750549,91.5479719,,N2.lrps.htm
+,LRP157a,156.361,Culvert,Box culvert,24.3774993,91.5491941,,N2.lrps.htm
+,LRP157b,156.913,Bridge,Bridge start,24.3819716,91.5513889,,N2.lrps.htm
+,LRP157c,156.929,Bridge,Bridge end,24.3820549,91.5514167,,N2.lrps.htm
+,LRP158,157.061,Km Post,Sylhet 74 km,24.3831938,91.5521111,,N2.lrps.htm
+,LRP158a,157.993,Culvert,Box culvert,24.3735549,91.5570556,,N2.lrps.htm
+,LRP159,158.066,Km Post,Sylhet 73 km,24.3908052,91.5574722,,N2.lrps.htm
+,LRP159a,158.32,Culvert,Box culvert,24.3926941,91.5587222,,N2.lrps.htm
+,LRP159b,158.739,Culvert,Box culvert,24.3959163,91.5608333,,N2.lrps.htm
+,LRP159c,158.943,Culvert,Box culvert,24.3974163,91.5618333,,N2.lrps.htm
+,LRP160,159.086,Km Post,Sylhet 72 km,24.3985274,91.5626667,,N2.lrps.htm
+,LRP160a,159.264,Culvert,Box culvert,24.3998052,91.5635556,,N2.lrps.htm
+,LRP160b,159.679,Culvert,Box culvert,24.4034167,91.5644444,,N2.lrps.htm
+,LRP160c,159.973,Bridge,Bridge start,24.406,91.5648889,,N2.lrps.htm
+,LRP160d,159.993,Bridge,Bridge end,24.4061944,91.5648889,,N2.lrps.htm
+,LRP161,160.091,Km Post,Sylhet 71 km,24.4071389,91.5649167,,N2.lrps.htm
+,LRP161a,160.146,Culvert,Box culvert,24.4076111,91.5649167,,N2.lrps.htm
+,LRP161b,160.422,Culvert,Box culvert,24.4100556,91.5649722,,N2.lrps.htm
+,LRP162,161.091,Km Post,Sylhet 70 km,24.4161111,91.566,,N2.lrps.htm
+,LRP162a,161.16,Culvert,Box culvert,24.4166389,91.5661111,,N2.lrps.htm
+,LRP162b,161.476,Culvert,Box culvert,24.4027222,91.5668882,,N2.lrps.htm
+,LRP162c,161.63,Culvert,Box culvert,24.4207216,91.5672493,,N2.lrps.htm
+,LRP162d,161.787,Culvert,Box culvert,24.4220827,91.5675549,,N2.lrps.htm
+,LRP162e,162.043,Culvert,Box culvert,24.4243327,91.5680271,,N2.lrps.htm
+,LRP163,162.091,Km Post,Sylhet 69 km,24.4248049,91.5681104,,N2.lrps.htm
+,LRP163a,162.23,Bridge,Bridge start,24.4260827,91.5682493,,N2.lrps.htm
+,LRP163b,162.268,Bridge,Bridge end,24.426416,91.5682493,,N2.lrps.htm
+,LRP163c,162.407,Culvert,Box culvert,24.4274716,91.5681938,,N2.lrps.htm
+,LRP163d,162.553,Culvert,Box culvert,24.4288882,91.5679438,,N2.lrps.htm
+,LRP163e,162.771,Culvert,Box culvert,24.4308327,91.568166,,N2.lrps.htm
+,LRP164,163.096,Km Post,Sylhet 68 km,24.4336663,91.5688049,,N2.lrps.htm
+,LRP164a,163.118,Culvert,Box culvert,24.4338608,91.5688327,,N2.lrps.htm
+,LRP164b,163.666,Culvert,Box culvert,24.4387774,91.5692216,,N2.lrps.htm
+,LRP164c,163.707,Bridge,Bridge start,24.4391663,91.568166,,N2.lrps.htm
+,LRP164d,163.722,Bridge,Bridge end,24.4392774,91.5692771,,N2.lrps.htm
+,LRP164e,164.056,Culvert,Box culvert,24.4421663,91.5698604,,N2.lrps.htm
+,LRP165,164.106,Km Post,Sylhet 67 km,24.4427219,91.5199716,,N2.lrps.htm
+,LRP165a,164.369,Bridge,Bridge start,24.4449997,91.5705549,,N2.lrps.htm
+,LRP165b,164.393,Bridge,Bridge end,24.4452219,91.5706104,,N2.lrps.htm
+,LRP165c,164.515,Culvert,Box culvert,24.4462497,91.570916,,N2.lrps.htm
+,LRP165d,164.681,Culvert,Box culvert,24.4476941,91.5713049,,N2.lrps.htm
+,LRP166,165.116,Km Post,Sylhet 66 km,24.4515833,91.5718604,,N2.lrps.htm
+,LRP166a,165.254,Culvert,Box culvert,24.4527222,91.5719993,,N2.lrps.htm
+,LRP166b,165.302,Culvert,Box culvert,24.4531389,91.9053889,,N2.lrps.htm
+,LRP166c,165.542,Culvert,Box culvert,24.4552778,91.5722771,,N2.lrps.htm
+,LRP166d,165.712,Culvert,Box culvert,24.4568333,91.5723882,,N2.lrps.htm
+,LRP166e,165.982,Culvert,Box culvert,24.4591944,91.5725271,,N2.lrps.htm
+,LRP167,166.121,Km Post,Sylhet 65 km,24.4604444,91.5726938,,N2.lrps.htm
+,LRP167a,166.149,Culvert,Box culvert,24.4605833,91.5744716,,N2.lrps.htm
+,LRP167b,166.5,Culvert,Box culvert,24.4636389,91.5733049,,N2.lrps.htm
+,LRP167c,166.6,Culvert,Box culvert,24.4645,91.573416,,N2.lrps.htm
+,LRP167d,167.121,Bridge,Bridge start,24.469166,91.5736938,,N2.lrps.htm
+,LRP167e,167.177,Bridge,Bridge end,24.4696938,91.5737493,,N2.lrps.htm
+,LRP168,167.316,Km Post,Sylhet 64 km,24.4708882,91.5738049,,N2.lrps.htm
+,LRP168a,167.581,Bridge,Bridge start,24.4732216,91.5743049,,N2.lrps.htm
+,LRP168b,167.604,Bridge,Bridge end,24.4733882,91.5743604,,N2.lrps.htm
+,LRP168c,167.822,Culvert,Box culvert,24.4752493,91.574916,,N2.lrps.htm
+,LRP169,168.178,Km Post,Sylhet 63 km,24.4783049,91.5758327,,N2.lrps.htm
+,LRP169a,168.358,Culvert,Box culvert,24.4798327,91.5762771,,N2.lrps.htm
+,LRP169b,168.633,Culvert,Box culvert,24.4821938,91.5769993,,N2.lrps.htm
+,LRP169c,168.869,Culvert,Box culvert,24.4842774,91.577666,,N2.lrps.htm
+,LRP169d,168.994,Culvert,Box culvert,24.4852774,91.5779716,,N2.lrps.htm
+,LRP169e,169.118,Culvert,Box culvert,24.4862774,91.5782771,,N2.lrps.htm
+,LRP170,169.198,Km Post,Sylhet 62 km,24.4870552,91.5784438,,N2.lrps.htm
+,LRP170a,169.22,Culvert,Box culvert,24.4872219,91.5784993,,N2.lrps.htm
+,LRP170b,169.267,Culvert,Box culvert,24.487583,91.5786104,,N2.lrps.htm
+,LRP170c,169.711,Bridge,Bridge start,24.4913886,91.5799716,,N2.lrps.htm
+,LRP170d,169.739,Bridge,Bridge end,24.4916386,91.5800549,,N2.lrps.htm
+,LRP170e,169.902,Culvert,Box culvert,24.4930274,91.580416,,N2.lrps.htm
+,LRP170f,169.957,Culvert,Box culvert,24.4934719,91.5804716,,N2.lrps.htm
+,LRP170g,170.019,Culvert,Box culvert,24.4939997,91.5805827,,N2.lrps.htm
+,LRP170h,170.096,Culvert,Box culvert,24.4946941,91.5807216,,N2.lrps.htm
+,LRP170i,170.144,Culvert,Box culvert,24.4951108,91.5808327,,N2.lrps.htm
+,LRP171,170.208,Km Post,Sylhet 61 km,24.4958052,91.5809438,,N2.lrps.htm
+,LRP171a,170.261,Culvert,Box culvert,24.4961663,91.5811104,,N2.lrps.htm
+,LRP171b,170.36,Culvert,Box culvert,24.4969441,91.5815827,,N2.lrps.htm
+,LRP171c,170.497,Culvert,Box culvert,24.4979997,91.5825827,,N2.lrps.htm
+,LRP171d,170.559,Culvert,Box culvert,24.4983052,91.5827771,,N2.lrps.htm
+,LRP171e,170.61,Culvert,Box culvert,24.4987219,91.5830271,,N2.lrps.htm
+,LRP171f,170.728,Culvert,Box culvert,24.4996941,91.5833608,,N2.lrps.htm
+,LRP171g,171.012,Culvert,Box culvert,24.5021944,91.5840274,,N2.lrps.htm
+,LRP172,171.173,Km Post,Sylhet 60 km,24.5035833,91.5843608,,N2.lrps.htm
+,LRP172a,171.402,Culvert,Box culvert,24.5055556,91.5848886,,N2.lrps.htm
+,LRP172b,171.484,Culvert,Box culvert,24.50625,91.5849719,,N2.lrps.htm
+,LRP172c,171.619,Culvert,Box culvert,24.5074444,91.5852219,,N2.lrps.htm
+,LRP172d,171.755,Culvert,Box culvert,24.5086944,91.5851663,,N2.lrps.htm
+,LRP172e,172.108,Culvert,Box culvert,24.5117778,91.5853052,,N2.lrps.htm
+,LRP173,172.243,Km Post,Sylhet 59 km,24.513,91.5853608,,N2.lrps.htm
+,LRP173a,172.608,Culvert,Box culvert,24.5159167,91.5867497,,N2.lrps.htm
+,LRP173b,173.078,Culvert,Box culvert,24.5195271,91.5891941,,N2.lrps.htm
+,LRP174,173.243,Km Post,Km post missing,24.5211382,91.5895274,,N2.lrps.htm
+,LRP174a,173.284,Bridge,Bridge start,24.5213049,91.5895552,,N2.lrps.htm
+,LRP174b,173.299,Bridge,Bridge end,23.5214438,91.589583,,N2.lrps.htm
+,LRP174c,173.521,Culvert,Box culvert,24.5234438,91.5903052,,N2.lrps.htm
+,LRP174d,173.725,Culvert,Box culvert,24.5248604,91.5916108,,N2.lrps.htm
+,LRP174e,174.036,Culvert,Box culvert,24.526916,91.5935274,,N2.lrps.htm
+,LRP175,174.243,Km Post,Km post missing,24.5284438,91.5949163,,N2.lrps.htm
+,LRP175a,174.353,Culvert,Box culvert,24.5289993,91.5954163,,N2.lrps.htm
+,LRP175b,174.921,Culvert,Box culvert,24.5333886,91.5982219,,N2.lrps.htm
+,LRP175c,175.101,Culvert,Box culvert,24.5347497,91.5991663,,N2.lrps.htm
+,LRP175d,175.233,Culvert,Box culvert,24.5356663,91.6000833,,N2.lrps.htm
+,LRP176,175.268,Km Post,Sylhet 56 km,24.5359719,91.6003889,,N2.lrps.htm
+,LRP176a,175.322,Culvert,Box culvert,24.5363052,91.6007222,,N2.lrps.htm
+,LRP176b,175.466,Culvert,Box culvert,24.5372497,91.6016389,,N2.lrps.htm
+,LRP176c,175.685,Culvert,Box culvert,24.5386941,91.6030556,,N2.lrps.htm
+,LRP176d,175.851,Culvert,Box culvert,24.5398608,91.6040556,,N2.lrps.htm
+,LRP176e,176.071,Culvert,Box culvert,24.5417219,91.6045278,,N2.lrps.htm
+,LRP176f,176.21,Culvert,Box culvert,24.5429163,91.6047222,,N2.lrps.htm
+,LRP177,176.268,Km Post,Km post missing,24.5435552,91.6048611,,N2.lrps.htm
+,LRP177a,176.36,Culvert,Box culvert,24.5443052,91.6049722,,N2.lrps.htm
+,LRP177b,176.744,Bridge,Bridge start,24.5477774,91.6054722,,N2.lrps.htm
+,LRP177c,176.798,Bridge,Bridge end,24.5482219,91.6055278,,N2.lrps.htm
+,LRP178,177.075,Km Post,Sylhet 54 km,24.5506667,91.6056111,,N2.lrps.htm
+,LRP178a,177.145,Bridge,Bridge start,24.5513056,91.6055278,,N2.lrps.htm
+,LRP178b,177.292,Bridge,Bridge end,24.5525833,91.6053333,,N2.lrps.htm
+,LRP178c,177.422,Bridge,Bridge start,24.55375,91.6051389,,N2.lrps.htm
+,LRP178d,177.458,Bridge,Bridge end,24.5540278,91.6051111,,N2.lrps.htm
+,LRP178e,177.707,Culvert,Box culvert,24.5565,91.6041667,,N2.lrps.htm
+,LRP178f,178.016,Culvert,Box culvert,24.5587778,91.6035,,N2.lrps.htm
+,LRP179,178.075,Km Post,Km post missing,24.5593056,91.6034444,,N2.lrps.htm
+,LRP179a,178.482,Culvert,Box culvert,24.5628333,91.60275,,N2.lrps.htm
+,LRP179b,178.858,Bridge,Bridge start,24.5661667,91.6028333,,N2.lrps.htm
+,LRP179c,178.879,Bridge,Bridge end,24.5663611,91.6028333,,N2.lrps.htm
+,LRP180,179.095,Km Post,Sylhet 52 km,24.5701938,91.6028611,,N2.lrps.htm
+,LRP180a,179.159,Bridge,Bridge start,22.5707493,91.6028333,,N2.lrps.htm
+,LRP180b,179.174,Bridge,Bridge end,24.5708882,91.6028333,,N2.lrps.htm
+,LRP180c,179.751,Culvert,Box culvert,24.5755549,91.6009167,,N2.lrps.htm
+,LRP181,180.08,Km Post,Sylhet 51 km,24.5779716,91.5990552,,N2.lrps.htm
+,LRP181a,180.394,Bridge,Bridge start,24.5805827,91.597833,,N2.lrps.htm
+,LRP181b,180.447,Bridge,Bridge end,24.5809993,91.5983608,,N2.lrps.htm
+,LRP181c,180.655,Culvert,Box culvert,24.5827771,91.5989719,,N2.lrps.htm
+,LRP181d,180.898,Bridge,Bridge start,24.5848052,91.5996663,,N2.lrps.htm
+,LRP181e,180.941,Bridge,Bridge end,24.5851386,91.5997774,,N2.lrps.htm
+,LRP182,181.13,Km Post,Sylhet 50 km,24.5868052,91.6003333,,N2.lrps.htm
+,LRP182a,181.215,Culvert,Box culvert,24.5875274,91.6005833,,N2.lrps.htm
+,LRP182b,181.468,Culvert,Box culvert,24.5896663,91.6013056,,N2.lrps.htm
+,LRP182c,181.657,"Side Road, Left",Road to Nabiganj (R240),24.5910552,91.6014167,,N2.lrps.htm
+,LRP182d,181.884,Culvert,Box culvert,24.5927774,91.6023056,,N2.lrps.htm
+,LRP183,182.18,Km Post,Sylhet 49 km,24.5949719,91.6040556,,N2.lrps.htm
+,LRP183a,182.261,Culvert,Box culvert,24.5952774,91.6047222,,N2.lrps.htm
+,LRP183b,182.666,Culvert,Box culvert,24.5958608,91.6086111,,N2.lrps.htm
+,LRP183c,182.954,Culvert,Box culvert,24.5962774,91.6113889,,N2.lrps.htm
+,LRP184,183.18,Km Post,Sylhet 48 km,24.597583,91.6131944,,N2.lrps.htm
+,LRP184a,183.652,Bridge,Bridge start,24.6011944,91.6156111,,N2.lrps.htm
+,LRP184b,183.713,Bridge,Bridge end,24.6016111,91.6153611,,N2.lrps.htm
+,LRP184c,184.052,Culvert,Box culvert,24.6041111,91.6177771,,N2.lrps.htm
+,LRP184d,184.165,Culvert,Box culvert,24.6049444,91.6185271,,N2.lrps.htm
+,LRP185,184.185,Km Post,Sylhet 47 km,24.6050556,91.618666,,N2.lrps.htm
+,LRP185a,184.563,Culvert,Box culvert,24.6071389,91.6216104,,N2.lrps.htm
+,LRP186,185.17,Km Post,Sylhet 46 km,24.6104722,91.6263604,,N2.lrps.htm
+,LRP186a,185.197,Culvert,Box culvert,24.6105556,91.6265549,,N2.lrps.htm
+,LRP186b,185.335,Culvert,Box culvert,24.6112778,91.627666,,N2.lrps.htm
+,LRP186c,185.552,Culvert,Box culvert,24.6123611,91.629416,,N2.lrps.htm
+,LRP186d,185.77,"Side Road, Left",Road to Raniganj (R241),24.6134167,91.6312493,,N2.lrps.htm
+,LRP186e,186.133,Bridge,Bridge start,24.6134722,91.6347774,,N2.lrps.htm
+,LRP186f,186.192,Bridge,Bridge end,24.6134722,91.6353608,,N2.lrps.htm
+,LRP187,186.23,Km Post,Sylhet 45 km,24.6134722,91.6357497,,N2.lrps.htm
+,LRP187a,187.1,Bridge,Bridge start,24.6128611,91.6441941,,N2.lrps.htm
+,LRP187b,187.116,Bridge,Bridge end,24.6128889,91.644333,,N2.lrps.htm
+,LRP188,187.21,Km Post,Sylhet 44 km,24.6130556,91.6452497,,N2.lrps.htm
+,LRP188a,187.857,Culvert,Box culvert,24.6143611,91.6514167,,N2.lrps.htm
+,LRP189,188.21,Km Post,Sylhet 43 km,24.6153333,91.65475,,N2.lrps.htm
+,LRP189a,188.774,Bridge,Bridge start,24.6169438,91.66,,N2.lrps.htm
+,LRP189b,188.806,Bridge,Bridge end,24.6170549,91.66025,,N2.lrps.htm
+,LRP190,189.21,Km Post,Sylhet 42 km/ Start of Moulavibazar road Division,24.6195827,91.6631667,,N2.lrps.htm
+,LRP190,189.21,Km Post,Sylhet 42 km/ Start of Moulavibazar road Division,24.6195827,91.6631667,,N2.lrps.htm
+,LRP190a,190.1,Bridge,Bridge start,24.6238604,91.6702771,,N2.lrps.htm
+,LRP190b,190.118,Bridge,Bridge end,24.623916,91.6703882,,N2.lrps.htm
+,LRP191,190.22,Km Post,Sylhet 41 km,24.6242493,91.6713882,,N2.lrps.htm
+,LRP191a,190.492,Culvert,Box culvert,24.625166,91.6738604,,N2.lrps.htm
+,LRP191b,190.892,"Side Road, Right",Road to Moulavo Bazar(N207),24.6264993,91.6774993,,N2.lrps.htm
+,LRP192,191.21,Km Post,Sylhet 40 km/ Start of Sylhet road Division,24.6290271,91.6784993,,N2.lrps.htm
+,LRP192,191.21,Km Post,Sylhet 40 km/ Start of Sylhet road Division,24.6290271,91.6784993,,N2.lrps.htm
+,LRP192a,191.284,Bridge,Bridge start,24.6293604,91.6791382,,N2.lrps.htm
+,LRP192b,191.564,Bridge,Bridge end,24.6305549,91.6815271,,N2.lrps.htm
+,LRP193,192.22,Km Post,Sylhet 39 km,24.6351386,91.6854163,,N2.lrps.htm
+,LRP194,193.123,Km Post,Sylhet 38 km,24.6417497,91.6905552,,N2.lrps.htm
+,LRP194a,193.188,Bridge,Bridge start,24.6422219,91.6908886,,N2.lrps.htm
+,LRP194b,193.351,Bridge,Bridge end,24.6432219,91.6919997,,N2.lrps.htm
+,LRP194c,194.258,Bridge,Bridge start,24.6489441,91.6983608,,N2.lrps.htm
+,LRP194d,194.285,Bridge,Bridge end,24.6491386,91.6984997,,N2.lrps.htm
+,LRP195,194.325,Km Post,Sylhet 37 km,24.6494441,91.6986941,,N2.lrps.htm
+,LRP196,195.288,Km Post,Sylhet 36 km,24.65525,91.7055833,,N2.lrps.htm
+,LRP196a,195.608,Culvert,Box culvert,24.6571944,91.7077778,,N2.lrps.htm
+,LRP197,196.298,Km Post,Sylhet 35 km,24.6625,91.7112222,,N2.lrps.htm
+,LRP197a,196.416,Culvert,Bridge start,24.6634444,91.7116389,,N2.lrps.htm
+,LRP197b,196.481,Bridge,Bridge end,24.664,91.7119167,,N2.lrps.htm
+,LRP198,197.298,Km Post,Sylhet 34 km,24.6707771,91.7151389,,N2.lrps.htm
+,LRP198a,197.355,Bridge,Bridge start,24.6712216,91.7153611,,N2.lrps.htm
+,LRP198b,197.369,Bridge,Bridge end,24.6713604,91.7154167,,N2.lrps.htm
+,LRP198c,198.279,Culvert,Box culvert,24.677666,91.7210549,,N2.lrps.htm
+,LRP199,198.308,Km Post,Sylhet 33 km,24.6777771,91.721166,,N2.lrps.htm
+,LRP199a,198.637,Bridge,Bridge start,24.6801104,91.7229993,,N2.lrps.htm
+,LRP199b,198.661,Bridge,Bridge end,24.6803049,91.7231104,,N2.lrps.htm
+,LRP199c,198.96,Culvert,Box culvert,24.6828604,91.7237771,,N2.lrps.htm
+,LRP200,199.308,Km Post,Sylhet 32 km,24.6861386,91.7243049,,N2.lrps.htm
+,LRP200a,199.344,Bridge,Bridge start,24.6864441,91.7243604,,N2.lrps.htm
+,LRP200b,199.37,Bridge,Bridge end,24.6866386,91.7243882,,N2.lrps.htm
+,LRP200c,199.612,Culvert,Box culvert,24.6887774,91.7246938,,N2.lrps.htm
+,LRP200d,200.217,Culvert,Box culvert,24.6940552,91.7259438,,N2.lrps.htm
+,LRP201,200.308,Km Post,Km post missing,24.6948608,91.7262216,,N2.lrps.htm
+,LRP201a,200.582,Culvert,Box culvert,24.6971663,91.7270549,,N2.lrps.htm
+,LRP201b,201.313,Culvert,Box culvert,24.7032222,91.7297493,,N2.lrps.htm
+,LRP202,201.333,Km Post,Sylhet 30 km,24.7033333,91.7298604,,N2.lrps.htm
+,LRP203,202.333,Km Post,Km post missing,24.7093889,91.7373886,,N2.lrps.htm
+,LRP203a,202.438,Culvert,Box culvert,24.7098056,91.7382497,,N2.lrps.htm
+,LRP204,203.328,Km Post,Sylhet 28 km,24.7148889,91.7448886,,N2.lrps.htm
+,LRP205,204.333,Km Post,Sylhet 27 km,24.7048611,91.7516944,,N2.lrps.htm
+,LRP205a,204.558,Culvert,Box Culvert,24.722916,91.7530556,,N2.lrps.htm
+,LRP205b,205.083,"Side Road, Right",Road to Balaganj (Z2022),24.7260827,91.7568889,,N2.lrps.htm
+,LRP206,205.333,Km Post,Sylhet 26 km,24.7273327,91.7591389,,N2.lrps.htm
+,LRP206a,205.614,Culvert,Box culvert,24.7284993,91.7615,,N2.lrps.htm
+,LRP206b,206.31,Culvert,Box culvert,24.7322493,91.7669438,,N2.lrps.htm
+,LRP207,206.333,Km Post,Km post broken,24.7323882,91.7671104,,N2.lrps.htm
+,LRP207a,206.766,Culvert,Box culvert,24.7350274,91.7702216,,N2.lrps.htm
+,LRP208,207.343,Km Post,Sylhet 24 km,24.7385552,91.774416,,N2.lrps.htm
+,LRP208a,207.993,Culvert,Box culvert,24.7436663,91.7768327,,N2.lrps.htm
+,LRP209,208.343,Km Post,Sylhet 23 km,24.7465552,91.7784993,,N2.lrps.htm
+,LRP209a,208.604,Culvert,Box culvert,24.7486386,91.7795271,,N2.lrps.htm
+,LRP209b,209.052,Culvert,Box culvert,24.7522778,91.7813327,,N2.lrps.htm
+,LRP210,209.348,Km Post,Sylhet 22 km,24.7548333,91.7823604,,N2.lrps.htm
+,LRP210a,210.011,Culvert,Box culvert,24.7605,91.7838886,,N2.lrps.htm
+,LRP211,210.348,Km Post,Sylhet 21 km,24.7636111,91.7836663,,N2.lrps.htm
+,LRP211a,210.636,Culvert,Box culvert,24.7661111,91.7686938,,N2.lrps.htm
+,LRP211b,210.913,Culvert,Box culvert,24.7686104,91.782916,,N2.lrps.htm
+,LRP212,211.358,Km Post,Sylhet 20 km,24.7726104,91.7829716,,N2.lrps.htm
+,LRP212a,212.001,Culvert,Box culvert,24.7783327,91.783833,,N2.lrps.htm
+,LRP213,212.363,Km Post,Sylhet 19 km,24.7815271,91.7843052,,N2.lrps.htm
+,LRP213a,212.741,Culvert,Box culvert,24.7847219,91.7849719,,N2.lrps.htm
+,LRP213b,213.311,Culvert,Box culvert,24.7890552,91.7876386,,N2.lrps.htm
+,LRP214,213.373,Km Post,Sylhet 18 km,24.7895274,91.7880552,,N2.lrps.htm
+,LRP214a,213.638,Culvert,Box culvert,24.7915274,91.7891108,,N2.lrps.htm
+,LRP214b,214.153,Culvert,Box culvert,24.7961386,91.7895274,,N2.lrps.htm
+,LRP215,214.258,Km Post,Sylhet 17 km,24.7970274,91.7896386,,N2.lrps.htm
+,LRP215a,215.211,Culvert,Box culvert,24.8055,91.7906663,,N2.lrps.htm
+,LRP216,215.418,Km Post,Sylhet 16 km,24.8072222,91.7911663,,N2.lrps.htm
+,LRP216a,215.472,Culvert,Box culvert,24.8075833,91.7912774,,N2.lrps.htm
+,LRP216b,215.832,"Side Road, Left",Road to Lamakazi (Z2016),24.8107222,91.7920274,,N2.lrps.htm
+,LRP216c,216.032,Culvert,Box culvert,24.8118056,91.7924163,,N2.lrps.htm
+,LRP217,216.438,Km Post,Sylhet 15 km,24.8150278,91.7953052,,N2.lrps.htm
+,LRP218,217.438,Km Post,Sylhet 14 km,24.820666,91.8029444,,N2.lrps.htm
+,LRP219,218.438,Km Post,Sylhet 13 km,24.8254438,91.8113333,,N2.lrps.htm
+,LRP219a,218.656,Culvert,Box culvert,24.8267216,91.813,,N2.lrps.htm
+,LRP220,219.438,Km Post,Sylhet 12 km,24.831666,91.8182771,,N2.lrps.htm
+,LRP220a,219.971,Bridge,Bridge start,24.8361941,91.8202771,,N2.lrps.htm
+,LRP220b,220.004,Bridge,Bridge end,24.8363052,91.8203327,,N2.lrps.htm
+,LRP221,220.438,Km Post,Sylhet 11 km,24.8401663,91.8216938,,N2.lrps.htm
+,LRP221a,220.464,Culvert,Box culvert,24.8402774,91.8217216,,N2.lrps.htm
+,LRP222,221.433,Km Post,Sylhet 10 km,24.8482774,91.8254438,,N2.lrps.htm
+,LRP222a,221.457,Culvert,Box culvert,24.8484997,91.8255271,,N2.lrps.htm
+,LRP222b,222.015,Culvert,Box culvert,24.8515556,91.8296104,,N2.lrps.htm
+,LRP223,222.463,Km Post,Sylhet 9 km,24.8545278,91.8326382,,N2.lrps.htm
+,LRP223a,223.223,Culvert,Box culvert,24.8584167,91.8384719,,N2.lrps.htm
+,LRP224,223.473,Km Post,Sylhet 8 km,24.8590833,91.840833,,N2.lrps.htm
+,LRP224a,223.528,Culvert,Box culvert,24.85925,91.8412497,,N2.lrps.htm
+,LRP224b,224.044,"Side Road, Left",R283,24.86075,91.8460552,,N2.lrps.htm
+,LRP224c,224.129,Bridge,Bridge start,24.8609167,91.846833,,N2.lrps.htm
+,LRP224d,224.173,Bridge,Bridge end,24.8610833,91.8472497,,N2.lrps.htm
+,LRP225,224.473,Km Post,Sylhet 7 km,24.8624722,91.8498886,,N2.lrps.htm
+,LRP225a,224.715,Culvert,Box culvert,24.8635278,91.8519444,,N2.lrps.htm
+,LRP225b,225.373,"Side Road, Right",Road to Balaganj (Z2013),24.8673049,91.8568056,,N2.lrps.htm
+,LRP226,225.493,Km Post,Sylhet 6 km,24.8677216,91.8577778,,N2.lrps.htm
+,LRP226a,225.729,Culvert,Box culvert,24.8681382,91.8601111,,N2.lrps.htm
+,LRP226b,225.865,Culvert,Box culvert,24.868416,91.8613611,,N2.lrps.htm
+,LRP226c,226.365,Culvert,Box culvert,24.870416,91.8655,,N2.lrps.htm
+,LRP227,226.493,Km Post,Km post missing,24.8714993,91.86625,,N2.lrps.htm
+,LRP227a,226.808,Culvert,Box culvert,24.8740271,91.8677493,,N2.lrps.htm
+,LRP228,227.493,Km Post,Km post missing,24.8771104,91.8729438,,N2.lrps.htm
+,LRP228a,227.568,Bridge,Bridge start,24.8772216,91.8735271,,N2.lrps.htm
+,LRP228b,227.587,Bridge,Bridge end,24.8772216,91.8737216,,N2.lrps.htm
+,LRP228c,227.756,"Side Road, Left",N209,24.8776938,91.8752771,,N2.lrps.htm
+,LRP228d,227.757,"Side Road, Right",N208 to Moulovibazar,24.8776938,91.8752771,,N2.lrps.htm
+,LRP229,227.793,Km Post,Km post broken,22.8777493,91.8755549,,N2.lrps.htm
+,LRP229a,227.988,Culvert,Under Pass R250,24.878666,91.8771382,,N2.lrps.htm
+,LRP229b,228.186,Bridge,Bridge start,24.8801938,91.8782493,,N2.lrps.htm
+,LRP229c,228.504,Bridge,Bridge end,24.8827493,91.8796938,,N2.lrps.htm
+,LRP230,228.793,Km Post,Km post missing,24.8851108,91.8808604,,N2.lrps.htm
+,LRP230a,229.093,Culvert,Box culvert,24.8874719,91.8804993,,N2.lrps.htm
+,LRP230b,229.207,Culvert,Box culvert,24.8884163,91.8801104,,N2.lrps.htm
+,LRP231,229.793,Km Post,Km post missing,24.8928886,91.8782493,,N2.lrps.htm
+,LRP231a,229.807,Culvert,Box culvert,24.8929997,91.8783049,,N2.lrps.htm
+,LRP231b,229.888,"Side Road, Left",Road to Keen Bridge(N206),24.8937497,91.878416,,N2.lrps.htm
+,LRP231c,230.174,Culvert,Box culvert,24.8951663,91.880166,,N2.lrps.htm
+,LRP231d,230.391,Culvert,Box culvert,24.8953052,91.8822493,,N2.lrps.htm
+,LRP231e,230.648,Culvert,Box culvert,24.8953608,91.8848052,,N2.lrps.htm
+,LRP232,230.793,Km Post,Km post missing,24.8953886,91.8863886,,N2.lrps.htm
+,LRP232a,230.939,Culvert,Box culvert,24.8951941,91.8877774,,N2.lrps.htm
+,LRP233,231.793,Km Post,Km post missing,24.8956941,91.8959441,,N2.lrps.htm
+,LRP233a,231.999,Culvert,Box culvert,24.8951941,91.897833,,N2.lrps.htm
+,LRP233b,232.724,Culvert,Box culvert,24.8966108,91.9039444,,N2.lrps.htm
+,LRP234,232.888,Km Post,Tamabil 50 km,24.8965274,91.9055556,,N2.lrps.htm
+,LRP234a,233.873,Culvert,Box culvert,24.9005,91.9141667,,N2.lrps.htm
+,LRP235,233.893,Km Post,Horipur 17 km,24.9006389,91.9144722,,N2.lrps.htm
+,LRP236,234.883,Km Post,Horipur 16 km,24.9055556,91.9226382,,N2.lrps.htm
+,LRP236a,235.123,Culvert,Box culvert,24.9068333,91.9244993,,N2.lrps.htm
+,LRP236b,235.773,Culvert,Box culvert,24.9069444,91.930416,,N2.lrps.htm
+,LRP237,235.883,Km Post,Tamabil 47 km,24.9101111,91.9311382,,N2.lrps.htm
+,LRP237a,236.563,Bridge,Bridge start,24.9132778,91.9366108,,N2.lrps.htm
+,LRP237b,236.573,Bridge,Bridge end,24.9132778,91.9366941,,N2.lrps.htm
+,LRP238,236.883,Km Post,Jaflong 50 km,24.9139167,91.9396941,,N2.lrps.htm
+,LRP238a,237.447,Bridge,Bridge start,24.9152222,91.947833,,N2.lrps.htm
+,LRP238b,237.464,Bridge,Bridge end,24.9152778,91.9479441,,N2.lrps.htm
+,LRP238c,237.692,Culvert,Box culvert,24.9157778,91.9473608,,N2.lrps.htm
+,LRP239,237.883,Km Post,Km post missing,24.91625,91.9494441,,N2.lrps.htm
+,LRP239a,237.923,"Side Road, Right",N210,24.9163056,91.949583,,N2.lrps.htm
+,LRP240,238.883,Km Post,Jaintapur 31 km,24.9196382,91.9583333,,N2.lrps.htm
+,LRP240a,238.909,Culvert,Box culvert,24.9197493,91.9585278,,N2.lrps.htm
+,LRP240b,239.215,Culvert,Box culvert,24.921166,91.9611389,,N2.lrps.htm
+,LRP241,239.883,Km Post,Tamabil 43 km,24.9252493,91.966,,N2.lrps.htm
+,LRP241a,240.565,Bridge,Bridge start,24.9294438,91.9708327,,N2.lrps.htm
+,LRP241b,240.582,Bridge,Bridge end,24.9295549,91.9708327,,N2.lrps.htm
+,LRP241c,240.787,Culvert,Box culvert,24.9305827,91.9725549,,N2.lrps.htm
+,LRP242,240.883,Km Post,Jaflong 46 km,24.9310827,91.9734716,,N2.lrps.htm
+,LRP242a,241.54,Culvert,Box culvert,24.9342219,91.9789716,,N2.lrps.htm
+,LRP243,241.883,Km Post,Horipur 9 km,24.9359163,91.9818049,,N2.lrps.htm
+,LRP243a,242.112,Bridge,Bridge start,24.9367497,91.9838886,,N2.lrps.htm
+,LRP243b,242.127,Bridge,Bridge end,24.9368052,91.9840274,,N2.lrps.htm
+,LRP243c,242.828,Culvert,Box culvert,24.9389997,91.9905274,,N2.lrps.htm
+,LRP244,242.888,Km Post,Jainyapur 27 km,24.9391663,91.9910274,,N2.lrps.htm
+,LRP245,243.888,Km Post,Tamabil 39 km,24.9440552,91.9991108,,N2.lrps.htm
+,LRP245a,244.601,Culvert,Box culvert,24.9488608,92.0035833,,N2.lrps.htm
+,LRP246,244.928,Km Post,Jaflong 42 km,24.9508056,92.006,,N2.lrps.htm
+,LRP246a,245.111,Bridge,Bridge start,24.9518611,92.0073333,,N2.lrps.htm
+,LRP246b,245.123,Bridge,Bridge end,24.9518889,92.0073889,,N2.lrps.htm
+,LRP246c,245.764,Culvert,Box culvert,24.9565278,92.0110278,,N2.lrps.htm
+,LRP247,245.938,Km Post,Horipur 5 km,24.9578611,92.0119167,,N2.lrps.htm
+,LRP247a,245.967,Culvert,Box culvert,24.9580556,92.0120278,,N2.lrps.htm
+,LRP247b,246.916,Culvert,Box culvert,24.96325,92.0188604,,N2.lrps.htm
+,LRP248,246.948,Km Post,Jaintapur 23 km,24.9632778,92.0192216,,N2.lrps.htm
+,LRP248a,247.479,Culvert,Box Culvert,24.9645278,92.024166,,N2.lrps.htm
+,LRP249,247.948,Km Post,Tamabil 35 km,24.9681104,92.0266382,,N2.lrps.htm
+,LRP249a,248.806,Culvert,Box culvert,24.972666,92.0328327,,N2.lrps.htm
+,LRP250,248.953,Km Post,Jaflong 38 km,24.9737216,92.0339163,,N2.lrps.htm
+,LRP250a,249.134,Culvert,Box culvert,24.9750271,92.0346663,,N2.lrps.htm
+,LRP251,249.953,Km Post,Horipur 1 km,24.9820549,92.0371108,,N2.lrps.htm
+,LRP251a,250.105,Culvert,Box culvert,24.9832216,92.037833,,N2.lrps.htm
+,LRP252,250.953,Km Post,Km post missing,24.9893608,92.0419997,,N2.lrps.htm
+,LRP252a,250.991,Bridge,Bridge start,24.989583,92.0422497,,N2.lrps.htm
+,LRP252b,251.09,Bridge,Bridge end,24.9902219,92.0429163,,N2.lrps.htm
+,LRP253,251.973,Km Post,Tamabil 31 km,24.9969441,92.0471108,,N2.lrps.htm
+,LRP253a,252.53,Bridge,Bridge start,25.0015833,92.0479719,,N2.lrps.htm
+,LRP253b,252.619,Bridge,Bridge end,25.0022778,92.0482497,,N2.lrps.htm
+,LRP254,252.973,Km Post,Jaflong 34 km,25.0047778,92.0505556,,N2.lrps.htm
+,LRP255,253.973,Km Post,Jaintapur 16 km,25.0110556,92.0576944,,N2.lrps.htm
+,LRP255a,254.476,Bridge,Bridge start,25.0141111,92.0612778,,N2.lrps.htm
+,LRP255b,254.514,Bridge,Bridge end,25.0143333,92.0615,,N2.lrps.htm
+,LRP256,254.973,Km Post,Tamabil 28 km,25.0175271,92.0644444,,N2.lrps.htm
+,LRP257,255.978,Km Post,Jaflong 31 km,25.0253604,92.0693882,,N2.lrps.htm
+,LRP257a,256.463,Bridge,Bridge start,25.0290827,92.0718327,,N2.lrps.htm
+,LRP257b,256.506,Bridge,Bridge end,25.0293882,92.0720271,,N2.lrps.htm
+,LRP258,256.983,Km Post,Jaintapur 13 km,25.0324438,92.0753049,,N2.lrps.htm
+,LRP258a,257.964,Bridge,Bridge start,25.0372497,92.0833886,,N2.lrps.htm
+,LRP258b,258.027,Bridge,Bridge end,25.0375274,92.083833,,N2.lrps.htm
+,LRP259,258.033,Km Post,Tamabil 25 km,25.0375552,92.0839163,,N2.lrps.htm
+,LRP260,258.993,Km Post,Jaflong 28 km,25.0433886,92.0909441,,N2.lrps.htm
+,LRP260a,259.711,Culvert,Box culvert,25.0478886,92.0959441,,N2.lrps.htm
+,LRP261,259.993,Km Post,Jaintapur 10 km,25.0497219,92.0980274,,N2.lrps.htm
+,LRP261a,260.526,Culvert,Box culvert,25.0364163,92.1016667,,N2.lrps.htm
+,LRP261b,260.851,Culvert,Box culvert,25.0551111,92.1038889,,N2.lrps.htm
+,LRP262,260.993,Km Post,Km post missing,25.0561944,92.10475,,N2.lrps.htm
+,LRP262a,261.318,Culvert,Box culvert,25.0588056,92.1061389,,N2.lrps.htm
+,LRP263,261.993,Km Post,Jaflong 25 km,25.0643889,92.1090556,,N2.lrps.htm
+,LRP263a,262.122,"Side Road, Right",Road to Kanaighat (Z2011),25.0654444,92.1095833,,N2.lrps.htm
+,LRP263b,262.383,Bridge,Bridge start,25.0675549,92.1106389,,N2.lrps.htm
+,LRP263c,262.411,Bridge,Bridge end,25.0678049,92.11075,,N2.lrps.htm
+,LRP264,262.993,Km Post,Jaintapur 7 km,25.0728604,92.1123333,,N2.lrps.htm
+,LRP265,263.998,Km Post,Km post broken,25.0815549,92.1150556,,N2.lrps.htm
+,LRP265a,264.16,Bridge,Bridge start,25.0829438,92.1154722,,N2.lrps.htm
+,LRP265b,264.183,Bridge,Bridge end,25.0831382,92.1155556,,N2.lrps.htm
+,LRP265c,264.882,"Side Road, Left",Road to Gowainghat (Z2012),25.0891386,92.1174993,,N2.lrps.htm
+,LRP266,264.993,Km Post,Jaflong 22 km,25.0900274,92.117916,,N2.lrps.htm
+,LRP266a,265.228,Bridge,Bridge start,25.092083,92.1178604,,N2.lrps.htm
+,LRP266b,265.424,Bridge,Bridge end,25.0938052,92.1178327,,N2.lrps.htm
+,LRP267,265.993,Km Post,Jaintapur 4 km,25.0990552,92.1178049,,N2.lrps.htm
+,LRP267a,266.441,Bridge,Bridge start,25.1030278,92.1184438,,N2.lrps.htm
+,LRP267b,266.468,Bridge,Bridge end,25.10325,92.1184716,,N2.lrps.htm
+,LRP268,266.998,Km Post,Jaintapur 3 km,25.1080556,92.1187493,,N2.lrps.htm
+,LRP269,268.008,Km Post,Jaflong 19 km,25.1170271,92.1191938,,N2.lrps.htm
+,LRP269a,268.983,Bridge,Bridge start,25.1252493,92.1163611,,N2.lrps.htm
+,LRP269b,269.069,Bridge,Bridge end,25.1260271,92.11625,,N2.lrps.htm
+,LRP270,269.078,Km Post,Jaintapur 1 km,25.1261382,92.1161944,,N2.lrps.htm
+,LRP270a,269.68,Bridge,Bridge start,25.1296382,92.1196382,,N2.lrps.htm
+,LRP270b,269.708,Bridge,Bridge end,25.1298327,92.1196382,,N2.lrps.htm
+,LRP270c,269.927,Bridge,Bridge start,25.131666,92.1203049,,N2.lrps.htm
+,LRP270d,269.954,Bridge,Bridge end,25.1318327,92.1204438,,N2.lrps.htm
+,LRP271,269.968,Km Post,Tamabil 13 km,25.1319438,92.1205549,,N2.lrps.htm
+,LRP271a,270.816,Bridge,Bridge start,25.1216382,92.1203327,,N2.lrps.htm
+,LRP271b,270.896,Bridge,Bridge end,25.1389441,92.1199438,,N2.lrps.htm
+,LRP272,270.928,Km Post,Jaflong 16 km,25.1391386,92.1198049,,N2.lrps.htm
+,LRP272a,271.123,Bridge,Bridge start,25.1408608,92.1197771,,N2.lrps.htm
+,LRP272b,271.142,Bridge,Bridge end,25.1410274,92.1197771,,N2.lrps.htm
+,LRP273,271.938,Km Post,Tamabil 11 km,25.1367219,92.1175827,,N2.lrps.htm
+,LRP273a,272.56,Bridge,Bridge start,25.15025,92.1126944,,N2.lrps.htm
+,LRP273b,272.625,Bridge,Bridge end,25.156,92.1121111,,N2.lrps.htm
+,LRP274,272.938,Km Post,Jaflong 14 km,25.1516667,92.10925,,N2.lrps.htm
+,LRP274a,273.046,Bridge,Bridge start,25.15225,92.1085,,N2.lrps.htm
+,LRP274b,273.093,Bridge,Bridge end,25.1526389,92.1083611,,N2.lrps.htm
+,LRP274c,273.253,Bridge,Bridge start,25.1536944,92.1073611,,N2.lrps.htm
+,LRP274d,273.271,Bridge,Bridge end,25.1538056,92.1071944,,N2.lrps.htm
+,LRP274e,273.458,Bridge,Bridge start,25.1546944,92.1056389,,N2.lrps.htm
+,LRP274f,273.499,Bridge,Bridge end,25.1549444,92.1054444,,N2.lrps.htm
+,LRP275,273.948,Km Post,Tamabil 9 km,25.1575833,92.1020278,,N2.lrps.htm
+,LRP275a,274.193,Bridge,Bridge start,25.1589167,92.1001389,,N2.lrps.htm
+,LRP275b,274.275,Bridge,Bridge end,25.1594167,92.099583,,N2.lrps.htm
+,LRP276,274.933,Km Post,Jaflong 12 km,25.1643889,92.0961108,,N2.lrps.htm
+,LRP276a,274.952,Bridge,Bridge start,25.1645556,92.0960274,,N2.lrps.htm
+,LRP276b,274.991,Bridge,Bridge end,25.1648611,92.095833,,N2.lrps.htm
+,LRP277,275.943,Km Post,Tamabil 7 km,25.1712216,92.0903052,,N2.lrps.htm
+,LRP278,276.943,Km Post,Jaflong 10 km,25.1736938,92.0815271,,N2.lrps.htm
+,LRP279,277.943,Km Post,Km post broken,25.1761104,92.0723327,,N2.lrps.htm
+,LRP280,278.943,Km Post,Jaflong 8 km,25.1801104,92.0637778,,N2.lrps.htm
+,LRP280a,279.83,Bridge,Bridge start,25.1772493,92.0558889,,N2.lrps.htm
+,LRP280b,279.871,Bridge,Bridge end,25.1770549,92.0555,,N2.lrps.htm
+,LRP281,279.943,Km Post,Tamabil 3 km,25.1767493,92.0549722,,N2.lrps.htm
+,LRP281a,280.032,Bridge,Bridge start,25.1763882,92.0542222,,N2.lrps.htm
+,LRP281b,280.061,Bridge,Bridge end,25.1762493,92.0539722,,N2.lrps.htm
+,LRP282,280.943,Km Post,Jaflong 6 km,25.1777216,92.0455552,,N2.lrps.htm
+,LRP283,281.943,Km Post,Km post missing,25.1808604,92.0364441,,N2.lrps.htm
+,LRP284,283.093,Km Post,Jaflong 4 km,25.1779438,92.0284716,,N2.lrps.htm
+,LRP284a,283.349,Culvert,Box culvert,25.1783049,92.0261938,,N2.lrps.htm
+,LRP284b,283.793,Culvert,Box culvert,25.1748327,92.0275827,,N2.lrps.htm
+,LRP285,284.113,Km Post,Jaflong 3 km,25.173416,92.0227771,,N2.lrps.htm
+,LRP285a,284.472,Culvert,Box culvert,25.1719438,92.0199716,,N2.lrps.htm
+,LRP285b,284.63,Culvert,Box culvert,25.1710827,92.0188049,,N2.lrps.htm
+,LRP286,284.938,Km Post,Km post broken,25.1700549,92.0163889,,N2.lrps.htm
+,LRP286a,285.232,Culvert,Box culvert,25.1679438,92.0179993,,N2.lrps.htm
+,LRP286b,285.557,Culvert,Box culvert,25.1651389,92.0182771,,N2.lrps.htm
+,LRP287,285.938,Km Post,Jaflong 1 km,25.1628889,92.0171104,,N2.lrps.htm
+,LRP287a,286.022,Bridge,Bridge start,25.1613333,92.0172771,,N2.lrps.htm
+,LRP287b,286.06,Bridge,Bridge end,25.1609722,92.0173327,,N2.lrps.htm
+,LRP287c,286.26,Culvert,Box culvert,25.15975,92.0174716,,N2.lrps.htm
+,LRPE,286.516,Others,Road End at Jaflong.,25.1570556,92.0176382,,N2.lrps.htm
+,,,,,,,,N2.lrps.htm
+,,,,,,,,N2.lrps.htm
