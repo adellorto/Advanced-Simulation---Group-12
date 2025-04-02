@@ -58,6 +58,12 @@ def assign_condition_category(row):
 # Assign categories
 roads_df['Condition Category'] = roads_df.apply(assign_condition_category, axis=1)
 
+#Assign numbers to categories
+# 0 is less vulnerable, 4 is most vulnerable
+mapping = {'A': 0, 'B': 1, 'C': 2, 'D': 4}
+roads_df['Condition Numeric'] = roads_df['Condition Category'].map(mapping)
+
+
 #Save categorized roads to a new csv file
 roads_df.to_csv('../data/processed_data/road_condition_categorized.csv', index=False)
 
