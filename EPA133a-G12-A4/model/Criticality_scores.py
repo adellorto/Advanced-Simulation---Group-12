@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-df = pd.read_csv("../data/RMMS/processed_data/combined_traffic_clean.csv")
+df = pd.read_csv("../data/processed_data/combined_traffic_clean.csv")
 
 df['length'] = np.random.randint(1, 11, size=len(df))
 

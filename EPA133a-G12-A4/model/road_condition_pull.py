@@ -67,7 +67,7 @@ for filename in os.listdir(directory_path):
 # Create a DataFrame from the collected data
 
 # Save to CSV with working contracts
-output_path = os.path.join('../data/RMMS/processed_data', 'road_condition_summary.csv')
+output_path = os.path.join('../data/processed_data', 'road_condition_summary.csv')
 roads_df = pd.DataFrame(road_condition_data)
 roads_df.to_csv(output_path, index=False)
 

@@ -8,7 +8,7 @@ import seaborn as sns
 '''
 
 #Start of by exploring the distribution of the works on the roads
-roads_df = pd.read_csv('../data/RMMS/processed_data/road_condition_summary.csv')
+roads_df = pd.read_csv('../data/processed_data/road_condition_summary.csv')
 print(roads_df.describe())
 
 #75 % of roads have 0 works going on, so we zoom into the top 25% roads being worked on
@@ -59,7 +59,7 @@ def assign_condition_category(row):
 roads_df['Condition Category'] = roads_df.apply(assign_condition_category, axis=1)
 
 #Save categorized roads to a new csv file
-roads_df.to_csv('../data/RMMS/processed_data/road_condition_categorized.csv', index=False)
+roads_df.to_csv('../data/processed_data/road_condition_categorized.csv', index=False)
 
 # Visualize the distribution of number of contracts and total kms being worked alongside assigned category
 

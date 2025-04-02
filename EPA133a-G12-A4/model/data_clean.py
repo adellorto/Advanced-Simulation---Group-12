@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 path = '../data/RMMS/combined_traffic.csv'
-clean_path = '../data/RMMS/processed_data/combined_traffic_clean.csv'  # Full output path
+clean_path = '../data/processed_data/combined_traffic_clean.csv'  # Full output path
 
 
 def clean_traffic(filename):
