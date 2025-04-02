@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 path = '../data/RMMS/combined_traffic.csv'
-clean_path = '../data/processed_data/combined_traffic_clean.csv'  # Full output path
+traffic_clean_path = '../data/processed_data/combined_traffic_clean.csv'  # Full output path
 
 
 def clean_traffic(filename):
@@ -32,9 +32,12 @@ def clean_lrps(filename):
 #df_assignment3 = pd.read_csv("../../EPA133a-Lab/EPA133a-G12-A3/data/final_input_data.csv")
 #df_assignment3['id'] = df_assignment3['id'].replace("1000", "LRPS")
 
+lrps_path = '../data/RMMS/combined_lrps.csv'
+lrps_clean_path = '../data/processed_data/combined_lrps_clean.csv'  # Full output path
 
 df_clean_traffic = clean_traffic(path)
-#df_clean_lrps = clean_lrps(path)
-df_clean_traffic.to_csv(clean_path, index=False)  # Save directly to clean_path
-#df_clean_lrps.to_csv(clean_path, index=False)
+df_clean_traffic.to_csv(traffic_clean_path, index=False)  # Save directly to clean_path
+
+df_clean_lrps = clean_lrps(lrps_path)
+df_clean_lrps.to_csv(lrps_clean_path, index=False)
 
