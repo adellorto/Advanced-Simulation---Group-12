@@ -14,6 +14,7 @@ for filename in os.listdir(folder_path):
         road_no = None
         road_name = None
         traffic_value = 0  # Default if not found
+        length_m = 0  # Default if not found
 
         try:
             tables = pd.read_html(file_path, header=None)
@@ -22,8 +23,19 @@ for filename in os.listdir(folder_path):
                 # Identify Basic Info table
                 if str(table.iloc[0, 0]).strip() == "Basic Info":
                     if table.shape[0] > 2 and table.shape[1] > 1:
-                        road_no = table.iloc[1, 1]
-                        road_name = table.iloc[2, 1]
+                        road_no = table.iloc[1, 1] #extract road number key
+                        road_name = table.iloc[2, 1] #extract road name key
+
+                        # Attempt to find the row where the first column says "Length"
+                        for i in range(len(table)):
+                            if "length" in str(table.iloc[i, 0]).lower():
+                                length_km = str(table.iloc[i, 1])
+                                try:
+                                    length_m = float(
+                                        length_km.split()[0]) * 1000  # extract number and convert to meters
+                                except:
+                                    print(f" Could not parse length for {filename}: raw value = '{length_km}'")
+                                break
 
                 # Identify Traffic & Other Info table
                 elif str(table.iloc[0, 0]).strip() == "Traffic & Other Info":
@@ -31,7 +43,7 @@ for filename in os.listdir(folder_path):
                         key = str(row[0]).strip().lower()
                         if "traffic" in key and "aadt" in key:
                             raw_value = str(row[1])
-                            match = re.search(r"\d+", raw_value)
+                            match = re.search(r"\d+", raw_value) #extract the motorized numeric value
                             if match:
                                 traffic_value = int(match.group(0))
                             break
@@ -40,7 +52,8 @@ for filename in os.listdir(folder_path):
                 traffic_info.append({
                     "Road No.": road_no,
                     "Road Name": road_name,
-                    "Traffic (AADT)": traffic_value
+                    "Traffic": traffic_value,
+                    "Length": length_m
                 })
                 print(f"IT worked for {filename}: AADT = {traffic_value}")
             else:
