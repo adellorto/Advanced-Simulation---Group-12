@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z7008.traffic.htm
+Z7008-1,Sripur-Langalbandh(int.with Z7405),LRPS,0,0,LRP008,1365,9.135,9.135,0.0,53.0,67.0,0.0,0.0,13.0,10.0,3.0,463.0,473.0,660.0,348.0,65.0,1082.0,1073.0,2155.0,2155.0,Z7008.traffic.htm
+Z7008-2,Langalbandh(int.with Z7405)-WAPDA More,LRP008,1365,9.135,LRPE,0,36.61,27.475,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z7008.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z7008.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z7008.traffic.htm

@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z8404.traffic.htm
+Z8404-1,Talma (Int.with N804) - Nagarkanda (Int.with Z8067),LRPS,0,0,LRP007,5430,12.46,12.460,0.0,153.0,130.0,82.0,93.0,64.0,40.0,35.0,753.0,962.0,478.0,476.0,0.0,2312.0,954.0,3266.0,3266.0,Z8404.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z8404.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z8404.traffic.htm

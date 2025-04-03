@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5801.traffic.htm
+Z5801-1,Start from Z5025-Kholahati Cantonment,LRPS,0,0,LRPS,1050,1.05,1.050,0.0,6.0,30.0,0.0,0.0,1.0,4.0,1.0,256.0,286.0,260.0,233.0,0.0,584.0,493.0,1077.0,1077.0,Z5801.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z5801.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5801.traffic.htm

@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z4021.traffic.htm
+Z4021-1,Jamalpur-Islampur Sub-Registrar office (int.with Z4622),LRPS,0,0,LRP005,21989,27.019,27.019,20.0,235.0,308.0,17.0,8.0,42.0,20.0,35.0,825.0,788.0,297.0,221.0,6.0,2298.0,524.0,2822.0,2822.0,Z4021.traffic.htm
+Z4021-2,Islampur Sub-Registrar office (int.with Z4622)-Dewanganj,LRP005,21989,27.019,LRPE,0,39.125,12.106,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z4021.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z4021.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z4021.traffic.htm

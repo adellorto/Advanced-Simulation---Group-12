@@ -1,0 +1,12 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z8708.traffic.htm
+Z8708-1,Rajapur-Mirerhat (int.with Z8062),LRPS,0,0,LRPS,5840,5.84,5.840,0.0,22.0,47.0,0.0,0.0,21.0,16.0,20.0,505.0,521.0,276.0,225.0,5.0,1152.0,506.0,1658.0,1658.0,Z8708.traffic.htm
+Z8708-2,Mirerhat(int.with Z8062)-Centerhat,LRPS,5840,5.84,LRPS,11650,11.65,5.810,0.0,7.0,16.0,0.0,0.0,6.0,2.0,5.0,339.0,397.0,467.0,383.0,0.0,772.0,850.0,1622.0,1622.0,Z8708.traffic.htm
+Z8708-3,Centerhat-Kachua (int.with Z8052),LRPS,11650,11.65,LRPS,18680,18.68,7.030,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z8708.traffic.htm
+Z8708-4,Kachua(int.with Z8052)-Kanthalia(int.with Z8705),LRPS,18680,18.68,LRPS,22978,22.978,4.298,0.0,0.0,18.0,0.0,61.0,8.0,4.0,3.0,408.0,372.0,194.0,151.0,0.0,874.0,345.0,1219.0,1219.0,Z8708.traffic.htm
+Z8708-5,Kanthalia(int.with Z8705)-Amua Ferryghat,LRPS,22978,22.978,LRPS,31043,31.043,8.065,0.0,7.0,16.0,0.0,0.0,6.0,2.0,5.0,339.0,397.0,467.0,383.0,0.0,772.0,850.0,1622.0,1622.0,Z8708.traffic.htm
+Z8708-6,Amua Ferryghat-Int.with Z8814,LRPS,31043,31.043,LRP042,4050,46.05,15.007,0.0,22.0,47.0,0.0,0.0,21.0,16.0,20.0,505.0,521.0,276.0,225.0,5.0,1152.0,506.0,1658.0,1658.0,Z8708.traffic.htm
+Z8708-7,Int.with Z8814-Kacchira,LRP042,4050,46.05,LRP060,1280,61.28,15.230,0.0,22.0,47.0,0.0,0.0,21.0,16.0,20.0,505.0,521.0,276.0,225.0,5.0,1152.0,506.0,1658.0,1658.0,Z8708.traffic.htm
+Z8708-8,Kacchira-Patharghata,LRP060,1280,61.28,LRP074,257,74.355,13.075,0.0,22.0,47.0,0.0,0.0,21.0,16.0,20.0,505.0,521.0,276.0,225.0,5.0,1152.0,506.0,1658.0,1658.0,Z8708.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z8708.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z8708.traffic.htm

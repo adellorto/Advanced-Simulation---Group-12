@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z8058.traffic.htm
+Z8058-1,Nalcity-Baisakia(Int.with Z8062),LRPS,0,0,LRP012,3382,15.382,15.382,0.0,0.0,10.0,0.0,0.0,0.0,2.0,0.0,898.0,696.0,538.0,452.0,0.0,1606.0,990.0,2596.0,2596.0,Z8058.traffic.htm
+Z8058-2,Baisakia (Int.with Z8062)-Pir Moazzem Hossain,LRP012,3382,15.382,LRP012,4413,16.413,1.031,0.0,0.0,10.0,0.0,0.0,0.0,2.0,0.0,898.0,696.0,538.0,452.0,0.0,1606.0,990.0,2596.0,2596.0,Z8058.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z8058.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z8058.traffic.htm

@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z6014.traffic.htm
+Z6014-1,Banpara-Walia(int.with Z6011),LRPS,0,0,LRP008,850,7.88,7.880,74.0,329.0,241.0,22.0,92.0,207.0,37.0,23.0,1272.0,1288.0,1148.0,969.0,0.0,3585.0,2117.0,5702.0,5702.0,Z6014.traffic.htm
+Z6014-2,Walia(int.with Z6011)-Lalpur(int.with Z6006),LRP008,850,7.88,LRPE,0,18.72,10.840,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z6014.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z6014.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z6014.traffic.htm

@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5471.traffic.htm
+Z5471-1,Kahalu-Talora(int.with Z5202),LRPS,0,0,LRPS,9370,9.37,9.370,0.0,24.0,35.0,0.0,0.0,0.0,0.0,12.0,1514.0,750.0,706.0,585.0,12.0,2335.0,1303.0,3638.0,3638.0,Z5471.traffic.htm
+Z5471-2,Talora(int.with Z5202)-Alamdighi (Bagdaha),LRPS,9370,9.37,LRPE,0,21.41,12.040,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5471.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z5471.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5471.traffic.htm

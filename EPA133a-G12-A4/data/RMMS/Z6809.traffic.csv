@@ -1,0 +1,7 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z6809.traffic.htm
+Z6809-1,Rajshahi (Kasiadanga) - Chabbis Nagar (Int. with Z6855),LRPS,0,0,LRP007,907,6.907,6.907,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z6809.traffic.htm
+Z6809-2,Chabbis Nagar (Int. with Z6855) - Palashbari (Int. with Z6855),LRP007,907,6.907,LRP014,525,13.715,6.808,17.0,163.0,248.0,38.0,70.0,68.0,93.0,47.0,1131.0,1127.0,1395.0,652.0,1.0,3002.0,2048.0,5050.0,5050.0,Z6809.traffic.htm
+Z6809-3,Palashbari (Int. with Z6855) -Amnura (Int. with Z6813),LRP014,525,13.715,LRPE,0,36.31,22.595,0.0,144.0,156.0,12.0,79.0,17.0,12.0,10.0,408.0,475.0,405.0,230.0,3.0,1313.0,638.0,1951.0,1951.0,Z6809.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z6809.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z6809.traffic.htm

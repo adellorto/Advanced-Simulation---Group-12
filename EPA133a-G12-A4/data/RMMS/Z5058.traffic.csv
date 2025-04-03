@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5058.traffic.htm
+Z5058-1,Ullahpara-Belkuchi,LRPS,0,0,LRPS,16310,16.31,16.310,4.0,25.0,129.0,0.0,10.0,9.0,6.0,0.0,950.0,824.0,1001.0,1190.0,0.0,1957.0,2191.0,4148.0,4148.0,Z5058.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z5058.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5058.traffic.htm

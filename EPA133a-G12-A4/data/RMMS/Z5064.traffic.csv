@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5064.traffic.htm
+Z5064-1,Baniajuri-Jhitka (int.with Z5066),LRPS,0,0,LRP016,103,16.03,16.030,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5064.traffic.htm
+Z5064-2,Jhitka (int.with Z5066)-Harirampur,LRP016,103,16.03,LRP024,605,24.536,8.506,0.0,131.0,184.0,0.0,169.0,260.0,7.0,37.0,761.0,883.0,843.0,488.0,0.0,2432.0,1331.0,3763.0,3763.0,Z5064.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z5064.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5064.traffic.htm

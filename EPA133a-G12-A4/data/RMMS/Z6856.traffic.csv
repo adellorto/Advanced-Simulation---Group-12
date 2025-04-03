@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z6856.traffic.htm
+Z6856-1,Manda-Bagmara (int.with Z6856),LRPS,0,0,LRP029,635,28.625,28.625,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z6856.traffic.htm
+Z6856-2,Bagmara (int.with Z6856)-Atrai,LRP029,635,28.625,LRPE,0,46.54,17.915,0.0,99.0,69.0,0.0,5.0,23.0,14.0,19.0,791.0,430.0,621.0,562.0,0.0,1450.0,1183.0,2633.0,2633.0,Z6856.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z6856.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z6856.traffic.htm

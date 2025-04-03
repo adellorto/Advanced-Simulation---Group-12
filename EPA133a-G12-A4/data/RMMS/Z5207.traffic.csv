@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5207.traffic.htm
+Z5207-1,Kathom-Int.with Z5202,LRPS,0,0,LRPS,5020,5.02,5.020,0.0,160.0,58.0,0.0,3.0,90.0,45.0,8.0,1275.0,1342.0,614.0,631.0,0.0,2981.0,1245.0,4226.0,4226.0,Z5207.traffic.htm
+Z5207-2,Int.with Z5202-Raninagar,LRPS,5020,5.02,LRPE,0,39.336,34.316,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5207.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z5207.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5207.traffic.htm

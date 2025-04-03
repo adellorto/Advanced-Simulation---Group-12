@@ -1,0 +1,7 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5456.traffic.htm
+Z5456-1,Mohadebpur-Shibpur (int.with Z5464),LRPS,0,0,LRP012,3055,15.145,15.145,0.0,242.0,205.0,5.0,98.0,15.0,1.0,10.0,286.0,387.0,221.0,217.0,0.0,1249.0,438.0,1687.0,1687.0,Z5456.traffic.htm
+Z5456-2,Shibpur (int.with Z5464)-Saraigachhi(int.with R547),LRP012,3055,15.145,LRP029,240,29.64,14.495,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5456.traffic.htm
+Z5456-3,Saraigachhi(int.with R547)-Porsha (Nitpur),LRP029,240,29.64,LRPE,0,38.275,8.635,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5456.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z5456.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5456.traffic.htm

@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z7002.traffic.htm
+Z7002-1,Sasrail (Int.with Z7001) - Alphadanga,LRPS,0,0,LRP002,2691,4.691,4.691,0.0,21.0,24.0,59.0,53.0,21.0,12.0,12.0,583.0,424.0,385.0,291.0,0.0,1209.0,676.0,1885.0,1885.0,Z7002.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z7002.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z7002.traffic.htm

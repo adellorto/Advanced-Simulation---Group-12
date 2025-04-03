@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5616.traffic.htm
+Z5616-1,Nageswari-Int. with Z5901,LRPS,0,0,LRP016,390,16.95,16.950,0.0,150.0,105.0,0.0,0.0,37.0,5.0,7.0,996.0,1207.0,1300.0,904.0,11.0,2507.0,2215.0,4722.0,4722.0,Z5616.traffic.htm
+Z5616-2,Int. with Z5901-Phulbari (int.with Z5617),LRP016,390,16.95,LRPE,0,18.772,1.822,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5616.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z5616.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5616.traffic.htm

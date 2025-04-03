@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z1018.traffic.htm
+Z1018-1,Shikalbaha-Anwara (Hospital),LRPS,0,0,LRP008,68,8.078,8.078,0.0,39.0,139.0,0.0,129.0,110.0,47.0,98.0,2230.0,259.0,259.0,368.0,0.0,3051.0,627.0,3678.0,3678.0,Z1018.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z1018.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z1018.traffic.htm

@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z1060.traffic.htm
+Z1060-1,Int with R112 - Shekher Jaiga,LRPS,0,0,LRPS,1568,1.568,1.568,0.0,118.0,141.0,0.0,0.0,14.0,9.0,6.0,667.0,277.0,90.0,196.0,0.0,1232.0,286.0,1518.0,1518.0,Z1060.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z1060.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z1060.traffic.htm

@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z1125.traffic.htm
+Z1125-1,Ekatabazar-Int.with R170,LRPS,0,0,LRP011,808,11.813,11.813,0.0,316.0,283.0,0.0,102.0,400.0,171.0,212.0,1509.0,282.0,169.0,185.0,0.0,3275.0,354.0,3629.0,3629.0,Z1125.traffic.htm
+Z1125-2,Int.with R170-Magnamaghat,LRP011,808,11.813,LRPE,0,19.275,7.462,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1125.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z1125.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z1125.traffic.htm

@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z8916.traffic.htm
+Z8916-1,Guingerhat (Int.with R890) - Int.with Z8915,LRPS,0,0,LRP004,3626,7.626,7.626,0.0,0.0,76.0,0.0,0.0,31.0,29.0,15.0,672.0,640.0,453.0,524.0,0.0,1463.0,977.0,2440.0,2440.0,Z8916.traffic.htm
+Z8916-2,Int.with Z8915 - Daulatkhan Bazar,LRP004,3626,7.626,LRP005,6600,11.591,3.965,0.0,0.0,76.0,0.0,0.0,31.0,29.0,15.0,672.0,640.0,453.0,524.0,0.0,1463.0,977.0,2440.0,2440.0,Z8916.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z8916.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z8916.traffic.htm

@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5903.traffic.htm
+Z5903-1,Patgram-Int.with Z5904,LRPS,0,0,LRPS,925,0.925,0.925,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5903.traffic.htm
+Z5903-2,"Int.with Z5904-Angarpota,Lalmonirhat",LRPS,925,0.925,LRPE,0,18.1,17.175,0.0,25.0,34.0,0.0,0.0,2.0,0.0,0.0,377.0,395.0,412.0,256.0,0.0,833.0,668.0,1501.0,1501.0,Z5903.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z5903.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5903.traffic.htm

@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z8804.traffic.htm
+Z8804-1,Galachipa (Haridebpur)-Shakharia,LRPS,0,0,LRP018,62,16.527,16.527,0.0,0.0,89.0,0.0,82.0,2.0,40.0,31.0,838.0,837.0,305.0,192.0,0.0,1919.0,497.0,2416.0,2416.0,Z8804.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z8804.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z8804.traffic.htm

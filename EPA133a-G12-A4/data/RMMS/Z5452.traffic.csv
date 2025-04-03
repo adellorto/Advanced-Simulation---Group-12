@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5452.traffic.htm
+Z5452-1,Joypurhat-Akkelpur,LRPS,0,0,LRP015,1175,16.235,16.235,1.0,167.0,186.0,2.0,53.0,97.0,39.0,21.0,916.0,1363.0,1008.0,732.0,1.0,2845.0,1741.0,4586.0,4586.0,Z5452.traffic.htm
+Z5452-2,Akkelpur-Badalgachhi,LRP014,2035,16.235,LRP025,1065,26.32,10.085,8.0,144.0,141.0,6.0,3.0,10.0,4.0,4.0,416.0,499.0,421.0,432.0,0.0,1235.0,853.0,2088.0,2088.0,Z5452.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z5452.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5452.traffic.htm

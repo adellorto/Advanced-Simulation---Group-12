@@ -1,0 +1,8 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z1421.traffic.htm
+Z1421-1,Sonaimuri-Int.with R141,LRPS,0,0,LRPS,964,0.964,0.964,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1421.traffic.htm
+Z1421-2,Sonaimuri (Int.with R141)-Chaterpaiya (Int.with Z1420),LRPS,964,0.964,LRP006,530,5.54,4.576,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1421.traffic.htm
+Z1421-3,Chaterpaiya (Int.with Z1420)-Gazirhat (Int.with Z1444),LRP006,530,5.54,LRP015,1272,14.322,8.782,0.0,101.0,138.0,0.0,86.0,36.0,16.0,35.0,1460.0,300.0,318.0,280.0,0.0,2172.0,598.0,2770.0,2770.0,Z1421.traffic.htm
+Z1421-4,Gazirhat (Int.with Z1444)-Kallayandi (int.with N104),LRP015,1272,14.322,LRPE,0,24.372,10.050,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1421.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z1421.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z1421.traffic.htm

@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z2403.traffic.htm
+Z2403-1,Habiganj-Baniyachang (int.with Z2405),LRPS,0,0,LRPS,16660,16.66,16.660,0.0,205.0,296.0,4.0,48.0,266.0,9.0,34.0,1933.0,475.0,190.0,526.0,0.0,3270.0,716.0,3986.0,3986.0,Z2403.traffic.htm
+Z2403-2,Baniyachang (int.with Z2405)-Sullah,LRPS,16660,16.66,LRPS,20165,20.165,3.505,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z2403.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z2403.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z2403.traffic.htm

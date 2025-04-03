@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z2020.traffic.htm
+Z2020-1,"Fenchuganj, Ferryghat more-Palbari",LRPS,0,0,LRP003,6897,9.742,9.742,1.0,186.0,25.0,0.0,101.0,71.0,39.0,24.0,595.0,174.0,92.0,77.0,28.0,1216.0,197.0,1413.0,1413.0,Z2020.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z2020.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z2020.traffic.htm
