@@ -1347,8 +1347,6 @@ LRP466b,461.904,Bridge,Bridge start,20.8650278,92.2982497
 LRP466c,461.946,Bridge,Bridge end,20.8646667,92.2981941
 LRP467,462.124,Km Post,Infor.missing,20.8629722,92.298083
 LRPE,462.254,Others,"End of Road at Shapla Chattar ,Teknaf Meet with Z1098 &Z1099.",20.8629167,92.298083
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of Road from N120 at Balutopa,23.4541389,91.2128611
 LRPSa,0.55,Culvert,Pipe Culvert,23.4618889,91.212
 LRP001,1.0,Km Post,Km post missing,23.4629444,91.2118056
@@ -1366,8 +1364,6 @@ LRP005a,5.185,Bridge,Bridge start,23.4587778,91.2474997
 LRP005b,5.208,Bridge,Bridge end,23.4587222,91.2477497
 LRP006,6.0,Km Post,Km post missing,23.4594167,91.2532222
 LRPE,6.021,Others,End of road Bibir bazar Bridge,23.4593056,91.2533889
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of road from N1 Mainamati,23.4789716,91.1181938
 LRPSa,0.329,Culvert,Box Culvert,23.4815827,91.1167771
 LRPSb,0.995,Culvert,Box Culvert,23.4866663,91.1133611
@@ -1590,8 +1586,6 @@ LRP081,80.699,Km Post,Km post missing,24.0330827,91.1129167
 LRP082,81.714,Km Post,Madhebpur 23 km Sylhet170 km,24.0421108,91.1139722
 LRP082a,82.133,Culvert,Box Culvert,24.045833,91.1146667
 LRPE,82.682,Others,Meet with N 2 at Sanail,24.0506111,91.1146667
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start from N102 at Kuatali.,23.9570278,91.1155278
 LRP001,0.639,Km Post,"Brahmanbaria 1 km,Sylhet 179 km",23.9619167,91.1136111
 LRP001a,1.31,Rail Road Crossing,Rail Road Crossing,23.967666,91.1118889
@@ -1604,8 +1598,6 @@ LRP004,3.639,Km Post,Km post missing,23.9873608,91.1124722
 LRP004a,3.651,Culvert,Box culvert,23.9874163,91.1124444
 LRP005,4.639,Km Post,Km post missing,23.9956663,91.1093333
 LRPE,4.779,Others,Intersection with N102 at Ghaturia.,23.9968886,91.1092778
-,,,,,
-,,,,,
 LRPS,0.0,Others,Intersection with Z1031,23.0096667,91.3994163
 LRPSa,0.445,Culvert,Box culvert,23.0092778,91.3952497
 LRP001,1.0,Km Post,Km post missing,23.0093056,91.3898052
@@ -1731,8 +1723,6 @@ LRP049a,48.872,Culvert,Box culvert,22.8324993,91.1005833
 LRP049b,49.394,Culvert,Box culvert,22.8278327,91.10125
 LRP049c,49.51,"Side Road, Right",Sonapur Link Road Z-1440,22.8533333,91.0967774
 LRPE,49.63,Others,Meet with Z1441& Z1405 at Sonapur.,22.8257493,91.1014444
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Starts of road from N1,Dhaka teknaf road at Madanpur.",23.6904163,90.5466108
 LRP001,1.0,Km Post,Km post missing,23.6984163,90.5510556
 LRP001a,1.12,Culvert,Box culvert,23.6993052,90.5515278
@@ -1859,8 +1849,6 @@ LRP047a,47.643,Culvert,Box culvert,23.9826382,90.3669993
 LRP047b,48.265,Culvert,Box Culvert,23.986583,90.3625
 LRP048,48.87,Km Post,"B.Bridge 83 km,Tangail 60 km",23.9895274,90.3582222
 LRPE,48.881,Others,End of Road Intersection at N4 at Joydebpur.,23.9895274,90.3582222
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of Road from Oxygen More,22.3935552,91.8215827
 LRPSa,0.48,Culvert,Box culvert,22.3974997,91.8200271
 LRPSb,0.648,Culvert,Box culvert,22.3990552,91.8198049
@@ -2076,8 +2064,6 @@ LRP067,64.625,Km Post,Km post missing,22.647083,92.1852219
 LRP068,65.525,Km Post,Rangamati 2 km,22.6463052,92.1926663
 LRP069,66.425,Km Post,Police Comissionar Bunglow 1 km,22.6454441,92.1974163
 LRPE,66.85,Others,The road ends Infront of DC Bunglow,22.6485274,92.2018333
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of Road from Kalurghat Bridge End,22.3944163,91.891833
 LRPSa,0.309,Bridge,Bridge start,22.3921941,91.8931663
 LRPSb,0.342,Bridge,Bridge end,22.3918886,91.8931108
@@ -2110,8 +2096,6 @@ LRP009a,9.942,"Side Road, Right","Z 1070, Patya Monewsertek Anwara road",22.3191
 LRP010,10.018,Km Post,Km post missing,22.3187216,91.9205271
 LRP010a,10.019,Culvert,Box culvert,22.3187216,91.9205271
 LRPE,10.542,Others,Intersection with N1 at Moneswartek.,22.3159722,91.9235827
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of road from N1 at Keranirhat,22.1021389,92.0740827
 LRPSa,0.886,Culvert,Box Culvert,22.10375,92.082416
 LRP001,1.019,Km Post,Bandarban 21 km,22.1039722,92.0836108
@@ -2206,8 +2190,6 @@ LRP021g,21.907,Bridge,Bridge end,22.1901941,92.2151944
 LRP021h,22.01,"Side Road, Right","Z 1811, Bandarban-Thanchi road",22.1911663,92.215
 LRP022,22.231,Km Post,Bandarban 0 km,22.1930274,92.2156111
 LRPE,22.541,Others,End of road Intersecting R161 at Bandarban,22.1960552,92.2176104
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road Start from N1 at after Ramu Hospital.,21.4433608,92.1014722
 LRPSa,0.125,Bridge,Bridge start,21.4423052,92.1019167
 LRPSb,0.175,Bridge,Bridge end,21.4418886,92.1019444
@@ -2220,8 +2202,6 @@ LRP001b,1.78,Culvert,Box Culvert,21.4292216,92.102
 LRP002,1.945,Km Post,Km post missing,21.4290271,92.1006111
 LRP002a,2.32,Culvert,Box culvert,21.4286382,92.0971108
 LRPE,2.51,Others,Road end with Khalekuzzaman Chattar at N1.,21.4284716,92.0953052
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Road Start from N1 at Teknaff 79 Km Cox,s Bazar 8 Km.",21.4259438,92.0232493
 LRPSa,0.38,Culvert,Box culvert,21.4248049,92.0199438
 LRPSb,0.837,Culvert,Box culvert,21.4246104,92.0156111
@@ -2254,8 +2234,6 @@ LRP007b,6.6,Culvert,Box Culvert,21.4310549,91.9757771
 LRP007c,7.4,Culvert,Box Culvert,21.4341386,91.9726382
 LRP008,7.56,Km Post,Infor.missing,21.4359997,91.9715827
 LRPE,8.2,Others,Road end with Intersection of R180 at Laboni Point.,21.4420552,0.0
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of road from N1,22.3934441,91.7491386
 LRPSa,0.744,Culvert,Box culvert,22.3904997,91.7533889
 LRP001,0.905,Km Post,Bandar 1 km,22.3891663,91.7538889
@@ -2301,8 +2279,6 @@ LRP011a,11.44,Bridge,Flyover start,22.3072778,91.7944163
 LRP012,12.04,Km Post,Km post missing,22.3132778,91.7916663
 LRP012a,12.434,Bridge,Flyover end,22.2992219,91.7925274
 LRPE,12.66,Others,End od road at Chittagong port.,21.2984719,91.7922219
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of from N104 at Pach Gachia mor,23.0091944,91.3693882
 LRPSa,0.01,Culvert,Box Culvert,23.0093056,91.3694716
 LRPSb,0.386,Culvert,Box Culvert,23.0117778,91.3716104
@@ -2313,15 +2289,11 @@ LRP001b,1.22,Cross Road,N1,23.0187493,91.3705271
 LRP002,2.0,Km Post,Km post missing,23.0255827,91.3724438
 LRP002a,2.7,Culvert,Box Culvert,23.0317216,91.374166
 LRPE,2.72,Others,Start of road at Dewangonj mor meet with Z1031,23.0318604,91.3742493
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start of road from N1 at Palki Chinema Hall , Chandin, Comilla.",23.4914441,90.9936108
 LRP001,1.0,Km Post,Km post missing,23.4878052,91.0013611
 LRP002,2.0,Km Post,Km post missing,23.4868886,91.0090833
 LRP002a,2.38,Culvert,Box Culvert,23.4867774,91.0128056
 LRPE,2.85,Others,"End of road at Katherpool, Chandin and meet with N1",0.0,0.0
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start of road N1 at Alaker Chor, Comilla.",23.4772771,91.1361108
 LRPSa,0.281,Culvert,Box Culvert,23.4758049,91.1381663
 LRP001,1.0,Km Post,Km post missing,23.4724716,91.1434441
@@ -2370,8 +2342,6 @@ LRP020,20.0,Km Post,Km post missing,23.364,91.2487219
 LRP020a,20.136,"Turn off, Right",Turn of right,23.36375,91.25
 LRP020b,20.87,Culvert,Box Culvert,23.3584167,91.2530278
 LRPE,20.94,Others,End of road at Lalbag mor and meet with N1,23.3581667,91.2534722
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of road from N1,22.8941386,91.5344719
 LRPSa,0.666,Culvert,Box Culvert,22.888833,91.5320827
 LRP001,1.0,Km Post,Km post missing,22.8846663,91.532166
@@ -2391,35 +2361,23 @@ LRP007a,6.81,Culvert,Box Culvert,22.8447774,91.542083
 LRP007b,7.43,Culvert,Box Culvert,22.8402774,91.5455552
 LRP008,7.75,Km Post,Km post missing,22.8387219,91.5472219
 LRPE,8.06,Others,"End of road Intersecting N1, Near filling station",22.8357497,91.5488886
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of road from N1,22.8100556,91.5564722
 LRPE,0.857,Others,End of road Intersecting N1,22.8029722,91.55925
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of road from N1,22.7603889,91.5826104
 LRP001,1.0,Km Post,Km post missing,22.7546667,91.587083
 LRPE,1.14,Others,End of road Intersecting N1,22.7526111,91.5890552
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of road from N1,22.7603889,91.5826104
 LRP001,1.0,Km Post,Km post missing,22.7546667,91.587083
 LRPE,1.345,Others,End of road Intersecting N1,22.7526111,91.5890552
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of road from N1,22.6608056,91.6340274
 LRPSa,0.15,Culvert,Box Culvert,22.6598056,91.6349997
 LRPE,0.305,Others,The road end at N1,22.6585556,91.6354997
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of road from N1,22.624666,91.6548056
 LRPSa,0.134,Culvert,Box Culvert,22.6236382,91.6554444
 LRPSb,0.49,Culvert,Box Culvert,22.6208604,91.657
 LRP001,1.0,Km Post,Km post missing,22.6169716,91.6595556
 LRP001a,1.11,Culvert,Box Culvert,22.6162222,91.66
 LRPE,1.297,Others,End of road,22.61475,91.6608611
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of road from N1,22.5226382,91.7040833
 LRPSa,0.492,Culvert,Box Culvert,22.5207493,91.7083056
 LRP001,1.0,Km Post,Km post missing,22.5173604,91.7118889
@@ -2429,8 +2387,6 @@ LRP001c,1.85,"Side Road, Right",Z1025 (Kumira Sandwip Road),22.5093611,91.712583
 LRP002,2.0,Km Post,Km post missing,22.5081111,91.7124444
 LRP002a,2.61,Culvert,Box Culvert,22.5031111,91.7131944
 LRPE,2.79,Others,End of road Intersecting N1,22.5015833,91.7134722
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road Start from N1 at Katchpur,23.7059167,90.5214438
 LRP001,0.166,Km Post,Sylhet 230 km,23.7068889,90.5204716
 LRP002,1.166,Km Post,Sylhet 229 km,23.7151389,90.5168327
@@ -3328,15 +3284,11 @@ LRP287a,286.022,Bridge,Bridge start,25.1613333,92.0172771
 LRP287b,286.06,Bridge,Bridge end,25.1609722,92.0173327
 LRP287c,286.26,Culvert,Box culvert,25.15975,92.0174716
 LRPE,286.516,Others,Road End at Jaflong.,25.1570556,92.0176382
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start from N2 at Bhairab.,24.0537222,90.9875552
 LRPSa,0.071,Culvert,Box Culvert,24.0532778,90.9878608
 LRPSb,0.342,Culvert,Box Culvert,24.0513056,90.989333
 LRPSc,0.441,Culvert,Overpass N2,24.0507778,90.9897774
 LRPE,0.975,Others,The road ends at Old Ferryghat.,24.05075,90.9951108
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start from N2 at Jagannathganj.,24.1479163,91.3466108
 LRPSa,0.545,Culvert,Box culvert,24.1483608,91.3513889
 LRP001,0.63,Km Post,Hobiganj 31 km,24.1475552,91.3513611
@@ -3430,8 +3382,6 @@ LRP035b,33.724,Culvert,Box culvert,24.2626944,91.4812216
 LRP036,34.26,Km Post,Km post missing,24.2665556,91.4778604
 LRP036a,34.287,Culvert,Box culvert,24.2667493,91.4776938
 LRPE,34.421,Others,Road End intersecting N2 at Shaistagonj Round About.,24.2673882,91.4771382
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start from N2 at Chandipool.,24.8677771,91.8571111
 LRPSa,0.023,Culvert,Box Culvert,24.867916,91.8571944
 LRP001,1.0,Km Post,Km post missing,24.8759993,91.8608333
@@ -3440,8 +3390,6 @@ LRP001b,1.838,Rail Road Crossing,Rail Road Crossing,24.882916,91.8640556
 LRP001c,1.85,"Side Road, Right",Sylhet Rail station Bypass Road (N 209),24.8830271,91.8642222
 LRP002,2.0,Km Post,Km post missing,24.884333,91.8642778
 LRPE,2.478,Others,The road end Intersecting N208 Near the Bridge,24.886083,91.8680827
-,,,,,
-,,,,,
 LRPS,0.0,"Side Road, Left","Road start at Keean bridge More ,intersection of N209, R250, N205 anf N206",24.8859441,91.868166
 LRPSa,0.028,Bridge,Bridge start,24.886333,91.8682493
 LRPSb,0.377,Bridge,Bridge end,24.8882497,91.8680271
@@ -3450,8 +3398,6 @@ LRP001,1.0,Km Post,Km post missing,24.8914997,91.8717493
 LRP001a,1.368,Culvert,Box Culvert,24.8923886,91.8751382
 LRP001b,1.77,Culvert,Box Culvert,24.8938052,91.8781382
 LRPE,1.797,Others,Road End with N2 at Nyarpool,24.8939441,91.8783049
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start from N2 at Mirpur.,24.2948608,91.51025
 LRPSa,0.226,Culvert,Pipe culvert,24.2964163,91.5120833
 LRPSb,0.457,Bridge,Bridge Start,24.297583,91.5135278
@@ -3619,8 +3565,6 @@ LRP066a,66.091,Culvert,Box Culvert,24.6095556,91.6780271
 LRP067,66.685,Km Post,Sylhet 39 km,24.6150556,91.6772216
 LRP068,67.635,Km Post,Sylhet 38 km,24.6232771,91.678166
 LRPE,67.985,Others,Road end with N2 at Mukti joddha Chattor Sherpur.,24.6263327,91.6775271
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road Start from N207 infront of RHD,24.4713604,91.7655556
 LRP001,1.0,Km Post,Km post missing,24.4757216,91.7727771
 LRP001a,1.305,Culvert,Box culvert,24.4756382,91.7758049
@@ -3799,8 +3743,6 @@ LRP056a,55.51,Culvert,Box culvert,24.8615278,91.8818604
 LRP057,55.595,Km Post,Sylhet 6 km,24.8618889,91.8810271
 LRP058,56.595,Km Post,Sylhet 5 km,24.8694993,91.8760271
 LRPE,57.495,Others,"Road end at Humayun Rashid Chattar, Intersection od N2 and N208",24.8775549,91.8753604
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of the Road at Humayun Rashid Chattar Intersection between N2 and N209,24.8775549,91.8753604
 LRPSa,0.09,Culvert,Box culvert,24.8781382,91.8753049
 LRPSb,0.43,Cross Road,Intersection with R250,24.8813882,91.8753327
@@ -3808,8 +3750,6 @@ LRPSc,0.682,Culvert,Box Culvert,24.8817771,91.872916
 LRPSd,0.97,Culvert,Box Culvert,24.8822771,91.8701104
 LRP001,1.0,Km Post,Km post missing,24.8830271,91.8690271
 LRPE,1.33,Others,"Road End at Keean bridge More at Intersection of N205, R250 , N209 and N206",24.8859441,91.868166
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road Start From N2 At Khadimnagar Bypass Point,24.9162778,91.9495552
 LRP001,0.04,Km Post,Dhaka 255 Km,24.9158889,91.9496663
 LRP001a,0.2,Culvert,Box Culvert,24.9145,91.9496941
@@ -3850,23 +3790,15 @@ LRP010b,10.055,Culvert,Box Culvert,24.8474163,91.9044167
 LRP011,10.07,Km Post,Dhaka 245 Km,24.8474719,91.9041667
 LRP011a,10.313,Culvert,Box Culvert,24.8476663,91.9017778
 LRPE,10.844,Others,Road End With N208 at Royal City Chottor,24.8479997,91.8967497
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of road from N204 at Moulavibazar Town,24.485583,91.7655833
 LRP001,1.0,Km Post,Km post miaaing,24.4858608,91.7758604
 LRP001a,1.137,Culvert,Slab Culvert,24.4858886,90.426416
 LRPE,1.148,Others,The road ends intersecting N208,24.4858886,90.4264438
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of road from N2 at Tamabil,25.1813882,92.0347219
 LRPSa,0.41,Culvert,Box Culvert,25.1835552,92.0321938
 LRPE,0.49,Others,Road end at Bangladesh India Border Near the Customs Office.,25.1836663,92.032166
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of road from N2 at Asugonj Gol Chottor,24.0387497,91.0033889
 LRPE,0.5,Others,"End of road at Asugonj new Ferry Ghat , B.Baria",24.0423608,91.0009444
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of Road From the End of Banani Rail Crossing Over Pass,23.8145833,90.4043056
 LRP001,1.0,Km Post,Km post missing,23.8173327,90.4123611
 LRP001a,1.81,"Side Road, Right",Progoti Sharani,23.8217771,90.4191104
@@ -4142,8 +4074,6 @@ LRP112a,111.053,"Turn off, Right",trisal Busstand at right,24.7533333,90.4045
 LRP112b,111.326,Rail Road Crossing,Rail Road Crossing,24.7557222,90.4053056
 LRP113,111.475,Km Post,Km post missing,24.7566944,90.4060833
 LRPE,111.583,Others,"Ganginar More,Shapla chattar & Intersect with Z3038",24.7575,90.40675
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road Start from N3,23.8805827,90.4011389
 LRP001,1.0,Km Post,Km post missing,23.8803049,90.3920274
 LRP002,2.0,Km Post,Km post missing,23.8889719,90.3892219
@@ -4175,14 +4105,10 @@ LRP016,15.257,Km Post,Km post missing,23.9367497,90.2916663
 LRP017,16.257,Km Post,Km post missing,23.936833,90.2821382
 LRP018,17.257,Km Post,Km post missing,23.936833,90.2724993
 LRPE,17.555,Others,Road end Intersecting N540 at Bipail more,23.9379441,90.2698327
-,,,,,
-,,,,,
 LRPS,0.0,Others,The Road starts from N3 before Churkhai Bazar,24.6712771,90.4035833
 LRPSa,0.736,Bridge,Bridge start,24.6775827,90.4055556
 LRPSb,0.809,Bridge,Bridge end,24.677666,90.4057222
 LRPE,1.009,Others,The Road ends intersecting N3 after Churkhai Bazar,24.6784993,90.4071667
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start from Z3033 at Kewat Khali By pass more.,24.740083,90.4249993
 LRPSa,0.048,Rail Road Crossing,Rail Road Crossing,24.7397774,90.4246938
 LRP001,0.078,Km Post,Dhaka 119 klm,24.7396108,90.4245271
@@ -4232,8 +4158,6 @@ LRP013a,13.022,Culvert,Slab Culvert,24.7800271,90.3461108
 LRP013b,13.139,Culvert,Box Culvert,24.7811104,90.3452497
 LRP014,13.293,Km Post,Muktagacha 10 km,24.7822493,90.3442497
 LRPE,13.303,Others,"Road End with N401,madhupur-Mymensingh road.",24.7822771,90.3442219
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road Start from N3,23.9893886,90.3818327
 LRP001,1.0,Km Post,Km post missing,23.9894997,90.3719993
 LRP002,2.0,Km Post,Km post missing,23.9890274,90.3622222
@@ -4588,8 +4512,6 @@ LRP148,145.632,Km Post,Km post missing,24.9173327,89.9509444
 LRP148a,145.792,Culvert,Drain Culvert,24.9187493,89.9510556
 LRP148b,146.232,Culvert,Drain Culvert,24.9227216,89.9505
 LRPE,146.305,Others,End of road Jamalpur Muktagacha round Intersection with Z4021,24.9230549,89.9501667
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road Start from N4 at Madhupur,24.6071667,90.0287493
 LRPSa,0.49,Culvert,Box Culvert,24.6108333,90.0311104
 LRPSb,0.763,Culvert,Box Culvert,24.6128333,90.0324438
@@ -4689,8 +4611,6 @@ LRP045a,45.374,Culvert,Box culvert,24.7668604,90.392083
 LRP046,45.94,Km Post,Mymensingh 1 km,24.7641389,90.3968608
 LRP046a,46.541,"Side Road, Right","Z 3035, Mymensingh-Fulbaria road",24.7626111,90.40225
 LRPE,46.98,Others,Road End with Mymensingh Zero Point at Kacharir more and connecting R370.,24.7636667,90.4060278
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road Start from R371 at Nakla.,24.9718049,90.1785549
 LRPSa,0.14,Bridge,Bridge start,24.9730827,90.1786104
 LRPSb,0.2,Bridge,Bridge end,24.9734993,90.1784993
@@ -4766,8 +4686,6 @@ LRP026b,26.72,"Side Road, Right",Right to Bhogai Bridge,25.1929719,90.2155556
 LRP027,27.0,Km Post,Km post missing,25.1956108,90.2183049
 LRP027a,27.87,Culvert,Nakugaon Border,25.1999441,90.2237216
 LRPE,28.0,Others,End of road at Boarder Pillar.,25.2005556,90.2242493
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Road start from N4 at Bypass more ,Deohata Mirzapur,Tangail.",24.0964997,90.1162222
 LRPSa,0.357,Bridge,Bridge start,24.0961941,90.1125833
 LRPSb,0.39,Bridge,Bridge end,24.0961941,90.1124444
@@ -4780,8 +4698,6 @@ LRP003a,3.245,"Side Road, Left","Z5061, Kamalpur Busstand- Mirzapur road",24.102
 LRP003b,3.353,Bridge,Bridge start,24.1042222,90.0864719
 LRP003c,3.396,Bridge,Bridge end,24.1045278,90.0863886
 LRPE,3.732,Others,"Road End with N4 at Kustokumari,Chorpara,Tangail",24.1073611,90.0856108
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start from N4,24.2425552,89.9404719
 LRPSa,0.233,Culvert,Box Culvert,24.2429441,89.9383052
 LRP001,1.0,Km Post,Km post missing,24.2474441,89.933166
@@ -4801,8 +4717,6 @@ LRP006,5.527,Km Post,Maymonshing 92 km,24.2755549,89.920166
 LRP006a,5.766,Bridge,Bridge Start,24.2774993,89.9192493
 LRP006b,5.817,Bridge,Bridge End,24.277916,89.9190549
 LRPE,6.489,Others,Road end with N4 at Bypass more.,24.2836386,89.9172771
-,,,,,
-,,,,,
 LRP036c,36.144,"Side Road, Right","R541, Start Sirajganj Div.",24.4228049,89.5963608
 LRP036d,36.54,Bridge,Bridge start,24.4232771,89.5924441
 LRP036e,36.75,Bridge,Bridge end,24.4235271,89.5903052
@@ -4813,8 +4727,6 @@ LRP040,39.835,Km Post,Km post broken,24.4203604,89.5609167
 LRP040a,40.28,Bridge,Bridge start,24.4197216,89.5565833
 LRP040b,40.344,Bridge,Bridge end,24.419666,89.556
 LRPE,40.78,Others,"Road end with Hatikamrul more Intersection with N5, N507 & N405.",24.4190827,89.5518056
-,,,,,
-,,,,,
 LRPS,0.0,Others,The road starts from N4 near IT park Gate,23.9894163,90.2247493
 LRPSa,0.297,Rail Road Crossing,Box Culvert,24.0628333,90.224166
 LRPSb,0.953,Culvert,Box Culvert,24.0678049,90.2210549
@@ -4824,8 +4736,6 @@ LRP001b,1.791,Bridge,Baily Bridge end,24.0697216,90.2140278
 LRP002,2.0,Km Post,Km post missing,24.0711104,90.2125
 LRP002a,2.802,Cross Road,R315,24.0776104,90.2098889
 LRPE,3.042,Others,The road ends intersecting N4 at Kaliakoir,24.0793049,90.2081944
-,,,,,
-,,,,,
 LRPS,0.0,Others,The road starts from N408 at Karatia Bazar,24.2223049,89.9781104
 LRPSa,0.716,Bridge,Baily Bridge start,24.2273604,89.9801104
 LRPSb,0.738,Bridge,Baily Bridge end,24.2274716,89.9803049
@@ -4835,8 +4745,6 @@ LRP001b,1.811,Bridge,Start of RCC bridge,24.2295549,89.9896386
 LRP001c,1.842,Bridge,End of bridge,24.2295827,89.989833
 LRP002,2.0,Km Post,Km post missing,24.229916,89.9910552
 LRPE,2.206,Others,The road ends Intersecting Z4012 at Bangra,24.2307493,89.9929719
-,,,,,
-,,,,,
 LRPS,0.0,Others,The road starts from N4 at Kartikpara.,24.2092778,89.9802493
 LRPSa,0.358,Culvert,Box Culvert,24.2123611,89.9800827
 LRPSb,0.898,Culvert,Box Culvert,24.2171104,89.9793882
@@ -4849,8 +4757,6 @@ LRP002a,2.011,Culvert,Box Culvert,24.2242493,89.9738882
 LRP003,3.0,Km Post,Km post missing,24.2274993,89.9639167
 LRP003a,3.342,Culvert,Box Culvert,24.2283882,89.9620833
 LRPE,3.532,Others,Thr roads ends Intersecting N4 at Khudirampur.,24.2284716,89.96125
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road Start From Mirpur Bridge Gabtoli,23.7837774,90.3364163
 LRPSa,0.255,Bridge,Bridge End,23.7846663,90.3341386
 LRP001,0.96,Km Post,"Paturia 78 km,Nabinagar 21 km",23.7872497,90.3279438
@@ -6088,8 +5994,6 @@ LRP522,524.033,Km Post,Banglabandha 2 km,26.6159444,88.4094167
 LRP523,525.033,Km Post,Banglabandha 1 km,23.6245827,88.4121667
 LRP524,526.013,Km Post,Banglabandha 0 km,26.6331938,88.41475
 LRPE,526.033,Others,"End at N5 at Banglabandha Zero Point ,India Bangladesh Barder.",26.6332216,88.4148333
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start from Diabari More,23.7985552,90.3434163
 LRP001,0.952,Km Post,Km post missing,23.8061389,90.3425274
 LRP002,1.951,Km Post,Ashulia 14km,23.8143889,90.3406663
@@ -6106,8 +6010,6 @@ LRP009,8.951,Km Post,Ashulia 6km,23.8687493,90.3529722
 LRP010,9.951,Km Post,Ashulia 5km,23.8605556,90.3543611
 LRP011,10.951,Km Post,Km post Broken,23.8837774,90.3605556
 LRPE,11.942,Others,The road ends intersecting N302 at Dhour,23.8922497,90.3618056
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start from N 5 at Jahangirabad Bogra,24.821916,89.36275
 LRP001,0.01,Km Post,Nababgonj 159 lm,24.8218882,89.3626389
 LRP001a,0.45,Culvert,Box culvert,24.8200271,89.35925
@@ -6259,8 +6161,6 @@ LRP063,62.01,Km Post,Km post missing,24.4194993,89.0004167
 LRP063a,62.945,Others,Madrasha more lsland,24.4124167,88.9963608
 LRP064,63.28,Km Post,Natore 0 km,24.4119444,88.9961108
 LRPE,63.29,Others,"End at Madrasha more,Natore.",24.4118889,88.9961108
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start with N 5 at Utholi.,23.8435552,89.8113333
 LRPSa,0.268,Culvert,Box culvert,23.8427497,89.809
 LRPSb,0.848,Bridge,Bridge start,23.8413052,89.8035556
@@ -6275,8 +6175,6 @@ LRP002a,2.412,Bridge,Bridge start,23.8378886,89.7888886
 LRP002b,2.435,Bridge,Bridge end,23.8378886,89.7886663
 LRP003,2.831,Km Post,Aricha,23.8369441,89.7849719
 LRPE,3.269,Others,Road end with Aricha ghat.,23.8359441,89.7807771
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start at Kashinathpur Round About and Intersection at N6,N5 and N504,Bera,Pabna.",23.9580556,89.6071944
 LRP001,0.675,Km Post,Nagarbari 4 km,23.9546389,89.6127778
 LRP001a,1.092,Culvert,2 Vent Box culvert,23.9530556,89.6165556
@@ -6290,8 +6188,6 @@ LRP004,3.667,Km Post,Nagarbari 1 km,23.9526944,89.641083
 LRP005,4.667,Km Post,Km post missing,23.947333,89.6507778
 LRP005a,5.587,Others,Road was Broken by River Wave,23.9427497,89.6521389
 LRPE,6.653,Others,Survey not done,0.0,0.0
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start at Hanif more intersection at N5 Baderhat, bera, Pabna.",23.892583,89.6530278
 LRPSa,0.224,Culvert,Box Culvert,23.8913608,89.6548611
 LRP001,0.6,Km Post,Kazirhat 2 km,23.8889719,89.6574722
@@ -6302,8 +6198,6 @@ LRP003,2.6,Km Post,Km post missing,23.873916,89.6688327
 LRP003a,2.7,Others,End Bituminus road,23.8732771,89.6692216
 LRP004,3.6,Km Post,Km post missing,23.8665278,89.6740827
 LRPE,4.4,Others,River ( Maldharhar),23.8635833,89.6811938
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start from N517 at park and more , Rangpur.",25.7161111,89.2623056
 LRP001,0.028,Km Post,"Kurigram 50 km,Burangamari 89 km",25.7161944,89.2624444
 LRP001a,0.165,Culvert,Box culvert,25.7169438,89.2635833
@@ -6425,8 +6319,6 @@ LRP050,48.857,Km Post,Kurigram 1 km,25.8109167,89.6323049
 LRP050b,49.777,Culvert,Box Culvert,25.81275,89.642833
 LRP051,49.857,Km Post,Kurigram 00 km,25.8130278,89.642833
 LRPE,50.017,Others,End at kurigram Shapla chattor and Meet with Z 5622 & Z 5621,25.8130278,89.643333
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start from N 5 at Hatikamrul Round about,24.4192216,89.5518056
 LRP001,0.14,Km Post,Natore 68 km Rajshahi 116 km,24.4188604,89.5505
 LRP002,1.035,Km Post,Natore 67km Rajshahi 115km,25.4164722,89.5420552
@@ -6587,8 +6479,6 @@ LRP050a,49.189,Culvert,Box Culvert,24.298083,89.0986663
 LRP050b,49.845,Culvert,Box Culvert,24.2969719,89.0935552
 LRP051,50.25,Km Post,Natore 18 km Kushtia 74 km,24.2984719,89.0806382
 LRPE,51.26,Others,End at Banpara Round about. & Connect with N 6,24.2984163,89.0797771
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start at Dosmile more infront of RHD distance sign boart Sharing Saidpur and Dinajpur.,25.7565556,88.6736938
 LRP001,0.155,Km Post,Km post broken,25.75525,88.6734716
 LRP002,1.155,Km Post,Km post missing,25.7462774,88.6716938
@@ -6621,8 +6511,6 @@ LRP016b,15.375,Monument,Shadinota Chattar,25.6263327,88.6367497
 LRP016c,15.38,"Side Road, Left",R 585 to Gobindaganj,25.6259438,88.6366941
 LRP016d,15.625,Rail Road Crossing,Dinajpur Rail,25.6241382,88.6359997
 LRPE,15.975,Others,End of road at RHD km Sing board Dinajpur 0km infront of D.C.office Dinajpur.,25.6215827,88.6347497
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start at Simultola Barobari from N 506, Lalmonirhat",25.8698049,89.51025
 LRP001,0.022,Km Post,Burimary 105 km,25.8699716,89.5102222
 LRP002,1.022,Km Post,Km post misasing,25.8724993,89.5019444
@@ -6826,14 +6714,10 @@ LRP103,101.99,Km Post,Km post missing,26.391833,88.9438608
 LRP104,102.99,Km Post,Km post missing,26.3967774,88.9354441
 LRP105,104.0,Km Post,Burimary 1 km,26.4023333,88.9277771
 LRPE,104.69,Others,"End at BurimaryBorder, Burimary zero point India Bangladesh Border.",26.4069444,88.9238327
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start from N 514 at Satmatha more, Bogra.",24.8480552,89.3726938
 LRP001,1.0,Km Post,Km post missing,24.8471108,89.3638056
 LRP002,2.0,Km Post,Km post missing,24.8437219,89.3546944
 LRPE,2.784,Others,"End at reen Matha more and meet with N5, Bogra.",24.8417774,89.3472219
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start from N 501 at Birulia,23.8508611,90.3410552
 LRPSa,0.162,Bridge,Start of bridge,23.8515,90.339583
 LRPSb,0.362,Bridge,End of bridge,23.8521944,90.3379441
@@ -6857,8 +6741,6 @@ LRP008,8.12,Km Post,Km post missing,23.8902774,90.3233882
 LRP009,9.12,Km Post,Km post missing,23.8962219,90.3322771
 LRP009a,9.248,Culvert,Box Culvert,23.8967219,90.3317771
 LRPE,9.462,Others,Road end with N 302 at Ashulia Bazar Bus stand.,23.8976108,90.3313327
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start from N5 at Baderhat more,Bera Pabna",23.8942774,89.6485274
 LRPSa,0.52,Culvert,Box culvert,23.8902497,89.6508889
 LRP001,1.0,Km Post,Km post missing,23.8867497,89.6533889
@@ -6876,8 +6758,6 @@ LRP009,9.0,Km Post,Km post missing,23.8228327,89.6951941
 LRP010,10.0,Km Post,Km post missing,23.8220271,89.6971663
 LRP011,11.0,Km Post,Km post missing,23.8183327,89.7059167
 LRPE,11.88,Others,End at Khayerchar,23.8146944,89.7128333
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start of Road from N5 at Banani, Bogra.",24.8158333,89.3797216
 LRPSa,0.055,Round About,Round about,24.8155556,89.3794438
 LRP001,1.0,Km Post,Km post missing,24.8239716,89.3783327
@@ -6899,8 +6779,6 @@ LRP007a,7.85,"Side Road, Right",Z 5073,24.8831382,89.3631667
 LRP008,8.0,Km Post,Km post missing,24.883583,89.3626111
 LRP008a,8.185,Culvert,Box culvert,24.8849997,89.36175
 LRPE,8.67,Others,"End at Matidali more and meet with N5,Bogra.",24.8891663,89.3602778
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start from N 5 Betgari more Shajahanpur, Bogra.",24.8057778,89.3836941
 LRP001,0.95,Km Post,Rangpur 111 km,24.8058333,89.3930274
 LRP001a,1.45,Cross Road,Z 5040,24.8063056,89.3881663
@@ -6952,8 +6830,6 @@ LRP015a,15.345,Cross Road,Z5073,24.8891386,89.3677216
 LRP015b,15.768,Bridge,Start of bridge,24.888833,89.3625278
 LRP015c,15.836,Bridge,End of bridge,24.888833,89.3618333
 LRPE,16.0,Others,End at Matidali and meet with N 5 Bogra,24.8888052,89.36025
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start at bypass more, Intersection at R-545 & N516 folimara Naogaon.",24.838833,88.9114167
 LRPSa,0.14,Monument,"Mukti Jhuddho Sthomvo, Bijoy",24.8390552,88.9128056
 LRPSb,0.31,Culvert,3 V- Box culvert,24.8390552,88.9144444
@@ -6986,8 +6862,6 @@ LRP007b,7.141,Culvert,Box Culvert,24.8153889,88.9724993
 LRP007c,7.81,Culvert,Box Culvert,24.8148889,88.978916
 LRP008,7.875,Km Post,Borguna 39 Km/Broken,24.8147778,88.9798882
 LRPE,8.0,Others,"Road end at Shantahar bypass more, & Intersection with R-5454,Shantahar,Bogra.",24.8146111,88.9809993
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start from N 6 at Modern more Rangpur.,25.7095833,89.2610278
 LRPSa,0.06,Monument,Sahid Sriti Stombro Arjan Rangpur,25.7100278,89.2608056
 LRPSb,0.263,"Side Road, Left",Side road toward N 5,25.7118889,89.2602778
@@ -7021,8 +6895,6 @@ LRP007b,7.24,Culvert,Slab Culvert,25.7603611,89.2386663
 LRP007c,7.535,Culvert,Slab Culvert,25.76125,89.2359441
 LRP008,8.0,Km Post,Km post missing,25.7639722,89.2328604
 LRPE,8.21,Others,End at Medical more meet with N 5 Rangpur.,25.7647778,89.2315827
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of road at Sutkir more intersection with N 5 Nilphamari,25.7808882,88.9160833
 LRPSa,0.15,"Side Road, Left","Road to Parbatipur ,Z5011",25.7805271,88.9146944
 LRPSb,0.3,Culvert,Cross Drain,25.7803327,88.9131111
@@ -7043,12 +6915,8 @@ LRP004,3.65,Km Post,Information missing,25.774666,88.8817771
 LRP004a,4.04,Bridge,Start of Bridge R C C,25.7735271,88.877666
 LRP004b,4.089,Bridge,End of Bridge R C C,25.773416,88.877166
 LRPE,4.16,Others,"End at Sonapukur more and in front & Mina sigtcu board intersection with of N 5, & N 518 Sayedpur.",25.7732493,88.8760827
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start from N5 at Ziaur Rahman Medical Collage gate , Bogra.",24.8283049,89.3541667
 LRPE,2.64,Others,"End at Malgram, Bogra.",24.8337774,89.3584444
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start at Kawok more intersection at N5, Ullapara ,Sirajganj.",24.3049167,89.5652222
 LRP001,0.065,Km Post,"Bogra 69 km, Sirajganj 33 km",24.3055278,89.5653611
 LRP001a,0.727,Bridge,R.CC Bridge start,24.3103611,89.5688327
@@ -7058,8 +6926,6 @@ LRP001d,0.806,Culvert,Over pass end,24.3109722,89.5684438
 LRP002,1.065,Km Post,Km post missing,24.3125833,89.5683604
 LRP003,2.065,Km Post,Km post missing,24.3213327,89.5661111
 LRPE,2.601,Others,"End at srikola more and intersection N5, Ullapara, Sirajganj.",24.3246104,89.5627778
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road Start with N5 at Nabinagar.,23.9135,90.2585
 LRP001,1.0,Km Post,Km post missing,23.9217771,90.2621111
 LRP002,2.0,Km Post,Km post missing,23.9300271,90.2658333
@@ -7088,8 +6954,6 @@ LRP014a,14.092,Others,RHD Gazipur Start,0.0,0.0
 LRP014a,14.092,Others,RHD Gazipur Start,0.0,0.0
 LRP015,15.0,Km Post,Km post missing,24.0392497,90.240333
 LRPE,16.01,Others,Road End with N4 at Chandra.,24.0475552,90.2388886
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of road from Kashinathpur more.Left -Nazirganj.,23.9578056,89.6068889
 LRPSa,0.17,Bridge,P.C .Girder Bridge start,23.9585833,89.6056111
 LRPSb,0.24,Bridge,P.C.Girder Bridge end,23.9588889,89.6049722
@@ -7524,8 +7388,6 @@ LRP230,231.494,Km Post,Sonamoszid Chek Post 1 km,24.8355552,88.1415552
 LRP230a,232.164,Culvert,Box culvert,24.8413052,88.1417497
 LRP230b,232.214,Culvert,Box culvert,24.8416663,88.1416663
 LRPE,232.244,Others,Road end at Balia Dighi Cheek Post Road Pav.Marking area..,24.3731382,88.5636944
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Road start N-6 at New Bus Stand More, Harishpur,Natore.",24.4105833,89.0080278
 LRPSa,0.064,Round About,Jakir Chattar,24.4106667,89.0075278
 LRP001,1.0,Km Post,Km post missing,24.4119722,89.9986108
@@ -7544,8 +7406,6 @@ LRP004b,4.63,Rail Road Crossing,"Khulna ,Sayedpur Rail",24.4085,89.9661667
 LRP004c,5.0,"Side Road, Right","Natore,Noagoan road (R548)",24.4086111,89.9625
 LRP005,5.02,Km Post,Km post missing,24.4086667,89.9626944
 LRPE,5.64,Others,"Road end & Connect with N6 at Belghoria Bypass more ,Natore.",24.4065833,89.9568056
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start at Belpukur from N6.,24.3663889,88.7263882
 LRPSa,0.15,Culvert,Box culvert,24.3673049,88.7253327
 LRPSb,0.275,Culvert,Box culvert,24.3690271,88.7239993
@@ -7638,8 +7498,6 @@ LRP020b,20.5,Culvert,Box Culvert,24.3846941,88.5496386
 LRP020c,20.877,Culvert,Box Culvert,24.383583,88.5464163
 LRP021,20.99,Km Post,"N'gonj 44 km,Kashiadanga 0 km",24.3832493,88.5454441
 LRPE,21.03,Others,End road at Kashidanga &Connect with R-680 Rajshahi.,24.3832216,88.5454163
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start at Traffic more Bus Stand Infront of Maa General Store and Intersection with N6,Pabna.",24.0073889,89.2587222
 LRPSa,0.075,Others,Dual Carriageway start,24.0073056,89.2583056
 LRPSb,0.64,Culvert,Slab Culvert,24.0067778,89.2528056
@@ -7676,8 +7534,6 @@ LRP007b,6.788,Culvert,Box Culvert,24.0247216,89.2309993
 LRP008,7.41,Km Post,Km post missing,24.0296382,89.227666
 LRP008a,7.53,Culvert,Box Culvert,24.0310827,89.226666
 LRPE,7.83,Others,Road end Infront of NR CNG Filling Station at Gachpara more meet with N6.,24.0322493,89.2258882
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start from CEB more from N6,24.3684438,88.5811104
 LRPSa,0.4,Others,Lakshmipur more,24.3718327,88.5823604
 LRP001,1.0,Km Post,Km post missing,24.3765271,88.5853886
@@ -7687,8 +7543,6 @@ LRP001c,1.835,Cross Road,Barnali more,24.3759438,88.5930552
 LRP002,2.0,Km Post,Km post missing,24.375666,88.5947219
 LRP002a,2.572,Cross Road,Raj nagar Bhaban,24.3747771,88.6002778
 LRPE,2.96,Others,"Conn. With R680, At Bahide more",24.3745549,88.6040556
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of road from Dauladia Ferry Ghat Infront of 3NO Ghat.,23.7689716,89.7870552
 LRPSa,0.195,Culvert,Box Culvert,23.7672493,89.7872497
 LRPSb,0.52,Culvert,Box Culvert,23.7656111,89.7852219
@@ -8229,14 +8083,10 @@ LRP248,247.591,Km Post,Mongla 8 km,22.5479163,89.5899997
 LRP249,248.591,Km Post,Mongla 7 km,22.5388608,89.5902219
 LRP250,249.591,Km Post,Mongla 6 km,22.529916,89.5898052
 LRPE,249.665,Others,"End of road at Digraj,Mongla,Bagerhat.",22.5293327,89.5894441
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of road from N7 at Dauladia Ferry Ghate.,23.7689716,89.7870552
 LRPSa,0.195,Km Post,Box Culvert,23.7672493,89.7872497
 LRPSb,0.52,Culvert,Box Culvert,23.7656111,89.7852219
 LRPE,1.0,Others,End of road and meet with N7,23.7651389,89.7805549
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start from Daratana more Traffic Island,Intersection with N-707,Jessore.",23.1665833,89.2095
 LRPSa,0.045,Monument,Bhoyrab Chalttor,23.1670271,89.2095
 LRP001,0.047,Km Post,Info Not clear,23.1670549,89.2095278
@@ -8335,8 +8185,6 @@ LRP044a,42.703,Culvert,Box culvert,23.4788882,89.4166111
 LRP044b,43.012,Culvert,Box Culvert,23.4788882,89.4175827
 LRP045,43.62,Km Post,"Magura 0 km,Dhaka 179 km",23.4844719,89.4188882
 LRPE,43.75,Others,End road at Vaina more Magura &Meet with N-7,23.4856663,89.4189716
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Road Start from Jhenaidah Central Bus Terminal and intersection at N7 and N703,Jhenaidah.",23.5425274,89.1906108
 LRPSa,0.188,Culvert,Box culvert,23.5426941,89.1889163
 LRPSb,0.292,Culvert,Box culvert,23.543083,89.1879441
@@ -8353,8 +8201,6 @@ LRP002b,2.964,Culvert,Box culvert,23.537083,89.1712216
 LRP003,3.0,Km Post,Km post missing,23.5367774,89.171166
 LRP003a,3.035,Culvert,Box culvert,23.5365274,89.1710827
 LRPE,3.49,Others,End at Hamdah Bus Stand intersect with N 712 & N 703 Jhenaidah.,23.5324716,89.170916
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start at post office more and intersection at N 703 & N 704 Jhenaihah .,23.5456941,89.1728604
 LRPSa,0.233,Bridge,R.C.C Bridge start,23.5476663,89.1736382
 LRPSb,0.32,Bridge,R.C.C Bridge end,23.5484163,89.1736382
@@ -8530,8 +8376,6 @@ LRP081,80.498,Km Post,Natore 42 km Dhaka 222 km,24.1082778,89.1144722
 LRP081a,81.01,Culvert,Box Culvert,24.1118611,89.117666
 LRP081b,81.193,"Side Road, Left",N 705 to lshwardi town old stion,24.1133611,89.1185827
 LRPE,81.538,Others,End of at Dasuria more infront of Zakir motors Pabna and intersection N 6 & N 704.,24.1121389,89.1217216
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road Start infront of Ruppur Power Plant Signboard Ishwardi.,24.0753604,89.0661667
 LRP001,0.025,Km Post,Information missing,24.0755549,89.0661389
 LRP002,1.025,Km Post,Km post missing,24.0822216,89.072166
@@ -8550,8 +8394,6 @@ LRP008,6.473,Km Post,Information missing,24.118666,89.0907497
 LRP009,7.503,Km Post,Ishwardi 3 km,24.117916,89.1006111
 LRP010,8.483,Km Post,Paksey 11 km,24.1167771,89.1100556
 LRPE,9.453,Others,"End of road Infront of Bkash Sign Board at Intersection of N 704 & N705,Dasuria.",24.1299993,89.1186938
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start of Road From N707 at Daratana Traffic Island , Jessore.",23.1665278,89.2095278
 LRPSa,0.014,Culvert,Cross drain,23.1664722,89.2094444
 LRP001,1.01,Km Post,"Benapole 37 km,Satkhira 67 km",23.1584167,89.2059722
@@ -8635,8 +8477,6 @@ LRP036a,36.783,"Side Road, Left","N 711, Benapole oldsec. link sec.",23.0432774,
 LRP037,37.23,Km Post,Km post missing,23.0416941,88.8927497
 LRP037a,37.73,"Side Road, Left","N 711, benapole old sec",23.0399441,88.8886386
 LRPE,38.2,Others,End at Benapole Bordar.,23.0389441,88.8841663
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start from palbari more Triffic island and Intersection at N707 & N708 infront of Royal community Center, Jossore.",23.179666,89.194583
 LRP001,0.201,Km Post,"Jessore 2 km, Khulna 62 km",23.1780549,89.1950274
 LRP001a,1.197,Monument,Jagroto Bangla,23.1713049,89.2011111
@@ -8657,8 +8497,6 @@ LRP005,4.34,Km Post,Km post Broken,23.1577222,89.2244438
 LRP005a,5.295,Culvert,Cross drain,23.1511667,89.2302216
 LRP006,5.35,Km Post,Km post broken,23.1507778,89.230416
 LRP007,6.35,Km Post,Km post missing,22.1439163,89.2365552
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start from Koroytala.Varkarzo more from N-7 Palbari,Jessore",23.1811382,89.1911108
 LRP001,0.035,Km Post,"Monihar 4.75 km, khulna 66 km",23.1810271,89.1914163
 LRP001a,0.355,Culvert,Box culvert,23.1805271,89.1941941
@@ -8676,8 +8514,6 @@ LRP005,4.05,Km Post,"Monihar 0.75km, Narail 34 km",23.1675549,89.2217493
 LRP005a,4.73,"Side Road, Right","N707, Jessure Town",23.1614444,89.2222771
 LRP006,4.745,Km Post,"Monihar 0 km, Khulna 61.25 km",23.1614444,89.2223049
 LRPE,4.75,Others,End of road at Monihar Cinema Hall More,23.161,89.2226382
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start from N 7 Afilgat Fultala Khulna,22.935583,89.4879719
 LRPSa,0.05,Rail Road Crossing,Jessore -Khulna Rail,22.9352497,89.4876108
 LRPSb,0.43,Culvert,Box culvert,22.931916,89.4868052
@@ -8761,16 +8597,12 @@ LRP024c,25.821,Bridge,R.C.C Bridge start,22.7746104,89.6100278
 LRP024d,25.867,Bridge,R.C.C Bridge end,22.7746938,89.6104444
 LRP025,26.067,Km Post,"Bagerhat 26 km,Mongla 37 km",22.7744716,89.6123611
 LRPE,26.567,Others,"End at Kadir Bottala More infront of Temple and Intersection at N7&,Tilokirupsha,Khulna.",22.7745827,89.6171104
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start from N-7 at ferryghate more near Khan Jahan Ali road infornt of Motor Bus Somity, Khulna",22.8179993,89.5595833
 LRPSa,0.025,Others,Dual Carriage way start,22.8179716,89.5597778
 LRPSb,0.305,Culvert,Box Culvert,22.8165278,89.562
 LRP001,0.375,Km Post,Khulna 1Km,22.8164722,89.5623611
 LRP001a,0.38,Others,Dual carriage way End,22.8163889,89.5625
 LRPE,0.4,Others,End of road at Dakbangla more (Khulna),22.8163889,89.5628056
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start of road from N706 at Anser Camp, Benapole, Jessore",23.0399163,88.8886663
 LRPSa,0.075,Rail Road Crossing,Rail road crossing,23.0393052,88.8888608
 LRP001,0.95,Km Post,By- pass 2.8 km,23.0411941,88.8968886
@@ -8785,8 +8617,6 @@ LRP003a,3.16,Culvert,Box Culvert,23.0439441,88.9157778
 LRP003b,3.45,Culvert,Box Culvert,23.0465274,88.91625
 LRP003c,3.48,Rail Road Crossing,Rail road crossing,23.0468886,88.9162778
 LRPE,3.58,Others,"End of road at Post office more, Benapole and intersect with N706",23.0476941,88.9162222
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start of road at Central busterminal more intersect N 7, N 730.",23.5427774,89.1904997
 LRP001,1.0,Km Post,Km post missing,23.5494719,89.1842497
 LRP001a,1.825,Bridge,Start of Bridge,23.5528611,89.1774716
@@ -8807,12 +8637,8 @@ LRP005b,5.466,Culvert,Box Culvert,23.5299438,89.1714716
 LRP005c,5.982,Culvert,Box Culvert,23.5254438,89.1701104
 LRP006,6.0,Km Post,Info missing,23.5249716,89.1699438
 LRPE,6.15,Others,End at By pass more inter sect with N 7,23.5230549,89.1696104
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road under construction,0.0,0.0
 LRPE,6.6,Others,Road under construction,0.0,0.0
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start at Alipur intersection of Z 7602 & N 715,22.6887219,89.0328882
 LRPSa,0.25,Culvert,Box Culvert,22.6882774,89.0306938
 LRPSb,0.8,Culvert,Box Culvert,22.6874997,89.0254716
@@ -8841,8 +8667,6 @@ LRP007b,7.994,Culvert,Box Culvert,22.6709438,88.95875
 LRP008,8.025,Km Post,Km post missing,22.669166,88.9583889
 LRP009,9.015,Km Post,Km post missing,22.6693882,88.9653333
 LRPE,9.225,Others,End at Border Bhomra,22.669416,88.9468608
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start of road Infront of Padma CNG Station ,Dholaipur,Jatrabari ,Dhaka.",23.7021389,90.4353608
 LRP001,1.0,Km Post,Km post missing,24.6936386,90.4344163
 LRP001a,1.001,Rail Road Crossing,Rail road crossing,23.6934997,90.4344163
@@ -9365,8 +9189,6 @@ LRP204a,203.897,Bridge,Bridge start,22.3702493,90.3214716
 LRP204b,204.383,Bridge,Bridge end,22.3659444,90.3204716
 LRP205,204.827,Km Post,Patuakhali 1 km,22.36225,90.3190827
 LRPE,205.127,Others,End of road at Chowmatha and Intersect with R880 & Z8052.,22.3597222,90.3186104
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of Road from N8 in front of Barisal university,22.657,90.3617222
 LRPSa,0.295,Culvert,Box Culvert,22.6579722,90.3643056
 LRP001,0.3,Km Post,Bhola 32 km,22.6579722,90.3643056
@@ -9388,8 +9210,6 @@ LRP005a,4.512,Culvert,Box Culvert,22.6870274,90.3879719
 LRP006,4.806,Km Post,Bhola 27.5 km,22.688583,90.3904441
 LRP006a,4.816,Culvert,Box Culvert,22.6886663,90.3903052
 LRPE,4.825,Others,End of road and intersect with N809,22.6888052,90.390333
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start from approach of Babu Bazar Bridge.,23.7129167,90.4036389
 LRPSa,0.241,Bridge,Bridge start,23.7098056,90.4021944
 LRPSb,0.457,Bridge,Bridge end,23.7080833,90.4010833
@@ -9404,8 +9224,6 @@ LRP003b,3.362,Bridge,Bridge end,23.6838886,90.4026111
 LRP004,4.0,Km Post,Km post missing,23.6793882,90.4035278
 LRP004a,4.494,Culvert,Box Culvert,23.6753049,90.4050833
 LRPE,4.552,Others,Road end with N8,23.6749993,90.4052222
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start from Bhonga Rastar more Goalcimot.,23.6001111,89.8273882
 LRPSa,0.164,"Turn off, Left",Turn off left,23.6008889,89.8286104
 LRPSb,0.38,Bridge,Bridge start,23.6027778,89.8289438
@@ -9422,8 +9240,6 @@ LRP004b,4.83,Bridge,Bridge start,23.622666,89.8556389
 LRP004c,4.869,Bridge,Bridge end,23.6229716,89.8556111
 LRP005,5.0,Km Post,Km post missing,23.6241382,89.8554167
 LRPE,6.13,Others,End at Shahid Shrbhan ghat.,23.6322771,89.8548333
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start from Bhanga more at intersection N 8 N805 N804 Faridpur .,23.3903608,89.9838886
 LRP001,0.12,Km Post,"Faridpur 30 km,Dhaka 159 km",23.3913608,89.9834997
 LRP001a,0.468,Bridge,Start of bridge,23.3936663,89.9814438
@@ -9503,8 +9319,6 @@ LRP032,30.578,Km Post,Km post missing,23.5934441,89.8174438
 LRP032a,31.04,"Side Road, Left",Z 8406,23.5888886,89.8094722
 LRP033,31.078,Km Post,Km post missing,23.5887497,89.8092778
 LRPE,32.063,Others,End at Rajbari Road more and Intersection with N7,23.5883052,89.8086111
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start from Bhanga More and Intersection of N805 and N804 &N8.,23.3902219,89.9837497
 LRP001,0.645,Km Post,Bhatiapara 37 km,23.3912219,89.977666
 LRP001a,0.965,Culvert,Box culvert,23.3918052,89.9744993
@@ -9820,8 +9634,6 @@ LRP108a,109.053,"Side Road, Right",Right R770,22.7374441,89.6496386
 LRP109,109.643,Km Post,Bagerhat 20 km,22.7388052,89.6441386
 LRP109a,110.586,Culvert,Box Culvert,22.7409997,89.6353886
 LRPE,110.633,Others,End of road at 805 (Katakhali Traffic More),22.7409163,89.6349441
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start at Bhatiapara intersect N805,23.2135833,89.7100556
 LRP001,1.0,Km Post,Km post missing,23.2082778,89.7032222
 LRP001a,1.698,Culvert,Box Culvert,23.2044444,89.6983886
@@ -9958,8 +9770,6 @@ LRP054a,54.442,Bridge,R C C Bridge Start,23.1598611,89.2293882
 LRP054b,54.461,Bridge,R C C Bridge end,23.1598889,89.2291382
 LRP055,55.019,Km Post,Khulna 60 km Banapole 40 km,23.1603889,89.2238049
 LRPE,55.169,Others,"End at Traffic more island infront of Monihor Cinema hall and intersection of N707, Jessore",23.1609722,89.222666
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of road from N 804 at Goalchamat infront of upazila Porishod.,23.5889163,89.8094167
 LRP001,1.0,Km Post,Km Post Missing,23.5816382,89.8147222
 LRP001a,1.73,Culvert,Box Culvert,23.5774993,89.8203604
@@ -9971,8 +9781,6 @@ LRP004,4.0,Km Post,Km Post Missing,23.5685271,89.8386663
 LRP004a,4.738,Culvert,Box Culvert,23.5689993,89.8458608
 LRP005,5.0,Km Post,Km Post Missing,23.5684993,89.848333
 LRPE,5.3,Others,End of road at Munshibazar intersect with N 804 Faridpur,23.5677771,89.8514444
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start from N8 at Amtali Medical more,Barishal",22.685583,90.3568056
 LRPSa,0.26,Culvert,Box culvert,22.6846663,90.3589444
 LRP001,1.0,Km Post,Km post missing,22.6871663,90.3655833
@@ -10068,8 +9876,6 @@ LRP066d,66.715,Culvert,Box Culvert,22.9370552,90.8115278
 LRP067,67.125,Km Post,Lakshmipur 3 km,22.9378052,90.8121111
 LRP067a,67.707,Culvert,Box Culvert,22.9454163,90.8136944
 LRPE,67.815,Others,End of Road with R140 at Bus stand Lakshmipur .,22.946333,90.8137222
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road Start from old intersection of N 1 & N 8 at Jatrabari.,23.7103056,90.4342497
 LRPSa,0.472,Others,Start of Flyover ramp,23.7110556,90.4387497
 LRP001,1.0,Km Post,Km post missing,23.7105278,90.4434441
@@ -10112,8 +9918,6 @@ LRP018,17.48,Km Post,Km post missing,23.6320271,90.5125
 LRP018a,18.35,Culvert,Box Culvert,23.6256382,90.5062222
 LRP019,18.48,Km Post,Km post missing,23.6255827,90.5064167
 LRPE,18.926,Others,Road end at Round about at Chasara intersecting R111 and R810.,23.6238327,90.5000556
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start from N 1 at Signboard more,23.6936663,90.4808327
 LRPSa,0.598,Culvert,Box Culvert,23.6886663,90.4814716
 LRPSb,0.741,Culvert,Box Culvert,23.6871108,90.481666
@@ -10131,8 +9935,6 @@ LRP006,6.05,Km Post,Km post missing,23.6413608,90.4942774
 LRP007,7.07,Km Post,Info missing,23.6322771,90.4960274
 LRP008,8.07,Km Post,Km post missing,23.6240827,90.4994441
 LRPE,8.105,Others,Road end with intersection of R 810 at Chasara,23.6239438,90.4998052
-,,,,,
-,,,,,
 LRPS,0.0,Others,"R110 , Demra- Narayanganj road",23.7197216,90.4905274
 LRP001,1.008,Km Post,Km post missing,23.7281104,90.4868886
 LRP002,2.009,Km Post,Staff Quarter 2 km,23.7366663,90.4833049
@@ -10149,8 +9951,6 @@ LRP006,6.061,Km Post,Staff Quarter 6 km,23.7538889,90.4507778
 LRP007,7.06,Km Post,Km post missing,23.7614167,90.4447497
 LRP008,8.07,Km Post,Staff Quarter 8 km,23.7626667,90.4358608
 LRPE,8.508,Others,The road ends at Ideal School,23.7639444,90.4308327
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of Road from N1and R105at Madanpur Intersection,23.6904441,90.5466108
 LRP001,1.032,Km Post,Sayedpur 12 km,23.6822493,90.5421108
 LRP002,2.12,Km Post,Sayedpur 11 km,23.6742493,90.5376108
@@ -10176,8 +9976,6 @@ LRP010b,11.267,Cross Road,Right to Fenaziganda Left to Kalagachhi,23.5967219,90.
 LRP011,11.358,Km Post,Sayedpur 2 km,23.5964163,90.51575
 LRP011a,11.623,Cross Road,Right to Mahmudnagar Left to Madanganj,23.5952219,90.5135
 LRPE,12.119,Others,End of Road at the Bank of Shitolokkha River.,23.5923886,90.51025
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road Start at Intersection of N 105 & R 114 at Nayapur.,23.7314716,90.5878608
 LRP001,1.0,Km Post,Km post missing,23.7376941,90.5950274
 LRP001a,1.31,"Side Road, Left",Intersection with Z1090 (Borpa-Mahajanpur Road),23.7396663,90.597333
@@ -10277,8 +10075,6 @@ LRP045b,44.437,Others,Start of Bituminous road,23.9867219,90.8540556
 LRP046,44.789,Km Post,Km post missing,23.9883052,90.8571389
 LRP047,45.789,Km Post,Km post missing,23.9921941,90.8658333
 LRPE,46.436,Others,End of Road at Raipura and intersect with Z2041,23.9942774,90.8717771
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of Road Akhaura Town by pass,23.8778327,91.2079167
 LRPSa,0.055,Culvert,Pipe Culvert,23.8774993,91.2081389
 LRPSb,0.097,Rail Road Crossing,Rail Road Crossing,23.8771382,91.2082778
@@ -10291,8 +10087,6 @@ LRP002a,1.546,Culvert,Pipe Culvert,23.8668882,91.2160833
 LRP002b,1.77,Culvert,Pipe Culvert,23.8664444,91.2169438
 LRP002c,2.05,Culvert,Pipe Culvert,23.8628056,91.2178604
 LRPE,2.2,Others,End of Road at Akhaura College Road,23.8612222,91.2183882
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road Start at Comilla Zero Point Any Round About at Kandirpar,23.4604722,91.1807216
 LRPSa,0.515,Culvert,Box culvert,23.456,91.1799438
 LRP001,1.0,Km Post,Km post missing,23.4517222,91.1790549
@@ -10607,8 +10401,6 @@ LRP137,137.615,Km Post,Feni 37 km,22.9449997,91.0947774
 LRP137a,138.335,Culvert,Box culvert,22.9445552,91.10175
 LRP138,138.615,Km Post,Km post missing,22.9447219,91.1045556
 LRPE,138.63,Others,Road End with Intersection at N104 & R142 (Begumganj Zero Point),22.9447774,91.1047222
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of road from R 140 at Lalmai.,23.3565,91.1468052
 LRPSa,0.218,Culvert,Box Culvert,23.3545833,91.1469163
 LRP001,1.0,Km Post,Km post missing,23.3476108,91.1469997
@@ -10701,8 +10493,6 @@ LRP037c,38.128,Rail Road Crossing,Rail Road Crossing,23.0356663,91.0973052
 LRP037d,38.171,Bridge,Bridge start,23.0356386,91.0969163
 LRP037e,38.197,Bridge,Bridge end,23.0356941,91.0967219
 LRPE,38.225,Others,End of Road Intersection with R 142 at Sonaimuri.,23.0357219,91.0964719
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start from Intersection of R140 & N 104 at Begomgonj Zero point.,22.9446941,91.1046944
 LRP001,0.325,Km Post,"Dhaka 150 km,Ramgonj 37 km",22.9476108,91.10475
 LRP001a,0.403,Bridge,Bridge Start,22.9482497,91.10475
@@ -10795,8 +10585,6 @@ LRP037a,36.912,Culvert,Box culvert,23.0958608,90.8677771
 LRP038,37.3,Km Post,Km post missing,23.0975552,90.8644722
 LRP038a,37.712,Culvert,Box culvert,23.0992497,90.8611111
 LRPE,37.72,Others,"Road end with Z1422 at Ramgonj CNG Stand ,Ramganj.",23.0992774,90.8609444
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start from N 104 at old college road Maijdi,22.883333,91.0971386
 LRP001,1.06,Km Post,Choyani 9 km,22.8864163,91.0888052
 LRP001a,1.61,Culvert,Box Culvert,22.8867497,91.083583
@@ -10848,8 +10636,6 @@ LRP020,19.445,Km Post,Chandraganj 1 km,22.9351663,90.9794716
 LRP020a,20.15,Bridge,Bridge start,22.9736104,90.9805549
 LRP020b,20.166,Bridge,Bridge end,22.940583,90.9806104
 LRPE,20.26,Others,Road end with R 140 at Chandraganj,22.9413886,90.9805827
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start R 141 left at Laksam model collage road,23.25,91.1203604
 LRPSa,0.24,"Turn off, Right",Road right turn,23.2494719,91.1224716
 LRPSb,0.68,Culvert,Box Culvert,23.2456941,91.1215549
@@ -10866,20 +10652,14 @@ LRP003,3.0,Km Post,Km post missing,23.227916,91.1223882
 LRP003a,3.22,Bridge,Bridge start,0.0,91.1232493
 LRP003b,3.242,Bridge,Bridge end,23.2260827,91.1233882
 LRPE,3.38,Others,"Road connect with R141, end of road.",23.2248882,91.1239438
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start from R140 North Trimohoni,22.9443052,90.8282216
 LRPSa,0.67,Bridge,Bridge start,22.9374719,90.8290271
 LRPSb,0.7,Bridge,Bridge End,22.9371108,90.8291382
 LRPSc,0.705,"Side Road, Right",Right R 147 Start,22.9369997,90.8291382
 LRP001,1.0,Km Post,Km post missing,22.9359997,90.8295827
 LRPE,1.4,Others,South Trimohoni to Z 1405,22.9326938,90.8332771
-,,,,,
-,,,,,
 LRPS,0.0,Others,,0.0,0.0
 LRPE,1.7,Others,,0.0,0.0
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start from Lakshmipur town Bridge(Tero baki),22.9369997,90.8291382
 LRP001,1.0,Km Post,Kmpost missing,22.9336663,90.8213604
 LRP001a,1.835,Bridge,Bridge stars,22.9323604,90.8140556
@@ -10887,8 +10667,6 @@ LRP001b,1.885,Bridge,Bridge End,22.9326938,90.81375
 LRP002,2.0,Km Post,Km post missing,22.9327493,90.8126389
 LRP002a,2.065,Culvert,Box Culvert,22.932666,90.812
 LRPE,2.205,Others,"Road end with N 809 at Kacharibari,Tero baki",22.9325549,90.8106667
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start from N1 at Baraiyerhat.,22.8940552,91.5346941
 LRPSa,0.135,Rail Road Crossing,Rail crossing at Bhut more,22.8946941,91.5357219
 LRPSb,0.252,Culvert,Box Culvert,22.8952774,91.5365274
@@ -11043,8 +10821,6 @@ LRP047,46.804,Km Post,Fatikchhari 2 km,22.7135,91.7778882
 LRP047a,47.194,"Side Road, Left","Side road Z 1086 (Sitakunda,Fatikchhari road",22.7078333,91.7831104
 LRP048,47.622,Km Post,Fatikchhari 1 km,22.7081944,91.7840274
 LRPE,47.702,Others,"The road end Intersecting R160 at Hadchokia ,Fatikchhari",22.7082222,91.784083
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Road start from R151 (Baraiyerhat, Haidchokia Road Heako Bazar, Vugpur.",22.8924997,91.6744993
 LRPsa,0.13,Bridge,Bridge Start,22.8929441,91.6756382
 LRPSb,0.144,Bridge,Bridge End,22.8929997,91.6757216
@@ -11130,8 +10906,6 @@ LRP036,35.651,Km Post,Jaliapara 1 km,22.945833,91.8571944
 LRP036a,35.918,Bridge,Bridge start,22.9467774,91.85925
 LRP036b,35.941,Bridge,Bridge end,22.9467774,91.8593889
 LRPE,36.211,Others,R160 at Hathazari -Khagrachari road,22.9460552,91.86225
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start from N106 near Hathazari Busstand.,22.498583,91.8070833
 LRPSa,0.316,Culvert,Box culvert,22.5013056,91.8070556
 LRPSb,0.765,Culvert,Box culvert,22.50525,91.8067222
@@ -11370,8 +11144,6 @@ LRP092d,92.78,Bridge,Baily Bridge start,23.1197493,91.9937774
 LRP092e,92.82,Bridge,Baily Bridge end,23.1201938,91.9771938
 LRP093,92.892,Km Post,Km post missing,23.1132778,91.9919163
 LRPE,93.294,Others,Road End with Z1063 near Army cantonment,23.1239438,91.9792493
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start of road from N 106 at Ghagra, Rangamati.",22.6087778,92.0964719
 LRP001,0.984,Km Post,"Bandarban 63 km, Chandragona 20 km",22.6008056,92.0978052
 LRP001a,1.757,Bridge,Bridge start,22.594833,92.0968886
@@ -11561,8 +11333,6 @@ LRP063b,60.687,Bridge,Bridge start,22.1969163,92.2323604
 LRP064,60.831,Km Post,Km post missing,22.1963886,92.2169716
 LRP064a,60.863,Bridge,Bridge end,22.1962774,92.217166
 LRPE,61.178,Others,End of road at Bandarban Intersecting with N108.,22.1959719,92.1962497
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start from N 106 at Manikchhari Army Checkpost,22.648833,92.1379719
 LRP001,1.01,Km Post,Info missing,22.6570833,92.1348052
 LRP002,2.01,Km Post,Mohalchhari 40 Km,22.6632778,92.128916
@@ -11665,8 +11435,6 @@ LRP060a,60.04,Culvert,Box Culvert,23.0836941,91.9715827
 LRP061,60.52,Km Post,Khagrachhari 1 km,23.0876941,91.9714438
 LRP061a,61.295,Culvert,Box Culvert,23.093333,91.9740271
 LRPE,61.505,Others,Road End with R-160 at Khagrachhari 0 km,23.0946386,91.9725549
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start of Road from Mohora ,Chittagong.",22.3943886,91.868416
 LRPSa,0.06,Rail Road Crossing,Rail Road Crossing,22.3949163,91.8685271
 LRPSb,0.953,Culvert,Box Culvert,22.4023889,91.8674438
@@ -11753,8 +11521,6 @@ LRP032,32.207,Km Post,Kaptai 15.5 km Licubegar 1 km,22.4643889,92.1188327
 LRP032a,32.446,Culvert,Box Culvert,22.465,92.1208327
 LRP033,33.207,Km Post,Km post missing,22.4684716,92.1271938
 LRPE,33.436,Others,End of Road at Chandragona Intersection R161.,22.4695827,92.1290549
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of Road from R161 at Baraichhari,22.5027222,92.1391663
 LRPSa,0.139,Culvert,Box culvert,22.5030556,92.1401941
 LRPSb,0.537,Bridge,Bridge start,22.5056667,92.1409719
@@ -11791,8 +11557,6 @@ LRP008b,8.021,Bridge,Bridge end,22.5013333,92.199583
 LRP009,8.879,Km Post,Km post missing,22.5021111,92.2075833
 LRP010,9.298,Km Post,Kaptai 0 km,22.5031667,92.2111111
 LRPE,10.178,Others,End of Road at Kaptai,22.4976663,92.2170271
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start from N1 (Dhaka Teknaf) road at Patiya bazar.,22.291833,91.9823327
 LRPSa,0.637,Culvert,Box Culvert,22.2892497,91.9783327
 LRPSb,0.853,Culvert,Box Culvert,22.287333,91.9782771
@@ -12039,8 +11803,6 @@ LRP075b,74.38,Culvert,Box culvert,21.7545833,92.0078056
 LRP075c,74.524,Bridge,Bridge start,21.7533056,92.0078333
 LRP075d,74.568,Bridge,Bridge end,21.7529167,92.0078333
 LRPE,74.635,Others,Road End With R172 at Eidmoni Badarkhali -Chokoria Road N1.,21.7521667,92.0078333
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start from R170 at joldi Banshkhali.,22.0020278,91.9518333
 LRPSa,0.435,Culvert,culvert,22.0028889,91.9551944
 LRPSa,0.436,Culvert,Box culvert,22.0028889,91.9551944
@@ -12085,8 +11847,6 @@ LRP014b,15.475,Culvert,Pipe Culvert,21.9756938,92.065
 LRP014c,15.723,Culvert,Box Culvert,21.9738327,92.0653611
 LRP014d,15.855,Culvert,Box Culvert,21.9722771,92.0656389
 LRPE,15.872,Others,Road end with N1 at Chunti Bazar,21.9721382,92.0656944
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start from N1at Pubali Bank thana road more Chokoria .,21.7596389,92.0764716
 LRPSa,0.692,Cross Road,"Z 1127,Lakkarchar-Bagguzra road",21.7575556,92.0704716
 LRP001,1.0,Km Post,KM post missing,21.7573056,92.067666
@@ -12135,8 +11895,6 @@ LRP016,15.92,Km Post,Badarkhali 1km,21.7208327,91.955
 LRP016a,16.675,Culvert,Box culvert,21.7164444,91.9505
 LRP017,16.91,Km Post,Km post missing,21.7162222,91.9482497
 LRPE,17.27,Others,Bridge end & road end with Moheshkhali bridge,21.7158889,91.9448608
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Road start from N110 at bus terminal more, Cox's bazar",21.4272493,92.0061389
 LRPSa,0.143,Culvert,Box culvert,21.4275271,92.0048889
 LRPSb,0.533,Culvert,Box culvert,21.4296938,92.0019167
@@ -12161,16 +11919,12 @@ LRP004b,4.67,"Side Road, Left",Side Road left,21.4420274,91.9683604
 LRP005,5.235,Km Post,Km post missing,21.4372497,91.970916
 LRP005a,5.642,Culvert,Box culvert,21.4340552,91.972666
 LRPE,6.105,Others,Road end with intersection of N110 at Laboni point,21.4303327,91.9747216
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of road from n2 at Tarabo Round about,23.7249993,90.5135278
 LRPSa,0.872,Bridge,Bridge start,23.7220549,90.5056944
 LRP001,1.0,Km Post,Km post missing,23.7219716,90.5044444
 LRP001a,1.951,Bridge,Bridge end,23.7209716,90.4952774
 LRP002,2.0,Km Post,Km post missing,23.7208049,90.4947774
 LRPE,2.195,Others,The road ends intersecting R110 at Demraghat,23.720416,90.4932497
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start Road at Bhulta ,Intersection with N2(Dhaka Sylhet Road)&N105.",23.7849163,90.5650833
 LRP001,1.051,Km Post,Info.Missing,23.7868052,90.5526944
 LRP002,2.051,Km Post,Km post missing,23.7864719,90.5454441
@@ -12194,8 +11948,6 @@ LRP009b,9.003,Bridge,30.4km (Manuallu),23.775166,90.4905274
 LRP010,9.764,Km Post,Km post missing,23.7731104,90.4837497
 LRP010a,9.845,Others,The Bank of Bahe river. Bridge under construction.,23.7728049,90.4830549
 LRPE,23.0,Others,Road end at Rampura.,0.0,0.0
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start from N-2 at Bhulta.,23.7856108,90.5705549
 LRPSa,0.26,Culvert,Box Culvert,23.7845274,90.5728327
 LRPSb,0.865,Culvert,Box Culvert,23.7841386,90.5787771
@@ -12417,8 +12169,6 @@ LRP075a,75.637,Bridge,Baily Bridge start,23.9023056,90.1218882
 LRP075b,75.647,Bridge,Baily Bridge end,23.9023056,90.1219438
 LRP076,75.952,Km Post,Km post misisng,23.9032222,90.1241938
 LRPE,76.197,Others,"Road Connect with N-102 at Radhika ,B.Baria.",23.9033056,90.1265827
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of Road from N2 at Shahepratap,23.9098056,90.6879163
 LRPSa,0.554,Culvert,Box Culvert,23.9113889,90.6931108
 LRPSb,0.963,Bridge,Bridge start,23.9121944,90.6968052
@@ -12435,8 +12185,6 @@ LRP004,4.0,Km Post,Km post missing,23.9250549,90.7192771
 LRP004a,4.205,Monument,Monument,23.9263882,90.7206104
 LRP004b,4.965,Cross Road,R 114,23.9311104,90.7245827
 LRPE,4.99,Others,End of road at Arsinagar Rail Crossing intersect with Z 2033,23.9313049,90.7245271
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of road from N2 Round about at intersection at Itakhola,23.980166,90.7334719
 LRPSa,0.075,Bridge,Bridge start,23.9808049,90.7337219
 LRPSb,0.086,Bridge,Bridge end,23.9808882,90.7337497
@@ -12542,8 +12290,6 @@ LRP044a,43.239,Culvert,Box Culvert,24.2540278,90.7799438
 LRP045,44.054,Km Post,Km post missing,24.2513333,90.7877219
 LRP045a,44.158,Culvert,Box Culvert,24.2513333,90.7881941
 LRPE,45.114,Others,The road ends Intersecting R360 at Kotiadi.,24.2523333,90.7966941
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of road from R211 at Akdaria,24.0808882,90.7333608
 LRP001,1.007,Km Post,Puradia 15 km,24.0895274,90.7351108
 LRP001a,1.198,Culvert,Box Culvert,24.091083,90.7344163
@@ -12612,8 +12358,6 @@ LRP021,21.201,Km Post,Km post missing,24.1745271,90.8566389
 LRP022,22.201,Km Post,Km post missing,24.1781938,90.8655833
 LRP023,23.201,Km Post,Km post missing,24.1831104,90.8739438
 LRPE,23.409,Others,End of road intersecting R360 at Agarpur.,24.1842497,90.8757216
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start from N2 at Kutra para more Sarail,24.0576389,91.1150556
 LRPSa,0.082,Bridge,Bridge start,24.0583611,91.1161944
 LRPSb,0.136,Bridge,Bridge end,24.0588333,91.1151667
@@ -12747,8 +12491,6 @@ LRP051,50.29,Km Post,Km post missing,24.3668327,91.4046111
 LRP051a,51.232,Cross Road,"R221, Bir Muktijoddah commandant Manik Chowdhury road",24.3697771,91.4112222
 LRP052,51.29,Km Post,Km post missing,24.3716938,91.4135556
 LRPE,51.772,Others,"Road end with R240 at muktijoddha chotor infront of zila porisad, Habiganj",24.373166,91.4161389
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start from Z2403,24.3932497,91.4082778
 LRPSa,0.146,Bridge,Bridge start,24.3921108,91.4078889
 LRPSb,0.282,Bridge,Bridge end,24.525666,91.3777493
@@ -12786,15 +12528,11 @@ LRP012a,12.834,Culvert,Box Culvert,24.2896663,91.4236382
 LRP013,13.672,Km Post,Nasratpur 1 km,24.286583,91.4228604
 LRP014,14.426,Km Post,Nasratpur 0 km,24.282416,91.4222216
 LRPE,14.442,Others,End of The road intersecting N2 at Nasratpur.,24.2822493,91.422166
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Road start from R240, Shaistaganj- Sherpur Road at Puranbazar",24.2728327,91.4731382
 LRPSa,0.034,Bridge,Baily Bridge Start,24.272916,91.4733327
 LRPSb,0.198,Bridge,Baily Bridge end,24.2741104,91.4733327
 LRPSc,0.717,Culvert,Box Culvert,24.275166,91.4786938
 LRPE,0.98,Others,"Road Ena wiht N2, Dhaka -Sylhet road",24.2757771,91.4812771
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start from at Shaistaganj Intersection of N2 (Dhaka- Syhlet Road) + R240,24.2676104,91.4768882
 LRPSa,0.4,"Side Road, Right",R 222,24.2727771,91.4677216
 LRPSb,0.835,"Side Road, Right",Z 2009,24.2735549,91.4723327
@@ -12927,8 +12665,6 @@ LRP048d,48.99,Culvert,Box Culvert,24.5911108,91.592083
 LRP049,49.0,Km Post,Km post Missing,24.5911386,91.5977774
 LRP049a,49.42,Cross Road,Cross the Road N2,24.5914997,91.6018611
 LRPE,50.67,Others,Road end with N2 ( Dhaka- Syhlet Road at Auskandi),24.5938052,91.6104722
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Road start from N2 at Soyedpur Bazar, Hobiganj.",24.6134167,91.6312493
 LRP001,1.03,Km Post,Info Missing,24.6200549,91.6246104
 LRP001a,1.055,Culvert,Box Culvert,24.6202216,91.6244438
@@ -13044,14 +12780,10 @@ LRP043b,43.533,Bridge,Bridge End,24.9102778,91.466
 LRP044,43.997,Km Post,Info missing,24.9145278,91.4646944
 LRP045,44.997,Km Post,Km post missing,24.9233327,91.4625556
 LRPE,45.015,Others,Road end with R280 at Pagla.,24.9233604,91.4625833
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start from R248 at Shahi Eidgah point,24.9064444,91.8803049
 LRPSa,0.888,Culvert,Box culvert,24.8999441,91.879416
 LRP001,1.0,Km Post,Km post missing,24.8998052,91.8792771
 LRPE,1.188,Others,The road ends Intersecting Chowhatta- Kumarpara rNaiorpool road (R249),24.8995552,91.8791382
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road Start from Z2801at Ambarkhana,24.9051111,91.8700271
 LRP001,1.0,Km Post,Km post missing,24.90675,91.8791382
 LRP001a,1.341,"Side Road, Right",R247,24.9066389,91.8804993
@@ -13063,8 +12795,6 @@ LRP003,3.0,Km Post,Km post missing,24.9036111,91.8941941
 LRP003a,3.395,Culvert,Box Culvert,24.9028889,91.8979163
 LRP004,4.0,Km Post,Km post missing,24.8987497,91.9010833
 LRPE,4.257,Others,Road end with N2 at Tilagar point.,24.896333,91.9002778
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road Start from Chowhatta jero point,24.8994719,91.8687493
 LRPSa,0.238,Culvert,Slab Culvert,24.8991386,91.8711938
 LRPSb,0.709,Culvert,Box Culvert,24.8995274,91.8755549
@@ -13073,8 +12803,6 @@ LRP001,1.0,Km Post,Km post missing,24.8993608,91.8782493
 LRP001a,1.172,Cross Road,"R247, Shahi Eidgaon- Kumarpara Road",24.8994997,91.8789438
 LRP001b,1.608,Cross Road,"N2, Dhaka - Sylhet- Jaflong road",24.8994997,91.8789438
 LRPE,1.712,Others,"Intersect N209, Ken Bridge - Nayerpool Road",24.8994997,91.8789438
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start of road From N205,Chandipool-Keen Bridge road at Keen Bridge.",24.8859997,91.8681382
 LRP001,1.0,Km Post,Km post missing,24.8818327,91.8754438
 LRP001a,1.002,Culvert,Box culvert,24.8823049,91.8701938
@@ -13285,8 +13013,6 @@ LRP089,88.385,Km Post,Jakiganj 01 km,24.8768049,92.3735549
 LRP089a,88.77,Culvert,Box culvert,24.8773327,92.3698049
 LRP090,89.385,Km Post,Jakiganj 0 km,24.8743604,92.3658333
 LRPE,89.7,Others,Road end with Customs at Jakiganj,24.8731382,92.3650278
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road Start at Intersection 2 Golapganj-Chowmohoni Road R250 and R251.,24.8574722,92.0137778
 LRPSa,0.633,Bridge,Bridge start,24.8541944,92.0183049
 LRPSb,0.66,Bridge,Bridge end,24.8540833,92.0185271
@@ -13343,8 +13069,6 @@ LRP013a,13.275,Culvert,Box culvert,24.7601667,92.0196104
 LRP013b,13.374,Culvert,Box culvert,24.7593056,92.0195549
 LRP013c,13.491,Culvert,Box culvert,24.7582778,92.0196104
 LRPE,13.62,Others,Road End With Kora River.,24.7571667,92.0192771
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start from Z2801 at Amberkhana point,24.9050556,91.8698882
 LRPSa,0.495,Bridge,Bridge Start,24.9058889,91.8652778
 LRPSb,0.515,Bridge,Bridge End,24.9059444,91.8650833
@@ -13492,8 +13216,6 @@ LRP065a,66.105,Culvert,Box culvert,25.0699993,91.3978608
 LRP066,66.115,Km Post,Km post missing,25.0700549,91.3979997
 LRP066a,66.3,"Side Road, Right","Z2811, Dewarabazar- Sunamganj road",25.0713882,91.3991941
 LRPE,66.442,Others,Road end with Modhobazar more on river bank.,25.0725271,91.399083
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start from N208 at Rajnagar,24.5179438,91.8600556
 LRPSa,0.313,Culvert,Box Culvert,24.5176938,91.8630556
 LRP001,0.335,Km Post,Info missing,24.517666,91.8633056
@@ -13742,8 +13464,6 @@ LRP083,81.58,Km Post,Info missing,24.8989719,92.1613333
 LRP083a,82.54,Culvert,Box Culvert,24.9016667,92.1523056
 LRP084,82.58,Km Post,Km post missing,24.9017778,92.1517222
 LRPE,82.871,Others,The road ends Intersecting R250 at Charkhai.,24.9023333,92.1479441
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start from R281 At juri,24.5973052,92.1140556
 LRPSa,0.044,Bridge,Bridge Start,24.597083,92.11425
 LRPSb,0.053,Bridge,Bridge End,24.5969997,92.1143056
@@ -13807,8 +13527,6 @@ LRP015c,15.824,Culvert,Box Culvert,24.5340552,92.2222493
 LRP016,16.0,Km Post,Km post missing,24.5337774,92.2240827
 LRP016a,16.185,Others,Start of earth road,24.5328049,92.2257216
 LRPE,16.722,Others,The road ends at the start of steel bridge near india - Bangladesh border.,24.531166,92.2307216
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road Start From N2 at Sunamgonj Bypass more.,24.8607778,91.8461663
 LRP001,0.035,Km Post,Sunamgonj 67 Km,24.8609444,91.8461108
 LRP001a,0.336,Culvert,Box Culvert,24.8637778,91.8455274
@@ -13831,8 +13549,6 @@ LRP007,6.025,Km Post,Sunamgonj 61 Km,24.9078333,91.822916
 LRP007a,6.123,Bridge,Bridge Start,24.9086667,91.8231382
 LRP007b,6.391,Bridge,Bridge End,24.9109444,91.8239716
 LRPE,6.625,Others,Road end with Intersection R280 at Kumar Gaon at more.,24.9129167,91.824666
-,,,,,
-,,,,,
 LRPS,0.0,Others,Startt of road from N3 at Tongi,23.8927774,90.4020278
 LRPSa,0.469,Others,Start of Ahsanullah Master Flyover,24.8951386,90.4056389
 LRP001,1.0,Km Post,Km post missing,23.8974719,90.4091389
@@ -13911,8 +13627,6 @@ LRP031b,31.208,"Side Road, Left","Z2045, Panchdona- Charsindur Road",23.9093056,
 LRP031c,31.947,Culvert,Box Culvert,23.9034722,90.6646111
 LRP032,32.12,Km Post,Km post missing,23.9019167,90.6642778
 LRPE,33.037,Others,"End of road at Pachdona intersecting N2, Dhaka- Sylhet- Jaflong Road",23.8935552,90.6645833
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of Road From R301 at Kaliganj,23.9258049,90.5575278
 LRPSa,0.14,Culvert,Box culvert,23.9252771,90.5587222
 LRP001,1.0,Km Post,Km post missing,23.9207771,90.5654444
@@ -13926,15 +13640,11 @@ LRP006,5.843,Km Post,Kaliganj 4 km,23.9327216,90.6080556
 LRP007,6.843,Km Post,Km post missing,23.9399441,90.6138611
 LRP007a,6.936,Others,Intersection of Road with R301 under Ghorashal bridge.,23.9404719,90.6140833
 LRPE,7.475,Others,The road ends Intersecting R301 near Shahid Maizuddin Bridge,23.9413608,90.6155
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of road N3 at Tongi,23.8943052,90.4008333
 LRP001,1.0,Km Post,Km Post missing,23.8922497,90.3913608
 LRP001a,1.219,Bridge,Bridge start,23.8919441,90.3903052
 LRP001b,1.328,Bridge,Bridge end,23.891583,90.3893052
 LRPE,1.401,Others,Meet with N302 at Ranabola Intersection,23.891333,90.3886386
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start of Road from N3 at Gazipur Chourasta, Joydebpur.",23.9894997,90.381916
 LRP001,1.023,Km Post,Gazipur 4 km,23.9911941,90.3915552
 LRP001a,1.722,Culvert,Slab culvert,23.9920274,90.3983608
@@ -14035,8 +13745,6 @@ LRP036b,36.829,Culvert,Box Culvert,23.9806104,90.7264716
 LRP036c,36.839,Culvert,Box Culvert,23.9803327,90.7284993
 LRP036d,37.029,Culvert,Box Culvert,23.9802493,90.7302216
 LRPE,37.339,Others,End of road at itakhola more and intersect with N2 ( Dhaka- Sylhet Highway),23.9802493,90.7332771
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of road at Gazipur,23.9968886,90.4171382
 LRP001,0.15,Km Post,Ordinnce Factory 5 km,23.9969163,90.4171104
 LRP002,1.039,Km Post,Ordinnce Factory 4 km,23.0058056,90.4150833
@@ -14046,8 +13754,6 @@ LRP003,2.039,Km Post,Ordinnce Factory 3 km,23.0146944,90.4156667
 LRP004,3.039,Km Post,Km post missing,23.0231938,90.4025556
 LRP005,4.06,Km Post,Ordinnce Factory 1 km,23.0282493,90.4161944
 LRPE,4.561,Others,End of Road,23.032916,90.4161944
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of Road from N3 at Rajendrapur,24.095583,90.4018611
 LRPSa,0.267,Culvert,Box Culvert,24.0973052,90.4033333
 LRPSb,0.728,Culvert,Box Culvert,24.0982774,90.4076667
@@ -14159,8 +13865,6 @@ LRP041a,41.613,Culvert,Box culvert,24.2503889,90.6873608
 LRP042,42.045,Km Post,Kishoreganj 25 km,24.2497497,90.6912497
 LRP042a,42.891,Culvert,Box culvert,24.2494163,90.6944997
 LRPE,43.028,Others,The road end Intersecting R211 at Matkhola.,24.2497219,90.7012778
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of road N 3 at Mawna.,24.2205549,90.4125
 LRPSa,0.02,Others,End of Bituminous road,24.2205271,90.4126944
 LRPSb,0.539,Others,start of Bituminous road,24.2190271,90.4172771
@@ -14267,8 +13971,6 @@ LRP044b,41.354,Culvert,Box Culvert,24.1158889,90.6930274
 LRP045,42.038,Km Post,Box Culvert,24.1163056,90.6988608
 LRP045a,42.166,Culvert,Box Culvert,24.1168049,90.6998608
 LRPE,42.352,Others,The road ends Intersecting R211 at Monohardi,24.1172493,90.7015833
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of Road from N3 at Mawna.,24.2262216,90.4096944
 LRPSa,0.352,Culvert,Box culvert,24.2280827,90.4123889
 LRP001,1.056,Km Post,Gafargaon 44 km,24.2307493,90.4185271
@@ -14391,8 +14093,6 @@ LRP042,41.408,Km Post,Information missing,24.4354997,90.5571667
 LRP043,42.408,Km Post,Km post missing,24.4440274,90.5553333
 LRP043a,42.556,Culvert,Pipe culvert,24.4452497,90.5550556
 LRPE,43.41,Others,"The road end Intersecting Z3033, Mymensingh - Gafargaon - Toke road",24.4519167,90.5549722
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start from N-3 (Dhaka - Mymansing Road) intersection at Mawna Chowrasta,24.2206382,90.4122778
 LRP001,1.0,Km Post,Km post missing,24.2235549,90.4031944
 LRP002,2.0,Km Post,Km post missing,24.2265549,90.3940552
@@ -14496,16 +14196,10 @@ LRP052a,51.621,Bridge,Bridge start,23.9112778,90.2119444
 LRP052b,51.629,Bridge,Bridge End,23.9111389,90.2122222
 LRP053,51.935,Km Post,Km post missing,23.9084167,90.2121944
 LRPE,51.985,Others,"Road end at Dulivita Intersection N5 (Dhaka,Mirpur,Utholi, Paturia, Banglabandh road.",23.908,90.2122778
-,,,,,
-,,,,,
 LRPS,0.0,Others,The road starts from Kapasia Bus stand and Intersect with R312,24.1143333,90.5609722
-,,,,,
-,,,,,
 LRPS,0.0,Others,The road starts from R312 at Toke Bazar,24.261,90.6422219
 LRPSa,0.704,Culvert,Box Culvert,24.2635556,90.6362774
 LRPE,1.0,Others,End of the road at Toke Ferrighat,24.2661389,90.6358608
-,,,,,
-,,,,,
 LRPS,0.0,Others,"The road starts from R370, Mymensingh- Sunamganj road at Raghurampur",24.7625278,90.4504444
 LRPSa,0.52,Rail Road Crossing,Rail Road Crossing,24.76025,90.4547778
 LRPSb,0.848,Bridge,Bridge start,24.7587778,90.4575278
@@ -14789,16 +14483,12 @@ LRP115a,115.356,Culvert,Box Culvert,24.0653889,90.9765549
 LRP115b,115.784,Culvert,Box Culvert,24.0623889,90.9799993
 LRP116,116.353,Km Post,Km post missing,24.0570278,90.9819438
 LRPE,116.385,Others,"End of Road of Durjoy more Bhairab interseting N2, Dhaka- Sylhet - Jaflong road",24.05525,90.9830271
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of road from R360 at Battoli,24.4688327,90.7711382
 LRPSa,0.104,Culvert,Box Culvert,24.4679993,90.7714716
 LRP001,0.45,Km Post,Kishoreganj 2 km,24.4651667,90.7728604
 LRP002,1.43,Km Post,Kishoreganj 1 km,24.4576389,90.7759716
 LRP003,2.35,Km Post,Kishoreganj 0 km,24.449083,90.7774438
 LRPE,3.034,Others,The road ends at kishoreganj town,24.439833,90.7771104
-,,,,,
-,,,,,
 LRPS,0.0,Others,"The road starts from Kacharir more connecting N401, Madhupur- Mymensingh road",24.7636944,90.40625
 LRP001,0.986,Km Post,"Netrokona 39 km, Kishoreganj 66 km,Sherpur 71 km,",24.7573611,90.4128611
 LRP001a,1.335,Culvert,Box Culvert,24.755,90.4149167
@@ -15081,8 +14771,6 @@ LRP130b,129.382,Bridge,Bridge end,25.0373608,91.3751938
 LRP131,129.816,Km Post,Km post missing,25.0404997,91.3778327
 LRP132,130.816,Km Post,Km post missing,25.0397219,91.3864441
 LRPE,131.0,Others,"End of the road intersecting R280 at Islampur, Sunamganj",25.0399441,91.3874997
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start at Raghurampur from R370 Mymensingh-Sunamganj road,24.7652222,90.4516389
 LRP001,1.0,Km Post,Km post missing,24.7717771,90.446583
 LRP002,1.265,Km Post,Sherpur 61 km,24.7740549,90.4458608
@@ -15224,13 +14912,9 @@ LRP065,63.8,Km Post,Km post missing,25.0203327,90.0141111
 LRP065a,64.745,Culvert,Box Culvert,25.0286938,90.0148333
 LRP066,64.8,Km Post,Km post missing,25.0293049,90.0149722
 LRPE,65.17,Others,Road end at Sherpur(Khararpar) Intersecting R460,25.0324716,90.0153056
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road starts from R370 at Shambuganj,24.7611111,90.437083
 LRP001,1.0,Km Post,Km post missing,24.7614167,90.4248327
 LRPE,1.92,Others,The road ends at old Ferryghat,24.7596667,90.4202493
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of Road from N405 at Mulibari Rail gate Saidabad more Sirajganj.,24.3926941,89.7063889
 LRPSa,0.02,Rail Road Crossing,Rail road crossing,24.3928886,89.7063333
 LRP001,0.03,Km Post,Sirajganj 7 km,24.3929441,89.7063333
@@ -15248,8 +14932,6 @@ LRP008,7.12,Km Post,Km post missing,24.4518333,89.7157222
 LRP009,8.12,Km Post,Km post missing,24.4599722,89.7192493
 LRP009a,8.19,"Side Road, Left",R451,24.4580556,89.718166
 LRPE,8.99,Others,End at Old Zail Khana more Sirajganj,24.4491663,89.7196104
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start from N 405 at Nalka more Sirajganj.,24.422916,89.5963886
 LRPSa,0.118,Culvert,Box Culvert,24.4237216,89.5971663
 LRPSb,0.91,Bridge,Baily Bridge start,24.429666,89.6012222
@@ -15283,8 +14965,6 @@ LRP013,13.0,Km Post,Km post missing,24.4522222,89.7105556
 LRP013a,13.378,"Side Road, Right",Right R450,24.4494719,89.7143333
 LRP014,14.0,Km Post,Km post missing,24.4548056,89.7166389
 LRPE,14.44,Others,End at Hosenpur bot tala more Sirajganj,24.4581389,89.7180827
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start from N4,24.9075556,89.9501389
 LRPSa,0.172,Culvert,Box culvert,24.9075278,89.9518056
 LRPSb,0.524,Culvert,Box culvert,24.9075278,89.9553889
@@ -15366,8 +15046,6 @@ LRP031a,32.43,Bridge,Bridge start,25.1159722,90.0792216
 LRP031b,32.432,Bridge,Bridge end,25.116,90.0802216
 LRP032,32.532,Km Post,Nalita bari 12 km,25.117916,90.0827493
 LRPE,32.875,Others,The road ends Intersecting Z 4602 and Z4603.,25.1213882,90.0846663
-,,,,,
-,,,,,
 LRPS,0.0,Others,The roads start from N4 at Elenga.,24.3348052,89.9248604
 LRP001,1.0,Km Post,Km post missing,24.3399441,89.9207493
 LRP001a,1.516,Cross Road,"Crossing N405,Elenga-Nalka-Hatikamrul road",24.3443886,89.9210549
@@ -15428,8 +15106,6 @@ LRP020a,20.34,Culvert,Box Culvert,24.4578056,89.8412774
 LRP021,21.196,Km Post,Km post missing,24.4557222,89.8346941
 LRP022,22.196,Km Post,Km post missing,24.4508611,89.8258327
 LRPE,22.402,Others,The road ends near the Jamuna River Bank at Gobindashi,24.4510833,89.8242771
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start with N5,23.7931386,90.2713882
 LRP001,0.975,Km Post,Manikganj 32,23.792583,90.2619722
 LRP001a,1.558,"Side Road, Left",Hazratpur,23.7922774,90.2563333
@@ -15520,8 +15196,6 @@ LRP033b,33.329,Bridge,Bridge end,23.8656667,89.9998608
 LRP033c,33.53,Bridge,Bridge start,23.8674438,89.9993886
 LRP033d,33.563,Bridge,Bridge end,23.867666,89.9993886
 LRPE,33.907,Others,Road end With N5 at Manikgonj,23.8707216,89.9986663
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start with N 5.,23.8517222,89.8720271
 LRPSa,0.018,Bridge,Bridge start,23.8518056,89.8720271
 LRPSb,0.054,Bridge,Bridge end,23.8521111,89.9220827
@@ -15675,8 +15349,6 @@ LRP054,52.694,Km Post,Km post missing,24.2467774,89.9132222
 LRP054a,52.695,Culvert,Box Culvert,24.2500556,89.9140556
 LRP055,53.694,Km Post,Km post missing,24.2516944,89.919416
 LRPE,53.733,Others,Road end Intersecting N404 at Old Bus Stand More,24.2516389,89.9197216
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start from R545 at Model More, Mohadevpur.",24.9111111,88.7535278
 LRPSa,0.79,Cross Road,Z5456,24.9168327,88.7494719
 LRP001,1.0,Km Post,Km post missing,24.9183049,88.7483608
@@ -15684,8 +15356,6 @@ LRP001a,1.2,Culvert,Box Culvert,24.9190827,88.7468052
 LRP001b,1.36,Bridge,Bridge start (Under Construction),24.9184438,88.7454719
 LRP001c,1.58,Bridge,Bridge end (Under Construction),24.9173327,88.7437219
 LRPE,1.92,Others,"End at Bridge more , Kunjobon, Mohadevpur and meet with Z5456",24.9178049,88.7409163
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start from R-545 at Santahar more.,24.8065,88.9779993
 LRP001,0.006,Km Post,Raninagar 8 km,24.8064722,88.9780271
 LRP001a,0.895,Culvert,Box culvert,24.798833,88.981166
@@ -15726,8 +15396,6 @@ LRP024,23.025,Km Post,Not Accessible,0.0,0.0
 LRP025,24.025,Km Post,Not Accessible,0.0,0.0
 LRP026,25.025,Km Post,Not Accessible,0.0,0.0
 LRPE,25.7,Others,End at Atrai Railway Station and Meet with R548,24.6136111,88.9744716
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start at Namjghar round Infront at Rupali Bank.,24.8545,89.3675827
 LRP001,1.0,Km Post,Km post missing,24.8553889,89.3579444
 LRP001a,1.317,Culvert,Box Culvert,24.8557778,89.3548611
@@ -16025,8 +15693,6 @@ LRP120b,120.526,Culvert,Box Culvert,25.1034722,89.0224993
 LRP121,120.83,Km Post,Km post missing,25.1026389,89.0259993
 LRP121a,120.872,Rail Road Crossing,Rail road Crossing,25.1026389,89.0262216
 LRPE,120.93,Others,End at Pachur more Joypurhat and meet with R550.,25.1025556,89.0268049
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start at Dhaka road more Char matha Intersection at R 546 & R 545 Shantahar Naogaon.,24.8065278,88.9780827
 LRPSa,0.064,Bridge,R.C.C Bridge start,24.8066944,88.978666
 LRPSb,0.082,Bridge,R.C.C Bridge end,24.7900552,88.9788049
@@ -16042,8 +15708,6 @@ LRP002c,2.85,Culvert,Box Culvert,24.8142778,89.0059444
 LRP003,2.985,Km Post,Km post missing,24.8140556,89.0046667
 LRP003a,3.172,Rail Road Crossing,Rail road crossing,24.8146111,89.0077778
 LRPE,3.46,Others,"Road end Dhaka road, Purbo matha, Shantahar Bogra Intersection with R 545.",24.8150833,89.0105833
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start from R 545 at Baludanga busstand Naogaon,24.8329716,88.9218882
 LRPSa,0.7,Cross Road,"Naogaon Bypass, N 516",24.8390274,88.9240271
 LRP001,1.0,Km Post,Km post misssing,24.8414997,88.9251938
@@ -16265,8 +15929,6 @@ LRP099a,99.926,Culvert,Box culvert,24.8253049,88.3415552
 LRP100,100.4,Km Post,Kansat 25 km,24.8240827,88.3366663
 LRP100a,100.788,Culvert,Slab Culvert,24.8239438,88.333583
 LRPE,100.985,Others,End at Khoar More of Rohonpur and Connect Z 6802,24.8238882,88.3315271
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start at Kathaltala more from R545, Naogaon",24.8037778,88.9618056
 LRP001,1.0,Km Post,Atrai 28 km,24.7951941,88.9598889
 LRP001a,1.465,Culvert,Box culvert,24.7914163,88.95875
@@ -16367,8 +16029,6 @@ LRP052,52.316,Km Post,Km Post Broken,24.4143056,88.9576944
 LRP052a,53.05,Culvert,Box Culvert,24.40975,88.9601111
 LRP053,53.303,Km Post,Natore 0 km,24.4087222,88.9622778
 LRPE,53.321,Others,"End at Baidyanath More and Intersection with N6, Natore",24.4085833,88.9624444
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start at Chowraster More and Intersection at R549&R547,Badalgachhi,Naogaon.",24.9651111,88.9039167
 LRPSa,0.453,Bridge,Baily bridge start,24.9681104,88.9053056
 LRPSb,0.53,Bridge,Baily bridge end,24.9684716,88.9059444
@@ -16433,8 +16093,6 @@ LRP019a,19.231,Culvert,Box culvert start,25.0968886,88.9971108
 LRP019b,19.243,Culvert,Box Culvert end,25.0969719,88.9971108
 LRP020,20.225,Km Post,Km post missing,25.1056389,89.00025
 LRPE,20.29,Others,"End at Paharpur Baddhist Bihar Sign Board Intersection and meet with R 545 Khanjanpur More,Joypurhat.",25.1057222,89.0002778
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start from N5 at Mokamtala,Bogra.",25.017166,89.3688882
 LRPSa,0.22,Culvert,Box Culvert,25.018166,89.3673604
 LRPSb,0.809,Culvert,Box Culvert,25.0193049,89.3614722
@@ -16531,8 +16189,6 @@ LRP035,34.95,Km Post,Joypurhat 2 km,25.0956108,89.0438608
 LRP036,35.94,Km Post,Joypurhat 1 km,25.0997497,89.0351663
 LRP036a,36.53,"Side Road, Left",Z 5452 to Akkelpur,25.1018056,89.0296104
 LRPE,36.84,Others,End at Pachur more and meet with R545 & Z 5503 Joypurhat.,25.1023889,89.0267493
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start from N5 at Palashbari,in front of dak bangla market, chowmataha.",25.2815549,89.3533333
 LRPSa,0.496,Culvert,Box Culvert,25.284583,89.3565833
 LRP001,0.84,Km Post,Gaibandah 20 Km,25.2856386,89.35975
@@ -16583,8 +16239,6 @@ LRP020e,20.524,Monument,Monument,25.3300271,89.5459997
 LRP020f,20.67,Culvert,Cross drain,25.3306104,89.5472219
 LRP021,20.774,Km Post,Km post missing,25.3310271,89.5481663
 LRPE,21.015,Others,"End at Zehikhana more, at intersection & Z5613,Z5555 , Z 5552 at Gaibandah .",25.3309438,89.5501111
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start at Mithapukur from N 5 Right side Zhinak cenema hall left side saw mill gorar matha mithapukur Rangpur.,25.5802771,89.2734993
 LRPSa,0.375,Culvert,Box Culvert,25.5790549,89.2700827
 LRP001,0.416,Km Post,Maddahpara 24 km,25.578916,89.2697493
@@ -16713,8 +16367,6 @@ LRP035b,34.618,"Side Road, Left",Sopno puri road,25.4997774,88.9698049
 LRP035c,34.865,Rail Road Crossing,Fulbari rail,25.4989163,88.9681382
 LRP036,35.001,Km Post,Dhaka 309 km,25.4987774,88.9668049
 LRPE,35.131,Others,End at dhaka more infront of Maddahpara Granite and mining Company left side boardand Intersection at R 585 & R 556 Fulbari Dinajpur.,25.4987219,88.9655278
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start at Madhypara infront of Mining Guest house and intersection at R556 &R557, Parbatipur, Dinajpur.",25.5595833,89.0571667
 LRPSa,0.002,Culvert,Box culvert,25.5596667,89.0571389
 LRPSb,0.122,Culvert,Box culvert,25.5607778,89.057
@@ -16756,8 +16408,6 @@ LRP012,11.93,Km Post,Rangpur 25 km,25.6601389,89.0502778
 LRP012a,12.52,Rail Road Crossing,Parbatipur -Rangpur Rail,25.6651667,89.0486108
 LRP013,12.94,Km Post,Badarganj 0 km,25.6687216,89.0481386
 LRPE,12.943,Others,"End C.O .Bazar more Intersection at Z-5025 & R-557, Badarganj.Rangpur.",25.6687493,89.0481663
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start of road from R556 at Maheshpur Jobarpara goal chattor infornt of Mohosin store Parbotipur, Dinajpur.",25.5146667,88.9812771
 LRPSa,0.14,Culvert,Box culvert,25.5156389,88.9803327
 LRPSb,0.34,Culvert,Box Culvert,25.5166389,88.9788327
@@ -16785,8 +16435,6 @@ LRP005a,4.49,Culvert,Box Culvert,25.543333,88.9571111
 LRP005b,4.71,Culvert,Box Culvert,25.5451386,88.9566667
 LRP005c,4.86,Culvert,Box Culvert,25.5466108,88.95625
 LRPE,5.08,Others,"End at Rail gate more, infront of road on Z 5857 Barapukuria coal mining company Ltd. Barapukuria, Dinajpur.",25.5484997,88.9556944
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start from N5 and in front of RHD signboard, Paglapir Bazar Rangpur.",25.8112222,89.1470274
 LRP001,1.02,Km Post,Tista Barrage 49km,25.816666,89.1389441
 LRP002,1.99,Km Post,Tista Barrage 48km,25.8212216,89.1307216
@@ -16901,8 +16549,6 @@ LRP056,54.59,Km Post,Km post missing,26.2045833,89.080166
 LRP057,55.56,Km Post,Km post missing,26.2078889,89.0891386
 LRP058,56.59,Km Post,Km post missing,26.2083889,89.0993052
 LRPE,57.13,Others,End at Borokhata more and meet with N509 Hatibandha Lalmonirhat.,26.2084167,89.1045556
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start at Wapda more from N 5,Sayedpur.",25.8065278,88.8861386
 LRP001,0.48,Km Post,Info missing,25.8106389,88.8848608
 LRP002,1.482,Km Post,Info missing,25.8178049,88.8793327
@@ -16935,8 +16581,6 @@ LRP014e,13.942,Culvert,Box culvert,25.9230271,88.8624722
 LRP015,14.105,Km Post,Nilphamari 1 km,25.9241938,88.8614444
 LRP016,15.105,Km Post,Km post missing,25.930666,88.855
 LRPE,15.33,Others,End at G.P.O. more infront at post office Nilphamari,25.9322771,88.8535556
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of road from Gobindaganj thana more infornt of mayamoni hotel and resturant & intersection at N-5 & R 585,25.136333,89.3871941
 LRP001,0.01,Km Post,Information not clear,25.1363052,89.3871108
 LRP001a,0.622,Culvert,Box Culvert,25.1385552,89.3815827
@@ -17189,8 +16833,6 @@ LRP107d,106.546,Bridge,R.C.C. Brige start,25.5271104,88.6384997
 LRP107e,106.568,Bridge,R.C.C bridge end,25.6269993,88.638333
 LRP108,106.58,Km Post,km post missing,25.6269716,88.6381941
 LRPE,106.73,Others,End at sadinota chattar haspitul more infront of dilshad hotel intersection point at R585& N 508.,25.6259438,88.6366941
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start at Policchnical more infront of Alco Aluminium sign Board and Intersection R585&R586(Fulbari Bus Stand )Dinajpur.,25.6230271,88.6439719
 LRP001,1.0,Km Post,Km post missing,25.6310827,88.6483052
 LRP001a,1.16,Cross Road,"Z-5025,Dinajpur -Rangpur Road",25.6323049,88.6491108
@@ -17200,8 +16842,6 @@ LRP001d,1.618,Culvert,Box culvert,25.636083,88.6495274
 LRP002,2.0,Km Post,Km post missing,25.6396108,88.6485552
 LRP003,3.0,Km Post,Km post missing,25.6484719,88.6466941
 LRPE,3.266,Others,"End at Km post Takurgaon 54 km,Fulbari 44 km,Govt .College more Dinajpur .Intersection with N508.",25.6510278,88.6465274
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start Thakurgaon old bus stand Traffic more infornt of sigh board Sayedpur 65 km, Dinajpur 57 km, Dhaka 437 Km, RHD signboard & intersection at N5 & R587",26.0286382,88.4784438
 LRPSa,0.864,Culvert,Slab Culvert,26.030416,88.4699993
 LRP001,1.0,Km Post,KM post missing,26.0306938,88.4686938
@@ -17229,8 +16869,6 @@ LRP005e,5.71,Culvert,Cross drain,26.043333,88.4264993
 LRP005f,5.79,Rail Road Crossing,Rail road crossing,26.0437774,88.4256104
 LRP006,6.005,Km Post,Pirgonj 22Km,26.0425274,88.4240549
 LRPE,6.14,Others,"End at Baliadanghi more infornt of RHD signboard end of R587 Starting at Z5002, Thakurgaon",26.0419441,88.4224716
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start of road from Intersection of N604 &R601 infront of Ananta Cinema hall Traffic island,Pabna.",23.9991663,89.2452774
 LRP001,0.01,Km Post,Sujanagar 19 km,23.999083,89.2454441
 LRP001a,0.584,Culvert,Box Culvert,24.0007222,89.2504722
@@ -17307,16 +16945,12 @@ LRP051,50.987,Km Post,Kazirhat 6 km,23.8839719,89.6412774
 LRP052,51.972,Km Post,Kashinsthpur 9 km,23.8927497,89.6417497
 LRP053,52.424,Km Post,Baderhat 0 km,23.8966663,89.6419163
 LRPE,52.435,Others,"End of road at Chowrasta,Baderhat &Intersection at N5 &R601.",23.8799993,89.6419441
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start at Najirganj and Intersection point of R601 &R602.,23.8402774,89.5302771
 LRPSa,0.038,Bridge,Start of bridge,23.8399997,89.5302771
 LRPSb,0.067,Bridge,End of bridge,23.8397219,89.5302771
 LRPSc,0.842,Culvert,Box culvert,23.8327771,89.5302771
 LRP001,1.0,Km Post,Km post missing,23.8146389,89.5300549
 LRPE,1.415,Others,"End at Najirganj ferry ghat infont of ponton,Najirganj,Pavna.",23.8277771,89.529166
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of paksey N604 at Chadhakhar bashtoola infront of Krishi biponon depertment S.P.Road Pabna.,23.9974997,89.2255549
 LRP001,1.0,Km Post,Km post missing,24.0066667,89.2263882
 LRP001a,1.28,Culvert,Box culvert,24.0066667,89.2242493
@@ -17361,8 +16995,6 @@ LRP025,24.168,Km Post,Km post missing,24.0924997,89.0466663
 LRP025a,24.876,Culvert,Box Culvert,24.0974997,89.0452774
 LRP026,25.168,Km Post,Km post missing,24.1012778,89.0444163
 LRPE,25.795,Others,"End of road at Taltala more,Iswardi,Pakshi,Pabna.",24.1066667,89.0430552
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Road Start from Tebunia Bazar Intersection at N6, infront of Momtaz Pharmacy .",24.0716382,89.2078611
 LRP001,0.007,Km Post,Chatmohor 12 km,24.0716104,89.2073889
 LRP002,1.005,Km Post,Athgoria 5 km,24.0788327,89.2137778
@@ -17440,8 +17072,6 @@ LRP039a,38.746,Culvert,Box Culvert,24.3513056,89.3585
 LRP040,38.996,Km Post,Km post missing,24.3535556,89.3592778
 LRP041,39.996,Km Post,Km post missing,24.3621111,89.3615556
 LRPE,40.58,Others,"End of road N507 at Hamkuria (Mannanagar)Chowrasta Right side Towards Zilla road Z6032,Taras Sirajganj.",24.3669716,89.3621111
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start at thana more infront of sujanagar auditarian and intersection with R 601& R 605, sujanagar, pabna",23.9347219,89.4110278
 LRPSa,0.15,Culvert,Sluice ghat,23.934583,89.4095833
 LRP001,1.0,Km Post,Km post missing,23.9379997,89.4028333
@@ -17494,8 +17124,6 @@ LRP040,40.0,Km Post,Km post missing,24.0443052,89.0632778
 LRP041,41.0,Km Post,Km post missing,24.0494997,89.0568333
 LRP042,42.0,Km Post,Km post missing,24.0587778,89.0546389
 LRPE,42.65,Others,"End at Notun roppur and intersection with R603 &R 605 roppur,eshurdi pabna.",24.066666,89.0527222
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start at R-680 Bijoynagar Rajshahi infornt of B.G.B. Sign Board.,24.3976663,88.4453052
 LRPSa,0.302,Culvert,R.C.C. Culvert,24.3964719,88.4429163
 LRP001,0.53,Km Post,Infor.missing,24.3954997,88.4409163
@@ -17520,16 +17148,12 @@ LRP012,11.585,Km Post,Km post missing,24.4337219,88.3534444
 LRP012a,12.335,Culvert,Sluice gate,24.4391108,88.3504167
 LRP013,12.585,Km Post,Infor.missing,24.440833,88.3489163
 LRPE,13.23,Others,Road end at Ujanpara Matikata &Meet with R-680,24.4461108,88.3475274
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of road,24.5915552,88.2820271
 LRPSa,0.39,Culvert,R.C.C Culvert,24.5942497,88.2814716
 LRPSb,0.398,Others,Z6806 to Gomastapur,24.594833,88.2813882
 LRPSc,0.768,Culvert,Cross Drain,24.5961108,88.2811104
 LRP001,0.96,Km Post,Km post missing,24.5960552,88.2810549
 LRPE,1.33,Others,Road end Near Zilla Porished Sign Board Nawabganj,24.598833,88.2754716
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start from Monument of Bindur more.,24.3744438,88.6040278
 LRPSa,0.035,Rail Road Crossing,Rajshahi Chapai line,24.3747216,88.6041667
 LRPSb,0.472,Culvert,X Drain,24.3816938,88.6076111
@@ -17685,8 +17309,6 @@ LRP065a,64.694,Culvert,3 V-Box Culvert,24.8553333,88.8336386
 LRP066,65.375,Km Post,Naogaon 13 km,24.8595,88.8387774
 LRP067,66.38,Km Post,Naogaon 12 km,24.8654167,88.8461663
 LRPE,66.42,Others,"Connect with R545 at Chowmasia,Naogaon.",24.8656111,88.8461663
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start from N7 at Goalanda More,Ahaladipur.",23.6841386,89.6986941
 LRPSa,0.498,Culvert,Box culvert,23.6876941,89.6959163
 LRP001,1.155,Km Post,"Rajbari 09 km,Kushtia 72 km,Pangsha 34 km",23.691833,89.6912774
@@ -17831,8 +17453,6 @@ LRP071,71.05,Km Post,Kushtia 2 km,23.889333,89.1302771
 LRP072,72.04,Km Post,Kushtia 1 km,23.8899441,89.1205271
 LRP072a,72.62,Culvert,Box culvert,23.8902497,89.11475
 LRPE,73.11,Others,"End of the road at Chourhash, Intersect with N704,Kushtia",23.8907219,89.1099722
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start from Bagmara Chowrastar more from R 710,23.7541111,89.6078611
 LRPSa,0.864,Culvert,Box Culvert,23.7614167,89.6052778
 LRP001,1.0,Km Post,Km post missing,23.7626944,89.6046111
@@ -17846,8 +17466,6 @@ LRP005,5.0,Km Post,Km post missing,23.794083,89.588083
 LRP005a,5.06,Others,Overlapping start with Z7106,23.7948052,89.5876386
 LRP006,6.0,Km Post,Km post missing,23.7973608,89.5798049
 LRPE,6.48,Others,End of road at Dhawapara or Joukura Ferryghat,23.7973052,89.575666
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start from Machpara Rail Station uttara bazar.,23.8048333,89.3579444
 LRP001,0.255,Km Post,Info missing,23.8052778,89.3556389
 LRP001a,0.358,Rail Road Crossing,Rail Road Crossing,23.8056389,89.3548333
@@ -17856,8 +17474,6 @@ LRP001c,1.043,Bridge,Bridge end,23.80125,89.3567222
 LRP001d,1.209,Culvert,Box Culvert,23.794333,89.3562222
 LRP002,1.255,Km Post,Km post missing,23.7993052,89.3560278
 LRPE,2.22,Others,End at Machpara Bazar and Intersection with R 710.,23.7913608,89.3532778
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start from R 710 at Alauddin Ali more Kumarkhali Kushtia,23.8782216,89.2014167
 LRPSa,0.12,Rail Road Crossing,Rail Road Crossing,23.8793327,89.2018333
 LRPSb,0.581,Culvert,Box Culvert,23.8831104,89.2033056
@@ -17874,8 +17490,6 @@ LRP005,5.0,Km Post,Km post missing,23.9158333,89.2183327
 LRP005a,5.084,"Turn off, Left",Turn off left,23.9160556,89.2188327
 LRP005b,5.132,Culvert,Box Culvert,23.9164722,89.2189438
 LRPE,5.435,Others,End of road infront of Kutibari Maingate Shilahdah Kushtia.,23.9190549,89.2197771
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start from N-7 ,old Bus stand at Magura",23.487833,89.4283604
 LRPSa,0.008,Culvert,Cross drain,23.4877774,89.428416
 LRP001,1.0,Km Post,km post missing,23.4797493,89.431416
@@ -17977,8 +17591,6 @@ LRP045a,45.872,Culvert,Box culvert,23.1825271,89.50475
 LRP046,46.005,Km Post,"Narail 1km, Benapole 74 km",23.1813604,89.5042778
 LRP046a,46.535,Culvert,Box culvert,23.1774993,89.5014167
 LRPE,47.01,Others,End at old bus stand &Connect with R-750 at Bonghobondhu Smriti mural Narail .,23.1733604,89.5005556
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of road from R748 at Jibonnagar Bus stand,23.420916,88.8222493
 LRP001,0.405,Km Post,Info missing,23.4175271,88.8212493
 LRP001a,0.658,Culvert,Box Culvert,23.4154167,88.8205271
@@ -17990,8 +17602,6 @@ LRP003a,3.169,Culvert,Box Culvert,23.3949997,88.8209993
 LRP004,3.405,Km Post,Km post missing,23.3930552,88.8222493
 LRP005,4.405,Km Post,Km post missing,23.3851941,88.8268882
 LRPE,4.86,Others,End of road at Duttanagar,23.381666,88.8262493
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start of Road From N704 at Trimohoni Traffic Island infront of Trimohoni Mosjid ,Trimohoni ,Kushtia.",23.9319716,89.0892219
 LRPSa,0.03,Culvert,Box culvert,23.931916,89.0890274
 LRP001,0.035,Km Post,"Maherpur 53km,Gongni 42 km",23.9318882,89.0889997
@@ -18244,8 +17854,6 @@ LRP117,115.816,Km Post,Km post missing,23.5457497,89.1630556
 LRP117a,116.018,Cross Road,N 712,23.5456386,89.1651389
 LRP117b,116.244,Culvert,Box culvert,23.5454441,89.1672493
 LRPE,116.818,Others,End at Paira Chattar infront of Bata Store and Intersection at N703.Jhenaidah.,23.5450552,89.1726104
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start of the road at college more, intersection with R745",23.7669716,88.6404163
 LRPSa,0.541,Others,Meherpur Bus stand,23.7693327,88.6384719
 LRPSb,0.84,"Turn off, Left","Traffic More, Hotel Bazar, Turn off, left",23.7696104,88.6327493
@@ -18283,8 +17891,6 @@ LRP013e,14.18,Culvert,Slub Culvert,23.6614722,88.6034722
 LRP014,14.7,Km Post,Mujibnagar 01 km,23.6563333,88.6006389
 LRP015,15.44,Km Post,Mujibnagar 0km,23.6509444,88.5963608
 LRPE,15.636,Others,End of road Infront of Mujibnagar Smrity Soudha.,23.649583,88.5952497
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start at bottoli more infront of RHD sign board and intersection point of N704 & R747, Kustia.",23.8800827,89.0921663
 LRP001,0.15,Km Post,Chuadanga 45 km,23.8799438,89.0907497
 LRP001a,0.43,Culvert,Box culvert,23.8795271,89.087833
@@ -18377,8 +17983,6 @@ LRP042,41.818,Km Post,"Chuadanga 2 km, Jibonnagor 35 km",23.6549722,88.8608056
 LRP043,42.818,Km Post,Km post missing,23.6474719,88.8556389
 LRP043a,43.048,Culvert,Box Culvert,23.6459997,88.8546389
 LRPE,43.468,Others,"End at Academy more Chuadanga ,intersection at R 747& R 745",23.6426386,88.85425
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start from Boro bazar more infront of traffic is land intersection at R747 & R745 & R748 Chuadanga.,23.6453052,88.8450552
 LRPSa,0.779,Culvert,Slab Culvert,23.6399441,88.8405274
 LRP001,1.04,Km Post,Kaliganj 65 km,23.6387497,88.838333
@@ -18504,8 +18108,6 @@ LRP064,64.02,Km Post,Kaliganj 2 km Jessore 31 km,23.4018056,89.1167771
 LRP064a,64.566,Rail Road Crossing,Khulna Ishwardi rail,23.4036111,89.1217771
 LRP065,65.05,Km Post,Kaliganj 1 km Jhenaidah 16 km,23.40525,89.1262493
 LRPE,65.882,Others,"End at Kaliganj traffic more atintersect with N7 , Jhenaidah",23.4084722,89.1349997
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start of road at Darsana bus stand intersect with R 749 & R 748 Darsana, Chuadanga.",23.5272771,88.8076944
 LRPSa,0.218,Culvert,Box Culvert,23.5273882,88.8059444
 LRP001,1.0,Km Post,"Mujibnagar 29 km, Meherpur 42 km",23.5263604,88.7981386
@@ -18573,8 +18175,6 @@ LRP026b,26.995,Culvert,Box Culvert,23.6576389,88.6155
 LRP027,27.005,Km Post,Km post missing,23.6576389,88.6154444
 LRP028,28.005,Km Post,Km post missing,23.6630556,88.6076667
 LRPE,28.445,Others,End of Road,23.6644722,88.6042222
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start at Rajarhat infront of Amin Petrolium Filling station from N-7,Jessore.",23.1387774,89.2502222
 LRP001,0.44,Km Post,Chucknagar 39 km Monirampur13 Km,23.1351108,89.248833
 LRP001a,0.537,Rail Road Crossing,Khulna Jessore Rail Line,23.1343052,89.2485552
@@ -18669,8 +18269,6 @@ LRP038,37.27,Km Post,km post missing,22.8440552,89.2870552
 LRP038a,37.798,Culvert,Box culvert,22.8427774,89.2919441
 LRP039,38.26,Km Post,"Chucknagar 0 km,Satkhira 36 km",22.8407774,89.2955274
 LRPE,38.265,Others,End at Chucknagar and Connect with R-750 Khulna-Satkhira road.,22.8407497,89.2955552
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start from N-7 at Power house more infornt of Asian bazar, Khulna",22.8189716,89.5582222
 LRPSa,0.218,Culvert,Cross drain,22.8172771,89.5577222
 LRP001,1.0,Km Post,KM post missing,22.8103611,89.5564722
@@ -18809,8 +18407,6 @@ LRP058,57.721,Km Post,Satkhira 0Km,22.7236104,89.0754716
 LRP058a,57.744,Bridge,Bridge start,22.7235271,89.0752771
 LRP058b,57.771,Bridge,Bridge end,22.723416,89.0750271
 LRPE,58.5,Others,End of road at Laboni more in of matre vandor right side of mosque.,22.7216938,89.0682771
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start of road at Bus stand ,Infront of Jama Mosque and Intersection of N706 & R765 Navaran,Jessore.",23.0581389,88.9994441
 LRP001,0.01,Km Post,"Satkhira 43 km, Kolarowa 25 km",23.0580833,88.9994441
 LRP001a,0.015,Culvert,Box culvert,23.0580278,88.9994441
@@ -18908,8 +18504,6 @@ LRP042a,41.636,Culvert,Box Culvert,22.7230549,89.0673327
 LRP042b,41.808,"Side Road, Left",R 760 to Khulna,22.721666,89.0681104
 LRP043,42.036,Km Post,"Satkhira 1 km, Shamnagar 51 km",22.7198604,89.0692771
 LRPE,42.943,Others,"End of road at Km post Satkhira 0 km,Bhomra 15 km,Infront of New Intersect with Z 7602 & Z 7603.",22.7123889,89.0709716
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start from R856 at Start at Bagerhat Road Division Noapara Island.,22.7373886,89.6496941
 LRPSa,0.308,Culvert,Box Culvert,22.735333,89.6517222
 LRP001,0.435,Km Post,Bagerhat 19 km,22.7344719,89.6524444
@@ -19019,8 +18613,6 @@ LRP041a,41.052,Culvert,Box Culvert,22.5707771,89.9713327
 LRP041b,41.075,Cross Road,R 870,22.5707216,89.9714716
 LRP042,41.8,Km Post,Km post missing,22.5709993,89.9782493
 LRPE,42.78,Others,End at Traffic point and Intersect with Z 7709.,22.5791382,89.9801938
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start from N7 at Bank more East Rupsha,22.8005833,89.5867497
 LRP001,0.815,Km Post,km post broken,22.8038333,89.5911108
 LRP001a,1.314,Culvert,Box Culvert,22.8034444,89.5959163
@@ -19076,17 +18668,11 @@ LRP030b,30.325,"Turn off, Right",Turn Off Right,22.6665833,89.7635
 LRP031,30.36,Km Post,Km Post Missing,22.666666,89.7630833
 LRP031a,30.835,"Turn off, Left",Turn Off Left,22.6516111,89.7588889
 LRPE,31.18,Others,End At khan jahan Ali dargah More And Intersection With R770,22.6652778,89.7583889
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start road at Bagerhat Bus stand ,Intersection R770.",22.6473886,89.7921386
 LRPSa,0.306,Culvert,Box culvert,22.6500556,89.792833
 LRPE,0.63,Others,End at Basabati.,22.6527778,89.7934997
-,,,,,
-,,,,,
 LRPS,0.0,Others,,0.0,0.0
 LRPE,14.0,Others,,0.0,0.0
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of road from Basabo Bishwa road end of Fly over.,23.7398052,90.4275827
 LRP001,1.0,Km Post,Km post missing,23.7418886,90.4368052
 LRP001a,1.85,"Turn off, Left","Turn off ,Left",23.7449997,90.4443052
@@ -19097,8 +18683,6 @@ LRP004,4.0,Km Post,Km Post Missing,23.758,90.4595
 LRP004a,4.165,Culvert,Pipe Culvert,23.7587222,90.4607222
 LRP004b,4.323,Bridge,Bridge start,23.7599167,90.4623611
 LRPE,7.5,Others,End of road at Bridge End With Trimohoni Bazar Gudaraghat.,23.7601111,90.4634722
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start from N8 at Postagola,23.6902219,90.4310549
 LRP001,1.0,Km Post,Km Post Missing,23.6831104,90.4367219
 LRP001a,1.387,"Side Road, Left","Z 1101, Matuail Mirdabari Shampur Road",23.6827493,90.4371108
@@ -19114,8 +18698,6 @@ LRP009,9.0,Km Post,Km Post Missing,23.6289993,90.4843886
 LRP010,10.0,Km Post,Km Post Missing,23.6257493,90.4934441
 LRP010a,10.545,Rail Road Crossing,Rail Cross,23.6240549,90.4986108
 LRPE,10.642,Others,Road end with intersecting of R111 at Narayanganj Town,23.6239716,90.4996386
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start from R810 at Panchaboti,23.6323882,90.4762216
 LRP001,0.031,Km Post,Muktarpur 8 km,23.6323604,90.4762216
 LRP001a,0.032,Culvert,Box Culvert,23.6323604,90.476166
@@ -19220,23 +18802,17 @@ LRP041,39.29,Km Post,Mawa 3 km,23.4760271,90.2953608
 LRP042,40.29,Km Post,Mawa 2 km,23.4745549,90.2841663
 LRP043,41.29,Km Post,Mawa 1 km,23.4735827,90.2746104
 LRPE,42.285,Others,Road End with N8 at Mawa Ferry Ghat,23.473166,90.2655
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road Start from Muktarpur Ferry Ghat Road R814 at Muktarpur,23.5659167,90.5143056
 LRPSa,0.452,Culvert,Sluice gate,23.5643889,90.5182493
 LRP001,1.0,Km Post,Km post missing,23.56325,90.523416
 LRP002,2.0,Km Post,Km post missing,23.5585,90.531416
 LRP003,3.0,Km Post,Km post missing,23.552,90.5353886
 LRPE,3.378,Others,"Road End with Near Stadium & Shilpakola -Academy,Munshiganj",23.5487497,90.5353608
-,,,,,
-,,,,,
 LRPS,0.0,Others,Road start from R812 From Muktarpur bridge Dhaka End,23.5772771,90.5130278
 LRPSa,0.749,Others,Old Ferry Ghat Start,23.5708327,90.5148333
 LRPSb,1.285,Others,Old Ferry Ghat End,23.5659722,90.5143889
 LRPsc,1.295,"Side Road, Left",R813,23.5659167,90.5143056
 LRPE,2.034,Others,Road Ends intersecting R812 at Muktarpur Bridge Munshiganj End,23.5603889,90.51025
-,,,,,
-,,,,,
 LRPS,0.0,Others,The road starts from N802 at Kadamtoli More,23.7012222,90.3975274
 LRPSa,0.446,Culvert,Box Culvert,23.7011111,90.393583
 LRP001,1.0,Km Post,Km post missing,23.7023611,90.3884441
@@ -19369,20 +18945,14 @@ LRP070a,70.598,Bridge,Bridge start,23.5363886,90.2854441
 LRP070b,70.651,Bridge,Bridge end,23.536583,90.2858886
 LRP071,71.266,Km Post,Km post missing,23.5412774,90.2918608
 LRPE,72.052,Others,End of the road intersecting N8 at Srinagar,23.5429719,90.2959163
-,,,,,
-,,,,,
 LRPS,0.0,Others,The road starts from N8,23.5255827,90.2858608
 LRP001,1.0,Km Post,Km post missing,23.5276938,90.274666
 LRPE,1.285,Others,The road ends Intersecting R820,23.5506944,90.2889997
-,,,,,
-,,,,,
 LRPS,0.0,Others,The road starts from R820 at Sreenagar Bazar,23.5367219,90.286083
 LRP001,1.0,Km Post,Km post missing,23.5443608,90.3488052
 LRP001a,1.242,Bridge,Baily Bridge start,23.7950274,90.2868608
 LRP001b,1.29,Bridge,Baily Bridge end,23.5461941,90.287333
 LRPE,1.924,Others,The road ends Near the Upazila Office,23.5506944,90.2889997
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of road from N8 at round about Takerhat Bus stand.,23.227166,90.0198882
 LRPSa,0.22,Culvert,Drain Culvert,23.229166,90.0198049
 LRP001,0.315,Km Post,"Gopalgonj 38 km, khulna 93 km",23.2295827,90.0190549
@@ -19459,14 +19029,10 @@ LRP044a,44.27,Culvert,Box Culvert,22.957,89.8198882
 LRP045,44.4,Km Post,"Tungipara 13 km, Pirojpur 51 km",22.9558611,89.8205271
 LRP045a,44.453,Culvert,Box Culvert,22.9553889,89.820666
 LRPE,44.83,Others,End of road at Mollahhat and Intersection with Z7704 and N805,22.9526389,89.8216382
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of road from R850 infront of Goapalgonj Road Division,23.0175827,89.8358052
 LRPSa,0.365,Culvert,Box Culvert,23.0193049,89.8388052
 LRPSb,0.583,Culvert,Box Culvert,23.0205271,89.8403608
 LRPE,0.65,Others,End of road at Bustermina and intersect with N805,23.0208049,89.8408886
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start at Mostafapur Traffic island And From N 8 Madaripur,23.1543056,90.1391108
 LRPSa,0.04,Culvert,Box culvert,23.1543889,90.1394719
 LRPSb,0.81,Bridge,Start of Bridge,23.1549444,90.1470274
@@ -19690,8 +19256,6 @@ LRP071,72.574,Km Post,Km post Missing,23.1451386,90.7091389
 LRP072,73.574,Km Post,Km post Missing,23.1441386,90.7186104
 LRP073,74.104,Km Post,Info Missing,23.143833,90.7235827
 LRPE,74.634,Others,End of road at Bhatialpur and meet with R140,23.1449997,90.7282216
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of road from R860 at Monoharpur more.,23.1869997,90.3318882
 LRPSa,0.708,Culvert,Box Culvert,23.1930552,90.3337219
 LRP001,1.13,Km Post,"Sariatpur 02 km, Dhaka 76 km, Majhirghat 30 km",23.1964719,90.3351108
@@ -19716,8 +19280,6 @@ LRP006a,6.37,"Side Road, Left",Left Z8065 to Mongalmajir ghat,23.2364163,90.3485
 LRP006b,6.39,Culvert,Box Culvert,23.2364997,90.3486663
 LRP006c,6.884,Culvert,Box Culvert,23.2363608,90.3536111
 LRPE,6.904,Others,End of road at Premtola more at Intersection of with Z 8012 and Z 8602.,23.2363608,90.3538056
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of Road at Rupatoli more (Gole Chokkor) Infront of hotel Metropolition and Intersection at N8 & R870 Barisal.,22.678666,90.347083
 LRP001,0.73,Km Post,Jhalokati 16 km,22.6748327,90.341333
 LRP001a,0.922,Culvert,Box Culvert,22.6736382,90.3398608
@@ -19914,8 +19476,6 @@ LRP064b,63.734,Culvert,Box Culvert,22.5748604,89.9725827
 LRP065,63.972,Km Post,Km post missing,22.5770549,89.9727216
 LRP065a,64.192,Culvert,Box Culvert,22.5790827,89.9728882
 LRPE,64.252,Others,End at Patherhat more Infront of Masum Bread & Beside Mike Farmacy and Crosing Z7709 Pirojpur.,22.5794993,89.972916
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start at Road Patuakhali Chow -Raster more Near Power Station End Point of N-8,Patuakhali.",22.3596111,90.3184716
 LRP001,0.24,Km Post,"Kuakata 70 km,Barguna 41 km",22.3574444,90.3182216
 LRP001a,0.907,Culvert,Box culvert,22.3494441,90.3172216
@@ -20035,8 +19595,6 @@ LRP055,54.423,Km Post,Kachira 1 km,22.1612778,90.0245827
 LRP055a,55.168,Culvert,Box Culvert,22.16,90.0198327
 LRP056,55.423,Km Post,Kachira 00 km,22.1600833,90.0174716
 LRPE,55.728,Others,"End of road at Kachira more and meet with Z8708, Barguna.",22.1604722,90.0145833
-,,,,,
-,,,,,
 LRPS,0.0,Others,"Start of road from R880 at Patuakhali RHD Division only at Amtali Infront of R.H.D Sign Board Amtali,Barguna",22.133166,90.2305549
 LRP001,1.0,Km Post,"Kuakata 40 km,Khepupara 17 km",22.1242771,90.2315827
 LRP001a,1.45,Culvert,Box culvert,22.1204993,90.2309716
@@ -20121,8 +19679,6 @@ LRP039a,39.825,Bridge,R.C.C Bridge start,21.8208049,90.1201382
 LRP039b,39.84,Bridge,R.C.C Bridge end,21.820666,90.1201938
 LRP040,40.026,Km Post,Km post missing,21.8188327,90.1208327
 LRPE,40.646,Others,End of Road at kuakata Infront of Kuakata Sea Beach Patuakhali,21.8137778,90.122416
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start from N 809 at paran Talukderhat Bhola.,22.7290271,90.634333
 LRPSa,0.17,Bridge,Bridge start,22.7275827,90.6347774
 LRPSb,0.184,Bridge,Bridge end,22.7273327,90.6348052
@@ -20324,9 +19880,5 @@ LRP107,107.895,Km Post,Km post missing,22.076666,90.6194438
 LRP107a,108.105,Culvert,Box Culvert,22.0784438,90.620166
 LRP107b,108.455,Culvert,Box Culvert,22.0796938,90.6173882
 LRPE,108.785,Others,"End of road at Baburhat, Launch Ghate,Bhola.",22.0808882,90.6143889
-,,,,,
-,,,,,
 LRPS,0.0,Others,Start of road from N 809 at Illisha Junction..,22.780916,90.6481663
 LRPE,0.615,Others,End of road at Bishwa road ghat Illisha.,22.782916,90.6532778
-,,,,,
-,,,,,
