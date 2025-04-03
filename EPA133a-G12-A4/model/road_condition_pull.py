@@ -58,7 +58,7 @@ for filename in os.listdir(directory_path):
 
         # This now runs regardless of success or failure and adds a value for each road
         road_condition_data.append({
-            'Road Name': road_name,
+            'road': road_name,
             'Number of Contracts': contracts if pd.notnull(contracts) else 0,
             'Total Length of Works (Km)': length_km if pd.notnull(length_km) else 0
         })
