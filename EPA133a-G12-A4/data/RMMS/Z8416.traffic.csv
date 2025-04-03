@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z8416.traffic.htm
+Z8416-1,Munshibazar (Int.with N804) - Hatgozaria (Int.with Z8402),LRPS,0,0,LRP007,940,6.5,6.500,0.0,32.0,161.0,0.0,0.0,49.0,0.0,43.0,867.0,656.0,540.0,378.0,0.0,1808.0,918.0,2726.0,2726.0,Z8416.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z8416.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z8416.traffic.htm

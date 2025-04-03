@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z1064.traffic.htm
+Z1064-1,Sonargaon Y-Junction at Z1089-Sonargaon Museum,LRPS,0,0,LRPS,2132,2.132,2.132,0.0,34.0,46.0,0.0,53.0,56.0,4.0,87.0,1088.0,186.0,107.0,260.0,0.0,1554.0,367.0,1921.0,1921.0,Z1064.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z1064.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z1064.traffic.htm

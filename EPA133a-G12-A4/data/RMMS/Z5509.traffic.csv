@@ -1,0 +1,7 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5509.traffic.htm
+Z5509-1,Hili-Hakimpur (int.with Z5856),LRPS,0,0,LRP011,550,10.44,10.440,0.0,150.0,141.0,0.0,51.0,28.0,4.0,4.0,406.0,965.0,845.0,545.0,0.0,1749.0,1390.0,3139.0,3139.0,Z5509.traffic.htm
+Z5509-2,Hakimpur (int.with Z5856)-Int.with Z5855,LRP011,550,10.44,LRP028,260,26.73,16.290,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5509.traffic.htm
+Z5509-3,Int.with Z5855-Kalai,LRP028,260,26.73,LRPE,0,31.38,4.650,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5509.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z5509.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5509.traffic.htm

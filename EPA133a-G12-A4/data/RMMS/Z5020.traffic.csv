@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5020.traffic.htm
+Z5020-1,Hazirhat-Gangachhara,LRPS,0,0,LRP022,40,20.471,20.471,0.0,113.0,128.0,10.0,1.0,75.0,37.0,55.0,653.0,1404.0,2257.0,1081.0,1.0,2476.0,3339.0,5815.0,5815.0,Z5020.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z5020.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5020.traffic.htm

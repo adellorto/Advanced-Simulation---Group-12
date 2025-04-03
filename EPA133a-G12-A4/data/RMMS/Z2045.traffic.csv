@@ -1,0 +1,7 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z2045.traffic.htm
+Z2045-1,Asmandirchar-Taltali (int.with Z2039),LRPS,0,0,LRP005,2560,7.538,7.538,1.0,205.0,163.0,5.0,2.0,77.0,19.0,55.0,1092.0,293.0,124.0,120.0,0.0,1912.0,244.0,2156.0,2156.0,Z2045.traffic.htm
+Z2045-2,Taltali (int.with Z2039)-int.with R310,LRP005,2560,7.538,LRP014,1000,14.899,7.361,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z2045.traffic.htm
+Z2045-3,int.with R310-Dulalpur (int.with Z2044),LRP014,1000,14.899,LRPE,0,18.77,3.871,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z2045.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z2045.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z2045.traffic.htm

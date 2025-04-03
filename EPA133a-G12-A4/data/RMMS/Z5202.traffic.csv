@@ -1,0 +1,8 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5202.traffic.htm
+Z5202-1,Omarpur-Int.with Z5207,LRPS,0,0,LRPS,4706,4.706,4.706,21.0,101.0,94.0,0.0,1.0,54.0,5.0,6.0,1133.0,1096.0,752.0,755.0,0.0,2511.0,1507.0,4018.0,4018.0,Z5202.traffic.htm
+Z5202-2,Int.with Z5207-Talora Bazar (int.with Z5471),LRPS,4706,4.706,LRPS,23739,23.739,19.033,51.0,79.0,93.0,0.0,1.0,57.0,5.0,8.0,1215.0,1132.0,752.0,756.0,0.0,2641.0,1508.0,4149.0,4149.0,Z5202.traffic.htm
+Z5202-3,Talora Bazar(int.with Z5471)-Dupchachia (int.with R545),LRPS,23739,23.739,LRP028,2968,30.788,7.049,4.0,109.0,117.0,0.0,114.0,11.0,5.0,2.0,752.0,762.0,722.0,1011.0,0.0,1876.0,1733.0,3609.0,3609.0,Z5202.traffic.htm
+Z5202-4,Dupchachia (int.with R545)-Gopinathpur (int.with Z5508),LRP028,2968,30.788,LRPE,0,45.604,14.816,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5202.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z5202.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5202.traffic.htm

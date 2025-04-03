@@ -1,0 +1,7 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z8701.traffic.htm
+Z8701-1,Charkhali-Safa(int.with Z8815),LRPS,0,0,LRP014,862,14.877,14.877,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z8701.traffic.htm
+Z8701-2,Safa(int.with Z8815)-Mathbaria(int.with Z8814),LRP014,862,14.877,LRP025,3170,27.78,12.903,2.0,57.0,100.0,49.0,85.0,55.0,30.0,46.0,452.0,1246.0,659.0,565.0,0.0,2122.0,1224.0,3346.0,3346.0,Z8701.traffic.htm
+Z8701-3,Mathbaria(int.with Z8814)-Patharghata,LRP025,3170,27.78,LRP057,455,57.487,29.707,2.0,57.0,100.0,49.0,85.0,55.0,30.0,46.0,452.0,1246.0,659.0,565.0,0.0,2122.0,1224.0,3346.0,3346.0,Z8701.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z8701.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z8701.traffic.htm

@@ -1,0 +1,7 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5707.traffic.htm
+Z5707-1,Nilphamari-Int.with Z5701,LRPS,0,0,LRPS,740,0.74,0.740,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5707.traffic.htm
+Z5707-2,Int.with Z5701-Int.with Z5709,LRPS,740,0.74,LRP003,1029,4.039,3.299,75.0,128.0,120.0,115.0,49.0,56.0,18.0,19.0,294.0,1307.0,1845.0,542.0,0.0,2181.0,2387.0,4568.0,4568.0,Z5707.traffic.htm
+Z5707-3,Int.with Z5709-Domar,LRP003,1029,4.039,LRP021,300,21.33,17.291,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5707.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z5707.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5707.traffic.htm

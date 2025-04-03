@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z3711.traffic.htm
+Z3711-1,Phulpur-Haluaghat(int.with Z3040),LRPS,0,0,LRP020,309,20.29,20.290,0.0,218.0,312.0,169.0,101.0,126.0,18.0,67.0,1177.0,1035.0,285.0,191.0,68.0,3223.0,544.0,3767.0,3767.0,Z3711.traffic.htm
+Z3711-2,Haluaghat(int.with Z3040)-Tinkuni More(int.with Z2834),LRP020,309,20.29,LRPE,0,27.021,6.731,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z3711.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z3711.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z3711.traffic.htm

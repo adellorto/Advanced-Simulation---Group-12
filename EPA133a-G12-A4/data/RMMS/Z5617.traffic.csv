@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5617.traffic.htm
+Z5617-1,Nageswari-Fulbari (int.with Z5616),LRPS,0,0,LRP016,395,16.385,16.385,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5617.traffic.htm
+Z5617-2,Fulbari (Int.with Z5616)-Ferry ghat Phulbar,LRP016,395,16.385,LRP018,900,18.93,2.545,0.0,59.0,53.0,0.0,0.0,0.0,0.0,0.0,270.0,369.0,333.0,241.0,11.0,751.0,585.0,1336.0,1336.0,Z5617.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z5617.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5617.traffic.htm

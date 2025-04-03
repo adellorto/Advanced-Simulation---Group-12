@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5402.traffic.htm
+Z5402-1,Sirajganj-Porabari(int.with N405),LRPS,0,0,LRP004,2893,6.91,6.910,7.0,177.0,101.0,113.0,175.0,46.0,69.0,51.0,2538.0,1205.0,656.0,748.0,0.0,4482.0,1404.0,5886.0,5886.0,Z5402.traffic.htm
+Z5402-2,Porabari(int.with N405)-Samespur,LRP004,2893,6.91,LRPE,0,11.657,4.747,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5402.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z5402.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5402.traffic.htm

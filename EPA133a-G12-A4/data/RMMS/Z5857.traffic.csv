@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5857.traffic.htm
+Z5857-1,Fulbari-int.with Z5858,LRPS,0,0,LRP013,430,13.65,13.650,0.0,88.0,77.0,3.0,8.0,25.0,21.0,14.0,708.0,1466.0,1470.0,1037.0,0.0,2410.0,2507.0,4917.0,4917.0,Z5857.traffic.htm
+Z5857-2,int.with Z5858-Parbatipur,LRP013,430,13.65,LRPE,0,21.73,8.080,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5857.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z5857.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5857.traffic.htm

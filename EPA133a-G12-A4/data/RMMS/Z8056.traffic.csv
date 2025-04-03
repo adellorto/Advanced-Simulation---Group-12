@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z8056.traffic.htm
+Z8056-1,Dapdapia-Nalcity (Taltal Rastar More),LRPS,0,0,LRP010,842,9.574,9.574,0.0,85.0,121.0,0.0,3.0,14.0,10.0,11.0,353.0,366.0,329.0,284.0,0.0,963.0,613.0,1576.0,1576.0,Z8056.traffic.htm
+Z8056-2,Taltala Raster More-Mollarhat,LRP010,842,9.574,LRP023,3069,25.405,15.831,0.0,8.0,33.0,0.0,47.0,3.0,1.0,17.0,1298.0,1181.0,931.0,1178.0,0.0,2588.0,2109.0,4697.0,4697.0,Z8056.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z8056.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z8056.traffic.htm

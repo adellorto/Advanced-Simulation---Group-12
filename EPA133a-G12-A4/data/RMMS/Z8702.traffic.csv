@@ -1,0 +1,8 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z8702.traffic.htm
+Z8702-1,Rajapur-Naikati,LRPS,0,0,LRP005,770,4.8,4.800,0.0,133.0,180.0,55.0,105.0,78.0,45.0,75.0,682.0,613.0,477.0,411.0,0.0,1966.0,888.0,2854.0,2854.0,Z8702.traffic.htm
+Z8702-2,Naikati-Chirapara,LRP005,770,4.8,LRP009,930,8.84,4.040,0.0,63.0,126.0,48.0,82.0,44.0,44.0,36.0,669.0,601.0,249.0,310.0,0.0,1713.0,559.0,2272.0,2272.0,Z8702.traffic.htm
+Z8702-3,Chirapara-Bekutia Ferryghat East,LRP009,930,8.84,LRP012,1526,12.466,3.626,0.0,63.0,126.0,48.0,82.0,44.0,44.0,36.0,669.0,601.0,249.0,310.0,0.0,1713.0,559.0,2272.0,2272.0,Z8702.traffic.htm
+Z8702-4,Bekutia Ferryghat West-Pirojpur (Fishig Complex),LRP012,1526,12.466,LRP012,3700,14.648,2.182,0.0,63.0,126.0,48.0,82.0,44.0,44.0,36.0,669.0,601.0,249.0,310.0,0.0,1713.0,559.0,2272.0,2272.0,Z8702.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z8702.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z8702.traffic.htm

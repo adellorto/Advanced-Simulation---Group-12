@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z7057.traffic.htm
+Z7057-1,Kaliganj-Int.with N702,LRPS,0,0,LRP021,807,21.233,21.233,0.0,38.0,127.0,0.0,0.0,8.0,11.0,1.0,667.0,625.0,1039.0,186.0,2.0,1477.0,1227.0,2704.0,2704.0,Z7057.traffic.htm
+Z7057-2,Int.with N702-Bagherpara,LRP021,807,21.233,LRPE,0,33.438,12.205,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z7057.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z7057.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z7057.traffic.htm

@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z2044.traffic.htm
+Z2044-1,Shibpur-Dulalpur (int.with Z2045),LRPS,0,0,LRP007,303,6.351,6.351,1.0,193.0,158.0,1.0,6.0,45.0,15.0,44.0,1127.0,370.0,346.0,151.0,7.0,1960.0,504.0,2464.0,2464.0,Z2044.traffic.htm
+Z2044-2,Dulalpur (int.with Z2045)-Hatirdia,LRP007,303,6.351,LRPE,0,25.067,18.716,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z2044.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z2044.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z2044.traffic.htm

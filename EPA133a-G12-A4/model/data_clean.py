@@ -23,26 +23,10 @@ def clean_traffic(filename):
 
     return df_traffic
 
-def clean_lrps(filename):
-    df_lrps = pd.read_csv(filename)
-    print(df_lrps.head())
-    df_lrps = df_lrps.iloc[:, 1:-2]  # Drops first column (index 0) and second-to-last column (-2)
-    df_lrps = df_lrps[df_lrps['LRP No'].notna()]
-    df_traffic = pd.read_csv(path)
-    df_lrps['Road'] = df_traffic['Road']
-    return df_lrps
-
-#df_assignment3 = pd.read_csv("../../EPA133a-Lab/EPA133a-G12-A3/data/final_input_data.csv")
-#df_assignment3['id'] = df_assignment3['id'].replace("1000", "LRPS")
-
-lrps_path = '../data/RMMS/combined_lrps.csv'
-lrps_clean_path = '../data/processed_data/combined_lrps_clean.csv'  # Full output path
 
 df_clean_traffic = clean_traffic(path)
 df_clean_traffic.to_csv(traffic_clean_path, index=False)  # Save directly to clean_path
 
-df_clean_lrps = clean_lrps(lrps_path)
-df_clean_lrps.to_csv(lrps_clean_path, index=False)
 
 
 

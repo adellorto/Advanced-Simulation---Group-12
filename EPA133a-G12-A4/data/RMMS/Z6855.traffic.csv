@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z6855.traffic.htm
+Z6855-1,Bagshara-Chabbis Nagar (int.with Z6809),LRPS,0,0,LRP014,999,15.479,15.479,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,43.0,165.0,477.0,97.0,0.0,209.0,574.0,783.0,783.0,Z6855.traffic.htm
+Z6855-2,Chabbis Nagar (int.with Z6809)-Gunigram,LRP014,999,15.479,LRPE,0,28.91,13.431,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z6855.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z6855.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z6855.traffic.htm

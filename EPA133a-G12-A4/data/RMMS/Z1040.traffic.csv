@@ -1,0 +1,8 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z1040.traffic.htm
+Z1040-1,Gasbaria-Barma (Int.with Z1036),LRPS,0,0,LRP006c,20,6.69,6.690,0.0,152.0,129.0,0.0,137.0,75.0,25.0,21.0,1902.0,231.0,807.0,1065.0,0.0,2672.0,1872.0,4544.0,4544.0,Z1040.traffic.htm
+Z1040-2,Barma (Int.with Z1036)-Barkal Bridge (Int.with Z1054),LRP006c,20,6.69,LRP009,890,9.935,3.245,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1040.traffic.htm
+Z1040-3,Barkal Bridge (Int.with Z1054)- Int.with Z1070,LRP009,890,9.935,LRP012a,170,12.6,2.665,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1040.traffic.htm
+Z1040-4,Int.with Z1070-Anowara (int.with R170),LRP012a,170,12.6,LRPE,0,16.48,3.880,0.0,113.0,141.0,0.0,90.0,34.0,8.0,24.0,1616.0,114.0,691.0,737.0,0.0,2140.0,1428.0,3568.0,3568.0,Z1040.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z1040.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z1040.traffic.htm

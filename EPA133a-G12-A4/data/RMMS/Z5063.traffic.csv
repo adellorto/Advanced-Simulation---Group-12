@@ -1,0 +1,7 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5063.traffic.htm
+Z5063-1,Golra-West Nandeswari (int.with Z5062),LRPS,0,0,LRP009,531,9.587,9.587,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5063.traffic.htm
+Z5063-2,West Nandeswari (int.with Z5062)-Saturia,LRP009,531,9.587,LRP011,1423,12.475,2.888,0.0,201.0,244.0,0.0,79.0,35.0,16.0,36.0,1646.0,415.0,396.0,315.0,0.0,2672.0,711.0,3383.0,3383.0,Z5063.traffic.htm
+Z5063-2,West Nandeswari (int.with Z5062)-Saturia,LRP009,531,9.587,LRP011,1423,12.475,2.888,0.0,71.0,86.0,0.0,46.0,37.0,6.0,18.0,1153.0,644.0,686.0,546.0,0.0,2061.0,1232.0,3293.0,3293.0,Z5063.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z5063.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5063.traffic.htm

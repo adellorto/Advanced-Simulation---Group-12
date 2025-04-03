@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z3706.traffic.htm
+Z3706-1,Netrokona (Madan Bus Stand)-Kendua,LRPS,0,0,LRP028,286,26.856,26.856,0.0,82.0,48.0,0.0,56.0,2.0,13.0,6.0,554.0,412.0,604.0,446.0,0.0,1173.0,1050.0,2223.0,2223.0,Z3706.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z3706.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z3706.traffic.htm

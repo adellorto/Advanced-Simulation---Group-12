@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z3035.traffic.htm
+Z3035-1,Railgate-Int.with N309,LRPS,0,0,LRP003,64,2.824,2.824,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z3035.traffic.htm
+Z3035-2,Int.with N309-Phulbaria,LRP003,64,2.824,LRP019,580,19.36,16.536,0.0,52.0,68.0,63.0,67.0,74.0,34.0,70.0,492.0,488.0,364.0,506.0,0.0,1408.0,870.0,2278.0,2278.0,Z3035.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z3035.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z3035.traffic.htm

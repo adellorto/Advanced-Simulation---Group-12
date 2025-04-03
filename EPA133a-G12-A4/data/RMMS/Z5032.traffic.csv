@@ -1,0 +1,7 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5032.traffic.htm
+Z5032-1,Bogra (Kortoa Bridge)-Int.with N515,LRPS,0,0,LRP003,20,3.08,3.080,0.0,112.0,118.0,25.0,48.0,34.0,39.0,46.0,2976.0,1145.0,667.0,485.0,0.0,4543.0,1152.0,5695.0,5695.0,Z5032.traffic.htm
+Z5032-2,Int.with N515-Gabtali (int.with Z5072),LRP003,20,3.08,LRP008,820,8.87,5.790,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5032.traffic.htm
+Z5032-3,Gabtali(int.with Z5072)-Sariakandi(int.with Z5035),LRP008,820,8.87,LRPE,0,22.59,13.720,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5032.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z5032.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5032.traffic.htm
