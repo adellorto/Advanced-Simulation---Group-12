@@ -1,9 +1,9 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z7704.traffic.htm
-Z7704-1,Pirojpur-Brahmonkati (int.with Z7715),LRPS,0,0,LRPS,1571,1.571,1.571,0.0,25.0,43.0,23.0,27.0,16.0,13.0,9.0,434.0,496.0,402.0,373.0,0.0,1086.0,775.0,1861.0,1861.0,Z7704.traffic.htm
-Z7704-2,Brahmonkati(int.with Z7715)-Nazirpur (Int. with Z7710),LRPS,1571,1.571,LRP014,1064,15.045,13.474,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z7704.traffic.htm
-Z7704-3,Nazirpur (Int. with Z7710)-Patgati (Int. with Z7054),LRP014,1064,15.045,LRP037,200,36.754,21.709,0.0,25.0,42.0,20.0,27.0,15.0,13.0,9.0,431.0,496.0,400.0,354.0,0.0,1078.0,754.0,1832.0,1832.0,Z7704.traffic.htm
-Z7704-4,Patgati (Int. with Z7054)-Patgati (Int. with Z8504),LRP037,200,36.754,LRP039,533,39.057,2.303,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z7704.traffic.htm
-Z7704-5,Patgati (Int. with Z8504)-Ghonapara(int.with N805),LRP039,533,39.057,LRPE,0,49.064,10.007,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z7704.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z7704.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z7704.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z7704-1,Pirojpur-Brahmonkati (int.with Z7715),LRPS,0,0,LRPS,1571,1.571,1.571,0.0,25.0,43.0,23.0,27.0,16.0,13.0,9.0,434.0,496.0,402.0,373.0,0.0,1086.0,775.0,1861.0,1861.0
+Z7704-2,Brahmonkati(int.with Z7715)-Nazirpur (Int. with Z7710),LRPS,1571,1.571,LRP014,1064,15.045,13.474,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+Z7704-3,Nazirpur (Int. with Z7710)-Patgati (Int. with Z7054),LRP014,1064,15.045,LRP037,200,36.754,21.709,0.0,25.0,42.0,20.0,27.0,15.0,13.0,9.0,431.0,496.0,400.0,354.0,0.0,1078.0,754.0,1832.0,1832.0
+Z7704-4,Patgati (Int. with Z7054)-Patgati (Int. with Z8504),LRP037,200,36.754,LRP039,533,39.057,2.303,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+Z7704-5,Patgati (Int. with Z8504)-Ghonapara(int.with N805),LRP039,533,39.057,LRPE,0,49.064,10.007,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,5 +1,5 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5024.traffic.htm
-Z5024-1,Modhupur-Shampur,LRPS,0,0,LRP002,6290,8.19,8.190,0.0,31.0,88.0,0.0,0.0,0.0,0.0,5.0,201.0,529.0,684.0,542.0,0.0,854.0,1226.0,2080.0,2080.0,Z5024.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z5024.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5024.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z5024-1,Modhupur-Shampur,LRPS,0,0,LRP002,6290,8.19,8.190,0.0,31.0,88.0,0.0,0.0,0.0,0.0,5.0,201.0,529.0,684.0,542.0,0.0,854.0,1226.0,2080.0,2080.0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

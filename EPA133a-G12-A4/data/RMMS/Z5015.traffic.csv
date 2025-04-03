@@ -1,6 +1,6 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5015.traffic.htm
-Z5015-1,Taxerhat-Taraganj (int.with N5),LRPS,0,0,LRP018,440,17.47,17.470,2.0,105.0,116.0,25.0,29.0,5.0,22.0,4.0,341.0,445.0,432.0,381.0,0.0,1094.0,813.0,1907.0,1907.0,Z5015.traffic.htm
-Z5015-2,Taraganj(int.with N5)-Kishoreganj,LRP018,440,17.47,LRP028,1000,27.75,10.280,2.0,105.0,116.0,25.0,29.0,5.0,22.0,4.0,341.0,445.0,432.0,381.0,0.0,1094.0,813.0,1907.0,1907.0,Z5015.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z5015.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5015.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z5015-1,Taxerhat-Taraganj (int.with N5),LRPS,0,0,LRP018,440,17.47,17.470,2.0,105.0,116.0,25.0,29.0,5.0,22.0,4.0,341.0,445.0,432.0,381.0,0.0,1094.0,813.0,1907.0,1907.0
+Z5015-2,Taraganj(int.with N5)-Kishoreganj,LRP018,440,17.47,LRP028,1000,27.75,10.280,2.0,105.0,116.0,25.0,29.0,5.0,22.0,4.0,341.0,445.0,432.0,381.0,0.0,1094.0,813.0,1907.0,1907.0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

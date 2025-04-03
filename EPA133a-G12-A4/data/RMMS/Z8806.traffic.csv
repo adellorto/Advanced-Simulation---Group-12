@@ -1,8 +1,8 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z8806.traffic.htm
-Z8806-1,Lebukhali-Dumki(int.with Z8044),LRPS,0,0,LRPS,2858,2.858,2.858,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z8806.traffic.htm
-Z8806-2,Dumki(int.with Z8044)-Bauphal(int.with Z8910),LRPS,2858,2.858,LRPS,24312,24.312,21.454,0.0,65.0,64.0,25.0,47.0,45.0,21.0,28.0,652.0,995.0,162.0,138.0,0.0,1942.0,300.0,2242.0,2242.0,Z8806.traffic.htm
-Z8806-3,Bauphal(int.with Z8910)-Kalaiya (Int.with Z8052),LRPS,24312,24.312,LRP027,2140,28.656,4.344,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z8806.traffic.htm
-Z8806-4,Kalaiya (Int.with Z8052)-Amragachia(int.with R880),LRP027,2140,28.656,LRPE,0,86.377,57.721,0.0,3.0,8.0,0.0,0.0,0.0,2.0,0.0,171.0,579.0,176.0,368.0,0.0,763.0,544.0,1307.0,1307.0,Z8806.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z8806.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z8806.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z8806-1,Lebukhali-Dumki(int.with Z8044),LRPS,0,0,LRPS,2858,2.858,2.858,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+Z8806-2,Dumki(int.with Z8044)-Bauphal(int.with Z8910),LRPS,2858,2.858,LRPS,24312,24.312,21.454,0.0,65.0,64.0,25.0,47.0,45.0,21.0,28.0,652.0,995.0,162.0,138.0,0.0,1942.0,300.0,2242.0,2242.0
+Z8806-3,Bauphal(int.with Z8910)-Kalaiya (Int.with Z8052),LRPS,24312,24.312,LRP027,2140,28.656,4.344,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+Z8806-4,Kalaiya (Int.with Z8052)-Amragachia(int.with R880),LRP027,2140,28.656,LRPE,0,86.377,57.721,0.0,3.0,8.0,0.0,0.0,0.0,2.0,0.0,171.0,579.0,176.0,368.0,0.0,763.0,544.0,1307.0,1307.0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

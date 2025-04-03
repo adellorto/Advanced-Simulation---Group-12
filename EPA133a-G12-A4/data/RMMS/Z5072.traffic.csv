@@ -1,9 +1,9 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5072.traffic.htm
-Z5072-1,Dhunat (Hukum Ali Bus-stand)-Nanglu,LRPS,0,0,LRP010,6000,16.22,16.220,0.0,18.0,71.0,0.0,1.0,17.0,7.0,5.0,838.0,554.0,598.0,247.0,0.0,1511.0,845.0,2356.0,2356.0,Z5072.traffic.htm
-Z5072-2,Nanglu (Int.with Z5050)-Poradaha(Int.with Z5051),LRP010,6000,16.22,LRP022,1820,24.27,8.050,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5072.traffic.htm
-Z5072-3,Poradaha(Int.with Z5051)-Patchmile(Int.with Z5040),LRP022,1820,24.27,LRP026,630,27.5,3.230,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5072.traffic.htm
-Z5072-4,Patchmile(Int.with Z5040)-Gabtali(Int.with Z5032),LRP026,630,27.5,LRP031,370,32.76,5.260,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5072.traffic.htm
-Z5072-5,Gabtali(Int.with Z5032)-Chowkirghat(Int.with N5),LRP031,370,32.76,LRPE,0,52.17,19.410,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5072.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z5072.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5072.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z5072-1,Dhunat (Hukum Ali Bus-stand)-Nanglu,LRPS,0,0,LRP010,6000,16.22,16.220,0.0,18.0,71.0,0.0,1.0,17.0,7.0,5.0,838.0,554.0,598.0,247.0,0.0,1511.0,845.0,2356.0,2356.0
+Z5072-2,Nanglu (Int.with Z5050)-Poradaha(Int.with Z5051),LRP010,6000,16.22,LRP022,1820,24.27,8.050,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+Z5072-3,Poradaha(Int.with Z5051)-Patchmile(Int.with Z5040),LRP022,1820,24.27,LRP026,630,27.5,3.230,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+Z5072-4,Patchmile(Int.with Z5040)-Gabtali(Int.with Z5032),LRP026,630,27.5,LRP031,370,32.76,5.260,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+Z5072-5,Gabtali(Int.with Z5032)-Chowkirghat(Int.with N5),LRP031,370,32.76,LRPE,0,52.17,19.410,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

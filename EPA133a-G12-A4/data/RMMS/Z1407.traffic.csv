@@ -1,7 +1,7 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z1407.traffic.htm
-Z1407-1,Mudaffarganj-Chitoshi (int.with Z1430),LRPS,0,0,LRP012,877,12.973,12.973,0.0,32.0,75.0,0.0,1.0,24.0,7.0,12.0,795.0,124.0,97.0,110.0,0.0,1070.0,207.0,1277.0,1277.0,Z1407.traffic.htm
-Z1407-2,Chitoshi (int.with Z1430)-Paniwala (int.with Z1417),LRP012,877,12.973,LRP023,149,22.923,9.950,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1407.traffic.htm
-Z1407-3,Paniwala (int.with Z1417)-Ramganj,LRP023,149,22.923,LRPE,0,29.513,6.590,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1407.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z1407.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z1407.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z1407-1,Mudaffarganj-Chitoshi (int.with Z1430),LRPS,0,0,LRP012,877,12.973,12.973,0.0,32.0,75.0,0.0,1.0,24.0,7.0,12.0,795.0,124.0,97.0,110.0,0.0,1070.0,207.0,1277.0,1277.0
+Z1407-2,Chitoshi (int.with Z1430)-Paniwala (int.with Z1417),LRP012,877,12.973,LRP023,149,22.923,9.950,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+Z1407-3,Paniwala (int.with Z1417)-Ramganj,LRP023,149,22.923,LRPE,0,29.513,6.590,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

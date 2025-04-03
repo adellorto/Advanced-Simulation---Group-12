@@ -1,6 +1,6 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z7024.traffic.htm
-Z7024-1,Gopalpur-Kotchandpur (Int.with R748),LRPS,0,0,LRP009,1084,10.404,10.404,1.0,6.0,10.0,0.0,0.0,0.0,1.0,1.0,206.0,564.0,983.0,245.0,0.0,789.0,1228.0,2017.0,2017.0,Z7024.traffic.htm
-Z7024-2,Kotchandpur (Int.with R748)-End at Mohespur (int.with Z7023),LRP009,1084,10.404,LRPE,0,25.83,15.426,0.0,20.0,114.0,0.0,0.0,6.0,5.0,25.0,772.0,732.0,780.0,436.0,14.0,1674.0,1230.0,2904.0,2904.0,Z7024.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z7024.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z7024.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z7024-1,Gopalpur-Kotchandpur (Int.with R748),LRPS,0,0,LRP009,1084,10.404,10.404,1.0,6.0,10.0,0.0,0.0,0.0,1.0,1.0,206.0,564.0,983.0,245.0,0.0,789.0,1228.0,2017.0,2017.0
+Z7024-2,Kotchandpur (Int.with R748)-End at Mohespur (int.with Z7023),LRP009,1084,10.404,LRPE,0,25.83,15.426,0.0,20.0,114.0,0.0,0.0,6.0,5.0,25.0,772.0,732.0,780.0,436.0,14.0,1674.0,1230.0,2904.0,2904.0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

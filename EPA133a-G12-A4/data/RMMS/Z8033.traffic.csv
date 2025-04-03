@@ -1,12 +1,12 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z8033.traffic.htm
-Z8033-1,Gariarpar-Chakher (Int.with Z8048),LRPS,0,0,LRP014,485,14.485,14.485,0.0,18.0,85.0,22.0,133.0,43.0,15.0,22.0,728.0,849.0,693.0,557.0,0.0,1915.0,1250.0,3165.0,3165.0,Z8033.traffic.htm
-Z8033-2,Chakher (Int.with Z8048)-Ekshirapara (Int.with Z8704),LRP014,485,14.485,LRP015,835,15.835,1.350,0.0,17.0,81.0,22.0,129.0,41.0,15.0,22.0,706.0,823.0,672.0,540.0,0.0,1856.0,1212.0,3068.0,3068.0,Z8033.traffic.htm
-Z8033-3,Ekshirapara (Int.with Z8704)-Banaripara,LRP015,835,15.835,LRP018,90,18.09,2.255,0.0,17.0,81.0,22.0,129.0,41.0,15.0,22.0,706.0,823.0,672.0,540.0,0.0,1856.0,1212.0,3068.0,3068.0,Z8033.traffic.htm
-Z8033-4,Banaripara-Swarupkati,LRP018,90,18.09,LRP026,990,26.84,8.750,0.0,17.0,81.0,22.0,129.0,41.0,15.0,22.0,706.0,823.0,672.0,540.0,0.0,1856.0,1212.0,3068.0,3068.0,Z8033.traffic.htm
-Z8033-5,Swarupkati-Shehanggal,LRP026,990,26.84,LRP039,249,39.029,12.189,0.0,17.0,81.0,22.0,129.0,41.0,15.0,22.0,706.0,823.0,672.0,540.0,0.0,1856.0,1212.0,3068.0,3068.0,Z8033.traffic.htm
-Z8033-6,Shehanggal-Kawkhali (Int.with Z8713),LRP039,249,39.029,LRP039,2749,41.529,2.500,0.0,17.0,81.0,22.0,129.0,41.0,15.0,22.0,706.0,823.0,672.0,540.0,0.0,1856.0,1212.0,3068.0,3068.0,Z8033.traffic.htm
-Z8033-7,Kawkhali (Int.with Z8713)-Kawkhali (Int.with Z8703),LRP039,2749,41.529,LRP039,3689,42.469,0.940,0.0,17.0,81.0,22.0,129.0,41.0,15.0,22.0,706.0,823.0,672.0,540.0,0.0,1856.0,1212.0,3068.0,3068.0,Z8033.traffic.htm
-Z8033-8,Kawkhali (Int.with Z8703)-Bekutia,LRP039,3689,42.469,LRP044,6140,49.36,6.891,0.0,17.0,81.0,22.0,129.0,41.0,15.0,22.0,706.0,823.0,672.0,540.0,0.0,1856.0,1212.0,3068.0,3068.0,Z8033.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z8033.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z8033.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z8033-1,Gariarpar-Chakher (Int.with Z8048),LRPS,0,0,LRP014,485,14.485,14.485,0.0,18.0,85.0,22.0,133.0,43.0,15.0,22.0,728.0,849.0,693.0,557.0,0.0,1915.0,1250.0,3165.0,3165.0
+Z8033-2,Chakher (Int.with Z8048)-Ekshirapara (Int.with Z8704),LRP014,485,14.485,LRP015,835,15.835,1.350,0.0,17.0,81.0,22.0,129.0,41.0,15.0,22.0,706.0,823.0,672.0,540.0,0.0,1856.0,1212.0,3068.0,3068.0
+Z8033-3,Ekshirapara (Int.with Z8704)-Banaripara,LRP015,835,15.835,LRP018,90,18.09,2.255,0.0,17.0,81.0,22.0,129.0,41.0,15.0,22.0,706.0,823.0,672.0,540.0,0.0,1856.0,1212.0,3068.0,3068.0
+Z8033-4,Banaripara-Swarupkati,LRP018,90,18.09,LRP026,990,26.84,8.750,0.0,17.0,81.0,22.0,129.0,41.0,15.0,22.0,706.0,823.0,672.0,540.0,0.0,1856.0,1212.0,3068.0,3068.0
+Z8033-5,Swarupkati-Shehanggal,LRP026,990,26.84,LRP039,249,39.029,12.189,0.0,17.0,81.0,22.0,129.0,41.0,15.0,22.0,706.0,823.0,672.0,540.0,0.0,1856.0,1212.0,3068.0,3068.0
+Z8033-6,Shehanggal-Kawkhali (Int.with Z8713),LRP039,249,39.029,LRP039,2749,41.529,2.500,0.0,17.0,81.0,22.0,129.0,41.0,15.0,22.0,706.0,823.0,672.0,540.0,0.0,1856.0,1212.0,3068.0,3068.0
+Z8033-7,Kawkhali (Int.with Z8713)-Kawkhali (Int.with Z8703),LRP039,2749,41.529,LRP039,3689,42.469,0.940,0.0,17.0,81.0,22.0,129.0,41.0,15.0,22.0,706.0,823.0,672.0,540.0,0.0,1856.0,1212.0,3068.0,3068.0
+Z8033-8,Kawkhali (Int.with Z8703)-Bekutia,LRP039,3689,42.469,LRP044,6140,49.36,6.891,0.0,17.0,81.0,22.0,129.0,41.0,15.0,22.0,706.0,823.0,672.0,540.0,0.0,1856.0,1212.0,3068.0,3068.0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

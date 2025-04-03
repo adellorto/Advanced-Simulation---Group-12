@@ -1,7 +1,7 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),N107.traffic.htm
-N107-1,Kalurghat-Int.with Z1065,LRPS,0,0,LRP002,939,2.957,2.957,0.0,338.0,475.0,132.0,0.0,265.0,27.0,258.0,2685.0,815.0,306.0,365.0,0.0,4995.0,671.0,5666.0,5666.0,N107.traffic.htm
-N107-2,Int.with Z1065-Shakpura (Int.with Z1802),LRP002,939,2.957,LRP002,3247,5.265,2.308,0.0,338.0,475.0,132.0,0.0,265.0,27.0,258.0,2685.0,815.0,306.0,365.0,0.0,4995.0,671.0,5666.0,5666.0,N107.traffic.htm
-N107-3,Shakpura(Int.with Z1802)-Maneswartek,LRP002,3247,5.265,LRP002,8524,10.542,5.277,0.0,338.0,475.0,132.0,0.0,265.0,27.0,258.0,2685.0,815.0,306.0,365.0,0.0,4995.0,671.0,5666.0,5666.0,N107.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,N107.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,N107.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+N107-1,Kalurghat-Int.with Z1065,LRPS,0,0,LRP002,939,2.957,2.957,0.0,338.0,475.0,132.0,0.0,265.0,27.0,258.0,2685.0,815.0,306.0,365.0,0.0,4995.0,671.0,5666.0,5666.0
+N107-2,Int.with Z1065-Shakpura (Int.with Z1802),LRP002,939,2.957,LRP002,3247,5.265,2.308,0.0,338.0,475.0,132.0,0.0,265.0,27.0,258.0,2685.0,815.0,306.0,365.0,0.0,4995.0,671.0,5666.0,5666.0
+N107-3,Shakpura(Int.with Z1802)-Maneswartek,LRP002,3247,5.265,LRP002,8524,10.542,5.277,0.0,338.0,475.0,132.0,0.0,265.0,27.0,258.0,2685.0,815.0,306.0,365.0,0.0,4995.0,671.0,5666.0,5666.0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

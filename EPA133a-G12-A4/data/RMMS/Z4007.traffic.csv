@@ -1,6 +1,6 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z4007.traffic.htm
-Z4007-1,Pakullah-Delduarj (int.with Z4015),LRPS,0,0,LRPS,6916,6.916,6.916,0.0,328.0,206.0,0.0,180.0,167.0,64.0,197.0,960.0,382.0,213.0,854.0,0.0,2484.0,1067.0,3551.0,3551.0,Z4007.traffic.htm
-Z4007-2,Delduarj (int.with Z4016)-Elasin,LRPS,6916,6.916,LRPS,14204,14.204,7.288,0.0,328.0,206.0,0.0,180.0,167.0,64.0,197.0,960.0,382.0,213.0,854.0,0.0,2484.0,1067.0,3551.0,3551.0,Z4007.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z4007.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z4007.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z4007-1,Pakullah-Delduarj (int.with Z4015),LRPS,0,0,LRPS,6916,6.916,6.916,0.0,328.0,206.0,0.0,180.0,167.0,64.0,197.0,960.0,382.0,213.0,854.0,0.0,2484.0,1067.0,3551.0,3551.0
+Z4007-2,Delduarj (int.with Z4016)-Elasin,LRPS,6916,6.916,LRPS,14204,14.204,7.288,0.0,328.0,206.0,0.0,180.0,167.0,64.0,197.0,960.0,382.0,213.0,854.0,0.0,2484.0,1067.0,3551.0,3551.0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

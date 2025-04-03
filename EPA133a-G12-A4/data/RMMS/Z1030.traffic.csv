@@ -1,7 +1,7 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z1030.traffic.htm
-Z1030-1,Elahiganj-Biroli(Int.with Z1444),LRPS,0,0,LRPS,9875,9.875,9.875,0.0,31.0,51.0,0.0,2.0,18.0,0.0,2.0,1283.0,221.0,151.0,181.0,0.0,1608.0,332.0,1940.0,1940.0,Z1030.traffic.htm
-Z1030-2,Biroli(Int.with Z1444)-Int.with Z1443,LRPS,9875,9.875,LRP017,977,17.672,7.797,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1030.traffic.htm
-Z1030-3,Int.with Z1443-Tulatali,LRP017,977,17.672,LRPE,0,22.73,5.058,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1030.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z1030.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z1030.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z1030-1,Elahiganj-Biroli(Int.with Z1444),LRPS,0,0,LRPS,9875,9.875,9.875,0.0,31.0,51.0,0.0,2.0,18.0,0.0,2.0,1283.0,221.0,151.0,181.0,0.0,1608.0,332.0,1940.0,1940.0
+Z1030-2,Biroli(Int.with Z1444)-Int.with Z1443,LRPS,9875,9.875,LRP017,977,17.672,7.797,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+Z1030-3,Int.with Z1443-Tulatali,LRP017,977,17.672,LRPE,0,22.73,5.058,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

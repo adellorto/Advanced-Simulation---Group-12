@@ -1,6 +1,6 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z8402.traffic.htm
-Z8402-1,Faridpur (Tapakhola) - Hatgozaria (Int.with Z8416),LRPS,0,0,LRP007,3192,10.182,10.182,0.0,118.0,95.0,0.0,152.0,68.0,42.0,63.0,862.0,676.0,250.0,609.0,0.0,2076.0,859.0,2935.0,2935.0,Z8402.traffic.htm
-Z8402-2,Hatgozaria (Int.with Z8416)-Sadarpur(Int.with Z8401),LRP007,3192,10.182,LRPE,0,37.691,27.509,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z8402.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z8402.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z8402.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z8402-1,Faridpur (Tapakhola) - Hatgozaria (Int.with Z8416),LRPS,0,0,LRP007,3192,10.182,10.182,0.0,118.0,95.0,0.0,152.0,68.0,42.0,63.0,862.0,676.0,250.0,609.0,0.0,2076.0,859.0,2935.0,2935.0
+Z8402-2,Hatgozaria (Int.with Z8416)-Sadarpur(Int.with Z8401),LRP007,3192,10.182,LRPE,0,37.691,27.509,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

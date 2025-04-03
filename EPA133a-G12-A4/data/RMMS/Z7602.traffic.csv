@@ -1,6 +1,6 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z7602.traffic.htm
-Z7602-1,Laboni More -Alipur (Intersection with N713),LRPS,0,0,LRP005,263,5.273,5.273,1.0,177.0,340.0,101.0,191.0,177.0,79.0,110.0,2726.0,2176.0,1208.0,911.0,0.0,6078.0,2119.0,8197.0,8197.0,Z7602.traffic.htm
-Z7602-2,Alipur (Int With N713)- Kaliganj,LRP005,263,5.273,LRP033,2000,35.04,29.767,1.0,177.0,340.0,101.0,191.0,177.0,79.0,110.0,2726.0,2176.0,1208.0,911.0,0.0,6078.0,2119.0,8197.0,8197.0,Z7602.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z7602.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z7602.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z7602-1,Laboni More -Alipur (Intersection with N713),LRPS,0,0,LRP005,263,5.273,5.273,1.0,177.0,340.0,101.0,191.0,177.0,79.0,110.0,2726.0,2176.0,1208.0,911.0,0.0,6078.0,2119.0,8197.0,8197.0
+Z7602-2,Alipur (Int With N713)- Kaliganj,LRP005,263,5.273,LRP033,2000,35.04,29.767,1.0,177.0,340.0,101.0,191.0,177.0,79.0,110.0,2726.0,2176.0,1208.0,911.0,0.0,6078.0,2119.0,8197.0,8197.0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

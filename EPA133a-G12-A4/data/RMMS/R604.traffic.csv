@@ -1,8 +1,8 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),R604.traffic.htm
-R604-1,Tebunia-Chatmohor (Int.with Z6021),LRPS,0,0,LRP019,628,18.624,18.624,1.0,178.0,130.0,6.0,92.0,53.0,22.0,22.0,2302.0,689.0,277.0,196.0,0.0,3495.0,473.0,3968.0,3968.0,R604.traffic.htm
-R604-2,Chatmohor (Int.with Z6021)-Int.with Z6029,LRP019,628,18.624,LRP019,2308,20.304,1.680,1.0,178.0,130.0,6.0,92.0,53.0,22.0,22.0,2302.0,689.0,277.0,196.0,0.0,3495.0,473.0,3968.0,3968.0,R604.traffic.htm
-R604-3,Chatmohor (Int.with Z6029)-Int.with Z5209,LRP019,2308,20.304,LRP019,4038,22.034,1.730,1.0,178.0,130.0,6.0,92.0,53.0,22.0,22.0,2302.0,689.0,277.0,196.0,0.0,3495.0,473.0,3968.0,3968.0,R604.traffic.htm
-R604-4,Chatmohor (Int.with Z5209)-Hamkuria (Int.with N507),LRP019,4038,22.034,LRPE,0,40.58,18.546,1.0,178.0,130.0,6.0,92.0,53.0,22.0,22.0,2302.0,689.0,277.0,196.0,0.0,3495.0,473.0,3968.0,3968.0,R604.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,R604.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,R604.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+R604-1,Tebunia-Chatmohor (Int.with Z6021),LRPS,0,0,LRP019,628,18.624,18.624,1.0,178.0,130.0,6.0,92.0,53.0,22.0,22.0,2302.0,689.0,277.0,196.0,0.0,3495.0,473.0,3968.0,3968.0
+R604-2,Chatmohor (Int.with Z6021)-Int.with Z6029,LRP019,628,18.624,LRP019,2308,20.304,1.680,1.0,178.0,130.0,6.0,92.0,53.0,22.0,22.0,2302.0,689.0,277.0,196.0,0.0,3495.0,473.0,3968.0,3968.0
+R604-3,Chatmohor (Int.with Z6029)-Int.with Z5209,LRP019,2308,20.304,LRP019,4038,22.034,1.730,1.0,178.0,130.0,6.0,92.0,53.0,22.0,22.0,2302.0,689.0,277.0,196.0,0.0,3495.0,473.0,3968.0,3968.0
+R604-4,Chatmohor (Int.with Z5209)-Hamkuria (Int.with N507),LRP019,4038,22.034,LRPE,0,40.58,18.546,1.0,178.0,130.0,6.0,92.0,53.0,22.0,22.0,2302.0,689.0,277.0,196.0,0.0,3495.0,473.0,3968.0,3968.0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,6 +1,6 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),R248.traffic.htm
-R248-1,Ambarkhana(int.with Z2801)-int.with R247,LRPS,0,0,LRP001a,0,1.341,1.341,2.0,872.0,412.0,3.0,348.0,661.0,157.0,587.0,2328.0,495.0,234.0,659.0,0.0,5865.0,893.0,6758.0,6758.0,R248.traffic.htm
-R248-2,Int.with R247-Tilagar point (int.with N2),LRP001a,0,1.341,LRPE,0,4.257,2.916,2.0,872.0,412.0,3.0,348.0,661.0,157.0,587.0,2328.0,495.0,234.0,659.0,0.0,5865.0,893.0,6758.0,6758.0,R248.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,R248.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,R248.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+R248-1,Ambarkhana(int.with Z2801)-int.with R247,LRPS,0,0,LRP001a,0,1.341,1.341,2.0,872.0,412.0,3.0,348.0,661.0,157.0,587.0,2328.0,495.0,234.0,659.0,0.0,5865.0,893.0,6758.0,6758.0
+R248-2,Int.with R247-Tilagar point (int.with N2),LRP001a,0,1.341,LRPE,0,4.257,2.916,2.0,872.0,412.0,3.0,348.0,661.0,157.0,587.0,2328.0,495.0,234.0,659.0,0.0,5865.0,893.0,6758.0,6758.0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

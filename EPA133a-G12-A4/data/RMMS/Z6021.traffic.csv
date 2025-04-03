@@ -1,10 +1,10 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z6021.traffic.htm
-Z6021-1,Chatmohor-Int.with Z6031,LRPS,0,0,LRP003,1016,3.288,3.288,0.0,42.0,140.0,0.0,0.0,1.0,0.0,1.0,430.0,331.0,562.0,495.0,0.0,945.0,1057.0,2002.0,2002.0,Z6021.traffic.htm
-Z6021-2,Int.with Z6031-Ramchandrapur (Int.with Z6033),LRP003,1016,3.288,LRP007,408,6.7,3.412,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z6021.traffic.htm
-Z6021-3,Ramchandrapur (Int.with Z6033)-Bharamara(Int.with Z6033),LRP007,408,6.7,LRP014,535,13.847,7.147,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z6021.traffic.htm
-Z6021-4,Bharamara(Int.with Z6033)-Gopalnagar(Int.with Z6034),LRP014,535,13.847,LRP019,659,18.991,5.144,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z6021.traffic.htm
-Z6021-5,Gopalnagar(Int.with Z6034)-Nesrapara(Int.with Z6034),LRP019,659,18.991,LRP022,662,21.994,3.003,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z6021.traffic.htm
-Z6021-6,Nesrapara(Int.with Z6034)-Bagabari(int.with N5),LRP022,662,21.994,LRPE,0,38.452,16.458,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z6021.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z6021.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z6021.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z6021-1,Chatmohor-Int.with Z6031,LRPS,0,0,LRP003,1016,3.288,3.288,0.0,42.0,140.0,0.0,0.0,1.0,0.0,1.0,430.0,331.0,562.0,495.0,0.0,945.0,1057.0,2002.0,2002.0
+Z6021-2,Int.with Z6031-Ramchandrapur (Int.with Z6033),LRP003,1016,3.288,LRP007,408,6.7,3.412,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+Z6021-3,Ramchandrapur (Int.with Z6033)-Bharamara(Int.with Z6033),LRP007,408,6.7,LRP014,535,13.847,7.147,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+Z6021-4,Bharamara(Int.with Z6033)-Gopalnagar(Int.with Z6034),LRP014,535,13.847,LRP019,659,18.991,5.144,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+Z6021-5,Gopalnagar(Int.with Z6034)-Nesrapara(Int.with Z6034),LRP019,659,18.991,LRP022,662,21.994,3.003,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+Z6021-6,Nesrapara(Int.with Z6034)-Bagabari(int.with N5),LRP022,662,21.994,LRPE,0,38.452,16.458,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,7 +1,7 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z1039.traffic.htm
-Z1039-1,Patiya-(int.with Z1036),LRPS,0,0,LRPS,13362,13.362,13.362,0.0,0.0,47.0,0.0,0.0,34.0,0.0,35.0,1688.0,599.0,874.0,1506.0,0.0,2403.0,2380.0,4783.0,4783.0,Z1039.traffic.htm
-Z1039-1,Patiya-(int.with Z1036),LRPS,0,0,LRPS,13362,13.362,13.362,0.0,4.0,40.0,0.0,80.0,40.0,0.0,3.0,363.0,139.0,92.0,105.0,0.0,669.0,197.0,866.0,866.0,Z1039.traffic.htm
-Z1039-2,(int.with Z1036) - With Z1036,LRPS,13362,13.362,LRPS,16732,16.732,3.370,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1039.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z1039.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z1039.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z1039-1,Patiya-(int.with Z1036),LRPS,0,0,LRPS,13362,13.362,13.362,0.0,0.0,47.0,0.0,0.0,34.0,0.0,35.0,1688.0,599.0,874.0,1506.0,0.0,2403.0,2380.0,4783.0,4783.0
+Z1039-1,Patiya-(int.with Z1036),LRPS,0,0,LRPS,13362,13.362,13.362,0.0,4.0,40.0,0.0,80.0,40.0,0.0,3.0,363.0,139.0,92.0,105.0,0.0,669.0,197.0,866.0,866.0
+Z1039-2,(int.with Z1036) - With Z1036,LRPS,13362,13.362,LRPS,16732,16.732,3.370,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

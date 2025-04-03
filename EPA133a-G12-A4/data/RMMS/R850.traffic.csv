@@ -1,8 +1,8 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),R850.traffic.htm
-R850-1,Takerhat-Gaindhasur (int.with Z8412),LRPS,0,0,LRP019,720,19.07,19.070,38.0,468.0,277.0,151.0,161.0,69.0,34.0,47.0,1234.0,751.0,86.0,673.0,0.0,3230.0,759.0,3989.0,3989.0,R850.traffic.htm
-R850-2,Gaindhasur (int.with Z8412)-Haridashpur Bridge(Int.with N805),LRP019,720,19.07,LRP035,740,35.09,16.020,19.0,257.0,311.0,146.0,159.0,75.0,16.0,29.0,843.0,922.0,783.0,1833.0,5.0,2777.0,2621.0,5398.0,5398.0,R850.traffic.htm
-R850-3,Haridashpur Bridge(Int.with N805)-Borashi (Int.with Z8408),LRP035,740,35.09,LRP039,580,38.46,3.370,19.0,257.0,311.0,146.0,159.0,75.0,16.0,29.0,843.0,922.0,783.0,1833.0,5.0,2777.0,2621.0,5398.0,5398.0,R850.traffic.htm
-R850-4,Borashi (Int.with Z8408)-Mollahat,LRP039,580,38.46,LRPE,0,44.83,6.370,19.0,257.0,311.0,146.0,159.0,75.0,16.0,29.0,843.0,922.0,783.0,1833.0,5.0,2777.0,2621.0,5398.0,5398.0,R850.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,R850.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,R850.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+R850-1,Takerhat-Gaindhasur (int.with Z8412),LRPS,0,0,LRP019,720,19.07,19.070,38.0,468.0,277.0,151.0,161.0,69.0,34.0,47.0,1234.0,751.0,86.0,673.0,0.0,3230.0,759.0,3989.0,3989.0
+R850-2,Gaindhasur (int.with Z8412)-Haridashpur Bridge(Int.with N805),LRP019,720,19.07,LRP035,740,35.09,16.020,19.0,257.0,311.0,146.0,159.0,75.0,16.0,29.0,843.0,922.0,783.0,1833.0,5.0,2777.0,2621.0,5398.0,5398.0
+R850-3,Haridashpur Bridge(Int.with N805)-Borashi (Int.with Z8408),LRP035,740,35.09,LRP039,580,38.46,3.370,19.0,257.0,311.0,146.0,159.0,75.0,16.0,29.0,843.0,922.0,783.0,1833.0,5.0,2777.0,2621.0,5398.0,5398.0
+R850-4,Borashi (Int.with Z8408)-Mollahat,LRP039,580,38.46,LRPE,0,44.83,6.370,19.0,257.0,311.0,146.0,159.0,75.0,16.0,29.0,843.0,922.0,783.0,1833.0,5.0,2777.0,2621.0,5398.0,5398.0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

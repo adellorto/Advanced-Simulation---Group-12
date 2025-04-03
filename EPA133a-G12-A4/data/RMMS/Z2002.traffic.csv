@@ -1,6 +1,6 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z2002.traffic.htm
-Z2002-1,Moulvibazar-Shamshernagar(int.with Z2003),LRPS,0,0,LRP019,898,19.918,19.918,0.0,61.0,71.0,0.0,22.0,115.0,51.0,122.0,1557.0,321.0,154.0,327.0,0.0,2320.0,481.0,2801.0,2801.0,Z2002.traffic.htm
-Z2002-2,Shamshernagar(int.with Z2003)-Chatla Check Post,LRP019,898,19.918,LRPE,0,33.089,13.171,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z2002.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z2002.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z2002.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z2002-1,Moulvibazar-Shamshernagar(int.with Z2003),LRPS,0,0,LRP019,898,19.918,19.918,0.0,61.0,71.0,0.0,22.0,115.0,51.0,122.0,1557.0,321.0,154.0,327.0,0.0,2320.0,481.0,2801.0,2801.0
+Z2002-2,Shamshernagar(int.with Z2003)-Chatla Check Post,LRP019,898,19.918,LRPE,0,33.089,13.171,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

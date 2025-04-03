@@ -1,6 +1,6 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z3604.traffic.htm
-Z3604-1,Kishoreganj (Nagua More)-Int.with R360,LRPS,0,0,LRP002,816,2.921,2.921,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z3604.traffic.htm
-Z3604-2,(Int.with R360)-Hossainpur (Bazar),LRP002,816,2.921,LRPE,0,17.111,14.190,0.0,80.0,580.0,9.0,0.0,46.0,25.0,20.0,1806.0,950.0,1153.0,387.0,2.0,3516.0,1542.0,5058.0,5058.0,Z3604.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z3604.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z3604.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z3604-1,Kishoreganj (Nagua More)-Int.with R360,LRPS,0,0,LRP002,816,2.921,2.921,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+Z3604-2,(Int.with R360)-Hossainpur (Bazar),LRP002,816,2.921,LRPE,0,17.111,14.190,0.0,80.0,580.0,9.0,0.0,46.0,25.0,20.0,1806.0,950.0,1153.0,387.0,2.0,3516.0,1542.0,5058.0,5058.0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

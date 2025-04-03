@@ -1,6 +1,6 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),R210.traffic.htm
-R210-1,"Shahepratap (road start, int with N2) - Shatirpara (Int.with R114)",LRPS,0,0,LRPS,1334,1.334,1.334,26.0,305.0,330.0,249.0,401.0,384.0,92.0,469.0,5262.0,746.0,596.0,971.0,0.0,8264.0,1567.0,9831.0,9831.0,R210.traffic.htm
-R210-2,Shatirpara (Int.with R114)-Narsingdi,LRPS,1334,1.334,LRPE,0,4.99,3.656,26.0,305.0,330.0,249.0,401.0,384.0,92.0,469.0,5262.0,746.0,596.0,971.0,0.0,8264.0,1567.0,9831.0,9831.0,R210.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,R210.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,R210.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+R210-1,"Shahepratap (road start, int with N2) - Shatirpara (Int.with R114)",LRPS,0,0,LRPS,1334,1.334,1.334,26.0,305.0,330.0,249.0,401.0,384.0,92.0,469.0,5262.0,746.0,596.0,971.0,0.0,8264.0,1567.0,9831.0,9831.0
+R210-2,Shatirpara (Int.with R114)-Narsingdi,LRPS,1334,1.334,LRPE,0,4.99,3.656,26.0,305.0,330.0,249.0,401.0,384.0,92.0,469.0,5262.0,746.0,596.0,971.0,0.0,8264.0,1567.0,9831.0,9831.0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

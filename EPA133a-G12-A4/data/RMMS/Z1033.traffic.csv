@@ -1,7 +1,7 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z1033.traffic.htm
-Z1033-1,Feni (Polytechnic More)-Fulgazi (Munshirhat) int.with Z1081,LRPS,0,0,LRP006,3208,9.282,9.282,0.0,128.0,261.0,0.0,138.0,297.0,35.0,80.0,2951.0,445.0,233.0,334.0,195.0,4335.0,762.0,5097.0,5097.0,Z1033.traffic.htm
-Z1033-2,Fulgazi (Munshirhat) int.with Z1081-Parshuram (int.with Z1035),LRP006,3208,9.282,LRP019,2130,21.264,11.982,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1033.traffic.htm
-Z1033-3,Parshuram (int.with Z1035)-Bilionia,LRP019,2130,21.264,LRPE,0,25.648,4.384,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1033.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z1033.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z1033.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z1033-1,Feni (Polytechnic More)-Fulgazi (Munshirhat) int.with Z1081,LRPS,0,0,LRP006,3208,9.282,9.282,0.0,128.0,261.0,0.0,138.0,297.0,35.0,80.0,2951.0,445.0,233.0,334.0,195.0,4335.0,762.0,5097.0,5097.0
+Z1033-2,Fulgazi (Munshirhat) int.with Z1081-Parshuram (int.with Z1035),LRP006,3208,9.282,LRP019,2130,21.264,11.982,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+Z1033-3,Parshuram (int.with Z1035)-Bilionia,LRP019,2130,21.264,LRPE,0,25.648,4.384,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

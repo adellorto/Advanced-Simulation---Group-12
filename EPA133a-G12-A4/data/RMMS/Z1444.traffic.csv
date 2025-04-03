@@ -1,6 +1,6 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z1444.traffic.htm
-Z1444-1,Feni (Temohoni)-Biroli Bazar(int.with Z1030),LRPS,0,0,LRPS,5756,5.756,5.756,0.0,158.0,183.0,0.0,0.0,174.0,24.0,61.0,1506.0,434.0,135.0,138.0,0.0,2540.0,273.0,2813.0,2813.0,Z1444.traffic.htm
-Z1444-2,Biroli Bazar(int.with Z1030)-Gazirhat,LRPS,5756,5.756,LRP017,54,16.642,10.886,0.0,158.0,183.0,0.0,0.0,174.0,24.0,61.0,1506.0,434.0,135.0,138.0,0.0,2540.0,273.0,2813.0,2813.0,Z1444.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z1444.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z1444.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z1444-1,Feni (Temohoni)-Biroli Bazar(int.with Z1030),LRPS,0,0,LRPS,5756,5.756,5.756,0.0,158.0,183.0,0.0,0.0,174.0,24.0,61.0,1506.0,434.0,135.0,138.0,0.0,2540.0,273.0,2813.0,2813.0
+Z1444-2,Biroli Bazar(int.with Z1030)-Gazirhat,LRPS,5756,5.756,LRP017,54,16.642,10.886,0.0,158.0,183.0,0.0,0.0,174.0,24.0,61.0,1506.0,434.0,135.0,138.0,0.0,2540.0,273.0,2813.0,2813.0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

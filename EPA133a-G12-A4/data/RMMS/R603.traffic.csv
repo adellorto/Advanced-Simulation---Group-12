@@ -1,6 +1,6 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),R603.traffic.htm
-R603-1,Pabna-Paksey (Int.with N704),LRPS,0,0,LRP022,769,21.922,21.922,1.0,102.0,70.0,1.0,36.0,40.0,27.0,13.0,1660.0,1231.0,1133.0,304.0,1.0,3181.0,1438.0,4619.0,4619.0,R603.traffic.htm
-R603-2,Paksey (Int.with N704)-Paksey (EPZ),LRP022,769,21.922,LRPE,0,25.795,3.873,1.0,102.0,70.0,1.0,36.0,40.0,27.0,13.0,1660.0,1231.0,1133.0,304.0,1.0,3181.0,1438.0,4619.0,4619.0,R603.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,R603.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,R603.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+R603-1,Pabna-Paksey (Int.with N704),LRPS,0,0,LRP022,769,21.922,21.922,1.0,102.0,70.0,1.0,36.0,40.0,27.0,13.0,1660.0,1231.0,1133.0,304.0,1.0,3181.0,1438.0,4619.0,4619.0
+R603-2,Paksey (Int.with N704)-Paksey (EPZ),LRP022,769,21.922,LRPE,0,25.795,3.873,1.0,102.0,70.0,1.0,36.0,40.0,27.0,13.0,1660.0,1231.0,1133.0,304.0,1.0,3181.0,1438.0,4619.0,4619.0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,
