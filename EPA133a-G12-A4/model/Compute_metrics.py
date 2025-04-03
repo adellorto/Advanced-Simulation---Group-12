@@ -20,4 +20,6 @@ df = pd.read_csv("../data/processed_data/combined_traffic_clean.csv")
 
 df["Criticality_scores"] = compute_criticality(df)
 
-print(df.groupby("Road")["Criticality_scores"].mean().sort_values(ascending=False).head(10))
+roads_criticalities = df.groupby("Road")["Criticality_scores"].mean()
+
+print(roads_criticalities.sort_values(ascending=False).head(10))
