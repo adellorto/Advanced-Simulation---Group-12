@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5504.traffic.htm
+Z5504-1,Hitchmi-Puranpail,LRPS,0,0,LRP007,350,7.274,7.274,0.0,139.0,81.0,0.0,71.0,19.0,16.0,10.0,648.0,846.0,765.0,831.0,0.0,1830.0,1596.0,3426.0,3426.0,Z5504.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z5504.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5504.traffic.htm

@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z6806.traffic.htm
+Z6806-1,Nawabganj-Int.with Z6803,LRPS,0,0,LRP002,1160,3.2,3.200,0.0,138.0,208.0,0.0,74.0,36.0,22.0,36.0,1099.0,1373.0,1588.0,438.0,0.0,2986.0,2026.0,5012.0,5012.0,Z6806.traffic.htm
+Z6806-2,Int.with Z6803-Gomastapur,LRP002,1160,3.2,LRPE,0,25.805,22.605,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z6806.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z6806.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z6806.traffic.htm

@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z1452.traffic.htm
+Z1452-1,Feni Noakhali Highway- Maijdee Court Station,LRPS,0,0,LRPS,1210,1.21,1.210,0.0,17.0,24.0,0.0,0.0,0.0,22.0,0.0,212.0,228.0,333.0,148.0,0.0,503.0,481.0,984.0,984.0,Z1452.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z1452.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z1452.traffic.htm

@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z1202.traffic.htm
+Z1202-1,Darkhar-Akhaura(int.with Z1216),LRPS,0,0,LRP007,3679,10.78,10.780,7.0,119.0,55.0,0.0,67.0,36.0,20.0,33.0,977.0,405.0,309.0,553.0,0.0,1719.0,862.0,2581.0,2581.0,Z1202.traffic.htm
+Z1202-2,Akhaura(int.with Z1216)-Senarbadi,LRP007,3679,10.78,LRPE,0,15.057,4.277,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1202.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z1202.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z1202.traffic.htm

@@ -1,0 +1,8 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5409.traffic.htm
+Z5409-1,Saidabad-Samespur (int. with Z5402),LRPS,0,0,LRPS,4100,4.1,4.100,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5409.traffic.htm
+Z5409-2,Samespur (int. with Z5402)-Belkuchi(int.with Z5058),LRPS,4100,4.1,LRPS,11210,11.21,7.110,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5409.traffic.htm
+Z5409-3,Belkuchi(int.with Z5058)-Enayetpur (int.with Z5410),LRPS,11210,11.21,LRPS,18503,18.503,7.293,61.0,294.0,523.0,104.0,426.0,115.0,29.0,57.0,2500.0,3672.0,1625.0,1936.0,0.0,7781.0,3561.0,11342.0,11342.0,Z5409.traffic.htm
+Z5409-4,Enayetpur (int.with Z5410)-Khaza Younus Ali Medical College,LRPS,18503,18.503,LRPE,0,19.63,1.127,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5409.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z5409.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5409.traffic.htm

@@ -1,0 +1,7 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5403.traffic.htm
+Z5403-1,Kaliakandapara-Int.with N405,LRPS,0,0,LRPS,3730,3.73,3.730,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5403.traffic.htm
+Z5403-2,Int.with N405-Kamarkhand (int.with Z5406),LRPS,3730,3.73,LRPS,8210,8.21,4.480,0.0,82.0,113.0,0.0,2.0,8.0,7.0,4.0,641.0,446.0,840.0,457.0,0.0,1303.0,1297.0,2600.0,2600.0,Z5403.traffic.htm
+Z5403-3,Kamarkhand (int.with Z5406)-Bhutgachha (int.with N5),LRPS,8210,8.21,LRPE,0,18.551,10.341,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5403.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z5403.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5403.traffic.htm

@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z7719.traffic.htm
+Z7719-1,Bagerhat Circuit House-Karapara,LRPS,0,0,LRPSa,2055,2.08,2.080,0.0,32.0,59.0,12.0,27.0,19.0,21.0,18.0,538.0,326.0,333.0,278.0,0.0,1052.0,611.0,1663.0,1663.0,Z7719.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z7719.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z7719.traffic.htm

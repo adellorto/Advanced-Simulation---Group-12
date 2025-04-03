@@ -1,0 +1,7 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z7617.traffic.htm
+Z7617-1,Kaliganj-Shyamnagar(int.with Z7610),LRPS,0,0,LRP015,670,15.704,15.704,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z7617.traffic.htm
+Z7617-2,Shyamnagar(int.with Z7610)-Banshipur(int.with Z7609),LRP015,670,15.704,LRP019,248,19.317,3.613,33.0,228.0,173.0,31.0,88.0,48.0,24.0,32.0,740.0,1401.0,823.0,321.0,0.0,2798.0,1144.0,3942.0,3942.0,Z7617.traffic.htm
+Z7617-3,Banshipur(int.with Z7609)-Vetkhali,LRP019,248,19.317,LRP027,177,27.285,7.968,33.0,228.0,173.0,31.0,88.0,48.0,24.0,32.0,740.0,1401.0,823.0,321.0,0.0,2798.0,1144.0,3942.0,3942.0,Z7617.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z7617.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z7617.traffic.htm

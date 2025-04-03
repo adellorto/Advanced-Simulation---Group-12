@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5804.traffic.htm
+Z5804-1,Chirirbandar-Amtali Bazar (int.with R585),LRPS,0,0,LRP015,950,14.99,14.990,0.0,21.0,91.0,0.0,0.0,17.0,9.0,3.0,323.0,1186.0,1996.0,1211.0,2.0,1650.0,3209.0,4859.0,4859.0,Z5804.traffic.htm
+Z5804-2,Amtali Bazar(int.with R585)-Amtali BOP,LRP015,950,14.99,LRP015,2450,16.45,1.460,0.0,21.0,91.0,0.0,0.0,17.0,9.0,3.0,323.0,1186.0,1996.0,1211.0,2.0,1650.0,3209.0,4859.0,4859.0,Z5804.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z5804.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5804.traffic.htm

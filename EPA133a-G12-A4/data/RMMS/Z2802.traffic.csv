@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z2802.traffic.htm
+Z2802-1,Gobindaganj-Chhatak(int.with Z2802),LRPS,0,0,LRP012,295,12.35,12.350,0.0,226.0,164.0,64.0,141.0,130.0,13.0,94.0,2743.0,149.0,57.0,51.0,0.0,3724.0,108.0,3832.0,3832.0,Z2802.traffic.htm
+Z2802-2,Chhatak(int.with Z2802)-Dawrabazar,LRP012,295,12.35,LRPE,0,25.83,13.480,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z2802.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z2802.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z2802.traffic.htm

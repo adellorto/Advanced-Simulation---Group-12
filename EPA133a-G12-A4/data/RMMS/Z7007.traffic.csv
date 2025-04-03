@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z7007.traffic.htm
+Z7007-1,Ramnagar(Int.with N7)-Sripur(Int.with Z7008),LRPS,0,0,LRP017,30,16.43,16.430,4.0,66.0,114.0,4.0,87.0,16.0,55.0,13.0,408.0,508.0,567.0,254.0,0.0,1275.0,821.0,2096.0,2096.0,Z7007.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z7007.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z7007.traffic.htm

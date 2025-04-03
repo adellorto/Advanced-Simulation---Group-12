@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z6018.traffic.htm
+Z6018-1,Sarda Bazar-Puthia,LRPS,0,0,LRP008,640,8.14,8.140,5.0,10.0,35.0,0.0,6.0,28.0,1.0,15.0,897.0,658.0,1153.0,1433.0,16.0,1655.0,2602.0,4257.0,4257.0,Z6018.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z6018.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z6018.traffic.htm

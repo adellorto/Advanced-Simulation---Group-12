@@ -1,0 +1,14 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z1031.traffic.htm
+Z1031-1,Feni (Md. Ali Bazar)-Fathipur (Int.with N1),LRPS,0,0,LRPS,1390,1.39,1.390,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1031.traffic.htm
+Z1031-2,Fathipur (Int.with N1)-Salauddin School More(int.with Z1083),LRPS,1390,1.39,LRP004,895,4.325,2.935,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1031.traffic.htm
+Z1031-3,Salauddin School More(int.with Z1083)-Feni (Int.with N104),LRP004,895,4.325,LRP007,495,6.97,2.645,0.0,174.0,111.0,6.0,173.0,186.0,62.0,161.0,7465.0,431.0,225.0,12660.0,0.0,8769.0,12885.0,21654.0,21654.0,Z1031.traffic.htm
+Z1031-4,Feni (Int.with N104)-Feni (Masterpara)(int.with Z1134),LRP007,495,6.97,LRP007,730,7.205,0.235,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1031.traffic.htm
+Z1031-5,Feni (Masterpara)(int.with Z1134)-Hospital More(int.with Z1083),LRP007,730,7.205,LRP009,976,9.458,2.253,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1031.traffic.htm
+Z1031-6,Hospital More(int.with Z1083)-Feni Polytechnic More (int.with Z1033),LRP009,976,9.458,LRP010,623,10.211,0.753,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1031.traffic.htm
+Z1031-7,Feni Polytechnic More (int.with Z1033)-Int.with Z1081,LRP010,623,10.211,LRP014,944,14.607,4.396,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1031.traffic.htm
+Z1031-8,Int.with Z1081-Chagalnaiya (Int.with Z1032),LRP014,944,14.607,LRP021,1126,21.269,6.662,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1031.traffic.htm
+Z1031-9,Chagalnaiya (Int.with Z1032)-Chagalnaiya(Int.with Z1035),LRP021,1126,21.269,LRP021,1693,21.836,0.567,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1031.traffic.htm
+Z1031-10,Chagalnaiya(Int.with Z1035)-Karerhat,LRP021,1693,21.836,LRPE,0,35.935,14.099,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1031.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z1031.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z1031.traffic.htm

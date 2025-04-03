@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z7411.traffic.htm
+Z7411-1,Bheramara (Bara Mile)-Int.with Z7463,LRPS,0,0,LRP002,894,1.964,1.964,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z7411.traffic.htm
+Z7411-2,Int.with Z7463-Daulatpur,LRP002,894,1.964,LRP020,1505,20.54,18.576,4.0,122.0,74.0,21.0,135.0,61.0,69.0,25.0,1222.0,1883.0,1004.0,444.0,0.0,3616.0,1448.0,5064.0,5064.0,Z7411.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z7411.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z7411.traffic.htm

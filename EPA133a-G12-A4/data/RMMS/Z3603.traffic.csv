@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z3603.traffic.htm
+Z3603-1,Kishoreganj (Ekrampur Traffic More)-Mithamain,LRPS,0,0,LRP019,17906,37,37.000,0.0,261.0,184.0,126.0,0.0,125.0,110.0,140.0,4825.0,462.0,270.0,3811.0,0.0,6233.0,4081.0,10314.0,10314.0,Z3603.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z3603.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z3603.traffic.htm

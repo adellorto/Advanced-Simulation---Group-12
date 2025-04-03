@@ -1,0 +1,7 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5209.traffic.htm
+Z5209-1,Singra-Int.with Z5211,LRPS,0,0,LRP015,460,14.44,14.440,8.0,123.0,129.0,2.0,31.0,21.0,3.0,23.0,1284.0,669.0,1015.0,925.0,5.0,2293.0,1945.0,4238.0,4238.0,Z5209.traffic.htm
+Z5209-2,Int.with Z5211-Kachikata more(int.with N507),LRP015,460,14.44,LRP034,890,33.81,19.370,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5209.traffic.htm
+Z5209-3,Kachikata more(int.with N507)-Chatmohor,LRP034,890,33.81,LRPE,0,50.32,16.510,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5209.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z5209.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5209.traffic.htm

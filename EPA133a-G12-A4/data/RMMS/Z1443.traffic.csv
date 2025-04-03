@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z1443.traffic.htm
+Z1443-1,Selonia-Int.with Z1030,LRPS,0,0,LRP007,537,7.628,7.628,0.0,25.0,33.0,0.0,0.0,9.0,13.0,0.0,589.0,337.0,484.0,274.0,1.0,1006.0,759.0,1765.0,1765.0,Z1443.traffic.htm
+Z1443-2,Int.with Z1030-Senbag,LRP007,537,7.628,LRP012,1010,12.8,5.172,0.0,25.0,33.0,0.0,0.0,9.0,13.0,0.0,589.0,337.0,484.0,274.0,1.0,1006.0,759.0,1765.0,1765.0,Z1443.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z1443.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z1443.traffic.htm

@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z4022.traffic.htm
+Z4022-1,Jamalpur-Madarganj,LRPS,0,0,LRP025,4614,28.5,28.500,0.0,88.0,58.0,1.0,5.0,15.0,10.0,21.0,2186.0,1056.0,760.0,534.0,16.0,3440.0,1310.0,4750.0,4750.0,Z4022.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z4022.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z4022.traffic.htm

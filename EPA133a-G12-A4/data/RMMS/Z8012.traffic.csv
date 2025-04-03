@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z8012.traffic.htm
+Z8012-1,Shariatpur (Premtala) - Janjira (Int.with Z8065),LRPS,0,0,LRP015,428,15.308,15.308,0.0,119.0,66.0,80.0,93.0,76.0,45.0,57.0,1116.0,1136.0,197.0,211.0,0.0,2788.0,408.0,3196.0,3196.0,Z8012.traffic.htm
+Z8012-2,Janjira (Int.with Z8065) - Kathalbari,LRP015,428,15.308,LRP028,1464,28.646,13.338,0.0,73.0,99.0,0.0,2.0,33.0,12.0,30.0,945.0,673.0,312.0,709.0,0.0,1867.0,1021.0,2888.0,2888.0,Z8012.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z8012.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z8012.traffic.htm

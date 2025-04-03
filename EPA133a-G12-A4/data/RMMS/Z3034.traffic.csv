@@ -1,0 +1,7 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z3034.traffic.htm
+Z3034-1,Trisal-Balipara (Int.with Z3033),LRPS,0,0,LRP014,288,13.31,13.310,11.0,463.0,97.0,24.0,35.0,92.0,190.0,106.0,608.0,351.0,127.0,306.0,0.0,1977.0,433.0,2410.0,2410.0,Z3034.traffic.htm
+Z3034-2,Balipara (Int.with Z3033)-Modhupur Bazar(Int.with Z3615),LRP014,288,13.31,LRP019,305,18.386,5.076,11.0,463.0,97.0,24.0,35.0,92.0,190.0,106.0,608.0,351.0,127.0,306.0,0.0,1977.0,433.0,2410.0,2410.0,Z3034.traffic.htm
+Z3034-3,Modhupur Bazar(Int.with Z3615)-Kanurampur,LRP019,305,18.386,LRP024,43,23.097,4.711,11.0,463.0,97.0,24.0,35.0,92.0,190.0,106.0,608.0,351.0,127.0,306.0,0.0,1977.0,433.0,2410.0,2410.0,Z3034.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z3034.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z3034.traffic.htm

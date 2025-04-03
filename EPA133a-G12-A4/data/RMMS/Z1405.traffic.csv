@@ -1,0 +1,8 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z1405.traffic.htm
+Z1405-1,Lakshmipur (Jamuna Cinema Hall)-South Temohoni(int.with R145),LRPS,0,0,LRPS,1552,1.552,1.552,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1405.traffic.htm
+Z1405-2,South Temohoni(int.with R145)-Bhabaniganj(int.with Z1429),LRPS,1552,1.552,LRP008,388,8.511,6.959,0.0,142.0,206.0,31.0,97.0,218.0,21.0,19.0,1530.0,610.0,303.0,338.0,0.0,2874.0,641.0,3515.0,3515.0,Z1405.traffic.htm
+Z1405-3,Bhabaniganj(int.with Z1429)-Mannan Nagar (int.with Z1424),LRP008,388,8.511,LRP067,458,66.4,57.889,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1405.traffic.htm
+Z1405-4,Mannan Nagar (int.with Z1424)-Sonapur,LRP067,458,66.4,LRPE,0,71.689,5.289,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1405.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z1405.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z1405.traffic.htm

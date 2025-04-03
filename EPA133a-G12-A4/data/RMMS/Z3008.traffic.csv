@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z3008.traffic.htm
+Z3008-1,Board Bazar-Dhirashram (Int.with N105),LRPS,0,0,LRPS,2851,2.851,2.851,0.0,146.0,90.0,1.0,2.0,91.0,43.0,64.0,233.0,324.0,228.0,269.0,0.0,994.0,497.0,1491.0,1491.0,Z3008.traffic.htm
+Z3008-2,Dhirashram (Int.with N105)-Gazipur,LRPS,2851,2.851,LRPE,0,6.721,3.870,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z3008.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z3008.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z3008.traffic.htm

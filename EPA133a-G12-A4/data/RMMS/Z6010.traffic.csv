@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z6010.traffic.htm
+Z6010-1,Rajshahi-Int.with N603,LRPS,0,0,LRP005,890,4.89,4.890,0.0,35.0,75.0,4.0,3.0,4.0,10.0,7.0,1085.0,1167.0,1080.0,942.0,1.0,2390.0,2023.0,4413.0,4413.0,Z6010.traffic.htm
+Z6010-2,Int.with N603-Mohonganj,LRP005,890,4.89,LRP023,2845,24.645,19.755,0.0,35.0,75.0,4.0,3.0,4.0,10.0,7.0,1085.0,1167.0,1080.0,942.0,1.0,2390.0,2023.0,4413.0,4413.0,Z6010.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z6010.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z6010.traffic.htm

@@ -1,0 +1,7 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z6852.traffic.htm
+Z6852-1,Manda-Niamatpur (int.with Z6813),LRPS,0,0,LRP017,950,17.95,17.950,0.0,109.0,75.0,0.0,0.0,35.0,44.0,17.0,854.0,895.0,771.0,337.0,0.0,2029.0,1108.0,3137.0,3137.0,Z6852.traffic.htm
+Z6852-2,Niamatpur (int.with Z6813)-Porsha (int.with R547),LRP017,950,17.95,LRP034,9655,43.37,25.420,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z6852.traffic.htm
+Z6852-3,"Porsha (int.with R547)-Sutroil more, Porsha",LRP034,9655,43.37,LRP052,10,51.02,7.650,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z6852.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z6852.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z6852.traffic.htm

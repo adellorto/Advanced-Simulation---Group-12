@@ -1,0 +1,7 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5069.traffic.htm
+Z5069-1,Turag-Kolatia(Int.with Z8002),LRPS,0,0,LRPS,10220,10.22,10.220,0.0,270.0,205.0,0.0,0.0,68.0,17.0,103.0,553.0,513.0,259.0,228.0,0.0,1729.0,487.0,2216.0,2216.0,Z5069.traffic.htm
+Z5069-2,Kolatia(Int.with Z8002)-Ruhitpur (int.with R820),LRPS,10220,10.22,LRPS,17480,17.48,7.260,0.0,255.0,194.0,0.0,0.0,266.0,18.0,239.0,2681.0,501.0,252.0,2533.0,0.0,4154.0,2785.0,6939.0,6939.0,Z5069.traffic.htm
+Z5069-3,Ruhitpur (int.with R820)-Baorvita (int.with N8),LRP010b,7206,17.48,LRP023,1524,24.578,7.098,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5069.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z5069.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5069.traffic.htm

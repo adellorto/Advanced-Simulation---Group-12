@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z8401.traffic.htm
+Z8401-1,Pukuria (Int.with N804) - Sadarpur (Int.with Z8402),LRPS,0,0,LRP012,990,12.26,12.260,0.0,86.0,160.0,15.0,138.0,11.0,56.0,73.0,1564.0,643.0,432.0,1065.0,2.0,2746.0,1499.0,4245.0,4245.0,Z8401.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z8401.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z8401.traffic.htm

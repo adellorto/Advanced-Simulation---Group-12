@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z1126.traffic.htm
+Z1126-1,Yancha-Int.with N1,LRPS,0,0,LRP010,2300,12,12.000,0.0,0.0,26.0,0.0,0.0,13.0,0.0,9.0,774.0,280.0,152.0,272.0,0.0,1102.0,424.0,1526.0,1526.0,Z1126.traffic.htm
+Z1126-2,Int.with N1-Santirbazar,LRP010,2300,12,LRPE,0,18.798,6.798,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1126.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z1126.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z1126.traffic.htm

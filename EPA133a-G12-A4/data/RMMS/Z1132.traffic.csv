@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z1132.traffic.htm
+Z1132-1,Khuruskul Bridge-Eidgah,LRPS,0,0,LRP016,2507,18.142,18.142,0.0,108.0,99.0,0.0,0.0,127.0,111.0,96.0,1765.0,426.0,201.0,309.0,0.0,2732.0,510.0,3242.0,3242.0,Z1132.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z1132.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z1132.traffic.htm

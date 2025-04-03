@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5019.traffic.htm
+Z5019-1,Police Line-Pakkar Matha,LRPS,0,0,LRPS,3810,3.81,3.810,0.0,36.0,201.0,0.0,3.0,522.0,235.0,296.0,3542.0,2163.0,1406.0,1977.0,0.0,6998.0,3383.0,10381.0,10381.0,Z5019.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z5019.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5019.traffic.htm

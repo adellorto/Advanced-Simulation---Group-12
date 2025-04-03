@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z1824.traffic.htm
+Z1824-1,Doavanga-Sharasti(int.with Z1430),LRPS,0,0,LRPS,2792,2.792,2.792,0.0,6.0,93.0,0.0,0.0,11.0,0.0,7.0,813.0,234.0,487.0,338.0,2.0,1164.0,827.0,1991.0,1991.0,Z1824.traffic.htm
+Z1824-2,Sharasti(int.with Z1430)-Paniwala Bazar,LRPS,2792,2.792,LRPS,15600,15.6,12.808,0.0,6.0,93.0,0.0,0.0,11.0,0.0,7.0,813.0,234.0,487.0,338.0,2.0,1164.0,827.0,1991.0,1991.0,Z1824.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z1824.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z1824.traffic.htm

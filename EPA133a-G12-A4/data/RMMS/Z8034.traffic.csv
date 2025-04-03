@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z8034.traffic.htm
+Z8034-1,Rahamatpur-Babuganj,LRPS,0,0,LRP010,207,10.047,10.047,0.0,118.0,77.0,16.0,64.0,22.0,9.0,18.0,397.0,318.0,237.0,268.0,0.0,1039.0,505.0,1544.0,1544.0,Z8034.traffic.htm
+Z8034-3,Babuganj- Int with Z8040,LRP010,207,10.047,LRP024,11830,35.83,25.783,0.0,23.0,35.0,18.0,0.0,11.0,6.0,13.0,294.0,265.0,152.0,175.0,0.0,665.0,327.0,992.0,992.0,Z8034.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z8034.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z8034.traffic.htm

@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z6004.traffic.htm
+Z6004-1,Puthia-Taherpur(Int.with Z6005),LRPS,0,0,LRP017,295,16.92,16.920,3.0,106.0,107.0,0.0,10.0,28.0,10.0,7.0,580.0,540.0,444.0,420.0,0.0,1391.0,864.0,2255.0,2255.0,Z6004.traffic.htm
+Z6004-2,Taherpur(Int.with Z6005)-Bagmara,LRP017,295,16.92,LRPE,0,26.325,9.405,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z6004.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z6004.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z6004.traffic.htm

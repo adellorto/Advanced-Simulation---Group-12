@@ -1,0 +1,225 @@
+Road No.,Road Name,Traffic,Length,Criticality_scores
+N5,Dhaka (Mirpur)-Utholi-Paturia- Natakhola-Kashinathpur- Bogra-Rangpur-Beldanga- Banglabandh Road,8913,526033.0,0.9945547618189405
+N1,Dhaka (Jatrabari)-Comilla (Mainamati)-Chittagong-Teknaf Road,12871,462254.0,0.8718448359878717
+N2,Dhaka (Katchpur)-Bhairab-Jagadishpur-Shaistaganj-Sylhet-Tamabil-Jaflong Road,11218,286516.0,0.5409401705043548
+N7,Dauladia-Faridpur (Goalchamot)-Magura-Jhenaidah-Jessore-Khulna-Mongla (Digraj) Road,9325,249665.0,0.47191463828269475
+N6,Kashinathpur-Dasuria-Natore-Rajshahi-Nawabganj-Kansat-Sona Masjid-Baliadighi Border Road,6899,232244.0,0.4396399715363141
+N8,Dhaka (Jatrabari)-Mawa-Bhanga-Barisal-Patuakhali Road,7678,205127.0,0.3881216638391884
+N4,Joydebpur-Tangail-Jamalpur Road,19183,146305.0,0.274869403444967
+R140,Comilla-Lalmai-Chandpur-Lakhmipur-Begumganj Road,8032,138630.0,0.2622454135473983
+R370,Mymensingh (D.C Office)-Raghurampur-Netrokona-Mohonganj-Jamalganj-Sunamganj Road,8726,131000.0,0.24770620817127856
+R545,Bogra-Naogaon-Mohadebpur-Patnitala-Dhamoirhat-Joypurhat Road,7097,120930.0,0.22889376421291183
+R745,Kushtia (Trimohoni)-Maherpur-Chuadanga-Jhenaidah Road,6242,116818.0,0.22122665640651767
+R360,Mymensingh (Raghurampur)-Kishoreganj (Battali)-Bhairab (Bazar) Road,4103,116385.0,0.22069577955546144
+N3,Dhaka (Banani)-Joydebpur-Mymensingh Road,18755,111583.0,0.2096911759897515
+N805,Bhanga-Bhatiapara-Mollahhat-Fakirhat-Noapara Road,4917,110633.0,0.20968392406926303
+R890,Bhola (Paran Talukderhat)-Burhanuddin-Lalmohon-Char Fassion-Char Manika Road,4094,108785.0,0.2062853694045261
+R585,Gobindagnj-Goraghat-Birampur-Fulbari-Dinajpur Road,6201,106730.0,0.2021273667482058
+N509,Barabari-Lalmonirhat-Burimary Road,5514,104690.0,0.19834750464045384
+R547,Naogaon-Badalgachhi-Patnitala-Shapahar-Porsha-Rohonpur Road,3758,100985.0,0.19153389664967138
+R160,Hathazari-Fatikchhari-Manikchhari-Matiranga-Khagrachhari Road,3435,93294.0,0.1769817058974201
+R250,Sylhet-Golapganj-Charkhai-Jakiganj Road,5183,89700.0,0.16998167115397597
+R281,Rajnagar-Kulaura-Juri-Baralekha-Bianibazar-Sheola-Charkhai Road,4375,82871.0,0.15711846986935754
+N102,Comilla (Mainamati)-Brahmanbaria (Sarail) Road,9414,82682.0,0.15627625977446769
+N704,Jhenaidah-Kushtia-Paksey Ferry-Dasuria Road,10324,81538.0,0.15402782402277662
+R203,Bhulta-Araihazar-Bancharampur-Nabinagar-Shibpur-Radhika Road,3091,76197.0,0.144578591555794
+R860,Mostafapur-Madaripur-Shariatpur (Monohar Bazar)-Ibrahimpur-Harina-Chandpur (Bhatialpur) Road,3352,74634.0,0.14159028268306226
+R170,Patiya-Anowara-Banshkhali-Toitong-Pekua-Badarkhali-Chokoria (Eidmoni) Road,5931,74635.0,0.14136863022857682
+R710,Ahaladipur-Rajbari-Pangsha-Kumarkhali-Kushtia (Chourhash) Road,5414,73110.0,0.13852397538267122
+R820,Zinzira-Keraniganj-Nawabganj-Dohar-Srinagar Road,5000,72052.0,0.1365539910738429
+N207,Mirpur-Srimongal-Moulavibazar-Sherpur Road,5329,67985.0,0.12882017693324144
+N809,Barishal-Laherhat-Veduria-Bhola-Illisha-Maju Chowdhuryhat-Lakshmipur Road,1754,67815.0,0.12877962246273136
+N106,Chittagong-Hathazari-Rangamati Road,6706,66850.0,0.12656263295916084
+R280,Sylhet-Sunamganj Road,6991,66442.0,0.12576820171046232
+R685,Rajshahi (Bindur More)-Nawhata-Chowmasia Road,10335,66420.0,0.12546860216662598
+R748,Chuadanga-Darsana-Jibannagar-Kotchchandpur-Kaliganj Road,4340,65882.0,0.12491101787878878
+R371,Mymensingh (Raghurampur)-Phulpur-Nakla-Sherpur Road,5266,65170.0,0.12349099223521194
+R870,Barisal-Jhalokati-Rajapur-Bhandaria-Pirojpur Road,3866,64251.99999999999,0.12185593971494481
+N502,Bogra (Jahangirabad)-Natore Road,6620,63290.0,0.11982904451499969
+R162,Rangamati (Manikchhari)-Mohalchhari-Khagrachhari Road,1100,61505.0,0.11684374759848026
+R161,Rangamati (Ghagra)-Chandragona-Bangalhalia-Bandarban Road,2089,61178.0,0.11615226108980986
+R760,Khulna-Chuknagar-Satkhira Road,10088,58500.0,0.11052435801233347
+N208,Moulvibazar-Rajnagar-Fenchuganj-Sylhet Road,7665,57495.0,0.10878740061758219
+R560,Paglapir-Dalia-Tista Barrage Road,9413,57130.0,0.10798079638745424
+R880,Patuakhali-Amtali-Barguna-Kacchira Road,4697,55728.0,0.10563612133454059
+N806,Bhatiapara-Kalna-Lohagara-Narail-Jessore Road,5232,55169.0,0.10454222068910062
+R506,Aricha (Barangail)-Ghior-Daulatpur-Tangail Road,2383,53733.0,0.10199887220460918
+R548,Naogaon-Atrai-Natore Road,4031,53321.0,0.10111473635331769
+R601,Pabna-Sujanagar-Natakhola Ferry Ghat (Baderhat) Road,5006,52435.0,0.09937520395170499
+R315,Mawna-Fulbaria-Kaliakoir-Dhamrai-Nabinagar (Dulivita) Road,3603,51985.0,0.09860706688638049
+R220,Sarail-Nasirnagar-Lakhai-Habiganj Road,5017,51772.0,0.09811801999056795
+N507,Hatikamrul-Banpara Road,5254,51260.0,0.09713357095675935
+R240,Shaistaganj-Habiganj-Nabiganj-Sherpur (Auskandi) Road,4505,50670.0,0.09605964555075197
+N506,Rangpur-Barobari-Kurigram Road,7064,50017.0,0.0946730440901042
+N104,Feni-Noakhali Road,9140,49630.0,0.09382086306648758
+N105,Madanpur (13th Km of N1)-Joydevpur(3rd Km of N4),11138,48881.0,0.09229152200575845
+R151,Baraiyerhat-Karerhat-Heako-Narayanhat-Fatikchhari (Haidchokia) Road,2328,47702.0,0.0905535504982379
+R720,Magura-Narail Road,3095,47010.0,0.08919803861663383
+N401,Madhupur-Mymensingh Road,4795,46980.0,0.08904835982956472
+R114,Nayapur-Araihazar-Narsingdi-Raipura Road,4896,46436.0,0.08801178666882073
+R211,Itakhola-Motkhola-Kotiadi Road,3592,45114.0,0.08557447680886336
+R241,Auskandi-Raniganj-Jagannathpur-Pagla Road,1750,45015.0,0.08548298881791438
+R850,Tekerhat-Gopalganj (Haridashpur Bridge)-Mollahhat (Gonapara) Road,5046,44830.0,0.08496006849064792
+N702,Jessore (Daratana More)-Magura (Vaina More) Road,6731,43750.0,0.08282767799582544
+R314,Mawna-Bormi-Gafargaon Road,1992,43410.0,0.0824229107982798
+R747,Kustia(Bottoli)-Poradah-AlamDanga-Chuadanga Road,4364,43468.0,0.0824132889442674
+R312,Rajendrapur Chourasta-Kapasia-Toke-Motkhola Road,4511,43028.0,0.08157172362573378
+R765,Navaran-Illishpur- Satkhira road,5055,42943.0,0.08138345078331814
+R770,Noapara-Bagerhat-Pirojpur Road,5427,42780.0,0.08105605861371366
+R605,Sujangar-Lalan Shah Bridge Approach Road,3968,42650.0,0.08088201458230442
+R313,Mawna-Sripur-Gusinga-Kapasia-Aral-Sammania-Hitirdia-Monohardi (Hetemdi) Road,1471,42352.0,0.08043970445700438
+R812,Fatullah (Panchaboti)-Munshiganj (Muktarpur)-Lohajang-Mawa Road,8194,42285.0,0.07998228670348798
+R881,Amtali-Khepupara-Kuakata Road,2638,40646.0,0.07714438699016088
+R604,Tebunia-Chatmohor-Handial-Hamkuria Road,3968,40580.0,0.07695643966588307
+N405,Elenga-Nalka-Hatikamrul Road (Nalka-Hatikamrul RHD Part),16456,40780.0,0.07674426946107497
+R755,Jessore (Rajarhat)-Monirampur-Keshabpur-Chuknagar Road,4765,38265.0,0.0725308242596397
+R141,Lalmai-Laksham-Sonaimuri Road,5948,38225.0,0.07240248627570117
+N706,Jessore (Daratana More)-Benapole Road,8271,38200.0,0.07225207286559053
+R142,Begamganj-Sonaimuri-Ramganj Road,4783,37720.0,0.07149699510151769
+R310,Joydebpur-Gazipur-Azmatpur-Itakhola Road,8922,37339.0,0.07059533327224754
+R550,Mokamtala-Kalai-Joypurhat Road,6162,36840.0,0.06976998300001945
+R152,Heako-Ramgarh-Jaliapara Road,0,36211.0,0.06883788659646828
+R556,Mithapukur-Shahebganj-Maddahpara-Fulbaria Road,4274,35131.0,0.06661040011491176
+N204,Jagadishpur-Chunarughat-Shaistaganj (old part),2628,34421.0,0.06533000032937714
+R504,Hemayetpur - Singair - Manikgonj,4297,33907.0,0.06428871986594223
+R163,Chittagong (Mohora)-Chandragona Road,7016,33436.0,0.06329010399781469
+R301,Tongi-Kaliganj-Gorashal-Pachdona Road,11510,33037.0,0.06236241731385264
+R460,Jamalpur-Sherpur-Bangaon Road,4392,32875.0,0.06232838879086017
+N804,Bhanga-Faridpur (Goalchamot) Road,5957,32063.000000000004,0.06073062411301469
+R771,Rupsha-Fakirhat-Bagerhat Road,3127,31180.0,0.05916061198003151
+R749,Darsana-Mujibnagar Road,6274,28445.0,0.05386728712644854
+N402,Nakla-Nalitabadi-Nakugaon Road,4795,28000.0,0.05307267082221822
+N709,Khulna City By-Pass Road,12352,26567.0,0.050123317750367775
+R603,Pabna-Paksey Nadi Bandar (EPZ) Road,4619,25795.0,0.04889847063575307
+R544,Santahar Atrai Road,4261,25700.0,0.04872906875857733
+R212,Akdaria (C&B Bazar)-Shekher Bazar-Puradia-Agarpur Road,1871,23409.0,0.04445014333327906
+R202,Bhulta-Rupganj-Kayetpara-Rampura Road,4052,23000.0,0.04361525525603964
+N108,Keranirhat-Bandarban Road,5533,22541.0,0.0427060753574986
+R480,Elenga-Bhuanpur (Char Gabsara) Road,4161,22402.0,0.04247842270395344
+N603,Rajshahi Town By-Pass Road,8643,21030.0,0.03976738260688481
+R555,Palashbari-Gaibandah Road,9806,21015.0,0.039710632841915436
+N120,Comilla Town Old Section,6275,20940.0,0.03965478293747361
+R549,Badalgachhi-Paharpur-Joypurhat (Khanjanpur) Road,2464,20290.0,0.03851366115124743
+R143,Maijdi-Rajganj-Chayani-Basurhat-Chandraganj Road,4357,20260.0,0.03841217432557051
+R110,Jatrabari-Demra-Shimrail-Narayanganj (Chasara) Road,15309,18926.0,0.03564223092694824
+N302,Tongi-Ashulia-Zerabo-EPZ Road,26940,17555.0,0.032823170454192835
+R172,Chokoria-Baderkhali Road,3298,17270.0,0.03276449094998833
+R282,Juri-Lathitila Road,3123,16722.0,0.031728228854981735
+N515,Bogra 2nd Town By-Pass Road,4440,16000.0,0.03033383719393459
+N508,Beldanga-Dinajpur Road,3187,15975.0,0.030309687841327253
+N540,Nabinagar-EPZ-Kaliakoir (Chandra) Road,8367,16010.000000000002,0.030279777458073295
+R171,Banshkhali (Charati)-Chunti Road,1813,15872.0,0.03013959172862417
+R746,Meherpur-Mujibnagar (BRD Camp) Road,7013,15636.0,0.02959701781494011
+R570,Sayedpur-Nilphamari Road,9383,15330.0,0.028975601666641652
+R221,"Muktijoddha Commandant Manik Chowdhury Road (Kamrapur, Habiganj-Nasratpur)",5017,14442.0,0.027370401852425678
+R451,Nalka-Sirajganj Road,8550,14440.0,0.027307361127329503
+R801,Chasara-Jurain-Kamalapur Road,15455,14000.0,0.02636300880828712
+R251,Golapganj-Dhaka Dakhin-Baraigram-Vadeswar Road,8553,13620.0,0.025756618650260153
+N309,Mymensingh Town By-Pass Road,6383,13303.0,0.025190670336454682
+R681,Ujanpara-Bijoynagar Road (Old Part),2555,13230.0,0.025111255139187938
+R557,Madhypara-Badarganj Road,3426,12943.0,0.02455342080879541
+N111,Chittagong Port Connecting Road,6275,12660.0,0.023974668194289207
+R113,Madanpur-Madanganj-Sayedpur Road,5761,12119.0,0.02295739280451134
+N501,Mirpur Bridge-Dhour Road,11346,11942.0,0.022544635796431314
+N513,Baderhat-Khayerchar Road,17439,11880.0,0.022343522056594352
+N210,Sylhet Town Bypass Road (Khadim-Paraichak),19136,10844.0,0.020373674260467378
+R810,Postagola-Chasara Road,15455,10642.0,0.02003965283841368
+N107,Kalurghat-Maneswartek Road,5666,10542.0,0.01997119653963958
+R164,Baraichhari-Kaptai Road,2212,10178.0,0.019322448658244975
+N705,Paksey (Ruppur)-Iswardi-Dasuria Old Section,4632,9453.0,0.017919502282931595
+N511,Mirpur (Birulia)-Ashulia (Yearpur) Road,12826,9462.0,0.01784651820759636
+N715,Alipur - Bhomra Landport Connecting Road,14170,9225.0,0.017385107055142186
+R450,Jamuna Bridge (Saidabad)-Sirajganj Road,8550,8990.0,0.01700091250240251
+N514,Bogra (Banani)-Matidali Road,17129,8670.0,0.016309378740050177
+R112,Narayanganj (Signboard)-Demra-Amulia-Rampura Road,5761,8508.0,0.016116964929514192
+N517,Rangpur Town Old Section (Modern More-Medical More) Road,7929,8210.0,0.015531782407895734
+N110,Link Road(at N1)-Cox`s Bazar (Laboni More) Road,6275,8200.0,0.015528616050013546
+N123,Baraiyerhat-Joraganj Old Section Road,0,8060.000000000001,0.015322232635595108
+R111,Signboard at 6th km of N1Road-Narayanganj Road,18068,8105.0,0.015237702578873406
+N516,Naogaon Town By-Pass Road,5478,8000.0,0.015157274372162726
+N604,Pabna Town Old Section (Bus Stand-Gachpara) Road,12588,7830.0,0.01477052591743315
+R302,Kaliganj Bazr Road,6201,7475.0,0.014156301568845108
+R802,Majina-Kayetpara-Trimohini Link Road,15455,7500.0,0.014123040433010957
+R861,Monohar Bazar More -Shariatpur(Premtola) Road,5449,6904.0,0.013080960313055221
+N504,Nagarbari (Pratappur)-Kashinathpur Road,6489,6653.0,0.012597356543857647
+R283,Sylhet-Sunamganj Bypass Road (3rd Hazrat Shahajalal Bridge Approach Road),3078,6625.0,0.012570584021334619
+N713,Kushtia Town Bypass Road,14170,6600.0,0.012438125372784653
+R711,Rajbari (Bagmara)-Joukura Ferryghat Road,4490,6480.0,0.01228482777153524
+N707,Jessore Town Old Section (Palbari-Daratana-Monihar-Murali),12499,6490.0,0.01224341836906656
+N404,Tangail Old Section (Nagarjalpai-Baila) Road,12690,6489.0,0.012240092432015197
+N712,jhenaidaha bus terminal-Arappur intersection-Alhera busstand,8580,6150.0,0.011629998391101999
+N803,Faridpur Town Old Section (Alipur-Faridpur-SS Ghat) Road,8338,6130.0,0.011593900141278948
+R587,Thakurgaon Town Old Section (Bus Stand-Railway Station),20991,6140.0,0.011522585407624936
+R180,Laharpur-Jhinukmarket-Laboni More Road,13025,6105.0,0.011513384382799613
+N101,Comilla - Bibirbazar Land Port Connecting Road,9708,6021.0,0.01137816425030883
+N602,Natore Town Old Section Road,19662,5640.0,0.010592969426919289
+R713,Charikoal at R710-Shilahdah Link Road,2920,5435.0,0.01031361983890949
+N808,Faridpur Town By-Pass,4664,5300.0,0.010046704762243243
+R558,Maheshpur at R556 to Barapukuria Road,1984,5080.0,0.009645483431652472
+R210,Shahepratap-Narsingdi Road,9831,4990.0,0.009429122681090536
+R743,Jibannagar-Duttanagar Road,0,4860.0,0.009238964095408463
+N801,Barishal-Bhola Link Road,0,4825.0,0.009172428345750171
+N708,Jessore Town Old Section alternate Road (Palbari-Board office-Monihar),6242,4750.0,0.008995416955699968
+N103,Brahmanbaria Town Portion (Kuatali-Ghaturia),26699,4779.0,0.008936793710634888
+R311,Joydebpur (BARI More)-Ordinance Factory (Shahid Zaman Road),7569,4561.0,0.008630464767250972
+N802,2nd Buriganga Bridge Approach Road to National Highway N8,8338,4552.0,0.008609369240310239
+N505,Baderhat-Kazirhat (Latifpur) Road,6489,4400.0,0.008331334554783352
+R248,Ambarkhana - Shahidgaon - M. C. College - Tilagar Road,6758,4257.0,0.008059236229912439
+N518,Sayedpur Town Old Section (Sutkir More-Sonapukur),10624,4160.0,0.007856920270789512
+N403,Mirzapur Town old Section Road,4899,3732.0,0.007073378069637516
+N711,Benapole Town Old Section,14170,3580.0,0.006746740732510464
+N408,Korotia Bazar Portion Road,16456,3532.0,0.006646904358423658
+N703,Jhenaidah Town Old Section,6060,3490.0,0.006610001942382658
+R546,Railgate-Shantahar Road,7023,3460.0,0.0065493126962424385
+R144,Laksam Old Section,5961,3380.0,0.006402052398303004
+R813,Muktarpur Ferry Ghat to Munshiganj Road,7586,3378.0,0.006391889013634901
+N503,Utholi-Aricha Road,3258,3269.0,0.0062020696935243215
+R586,Fulbari Bus Stand-Dinajpur Govt. College Road,8215,3266.0,0.006177575502971863
+R364,Battoli at R360-Kishoreganj Road,7602,3034.0,0.005740912024839101
+N406,Kaliakoir Town Old Section,16456,3042.0,0.005724768702809958
+N605,Rajshahi Greater Road,8643,2960.0,0.005597311103964765
+N119,Chandina Town Old Section,5533,2850.0,0.005399596946403044
+N129,Kumira Old Section Road,0,2790.0,0.005303849758475229
+N510,Bogra Station Road,12826,2784.0,0.005250973017327021
+N112,Feni-Noakhali Highway Link Road,6275,2720.0,0.005150955567809371
+N519,Shahid Ziaur Rahman Medical College Connecting Road,10624,2640.0,0.0049861224795394975
+N520,Ullapara Town Link Road,10624,2601.0,0.004912463852000846
+N109,Ramu Old Section (Ramu Hospital-Khalekuzzaman Chattar)Road,5533,2510.0,0.00475543450367426
+N205,Chandipool-Keean Bridge Road,2628,2478.0,0.004703167857302128
+R712,Tottipur at R771-Machpara Link Road,3268,2220.0,0.004211841674852249
+R147,Lakshmipur Town Bridge-Tero Baki Road,3191,2205.0,0.004183580472622191
+R120,Akhaura Town By-Pass Road,5330,2200.0,0.00416862860258516
+N407,Korotia-Bangra Road,16456,2206.0,0.0041514923597629075
+R201,Tarabo-Demra Road,17676,2195.0,0.00412768125534497
+R814,R812 to Muktarpur Ferryghat Link Road,9877,2034.0,0.0038433453499270797
+R822,Sreenagar Upazilla-UNO Office,5424,1924.0,0.003645445150809121
+R543,Mohadebpur Bypass Road,4261,1920.0,0.0036404596115357387
+R372,Shambhuganj-Puratan Ferry Ghat Road,6305,1920.0,0.003635901739743707
+N206,Keean Bridge-Nayarpool Road,7692,1797.0,0.0034000820781314917
+R249,Chowhatta - Kumarpara-Naiorpul Road,6758,1712.0,0.0032411116809044154
+R146,Wireless More (Intersection with R140)-Illisha Chattar Road,5961,1700.0,0.003219967182578434
+R602,Nazirganj at R601 to Nazirganj Ferry Ghat Road,2426,1415.0,0.0026859584821722015
+R145,Lashmipur Town Old Section,5961,1400.0,0.002651737679770475
+R303,Tongi By-Pass Road,23157,1401.0,0.0026256519168746275
+N126,Komoldoho Old Section Road,0,1345.0,0.002556873808297198
+R682,Rajshahi-Nawabganj Road Old Section,0,1330.0,0.0025283584870150733
+N209,Sylhet Railway Station By-Pass Road,19136,1330.0,0.002498799960016748
+N128,Sitakunda Old Section Road,0,1297.0,0.0024656247801943983
+R821,Sreenagar Bazar Bypass,5424,1285.0,0.0024347177852337425
+R247,Shahi Eidgaon - Kumarpara Road,6758,1188.0,0.0022490891804406807
+N125,Bartakia Old Section Road,0,1140.0,0.002167164417441491
+N211,Shah Mostafa (Beripar-Moulvibazar Court Road) Road,19136,1148.0,0.0021568589128565614
+R317,Toke Bazar-Banar Toke Ferry Ghat,6134,1000.0,0.001893897421343101
+N701,Daulatdia Ferryghat by-pass Road,6731,1000.0,0.00189320406847601
+N303,Charkhai Bazar Link Road,28352,1009.0,0.0018849063872021122
+R222,Shaistaganj(Puranabazar)Laskarpur Railgate link Road,5017,980.0,0.0018572908056624542
+N203,Bhairab Bazar Old Ferryghat link Road,0,975.0,0.0018534958833381176
+N124,Mithachara Old Section Road,0,857.0,0.001629175355918735
+R316,Kapasia Bazar Old Part,2337,650.0,0.0012338997050181163
+R851,Gopalganj Bus Terminal Link Road,3989,650.0,0.0012326525989734215
+R772,Bagerhat Town Section (Bus Stand-Basabati) Road,4536,630.0,0.0011943245983362973
+R891,Bhola (Illisha Junction)-Illisha Road,2634,615.0,0.0011672468170513244
+N213,Asugonj River port Connecting Road,19136,500.0,0.0009393984812093036
+N212,Tamabil Landport Connecting Road,19136,490.0,0.0009206105115851175
+N710,Khulna Town Old Section (Ferryghat-Dakbangla More),12352,400.0,0.000754670346676219
+N127,Choto Darogarghat Old Section,0,305.0,0.0005798115327365393

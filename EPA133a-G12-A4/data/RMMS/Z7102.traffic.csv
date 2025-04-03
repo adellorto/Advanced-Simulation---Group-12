@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z7102.traffic.htm
+Z7102-1,Rajbari (Int.with R710) - Modhukhali (Int.with N7),LRPS,0,0,LRP036,993,36.533,36.533,0.0,161.0,130.0,31.0,138.0,104.0,71.0,63.0,1408.0,1156.0,857.0,902.0,0.0,3262.0,1759.0,5021.0,5021.0,Z7102.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z7102.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z7102.traffic.htm

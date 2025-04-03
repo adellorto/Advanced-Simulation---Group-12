@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z1044.traffic.htm
+Z1044-1,Gouripur-Kachua(int.with Z1050),LRPS,0,0,LRP028,779,28.66,28.660,0.0,95.0,113.0,62.0,7.0,106.0,7.0,61.0,2449.0,106.0,60.0,105.0,0.0,3006.0,165.0,3171.0,3171.0,Z1044.traffic.htm
+Z1044-2,Kachua(int.with Z1050)-Haziganj,LRP028,779,28.66,LRPE,0,40.356,11.696,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1044.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z1044.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z1044.traffic.htm

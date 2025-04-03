@@ -1,0 +1,8 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z1603.traffic.htm
+Z1603-1,Khagrachhari-Dighinala (Int.with Z1605),LRPS,0,0,LRP019,496,19.961,19.961,0.0,92.0,220.0,38.0,56.0,132.0,160.0,41.0,3382.0,1681.0,743.0,313.0,4.0,5802.0,1060.0,6862.0,6862.0,Z1603.traffic.htm
+Z1603-2,Dighinala(Int.with Z1605)-Dighinala (Int.with Z1610),LRP019,496,19.961,LRP020,335,20.78,0.819,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1603.traffic.htm
+Z1603-3,Dighinala (Int.with Z1610)-Baghaihat (Int.with Z1606),LRP020,335,20.78,LRP026,1550,28.055,7.275,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1603.traffic.htm
+Z1603-4,Baghaihat (Int.with Z1606)-Sajek,LRP026,1550,28.055,LRPE,0,65.254,37.199,0.0,92.0,220.0,38.0,56.0,132.0,160.0,41.0,3382.0,1681.0,743.0,313.0,4.0,5802.0,1060.0,6862.0,6862.0,Z1603.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z1603.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z1603.traffic.htm

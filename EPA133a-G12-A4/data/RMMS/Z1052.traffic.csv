@@ -1,0 +1,7 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z1052.traffic.htm
+Z1052-1,Chapapur (int.with N120)-Tomsom Bridge(int.with R140),LRPS,0,0,LRP001,2990,3.49,3.490,0.0,202.0,333.0,72.0,16.0,241.0,111.0,230.0,5934.0,1907.0,1356.0,3410.0,0.0,9046.0,4766.0,13812.0,13812.0,Z1052.traffic.htm
+Z1052-2,Tomsom Bridge(int.with R140)-Int.with N1,LRP001,2990,3.49,LRP001,6460,6.96,3.470,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1052.traffic.htm
+Z1052-3,Int.with N1-Barura,LRP001,6460,6.96,LRPE,0,23.6,16.640,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1052.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z1052.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z1052.traffic.htm

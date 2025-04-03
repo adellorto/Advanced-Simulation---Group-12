@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5060.traffic.htm
+Z5060-1,Bhajanpur (Nijbari)-Mirganj (C&B More),LRPS,0,0,LRP019,33,17.405,17.405,37.0,162.0,81.0,2.0,1.0,12.0,0.0,3.0,143.0,226.0,316.0,194.0,0.0,667.0,510.0,1177.0,1177.0,Z5060.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z5060.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5060.traffic.htm

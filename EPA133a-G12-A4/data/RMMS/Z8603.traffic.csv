@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z8603.traffic.htm
+Z8603-1,Madaripur (Iterpool) - Int.with N8,LRPS,0,0,LRP007,568,7.578,7.578,15.0,29.0,116.0,2.0,84.0,26.0,11.0,7.0,1412.0,1029.0,289.0,259.0,0.0,2731.0,548.0,3279.0,3279.0,Z8603.traffic.htm
+Z8603-2,Int.with N8 - Agailjhara (Int.with Z8031),LRP007,568,7.578,LRP025,1061,25.957,18.379,15.0,29.0,116.0,2.0,84.0,26.0,11.0,7.0,1412.0,1029.0,289.0,259.0,0.0,2731.0,548.0,3279.0,3279.0,Z8603.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z8603.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z8603.traffic.htm

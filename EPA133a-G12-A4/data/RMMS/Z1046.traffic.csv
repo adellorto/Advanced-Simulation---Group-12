@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z1046.traffic.htm
+Z1046-1,Harishchar-Buschi(int.with Z1049),LRPS,0,0,LRP012,496,12.556,12.556,0.0,9.0,161.0,0.0,115.0,46.0,2.0,24.0,2315.0,481.0,379.0,313.0,4.0,3153.0,696.0,3849.0,3849.0,Z1046.traffic.htm
+Z1046-2,Buschi(int.with Z1049)-Miabazar (int.with N1),LRP012,496,12.556,LRPE,0,19.438,6.882,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1046.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z1046.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z1046.traffic.htm

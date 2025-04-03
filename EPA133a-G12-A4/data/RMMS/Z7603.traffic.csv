@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z7603.traffic.htm
+Z7603-1,Sathkhira-Assasuni(int.with Z7618),LRPS,0,0,LRP023,1283,24.305,24.305,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z7603.traffic.htm
+Z7603-2,Assasuni(int.with Z7618)-Paikgachha,LRP023,1283,24.305,LRP026,26388,52,27.695,0.0,113.0,195.0,0.0,244.0,57.0,24.0,56.0,966.0,1063.0,840.0,596.0,0.0,2718.0,1436.0,4154.0,4154.0,Z7603.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z7603.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z7603.traffic.htm

@@ -1,0 +1,8 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5401.traffic.htm
+Z5401-1,Sirajganj-Bahirgola,LRPS,0,0,LRP002,280,1.292,1.292,0.0,113.0,121.0,22.0,130.0,39.0,115.0,31.0,2390.0,993.0,871.0,782.0,0.0,3954.0,1653.0,5607.0,5607.0,Z5401.traffic.htm
+Z5401-2,Bahirgola-Bagbati,LRP002,280,1.292,LRP011,748,10.76,9.468,3.0,109.0,214.0,0.0,0.0,47.0,47.0,29.0,1956.0,1008.0,829.0,651.0,0.0,3413.0,1480.0,4893.0,4893.0,Z5401.traffic.htm
+Z5401-3,Bagbati-Pipulbaria More,LRP011,748,10.76,LRP013,388,12.4,1.640,0.0,295.0,528.0,31.0,170.0,64.0,65.0,41.0,3157.0,1008.0,260.0,287.0,0.0,5359.0,547.0,5906.0,5906.0,Z5401.traffic.htm
+Z5401-4,Pipulbaria More-Sonamukhi,LRP013,388,12.4,LRP035,2383,36.395,23.995,0.0,295.0,528.0,31.0,170.0,64.0,65.0,41.0,3157.0,1008.0,260.0,287.0,0.0,5359.0,547.0,5906.0,5906.0,Z5401.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z5401.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5401.traffic.htm

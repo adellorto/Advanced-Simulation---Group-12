@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z3025.traffic.htm
+Z3025-1,Kapashia-Int.with R310,LRPS,0,0,LRP012,465,12.301,12.301,0.0,75.0,154.0,0.0,0.0,10.0,2.0,18.0,505.0,284.0,248.0,42.0,2.0,1048.0,292.0,1340.0,1340.0,Z3025.traffic.htm
+Z3025-2,Int.with R310-Kaliganj,LRP012,465,12.301,LRPE,0,25.453,13.152,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z3025.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z3025.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z3025.traffic.htm

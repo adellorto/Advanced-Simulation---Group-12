@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z1629.traffic.htm
+Z1629-1,Chowdhuryhat-Int.with R163,LRPS,0,0,LRP011,1937,12.4,12.400,0.0,156.0,32.0,0.0,0.0,111.0,79.0,12.0,1585.0,421.0,592.0,253.0,0.0,2396.0,845.0,3241.0,3241.0,Z1629.traffic.htm
+Z1629-2,Int.with R163-Jelepara,LRP011,1937,12.4,LRPE,0,14.835,2.435,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1629.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z1629.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z1629.traffic.htm

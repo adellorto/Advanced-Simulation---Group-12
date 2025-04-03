@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z8740.traffic.htm
+Z8740-1,Bandaghata-Banaihat (Int.with Z8711),LRPS,0,0,LRPS,7850,7.85,7.850,0.0,0.0,6.0,0.0,58.0,15.0,0.0,0.0,324.0,362.0,254.0,269.0,0.0,765.0,523.0,1288.0,1288.0,Z8740.traffic.htm
+Z8740-2,Banaihat (Int.with Z8711)-Banaihat (Bazar),LRPS,7850,7.85,LRPS,9512,9.512,1.662,0.0,0.0,6.0,0.0,58.0,15.0,0.0,0.0,324.0,362.0,254.0,269.0,0.0,765.0,523.0,1288.0,1288.0,Z8740.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z8740.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z8740.traffic.htm

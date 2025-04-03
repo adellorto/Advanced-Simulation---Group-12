@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z3701.traffic.htm
+Z3701-1,Netrokona (Mogra Bridge)-Madan Bus Stand (Int.with Z3706),LRPS,0,0,LRPS,1630,1.63,1.630,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z3701.traffic.htm
+Z3701-2,Madan Bus Stand (Int.with Z3706)-Kaliajuri,LRPS,1630,1.63,LRPE,0,54.995,53.365,0.0,83.0,52.0,44.0,18.0,14.0,19.0,7.0,215.0,467.0,588.0,276.0,14.0,919.0,878.0,1797.0,1797.0,Z3701.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z3701.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z3701.traffic.htm
