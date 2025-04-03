@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5001.traffic.htm
+Z5001-1,Panchagarh (Dhaccamara)-Bhajanpur (Nijbari),LRPS,0,0,LRPS,970,0.97,0.970,16.0,122.0,90.0,0.0,2.0,31.0,8.0,18.0,997.0,988.0,1035.0,1012.0,0.0,2272.0,2047.0,4319.0,4319.0,Z5001.traffic.htm
+Z5001-2,Bhajanpur (Nijbari)-Ruhea,LRPS,970,0.97,LRP026,550,27.48,26.510,45.0,87.0,42.0,0.0,0.0,21.0,0.0,6.0,503.0,700.0,1608.0,575.0,0.0,1404.0,2183.0,3587.0,3587.0,Z5001.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z5001.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5001.traffic.htm

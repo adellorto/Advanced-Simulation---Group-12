@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z1099.traffic.htm
+Z1099-1,Teknaf-Shaparirdwip,LRPS,0,0,LRP008,5420,13.7,13.700,0.0,35.0,60.0,0.0,34.0,223.0,24.0,40.0,1614.0,518.0,144.0,2644.0,11.0,2548.0,2799.0,5347.0,5347.0,Z1099.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z1099.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z1099.traffic.htm

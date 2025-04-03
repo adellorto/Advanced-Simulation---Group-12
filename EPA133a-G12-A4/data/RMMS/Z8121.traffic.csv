@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z8121.traffic.htm
+Z8121-1,Rekabibazar-Int.with R812,LRPS,0,0,LRP001,1215,2.215,2.215,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z8121.traffic.htm
+Z8121-2,Int.with R812-Munshiganj (Kacharirmore),LRP001,1215,2.215,LRP028,9089,36.677,34.462,0.0,82.0,116.0,0.0,0.0,0.0,9.0,32.0,2161.0,510.0,458.0,4087.0,0.0,2910.0,4545.0,7455.0,7455.0,Z8121.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z8121.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z8121.traffic.htm

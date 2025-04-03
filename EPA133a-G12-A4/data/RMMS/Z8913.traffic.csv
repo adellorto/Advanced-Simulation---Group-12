@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z8913.traffic.htm
+Z8913-1,Debirchar - Lalmohon (Int.with R890),LRPS,0,0,LRPS,11325,11.325,11.325,24.0,106.0,251.0,20.0,177.0,116.0,19.0,34.0,867.0,2068.0,944.0,1706.0,12.0,3682.0,2662.0,6344.0,6344.0,Z8913.traffic.htm
+Z8913-2,Lalmohon (Int.with R890) - Tazumuddin (Int.with Z8905),LRPS,11325,11.325,LRPS,26505,26.505,15.180,0.0,9.0,0.0,0.0,0.0,3.0,6.0,7.0,822.0,699.0,466.0,406.0,0.0,1546.0,872.0,2418.0,2418.0,Z8913.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z8913.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z8913.traffic.htm

@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5053.traffic.htm
+Z5053-1,Bogra (Tinmatha)-Kahalu,LRPS,0,0,LRPS,10990,10.99,10.990,41.0,92.0,92.0,1.0,0.0,24.0,15.0,32.0,2066.0,1046.0,655.0,475.0,0.0,3409.0,1130.0,4539.0,4539.0,Z5053.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z5053.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5053.traffic.htm

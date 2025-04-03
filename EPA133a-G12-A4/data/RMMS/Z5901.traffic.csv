@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5901.traffic.htm
+Z5901-1,Lalmonirhat (Mission More)-Fulbari,LRPS,0,0,LRP008,530,8.65,8.650,0.0,57.0,141.0,0.0,0.0,19.0,46.0,28.0,853.0,1080.0,1520.0,799.0,36.0,2224.0,2355.0,4579.0,4579.0,Z5901.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z5901.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5901.traffic.htm

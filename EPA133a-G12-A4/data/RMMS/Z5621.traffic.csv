@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5621.traffic.htm
+Z5621-1,Kurigram (Shapla Chattar)-Ulipur(int.with Z5623),LRPS,0,0,LRP018,820,18.83,18.830,0.0,19.0,31.0,58.0,43.0,21.0,19.0,10.0,1035.0,1270.0,1361.0,355.0,6.0,2506.0,1722.0,4228.0,4228.0,Z5621.traffic.htm
+Z5621-2,Ulipur(int.with Z5623)-Chillmari,LRP018,820,18.83,LRP027,2940,29.98,11.150,0.0,20.0,31.0,57.0,43.0,33.0,19.0,10.0,1044.0,636.0,689.0,195.0,1.0,1893.0,885.0,2778.0,2778.0,Z5621.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z5621.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5621.traffic.htm

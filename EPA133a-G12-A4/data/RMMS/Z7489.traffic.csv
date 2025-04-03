@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z7489.traffic.htm
+Z7489-1,Chandpara-Int.with Z7024,LRPS,0,0,LRP017,744,16.375,16.375,0.0,5.0,28.0,0.0,0.0,0.0,11.0,2.0,302.0,320.0,471.0,153.0,2.0,668.0,626.0,1294.0,1294.0,Z7489.traffic.htm
+Z7489-2,Int.with Z7024-Khalishpur,LRP017,744,16.375,LRP034,6970,38.655,22.280,0.0,5.0,28.0,0.0,0.0,0.0,11.0,2.0,302.0,320.0,471.0,153.0,2.0,668.0,626.0,1294.0,1294.0,Z7489.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z7489.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z7489.traffic.htm

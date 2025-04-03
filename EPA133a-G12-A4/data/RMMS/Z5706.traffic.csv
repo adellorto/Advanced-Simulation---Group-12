@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5706.traffic.htm
+Z5706-1,Domar-Boragarihat (int.with Z5054),LRPS,0,0,LRP001,2810,3.77,3.770,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5706.traffic.htm
+Z5706-2,Boragarihat(int.with Z5054)-Bholaganj,LRP001,2810,3.77,LRP023,5610,28.8,25.030,0.0,39.0,29.0,0.0,17.0,20.0,34.0,6.0,652.0,966.0,1332.0,637.0,0.0,1763.0,1969.0,3732.0,3732.0,Z5706.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z5706.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5706.traffic.htm

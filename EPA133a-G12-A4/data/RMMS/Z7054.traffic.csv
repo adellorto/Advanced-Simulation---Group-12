@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z7054.traffic.htm
+Z7054-1,Chitalmari- Tungipara (Patgati),LRPS,0,0,LRP013,770,13.8,13.800,0.0,54.0,43.0,0.0,57.0,34.0,40.0,32.0,1230.0,1078.0,800.0,854.0,0.0,2568.0,1654.0,4222.0,4222.0,Z7054.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z7054.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z7054.traffic.htm

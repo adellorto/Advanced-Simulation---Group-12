@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z7553.traffic.htm
+Z7553-1,Keshabpur-Boishen More (int.with Z7552),LRPS,0,0,LRP002,255,2.275,2.275,0.0,61.0,77.0,6.0,38.0,36.0,16.0,23.0,934.0,1659.0,2122.0,1919.0,0.0,2850.0,4041.0,6891.0,6891.0,Z7553.traffic.htm
+Z7553-2,Boishen More(int.with Z7552)- Betgram,LRP002,255,2.275,LRP032,490,33.07,30.795,0.0,61.0,77.0,6.0,38.0,36.0,16.0,23.0,934.0,1659.0,2122.0,1919.0,0.0,2850.0,4041.0,6891.0,6891.0,Z7553.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z7553.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z7553.traffic.htm

@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5035.traffic.htm
+Z5035-1,Mokamtala-Sariakandi,LRPS,0,0,LRP038,3100,41.3,41.300,0.0,74.0,164.0,0.0,72.0,37.0,56.0,39.0,2507.0,1151.0,770.0,828.0,0.0,4100.0,1598.0,5698.0,5698.0,Z5035.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z5035.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5035.traffic.htm

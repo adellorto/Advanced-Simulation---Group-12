@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z1210.traffic.htm
+Z1210-1,Brahmanbaria-Lalpur,LRPS,0,0,LRPS,13639,13.639,13.639,0.0,0.0,147.0,1.0,0.0,124.0,35.0,28.0,3820.0,624.0,700.0,647.0,0.0,4779.0,1347.0,6126.0,6126.0,Z1210.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z1210.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z1210.traffic.htm

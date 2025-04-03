@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z4622.traffic.htm
+Z4622-1,Islampur Sub.Registrar office-Rishipara,LRPS,0,0,LRPS,2909,2.909,2.909,0.0,151.0,124.0,0.0,10.0,20.0,22.0,16.0,271.0,1193.0,1144.0,584.0,0.0,1807.0,1728.0,3535.0,3535.0,Z4622.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z4622.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z4622.traffic.htm

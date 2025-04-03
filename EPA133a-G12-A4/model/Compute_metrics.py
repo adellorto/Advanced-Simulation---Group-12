@@ -23,8 +23,13 @@ def compute_criticality(df):
     # Final criticality score
     criticality = normalized_impact * Ti
 
+
     return criticality
 
+def compute_vulnerability(df):
+    ...
+
+    return df
 
 
 df = pd.read_csv("../data/processed_data/traffic_entire_road.csv")
@@ -45,5 +50,4 @@ plt.show()
 #cut top 10 critical roads
 top_critical_roads = df.head(10)
 top_critical_roads.to_csv("../analysis/top_critical_roads.csv", index=False)
-
 

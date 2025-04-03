@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z8038.traffic.htm
+Z8038-1,Shikarpur-Intersection with N8,LRPS,0,0,LRPS,3774,3.774,3.774,0.0,40.0,129.0,19.0,41.0,49.0,13.0,20.0,1052.0,716.0,938.0,1203.0,0.0,2079.0,2141.0,4220.0,4220.0,Z8038.traffic.htm
+Z8038-2,Intersection with N8-Uzirpur,LRPS,3774,3.774,LRPS,6770,6.77,2.996,0.0,40.0,129.0,19.0,41.0,49.0,13.0,20.0,1052.0,716.0,938.0,1203.0,0.0,2079.0,2141.0,4220.0,4220.0,Z8038.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z8038.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z8038.traffic.htm

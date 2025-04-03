@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z7467.traffic.htm
+Z7467-1,Amjhupi-Int.with R745,LRPS,0,0,LRP002,1380,3.45,3.450,0.0,128.0,96.0,0.0,0.0,77.0,40.0,58.0,1395.0,1400.0,1683.0,1176.0,7.0,3194.0,2866.0,6060.0,6060.0,Z7467.traffic.htm
+Z7467-2,Int.with R745-Noapara,LRP002,1380,3.45,LRP010,1090,11.25,7.800,0.0,128.0,96.0,0.0,0.0,77.0,40.0,58.0,1395.0,1400.0,1683.0,1176.0,7.0,3194.0,2866.0,6060.0,6060.0,Z7467.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z7467.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z7467.traffic.htm

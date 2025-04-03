@@ -1,0 +1,7 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z1401.traffic.htm
+Z1401-1,Lalmai-Barura(Int.with Z1028),LRPS,0,0,LRP009,1440,9.499,9.499,1.0,194.0,231.0,1.0,156.0,111.0,12.0,61.0,1638.0,242.0,115.0,100.0,0.0,2647.0,215.0,2862.0,2862.0,Z1401.traffic.htm
+Z1401-2,Barura(Int.with Z1028)-Jhalam(Int.with Z1022),LRP009,1440,9.499,LRP017,917,16.986,7.487,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1401.traffic.htm
+Z1401-3,Jhalam(Int.with Z1022)-Jagatpur (int.with R140),LRP017,917,16.986,LRPE,0,32.385,15.399,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1401.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z1401.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z1401.traffic.htm

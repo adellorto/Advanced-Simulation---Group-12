@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z4023.traffic.htm
+Z4023-1,Digpaith-Baushi (int.with Z4025),LRPS,0,0,LRP007,665,7.695,7.695,0.0,141.0,150.0,57.0,0.0,39.0,22.0,33.0,638.0,474.0,391.0,450.0,0.0,1554.0,841.0,2395.0,2395.0,Z4023.traffic.htm
+Z4023-2,Baushi (int.with Z4025)-Tarakandi,LRP007,665,7.695,LRPE,0,23.54,15.845,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z4023.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z4023.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z4023.traffic.htm

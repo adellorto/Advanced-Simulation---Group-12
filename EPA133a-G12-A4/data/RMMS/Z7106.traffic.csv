@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z7106.traffic.htm
+Z7106-1,Jamtala (Int.with N7) - Int.with R711,LRPS,0,0,LRP005,17140,22.3,22.300,0.0,0.0,17.0,0.0,1.0,4.0,4.0,2.0,725.0,353.0,465.0,433.0,31.0,1106.0,929.0,2035.0,2035.0,Z7106.traffic.htm
+Z7106-2,Int.with R711-Habashpur,LRP005,17140,22.3,LRPE,0,48.789,26.489,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z7106.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z7106.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z7106.traffic.htm

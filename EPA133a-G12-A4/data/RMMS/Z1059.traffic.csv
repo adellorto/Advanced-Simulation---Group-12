@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z1059.traffic.htm
+Z1059-1,Patiya-Int.with Z1802,LRPS,0,0,LRPS,8503,8.503,8.503,0.0,0.0,104.0,0.0,0.0,8.0,0.0,0.0,768.0,249.0,142.0,342.0,0.0,1129.0,484.0,1613.0,1613.0,Z1059.traffic.htm
+Z1059-2,"Int.with Z1802-Int.with Z1065, Konangopara",LRPS,8503,8.503,LRPE,0,11.204,2.701,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1059.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z1059.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z1059.traffic.htm

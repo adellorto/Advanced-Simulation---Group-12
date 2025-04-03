@@ -1,0 +1,5 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z6812.traffic.htm
+Z6812-1,Dhansura(int.with Z6813)-Adda(int.with R547),LRPS,0,0,LRP005,620,5.01,5.010,2.0,186.0,71.0,3.0,45.0,21.0,12.0,19.0,733.0,600.0,590.0,153.0,0.0,1692.0,743.0,2435.0,2435.0,Z6812.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z6812.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z6812.traffic.htm

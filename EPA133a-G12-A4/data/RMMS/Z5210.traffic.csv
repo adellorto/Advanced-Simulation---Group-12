@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5210.traffic.htm
+Z5210-1,Sherkul-Int.with R548,LRPS,0,0,LRPS,18990,18.99,18.990,0.0,17.0,55.0,0.0,0.0,17.0,0.0,0.0,710.0,709.0,768.0,603.0,0.0,1508.0,1371.0,2879.0,2879.0,Z5210.traffic.htm
+Z5210-2,Int.with R548-Sharkutia Bazar,LRPS,18990,18.99,LRPE,0,34.157,15.167,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5210.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z5210.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5210.traffic.htm

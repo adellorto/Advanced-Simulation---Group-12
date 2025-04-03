@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z2003.traffic.htm
+Z2003-1,Brahmanbazar-Shamshernagar(int.with Z2002),LRPS,0,0,LRP018,595,18.657,18.657,0.0,51.0,69.0,0.0,71.0,118.0,58.0,41.0,1541.0,579.0,448.0,465.0,52.0,2528.0,965.0,3493.0,3493.0,Z2003.traffic.htm
+Z2003-2,Shamshernagar(int.with Z2002)-Srimangal,LRP018,595,18.657,LRPE,0,41.085,22.428,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z2003.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z2003.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z2003.traffic.htm

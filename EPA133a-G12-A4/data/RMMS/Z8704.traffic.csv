@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z8704.traffic.htm
+Z8704-1,Jhalokati-Nabagram (Int.with Z8037),LRPS,0,0,LRP009,550,10.25,10.250,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z8704.traffic.htm
+Z8704-2,Nabagram(Int.with Z8037)-Ekshirapur,LRP009,550,10.25,LRP009,8866,18.566,8.316,0.0,0.0,2.0,0.0,40.0,2.0,1.0,0.0,384.0,649.0,228.0,190.0,0.0,1078.0,418.0,1496.0,1496.0,Z8704.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z8704.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z8704.traffic.htm

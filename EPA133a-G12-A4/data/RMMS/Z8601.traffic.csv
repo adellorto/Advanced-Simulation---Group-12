@@ -1,0 +1,6 @@
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z8601.traffic.htm
+Z8601-1,Burirhat (Int.with R860) - Kaneswar (Int.with Z8605),LRPS,0,0,LRP005,152,4.932,4.932,4.0,91.0,220.0,1.0,26.0,63.0,0.0,37.0,797.0,498.0,353.0,136.0,6.0,1737.0,495.0,2232.0,2232.0,Z8601.traffic.htm
+Z8601-2,Kaneswar (Int.with Z8605) - Goshairhat,LRP005,152,4.932,LRP016,452,16.012,11.080,4.0,91.0,220.0,1.0,26.0,63.0,0.0,37.0,797.0,498.0,353.0,136.0,6.0,1737.0,495.0,2232.0,2232.0,Z8601.traffic.htm
+,,,,,,,,,,,,,,,,,,,,,,,,,,Z8601.traffic.htm
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z8601.traffic.htm
