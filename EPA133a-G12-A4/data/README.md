@@ -9,7 +9,7 @@ data/
 │   ├── bridge_flood_scores.csv                                   # The dataframe assignings the weight of flood risk to each bridge
 │   ├── bridge_condition_refactored.csv                           # The dataframe that translates `string` bridge conditions to numerical values
 │   ├── combined_lrps_clean.csv                                   # ??????????
-│   ├── combined_traffic_clean.csv                                # Cleaned traffic data including AADT for roads and bridges
+│   ├── combined_traffic_clean.csv                                # Cleaned traffic data per link including AADT for roads and bridges
 │   ├── road_condition_categorized.csv                            # The dataframe that assigns `string` categories to the condition of the roads,and translates them to numerical values
 │   ├── road_condition_summary.csv                                # The dataframe summarizes the amount of works and kilometers of damage for each road and can be used as input to modify the condition categorization of roads
 │   ├── road_flood_scores.csv                                     # The dataframe assignings the weight for flood risk to each road
