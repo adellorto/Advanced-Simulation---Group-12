@@ -1,6 +1,6 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z8905.traffic.htm
-Z8905-1,Udypur (Int.with R890) - Tazumuddin (Int.with Z8943),LRPS,0,0,LRP003,10700,13,13.000,0.0,0.0,235.0,0.0,0.0,0.0,0.0,0.0,618.0,507.0,373.0,190.0,0.0,1360.0,563.0,1923.0,1923.0,Z8905.traffic.htm
-Z8905-2,Tazumuddin (Int.with Z8943) - Sikdarhat,LRP003,10700,13,LRP003,35700,38,25.000,0.0,0.0,65.0,0.0,0.0,108.0,7.0,1.0,445.0,214.0,214.0,147.0,0.0,840.0,361.0,1201.0,1201.0,Z8905.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z8905.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z8905.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z8905-1,Udypur (Int.with R890) - Tazumuddin (Int.with Z8943),LRPS,0,0,LRP003,10700,13,13.000,0.0,0.0,235.0,0.0,0.0,0.0,0.0,0.0,618.0,507.0,373.0,190.0,0.0,1360.0,563.0,1923.0,1923.0
+Z8905-2,Tazumuddin (Int.with Z8943) - Sikdarhat,LRP003,10700,13,LRP003,35700,38,25.000,0.0,0.0,65.0,0.0,0.0,108.0,7.0,1.0,445.0,214.0,214.0,147.0,0.0,840.0,361.0,1201.0,1201.0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

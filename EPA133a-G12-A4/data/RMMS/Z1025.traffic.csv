@@ -1,7 +1,7 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z1025.traffic.htm
-Z1025-1,Kumira-Steamer ghat,LRPS,0,0,LRPS,1520,1.52,1.520,0.0,12.0,22.0,32.0,0.0,17.0,0.0,18.0,73.0,133.0,219.0,584.0,0.0,307.0,803.0,1110.0,1110.0,Z1025.traffic.htm
-Z1025-2,Beri bandh- Intersection with Z1095,LRPS,1520,1.52,LRP005,2470,6.69,5.170,0.0,12.0,22.0,32.0,0.0,17.0,0.0,18.0,73.0,133.0,219.0,584.0,0.0,307.0,803.0,1110.0,1110.0,Z1025.traffic.htm
-Z1025-3,Intersection with Z1095- Sea Beribandh,LRP005,2470,6.69,LRP005,8075,12.295,5.605,0.0,12.0,22.0,32.0,0.0,17.0,0.0,18.0,73.0,133.0,219.0,584.0,0.0,307.0,803.0,1110.0,1110.0,Z1025.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z1025.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z1025.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z1025-1,Kumira-Steamer ghat,LRPS,0,0,LRPS,1520,1.52,1.520,0.0,12.0,22.0,32.0,0.0,17.0,0.0,18.0,73.0,133.0,219.0,584.0,0.0,307.0,803.0,1110.0,1110.0
+Z1025-2,Beri bandh- Intersection with Z1095,LRPS,1520,1.52,LRP005,2470,6.69,5.170,0.0,12.0,22.0,32.0,0.0,17.0,0.0,18.0,73.0,133.0,219.0,584.0,0.0,307.0,803.0,1110.0,1110.0
+Z1025-3,Intersection with Z1095- Sea Beribandh,LRP005,2470,6.69,LRP005,8075,12.295,5.605,0.0,12.0,22.0,32.0,0.0,17.0,0.0,18.0,73.0,133.0,219.0,584.0,0.0,307.0,803.0,1110.0,1110.0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

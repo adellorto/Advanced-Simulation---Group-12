@@ -1,8 +1,8 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z7041.traffic.htm
-Z7041-1,Rupsha-Int. with R771,LRPS,0,0,LRPS,445,0.445,0.445,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z7041.traffic.htm
-Z7041-2,Int. with R771-Srifaltola(Int. with Z7042),LRPS,445,0.445,LRPS,3880,3.88,3.435,0.0,79.0,231.0,0.0,33.0,29.0,2.0,35.0,996.0,987.0,1038.0,1057.0,0.0,2392.0,2095.0,4487.0,4487.0,Z7041.traffic.htm
-Z7041-3,Srifaltola(Int. with Z7042)-Terakhada,LRPS,3880,3.88,LRP021,1143,22.186,18.306,0.0,53.0,162.0,0.0,33.0,28.0,2.0,35.0,1107.0,1079.0,1114.0,1057.0,0.0,2499.0,2171.0,4670.0,4670.0,Z7041.traffic.htm
-Z7041-3,Srifaltola(Int. with Z7042)-Terakhada,LRPS,3880,3.88,LRP021,1143,22.186,18.306,0.0,260.0,386.0,0.0,140.0,82.0,18.0,55.0,913.0,920.0,914.0,890.0,0.0,2774.0,1804.0,4578.0,4578.0,Z7041.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z7041.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z7041.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z7041-1,Rupsha-Int. with R771,LRPS,0,0,LRPS,445,0.445,0.445,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+Z7041-2,Int. with R771-Srifaltola(Int. with Z7042),LRPS,445,0.445,LRPS,3880,3.88,3.435,0.0,79.0,231.0,0.0,33.0,29.0,2.0,35.0,996.0,987.0,1038.0,1057.0,0.0,2392.0,2095.0,4487.0,4487.0
+Z7041-3,Srifaltola(Int. with Z7042)-Terakhada,LRPS,3880,3.88,LRP021,1143,22.186,18.306,0.0,53.0,162.0,0.0,33.0,28.0,2.0,35.0,1107.0,1079.0,1114.0,1057.0,0.0,2499.0,2171.0,4670.0,4670.0
+Z7041-3,Srifaltola(Int. with Z7042)-Terakhada,LRPS,3880,3.88,LRP021,1143,22.186,18.306,0.0,260.0,386.0,0.0,140.0,82.0,18.0,55.0,913.0,920.0,914.0,890.0,0.0,2774.0,1804.0,4578.0,4578.0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

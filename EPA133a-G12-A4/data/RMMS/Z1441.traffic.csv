@@ -1,7 +1,7 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z1441.traffic.htm
-Z1441-1,Sonapur-Din Monirhat (int.with Z1508),LRPS,0,0,LRP003,119,3.146,3.146,0.0,86.0,63.0,2.0,0.0,74.0,8.0,29.0,1450.0,502.0,442.0,196.0,0.0,2214.0,638.0,2852.0,2852.0,Z1441.traffic.htm
-Z1441-2,Din Monirhat (int.with Z1508)-Basurhat (int.with Z1434),LRP003,119,3.146,LRP021,208,21.462,18.316,0.0,86.0,63.0,2.0,0.0,74.0,8.0,29.0,1450.0,502.0,442.0,196.0,0.0,2214.0,638.0,2852.0,2852.0,Z1441.traffic.htm
-Z1441-3,Basurhat (int.with Z1434)-Daganbhuyan,LRP021,208,21.462,LRP029,1534,30.26,8.798,0.0,42.0,73.0,23.0,35.0,63.0,11.0,75.0,1936.0,753.0,520.0,343.0,0.0,3011.0,863.0,3874.0,3874.0,Z1441.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z1441.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z1441.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z1441-1,Sonapur-Din Monirhat (int.with Z1508),LRPS,0,0,LRP003,119,3.146,3.146,0.0,86.0,63.0,2.0,0.0,74.0,8.0,29.0,1450.0,502.0,442.0,196.0,0.0,2214.0,638.0,2852.0,2852.0
+Z1441-2,Din Monirhat (int.with Z1508)-Basurhat (int.with Z1434),LRP003,119,3.146,LRP021,208,21.462,18.316,0.0,86.0,63.0,2.0,0.0,74.0,8.0,29.0,1450.0,502.0,442.0,196.0,0.0,2214.0,638.0,2852.0,2852.0
+Z1441-3,Basurhat (int.with Z1434)-Daganbhuyan,LRP021,208,21.462,LRP029,1534,30.26,8.798,0.0,42.0,73.0,23.0,35.0,63.0,11.0,75.0,1936.0,753.0,520.0,343.0,0.0,3011.0,863.0,3874.0,3874.0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

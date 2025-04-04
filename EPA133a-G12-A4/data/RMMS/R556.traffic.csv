@@ -1,8 +1,8 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),R556.traffic.htm
-R556-1,Mithapukur-Madhayapara (Int.with R557),LRPS,0,0,LRP023,900,23.241,23.241,104.0,198.0,173.0,18.0,54.0,59.0,76.0,23.0,332.0,1090.0,1442.0,704.0,1.0,2127.0,2147.0,4274.0,4274.0,R556.traffic.htm
-R556-2,Madhayapara (Int.with R557)-Int.with Z5561,LRP023,900,23.241,LRP025,690,24.771,1.530,104.0,198.0,173.0,18.0,54.0,59.0,76.0,23.0,332.0,1090.0,1442.0,704.0,1.0,2127.0,2147.0,4274.0,4274.0,R556.traffic.htm
-R556-3,Madhayapara (Int.with Z5561)-Maheshpur (Int.with R558),LRP025,690,24.771,LRP033,550,32.64,7.869,104.0,198.0,173.0,18.0,54.0,59.0,76.0,23.0,332.0,1090.0,1442.0,704.0,1.0,2127.0,2147.0,4274.0,4274.0,R556.traffic.htm
-R556-4,Maheshpur (Int.with R558)-Fulbari (int.with R585),LRP033,550,32.64,LRPE,0,35.131,2.491,104.0,198.0,173.0,18.0,54.0,59.0,76.0,23.0,332.0,1090.0,1442.0,704.0,1.0,2127.0,2147.0,4274.0,4274.0,R556.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,R556.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,R556.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+R556-1,Mithapukur-Madhayapara (Int.with R557),LRPS,0,0,LRP023,900,23.241,23.241,104.0,198.0,173.0,18.0,54.0,59.0,76.0,23.0,332.0,1090.0,1442.0,704.0,1.0,2127.0,2147.0,4274.0,4274.0
+R556-2,Madhayapara (Int.with R557)-Int.with Z5561,LRP023,900,23.241,LRP025,690,24.771,1.530,104.0,198.0,173.0,18.0,54.0,59.0,76.0,23.0,332.0,1090.0,1442.0,704.0,1.0,2127.0,2147.0,4274.0,4274.0
+R556-3,Madhayapara (Int.with Z5561)-Maheshpur (Int.with R558),LRP025,690,24.771,LRP033,550,32.64,7.869,104.0,198.0,173.0,18.0,54.0,59.0,76.0,23.0,332.0,1090.0,1442.0,704.0,1.0,2127.0,2147.0,4274.0,4274.0
+R556-4,Maheshpur (Int.with R558)-Fulbari (int.with R585),LRP033,550,32.64,LRPE,0,35.131,2.491,104.0,198.0,173.0,18.0,54.0,59.0,76.0,23.0,332.0,1090.0,1442.0,704.0,1.0,2127.0,2147.0,4274.0,4274.0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

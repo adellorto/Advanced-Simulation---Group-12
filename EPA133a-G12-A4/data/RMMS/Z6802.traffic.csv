@@ -1,9 +1,9 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z6802.traffic.htm
-Z6802-1,Kansat-Chowdala(int.with Z6819),LRPS,0,0,LRP013,550,12.65,12.650,2.0,144.0,116.0,2.0,14.0,57.0,22.0,27.0,899.0,1050.0,1049.0,575.0,0.0,2333.0,1624.0,3957.0,3957.0,Z6802.traffic.htm
-Z6802-2,Chowdala(int.with Z6819)-Gomastapur(int.with Z6806),LRP013,550,12.65,LRP016,730,15.24,2.590,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z6802.traffic.htm
-Z6802-3,Gomastapur(int.with Z6806)-Rohonpur (Int.with Z6805),LRP016,730,15.24,LRP022,750,21.29,6.050,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z6802.traffic.htm
-Z6802-4,Rohonpur (Int.with Z6805)-Rohonpur(int.with R547),LRP022,750,21.29,LRP024,380,22.87,1.580,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z6802.traffic.htm
-Z6802-5,Rohonpur(int.with R547) -Bhangabari,LRP024,380,22.87,LRPE,0,34.61,11.740,2.0,137.0,111.0,2.0,14.0,56.0,22.0,27.0,889.0,1039.0,1038.0,569.0,0.0,2299.0,1607.0,3906.0,3906.0,Z6802.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z6802.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z6802.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z6802-1,Kansat-Chowdala(int.with Z6819),LRPS,0,0,LRP013,550,12.65,12.650,2.0,144.0,116.0,2.0,14.0,57.0,22.0,27.0,899.0,1050.0,1049.0,575.0,0.0,2333.0,1624.0,3957.0,3957.0
+Z6802-2,Chowdala(int.with Z6819)-Gomastapur(int.with Z6806),LRP013,550,12.65,LRP016,730,15.24,2.590,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+Z6802-3,Gomastapur(int.with Z6806)-Rohonpur (Int.with Z6805),LRP016,730,15.24,LRP022,750,21.29,6.050,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+Z6802-4,Rohonpur (Int.with Z6805)-Rohonpur(int.with R547),LRP022,750,21.29,LRP024,380,22.87,1.580,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+Z6802-5,Rohonpur(int.with R547) -Bhangabari,LRP024,380,22.87,LRPE,0,34.61,11.740,2.0,137.0,111.0,2.0,14.0,56.0,22.0,27.0,889.0,1039.0,1038.0,569.0,0.0,2299.0,1607.0,3906.0,3906.0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

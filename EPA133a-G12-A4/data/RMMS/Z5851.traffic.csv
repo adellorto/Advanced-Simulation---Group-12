@@ -1,6 +1,6 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5851.traffic.htm
-Z5851-1,Birampur-Nawabganj (int.with Z5561),LRPS,0,0,LRPS,9660,9.66,9.660,11.0,120.0,171.0,89.0,81.0,93.0,25.0,38.0,614.0,1292.0,1168.0,740.0,0.0,2534.0,1908.0,4442.0,4442.0,Z5851.traffic.htm
-Z5851-2,Nawabganj(int.with Z5561)-Bhaduria,LRPS,9660,9.66,LRP022,1230,22.64,12.980,11.0,120.0,171.0,89.0,81.0,93.0,25.0,38.0,614.0,1292.0,1168.0,740.0,0.0,2534.0,1908.0,4442.0,4442.0,Z5851.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z5851.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5851.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z5851-1,Birampur-Nawabganj (int.with Z5561),LRPS,0,0,LRPS,9660,9.66,9.660,11.0,120.0,171.0,89.0,81.0,93.0,25.0,38.0,614.0,1292.0,1168.0,740.0,0.0,2534.0,1908.0,4442.0,4442.0
+Z5851-2,Nawabganj(int.with Z5561)-Bhaduria,LRPS,9660,9.66,LRP022,1230,22.64,12.980,11.0,120.0,171.0,89.0,81.0,93.0,25.0,38.0,614.0,1292.0,1168.0,740.0,0.0,2534.0,1908.0,4442.0,4442.0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

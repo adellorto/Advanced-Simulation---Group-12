@@ -1,8 +1,8 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z7709.traffic.htm
-Z7709-1,Pirojpur Kheyaghat-Int.with R870,LRPS,0,0,LRPS,1079,1.079,1.079,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z7709.traffic.htm
-Z7709-2,Int.with R870-Pirojpur CO office More (int.with Z7715),LRPS,1079,1.079,LRPS,1806,1.806,0.727,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z7709.traffic.htm
-Z7709-3,Pirojpur CO office More (int.with Z7715)-Ranipur(Int.with Z8702),LRPS,1806,1.806,LRPS,4860,4.86,3.054,13.0,55.0,96.0,59.0,59.0,14.0,28.0,29.0,1719.0,1387.0,1090.0,843.0,0.0,3459.0,1933.0,5392.0,5392.0,Z7709.traffic.htm
-Z7709-4,Ranipur(Int.with Z8702)-Hularhat,LRPS,4860,4.86,LRPE,0,6.37,1.510,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z7709.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z7709.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z7709.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z7709-1,Pirojpur Kheyaghat-Int.with R870,LRPS,0,0,LRPS,1079,1.079,1.079,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+Z7709-2,Int.with R870-Pirojpur CO office More (int.with Z7715),LRPS,1079,1.079,LRPS,1806,1.806,0.727,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+Z7709-3,Pirojpur CO office More (int.with Z7715)-Ranipur(Int.with Z8702),LRPS,1806,1.806,LRPS,4860,4.86,3.054,13.0,55.0,96.0,59.0,59.0,14.0,28.0,29.0,1719.0,1387.0,1090.0,843.0,0.0,3459.0,1933.0,5392.0,5392.0
+Z7709-4,Ranipur(Int.with Z8702)-Hularhat,LRPS,4860,4.86,LRPE,0,6.37,1.510,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

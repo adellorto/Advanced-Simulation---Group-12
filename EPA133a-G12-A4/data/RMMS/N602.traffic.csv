@@ -1,7 +1,7 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),N602.traffic.htm
-N602-1,New Bus Stand(Int.with N6)-Madrasa More (int.with N502),LRPS,0,0,LRPS,1250,1.25,1.250,0.0,346.0,381.0,63.0,97.0,90.0,77.0,171.0,11329.0,3743.0,1992.0,1373.0,0.0,16297.0,3365.0,19662.0,19662.0,N602.traffic.htm
-N602-2,Madrasa More (int.with N502) -int.with R548,LRPS,1250,1.25,LRPS,5000,5,3.750,0.0,346.0,381.0,63.0,97.0,90.0,77.0,171.0,11329.0,3743.0,1992.0,1373.0,0.0,16297.0,3365.0,19662.0,19662.0,N602.traffic.htm
-N602-3,int.with R548-Bon Belghoria (Shimultala),LRPS,5000,5,LRPE,0,5.64,0.640,0.0,346.0,381.0,63.0,97.0,90.0,77.0,171.0,11329.0,3743.0,1992.0,1373.0,0.0,16297.0,3365.0,19662.0,19662.0,N602.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,N602.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,N602.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+N602-1,New Bus Stand(Int.with N6)-Madrasa More (int.with N502),LRPS,0,0,LRPS,1250,1.25,1.250,0.0,346.0,381.0,63.0,97.0,90.0,77.0,171.0,11329.0,3743.0,1992.0,1373.0,0.0,16297.0,3365.0,19662.0,19662.0
+N602-2,Madrasa More (int.with N502) -int.with R548,LRPS,1250,1.25,LRPS,5000,5,3.750,0.0,346.0,381.0,63.0,97.0,90.0,77.0,171.0,11329.0,3743.0,1992.0,1373.0,0.0,16297.0,3365.0,19662.0,19662.0
+N602-3,int.with R548-Bon Belghoria (Shimultala),LRPS,5000,5,LRPE,0,5.64,0.640,0.0,346.0,381.0,63.0,97.0,90.0,77.0,171.0,11329.0,3743.0,1992.0,1373.0,0.0,16297.0,3365.0,19662.0,19662.0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

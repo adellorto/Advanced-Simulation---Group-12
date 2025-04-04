@@ -1,6 +1,6 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5622.traffic.htm
-Z5622-1,Kurigram-Nageswari(int.with Z5617),LRPS,0,0,LRP021,1387,22.227,22.227,0.0,148.0,160.0,130.0,88.0,88.0,35.0,29.0,1198.0,1316.0,1230.0,1225.0,15.0,3192.0,2470.0,5662.0,5662.0,Z5622.traffic.htm
-Z5622-3,Nageswari(int.with Z5617)-Bhurangamari,LRP021,1402,22.227,LRP038,1529,39.519,17.292,0.0,175.0,333.0,71.0,150.0,118.0,10.0,50.0,1370.0,2101.0,1965.0,1292.0,13.0,4378.0,3270.0,7648.0,7648.0,Z5622.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z5622.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5622.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z5622-1,Kurigram-Nageswari(int.with Z5617),LRPS,0,0,LRP021,1387,22.227,22.227,0.0,148.0,160.0,130.0,88.0,88.0,35.0,29.0,1198.0,1316.0,1230.0,1225.0,15.0,3192.0,2470.0,5662.0,5662.0
+Z5622-3,Nageswari(int.with Z5617)-Bhurangamari,LRP021,1402,22.227,LRP038,1529,39.519,17.292,0.0,175.0,333.0,71.0,150.0,118.0,10.0,50.0,1370.0,2101.0,1965.0,1292.0,13.0,4378.0,3270.0,7648.0,7648.0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

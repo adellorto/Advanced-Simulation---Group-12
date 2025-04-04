@@ -1,8 +1,8 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),N803.traffic.htm
-N803-1L,"Alipur-Tapakhola, int.with Z8402 (Left)",LRPS,0,0,LRPS,2450,2.45,2.450,0.0,236.0,1872.0,0.0,157.0,75.0,6.0,52.0,1754.0,1275.0,1543.0,1368.0,0.0,5427.0,2911.0,8338.0,8338.0,N803.traffic.htm
-N803-1R,"Alipur-Tapakhola, int.with Z8402 (Right)",LRPS,0,0,LRPS,2450,2.45,2.450,0.0,236.0,1872.0,0.0,157.0,75.0,6.0,52.0,1754.0,1275.0,1543.0,1368.0,0.0,5427.0,2911.0,8338.0,8338.0,N803.traffic.htm
-N803-2,"Tapakhola, int.with Z8402- (Int.with Z7108)",LRPS,2450,2.45,LRPS,4550,4.55,2.100,0.0,236.0,1872.0,0.0,157.0,75.0,6.0,52.0,1754.0,1275.0,1543.0,1368.0,0.0,5427.0,2911.0,8338.0,8338.0,N803.traffic.htm
-N803-3,(Int.with Z7108)-SS Ghat,LRPS,4550,4.55,LRPE,0,6.13,1.580,0.0,236.0,1872.0,0.0,157.0,75.0,6.0,52.0,1754.0,1275.0,1543.0,1368.0,0.0,5427.0,2911.0,8338.0,8338.0,N803.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,N803.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,N803.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+N803-1L,"Alipur-Tapakhola, int.with Z8402 (Left)",LRPS,0,0,LRPS,2450,2.45,2.450,0.0,236.0,1872.0,0.0,157.0,75.0,6.0,52.0,1754.0,1275.0,1543.0,1368.0,0.0,5427.0,2911.0,8338.0,8338.0
+N803-1R,"Alipur-Tapakhola, int.with Z8402 (Right)",LRPS,0,0,LRPS,2450,2.45,2.450,0.0,236.0,1872.0,0.0,157.0,75.0,6.0,52.0,1754.0,1275.0,1543.0,1368.0,0.0,5427.0,2911.0,8338.0,8338.0
+N803-2,"Tapakhola, int.with Z8402- (Int.with Z7108)",LRPS,2450,2.45,LRPS,4550,4.55,2.100,0.0,236.0,1872.0,0.0,157.0,75.0,6.0,52.0,1754.0,1275.0,1543.0,1368.0,0.0,5427.0,2911.0,8338.0,8338.0
+N803-3,(Int.with Z7108)-SS Ghat,LRPS,4550,4.55,LRPE,0,6.13,1.580,0.0,236.0,1872.0,0.0,157.0,75.0,6.0,52.0,1754.0,1275.0,1543.0,1368.0,0.0,5427.0,2911.0,8338.0,8338.0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

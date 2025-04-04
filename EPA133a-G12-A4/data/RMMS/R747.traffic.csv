@@ -1,7 +1,7 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),R747.traffic.htm
-R747-1,Bottoli-Halsha Rail Bazar(int.with Z7465),LRPS,0,0,LRP013,1365,13.374,13.374,4.0,199.0,133.0,54.0,168.0,64.0,27.0,42.0,1109.0,931.0,713.0,920.0,0.0,2731.0,1633.0,4364.0,4364.0,R747.traffic.htm
-R747-2,Halsha Rail Bazar(int.with Z7465)-Alamdanga(int.with Z7456),LRP013,1365,13.374,LRP024,2037,25.265,11.891,4.0,199.0,133.0,54.0,168.0,64.0,27.0,42.0,1109.0,931.0,713.0,920.0,0.0,2731.0,1633.0,4364.0,4364.0,R747.traffic.htm
-R747-3,Alamdanga(int.with Z7456)-Chuadanga,LRP024,2037,25.265,LRPE,0,43.468,18.203,4.0,199.0,133.0,54.0,168.0,64.0,27.0,42.0,1109.0,931.0,713.0,920.0,0.0,2731.0,1633.0,4364.0,4364.0,R747.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,R747.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,R747.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+R747-1,Bottoli-Halsha Rail Bazar(int.with Z7465),LRPS,0,0,LRP013,1365,13.374,13.374,4.0,199.0,133.0,54.0,168.0,64.0,27.0,42.0,1109.0,931.0,713.0,920.0,0.0,2731.0,1633.0,4364.0,4364.0
+R747-2,Halsha Rail Bazar(int.with Z7465)-Alamdanga(int.with Z7456),LRP013,1365,13.374,LRP024,2037,25.265,11.891,4.0,199.0,133.0,54.0,168.0,64.0,27.0,42.0,1109.0,931.0,713.0,920.0,0.0,2731.0,1633.0,4364.0,4364.0
+R747-3,Alamdanga(int.with Z7456)-Chuadanga,LRP024,2037,25.265,LRPE,0,43.468,18.203,4.0,199.0,133.0,54.0,168.0,64.0,27.0,42.0,1109.0,931.0,713.0,920.0,0.0,2731.0,1633.0,4364.0,4364.0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

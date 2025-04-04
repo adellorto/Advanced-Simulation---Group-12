@@ -1,7 +1,7 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z1402.traffic.htm
-Z1402-1,Baburhat-Matlab Dakhin (int.with Z1445),LRPS,0,0,LRP010,3425,13.632,13.632,0.0,75.0,68.0,0.0,38.0,44.0,1.0,72.0,1364.0,31.0,20.0,40.0,0.0,1693.0,60.0,1753.0,1753.0,Z1402.traffic.htm
-Z1402-2,Matlab Dakhin(int.with Z1445)-Narayanpur (int.with Z1482),LRP010,3425,13.632,LRP019,1354,20.429,6.797,0.0,75.0,68.0,0.0,38.0,44.0,1.0,72.0,1364.0,31.0,20.0,40.0,0.0,1693.0,60.0,1753.0,1753.0,Z1402.traffic.htm
-Z1402-3,Narayanpur (int.with Z1482)-Pennai (int.with N1),LRP019,1354,20.429,LRPE,0,43.849,23.420,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z1402.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z1402.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z1402.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z1402-1,Baburhat-Matlab Dakhin (int.with Z1445),LRPS,0,0,LRP010,3425,13.632,13.632,0.0,75.0,68.0,0.0,38.0,44.0,1.0,72.0,1364.0,31.0,20.0,40.0,0.0,1693.0,60.0,1753.0,1753.0
+Z1402-2,Matlab Dakhin(int.with Z1445)-Narayanpur (int.with Z1482),LRP010,3425,13.632,LRP019,1354,20.429,6.797,0.0,75.0,68.0,0.0,38.0,44.0,1.0,72.0,1364.0,31.0,20.0,40.0,0.0,1693.0,60.0,1753.0,1753.0
+Z1402-3,Narayanpur (int.with Z1482)-Pennai (int.with N1),LRP019,1354,20.429,LRPE,0,43.849,23.420,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

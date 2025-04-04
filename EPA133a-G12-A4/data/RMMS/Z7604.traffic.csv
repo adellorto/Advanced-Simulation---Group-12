@@ -1,7 +1,7 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z7604.traffic.htm
-Z7604-1,Betgram (18 Mile Bazar)-Tala(int.with Z7613),LRPS,0,0,LRP008,2,8.012,8.012,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z7604.traffic.htm
-Z7604-2,Tala(int.with Z7613)-int.with Z7603,LRP008,2,8.012,LRP030,3352,33.442,25.430,0.0,119.0,124.0,0.0,46.0,27.0,0.0,19.0,1025.0,760.0,735.0,728.0,0.0,2120.0,1463.0,3583.0,3583.0,Z7604.traffic.htm
-Z7604-3,int.with Z7603-Koyra,LRP030,3352,33.442,LRPE,0,63.585,30.143,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z7604.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z7604.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z7604.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z7604-1,Betgram (18 Mile Bazar)-Tala(int.with Z7613),LRPS,0,0,LRP008,2,8.012,8.012,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+Z7604-2,Tala(int.with Z7613)-int.with Z7603,LRP008,2,8.012,LRP030,3352,33.442,25.430,0.0,119.0,124.0,0.0,46.0,27.0,0.0,19.0,1025.0,760.0,735.0,728.0,0.0,2120.0,1463.0,3583.0,3583.0
+Z7604-3,int.with Z7603-Koyra,LRP030,3352,33.442,LRPE,0,63.585,30.143,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

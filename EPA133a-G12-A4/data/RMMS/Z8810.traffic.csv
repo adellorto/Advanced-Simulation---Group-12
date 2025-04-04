@@ -1,8 +1,8 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z8810.traffic.htm
-Z8810-1,Bakerganj-Padri Shibpur(Side Road Right),LRPS,0,0,LRP004,312,4.309,4.309,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z8810.traffic.htm
-Z8810-2,Padri Shibpur-Mirzaganj(int.with Z8052),LRP004,312,4.309,LRP027,20,26.672,22.363,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z8810.traffic.htm
-Z8810-3,Mirzaganj(int.with Z8052)-Chandukhali(int.with Z8803),LRP027,20,26.672,LRP042,720,42.443,15.771,0.0,145.0,126.0,48.0,55.0,38.0,13.0,13.0,587.0,449.0,151.0,112.0,0.0,1474.0,263.0,1737.0,1737.0,Z8810.traffic.htm
-Z8810-4,Chandukhali(int.with Z8803)-Barguna,LRP042,720,42.443,LRPE,0,55.013,12.570,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z8810.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z8810.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z8810.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z8810-1,Bakerganj-Padri Shibpur(Side Road Right),LRPS,0,0,LRP004,312,4.309,4.309,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+Z8810-2,Padri Shibpur-Mirzaganj(int.with Z8052),LRP004,312,4.309,LRP027,20,26.672,22.363,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+Z8810-3,Mirzaganj(int.with Z8052)-Chandukhali(int.with Z8803),LRP027,20,26.672,LRP042,720,42.443,15.771,0.0,145.0,126.0,48.0,55.0,38.0,13.0,13.0,587.0,449.0,151.0,112.0,0.0,1474.0,263.0,1737.0,1737.0
+Z8810-4,Chandukhali(int.with Z8803)-Barguna,LRP042,720,42.443,LRPE,0,55.013,12.570,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,6 +1,6 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),R765.traffic.htm
-R765-1,Navaran-Kolaroa (Int.with Z7552),LRPS,0,0,LRP025,1044,25.035,25.035,19.0,350.0,421.0,125.0,312.0,122.0,46.0,99.0,1165.0,1034.0,639.0,723.0,0.0,3693.0,1362.0,5055.0,5055.0,R765.traffic.htm
-R765-2,Kolaroa (Int.with Z7552)-Satkhira,LRP025,1044,25.035,LRPE,0,42.943,17.908,19.0,350.0,421.0,125.0,312.0,122.0,46.0,99.0,1165.0,1034.0,639.0,723.0,0.0,3693.0,1362.0,5055.0,5055.0,R765.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,R765.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,R765.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+R765-1,Navaran-Kolaroa (Int.with Z7552),LRPS,0,0,LRP025,1044,25.035,25.035,19.0,350.0,421.0,125.0,312.0,122.0,46.0,99.0,1165.0,1034.0,639.0,723.0,0.0,3693.0,1362.0,5055.0,5055.0
+R765-2,Kolaroa (Int.with Z7552)-Satkhira,LRP025,1044,25.035,LRPE,0,42.943,17.908,19.0,350.0,421.0,125.0,312.0,122.0,46.0,99.0,1165.0,1034.0,639.0,723.0,0.0,3693.0,1362.0,5055.0,5055.0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

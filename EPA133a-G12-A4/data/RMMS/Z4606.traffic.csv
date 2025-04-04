@@ -1,9 +1,9 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z4606.traffic.htm
-Z4606-1,Nandirbazar-Bakshiganj (Int.with Z4614),LRPS,0,0,LRP025,990,26.03,26.030,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z4606.traffic.htm
-Z4606-2,Bakshiganj (Int.with Z4614)-Bakshiganj (Int.with Z4615),LRP025,990,26.03,LRP028,915,28.95,2.920,0.0,104.0,35.0,20.0,0.0,104.0,39.0,45.0,755.0,350.0,202.0,240.0,1.0,1452.0,443.0,1895.0,1895.0,Z4606.traffic.htm
-Z4606-3,Bakshiganj (Int.with Z4615)-Dhanua Kamalpur(Int.with Z2834),LRP028,915,28.95,LRP037,46,37.076,8.126,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z4606.traffic.htm
-Z4606-4,Dhanua Kamalpur(Int.with Z2834)-Char Rajibpur (Int.with Z4615),LRP037,46,37.076,LRP049,7614,56.694,19.618,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z4606.traffic.htm
-Z4606-5,Char Rajibpur (Int.with Z4615)-Datbhanga,LRP049,7614,56.694,LRPE,0,86.92,30.226,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z4606.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z4606.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z4606.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z4606-1,Nandirbazar-Bakshiganj (Int.with Z4614),LRPS,0,0,LRP025,990,26.03,26.030,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+Z4606-2,Bakshiganj (Int.with Z4614)-Bakshiganj (Int.with Z4615),LRP025,990,26.03,LRP028,915,28.95,2.920,0.0,104.0,35.0,20.0,0.0,104.0,39.0,45.0,755.0,350.0,202.0,240.0,1.0,1452.0,443.0,1895.0,1895.0
+Z4606-3,Bakshiganj (Int.with Z4615)-Dhanua Kamalpur(Int.with Z2834),LRP028,915,28.95,LRP037,46,37.076,8.126,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+Z4606-4,Dhanua Kamalpur(Int.with Z2834)-Char Rajibpur (Int.with Z4615),LRP037,46,37.076,LRP049,7614,56.694,19.618,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+Z4606-5,Char Rajibpur (Int.with Z4615)-Datbhanga,LRP049,7614,56.694,LRPE,0,86.92,30.226,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

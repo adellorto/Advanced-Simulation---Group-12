@@ -1,6 +1,6 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z1430.traffic.htm
-Z1430-1,Chatkhil-Chitoshi(int.with Z1407),LRPS,0,0,LRP009,6739,14.49,14.490,0.0,78.0,0.0,0.0,5.0,0.0,0.0,4.0,801.0,419.0,472.0,497.0,2.0,1307.0,971.0,2278.0,2278.0,Z1430.traffic.htm
-Z1430-2,Chitoshi(int.with Z1407)-Kalibari(int.with Z1824),LRP009,6739,14.49,LRP019,8920,26.479,11.989,0.0,78.0,0.0,0.0,5.0,0.0,0.0,4.0,801.0,419.0,472.0,497.0,2.0,1307.0,971.0,2278.0,2278.0,Z1430.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z1430.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z1430.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z1430-1,Chatkhil-Chitoshi(int.with Z1407),LRPS,0,0,LRP009,6739,14.49,14.490,0.0,78.0,0.0,0.0,5.0,0.0,0.0,4.0,801.0,419.0,472.0,497.0,2.0,1307.0,971.0,2278.0,2278.0
+Z1430-2,Chitoshi(int.with Z1407)-Kalibari(int.with Z1824),LRP009,6739,14.49,LRP019,8920,26.479,11.989,0.0,78.0,0.0,0.0,5.0,0.0,0.0,4.0,801.0,419.0,472.0,497.0,2.0,1307.0,971.0,2278.0,2278.0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

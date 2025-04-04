@@ -1,8 +1,8 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),N405.traffic.htm
-N405-1,Elanga- Jumuna Bridge,LRPS,0,0,LRP007,755,7.475,7.475,37.0,4781.0,1015.0,4459.0,569.0,1283.0,327.0,1083.0,1656.0,958.0,137.0,151.0,0.0,16168.0,288.0,16456.0,16456.0,N405.traffic.htm
-N405-2,Jamuna Bridge-Porabari (Int.with Z5402),LRP007,755,7.475,LRP026,270,25.89,18.415,37.0,4781.0,1015.0,4459.0,569.0,1283.0,327.0,1083.0,1656.0,958.0,137.0,151.0,0.0,16168.0,288.0,16456.0,16456.0,N405.traffic.htm
-N405-3,Porabari (Int.with Z5402)-Nalka (Int.with R451),LRP026,270,25.89,LRP036,409,36.144,10.254,37.0,4781.0,1015.0,4459.0,569.0,1283.0,327.0,1083.0,1656.0,958.0,137.0,151.0,0.0,16168.0,288.0,16456.0,16456.0,N405.traffic.htm
-N405-4,Nalka (Int.with R451)-Hatikamrul,LRP036,409,36.144,LRP040,945,40.78,4.636,37.0,4781.0,1015.0,4459.0,569.0,1283.0,327.0,1083.0,1656.0,958.0,137.0,151.0,0.0,16168.0,288.0,16456.0,16456.0,N405.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,N405.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,N405.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+N405-1,Elanga- Jumuna Bridge,LRPS,0,0,LRP007,755,7.475,7.475,37.0,4781.0,1015.0,4459.0,569.0,1283.0,327.0,1083.0,1656.0,958.0,137.0,151.0,0.0,16168.0,288.0,16456.0,16456.0
+N405-2,Jamuna Bridge-Porabari (Int.with Z5402),LRP007,755,7.475,LRP026,270,25.89,18.415,37.0,4781.0,1015.0,4459.0,569.0,1283.0,327.0,1083.0,1656.0,958.0,137.0,151.0,0.0,16168.0,288.0,16456.0,16456.0
+N405-3,Porabari (Int.with Z5402)-Nalka (Int.with R451),LRP026,270,25.89,LRP036,409,36.144,10.254,37.0,4781.0,1015.0,4459.0,569.0,1283.0,327.0,1083.0,1656.0,958.0,137.0,151.0,0.0,16168.0,288.0,16456.0,16456.0
+N405-4,Nalka (Int.with R451)-Hatikamrul,LRP036,409,36.144,LRP040,945,40.78,4.636,37.0,4781.0,1015.0,4459.0,569.0,1283.0,327.0,1083.0,1656.0,958.0,137.0,151.0,0.0,16168.0,288.0,16456.0,16456.0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,6 +1,6 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z2047.traffic.htm
-Z2047-1,Pachdona-Shakerchar(int.with Z2038),LRPS,0,0,LRP001,667,1.649,1.649,0.0,271.0,103.0,0.0,33.0,66.0,5.0,45.0,3190.0,493.0,504.0,624.0,0.0,4206.0,1128.0,5334.0,5334.0,Z2047.traffic.htm
-Z2047-2,Shakerchar(int.with Z2038)-Ghorashal,LRP001,667,1.649,LRPE,0,16.022,14.373,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z2047.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z2047.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z2047.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z2047-1,Pachdona-Shakerchar(int.with Z2038),LRPS,0,0,LRP001,667,1.649,1.649,0.0,271.0,103.0,0.0,33.0,66.0,5.0,45.0,3190.0,493.0,504.0,624.0,0.0,4206.0,1128.0,5334.0,5334.0
+Z2047-2,Shakerchar(int.with Z2038)-Ghorashal,LRP001,667,1.649,LRPE,0,16.022,14.373,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

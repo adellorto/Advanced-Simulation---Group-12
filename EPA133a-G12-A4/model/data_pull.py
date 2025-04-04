@@ -30,7 +30,7 @@ def parse_traffic():
                 #Add to a combined list with other parsed roads.
                 combined_dfs.append(df)
 
-                # Preview
+                #Preview
                 print(f"\nProcessed: {filename}")
 
             #Error handling

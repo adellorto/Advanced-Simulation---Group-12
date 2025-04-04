@@ -1,8 +1,8 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5010.traffic.htm
-Z5010-1,Rangpur (Shapla More)-Shahebganj (int.with Z5612),LRPS,0,0,LRPS,6120,6.12,6.120,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5010.traffic.htm
-Z5010-2,Shahebganj (int.with Z5612)-Mohiganj (int.with N506),LRPS,6120,6.12,LRP010,437,10.617,4.497,0.0,42.0,51.0,3.0,1.0,8.0,4.0,6.0,188.0,289.0,393.0,176.0,0.0,592.0,569.0,1161.0,1161.0,Z5010.traffic.htm
-Z5010-3,Mohiganj (int.with N506)-Kadamtali (int.with Z5613),LRP010,437,10.617,LRP024,554,24.284,13.667,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5010.traffic.htm
-Z5010-4,Kadamtali (int.with Z5613)-Pirgachha,LRP024,554,24.284,LRP024,5174,28.861,4.577,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5010.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z5010.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5010.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z5010-1,Rangpur (Shapla More)-Shahebganj (int.with Z5612),LRPS,0,0,LRPS,6120,6.12,6.120,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+Z5010-2,Shahebganj (int.with Z5612)-Mohiganj (int.with N506),LRPS,6120,6.12,LRP010,437,10.617,4.497,0.0,42.0,51.0,3.0,1.0,8.0,4.0,6.0,188.0,289.0,393.0,176.0,0.0,592.0,569.0,1161.0,1161.0
+Z5010-3,Mohiganj (int.with N506)-Kadamtali (int.with Z5613),LRP010,437,10.617,LRP024,554,24.284,13.667,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+Z5010-4,Kadamtali (int.with Z5613)-Pirgachha,LRP024,554,24.284,LRP024,5174,28.861,4.577,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

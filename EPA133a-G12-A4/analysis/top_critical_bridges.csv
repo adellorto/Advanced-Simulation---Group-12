@@ -1,0 +1,11 @@
+Road No.,LRPName,length,condition,roadName,Traffic,Criticality_scores
+N704,LRP072a,1786.0,0,Jhenaidah-Kushtia-Paksey Ferry-Dasuria Road,10324.0,0.9936927365666713
+N1,LRP037a,1408.8,0,Dhaka (Jatrabari)-Comilla (Mainamati)-Chittagong-Teknaf Road,12871.0,0.7825992005905718
+N1,LRP037a,1408.8,2,Dhaka (Jatrabari)-Comilla (Mainamati)-Chittagong-Teknaf Road,12871.0,0.7825992005905718
+N2,LRP072c,1194.5,0,Dhaka (Katchpur)-Bhairab-Jagadishpur-Shaistaganj-Sylhet-Tamabil-Jaflong Road,11218.0,0.6642293223854221
+R820,LRP001a,1018.0,0,Zinzira-Keraniganj-Nawabganj-Dohar-Srinagar Road,5000.0,0.5682476793939277
+R820,LRP001a,1016.1,0,Zinzira-Keraniganj-Nawabganj-Dohar-Srinagar Road,5000.0,0.5671870992457466
+N1,LRP241a,954.5,0,Dhaka (Jatrabari)-Comilla (Mainamati)-Chittagong-Teknaf Road,12871.0,0.53023206769144
+N2,LRP072c,924.0,0,Dhaka (Katchpur)-Bhairab-Jagadishpur-Shaistaganj-Sylhet-Tamabil-Jaflong Road,11218.0,0.5138115478310005
+N1,LRP024a,924.85,0,Dhaka (Jatrabari)-Comilla (Mainamati)-Chittagong-Teknaf Road,12871.0,0.5137612653791811
+R870,LRP020c,917.7,0,Barisal-Jhalokati-Rajapur-Bhandaria-Pirojpur Road,3866.0,0.5126161913317803

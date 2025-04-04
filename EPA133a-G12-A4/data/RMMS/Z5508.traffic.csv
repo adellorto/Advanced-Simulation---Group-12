@@ -1,8 +1,8 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z5508.traffic.htm
-Z5508-1,Khetlal-Int.with Z5039,LRPS,0,0,LRP002,603,1.564,1.564,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5508.traffic.htm
-Z5508-2,Int.with Z5039- Gopinathpur (int.with Z5202),LRP002,603,1.564,LRP011,834,10.496,8.932,0.0,22.0,26.0,1.0,15.0,72.0,43.0,32.0,628.0,686.0,677.0,820.0,0.0,1525.0,1497.0,3022.0,3022.0,Z5508.traffic.htm
-Z5508-3,Gopinathpur(int.with Z5202)-Akkelpur (int.with Z5478),LRP011,834,10.496,LRP017,50,15.546,5.050,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5508.traffic.htm
-Z5508-4,Akkelpur (int.with Z5478)-Akkelpur (int.with Z5452),LRP017,50,15.546,LRPE,0,18.245,2.699,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z5508.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z5508.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z5508.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z5508-1,Khetlal-Int.with Z5039,LRPS,0,0,LRP002,603,1.564,1.564,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+Z5508-2,Int.with Z5039- Gopinathpur (int.with Z5202),LRP002,603,1.564,LRP011,834,10.496,8.932,0.0,22.0,26.0,1.0,15.0,72.0,43.0,32.0,628.0,686.0,677.0,820.0,0.0,1525.0,1497.0,3022.0,3022.0
+Z5508-3,Gopinathpur(int.with Z5202)-Akkelpur (int.with Z5478),LRP011,834,10.496,LRP017,50,15.546,5.050,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+Z5508-4,Akkelpur (int.with Z5478)-Akkelpur (int.with Z5452),LRP017,50,15.546,LRPE,0,18.245,2.699,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

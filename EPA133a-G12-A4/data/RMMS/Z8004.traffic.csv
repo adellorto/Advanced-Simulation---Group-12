@@ -1,7 +1,7 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z8004.traffic.htm
-Z8004-1,Hatimara-Kakaldi(int.with Z8005),LRPS,0,0,LRP007c,0,7.61,7.610,0.0,118.0,104.0,0.0,145.0,39.0,30.0,73.0,2236.0,535.0,304.0,561.0,0.0,3280.0,865.0,4145.0,4145.0,Z8004.traffic.htm
-Z8004-2,Kakaldi(int.with Z8005)-Int.with Z8203,LRP007c,0,7.61,LRP012,4800,16.8,9.190,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z8004.traffic.htm
-Z8004-3,Int.with Z8203-Srinagar(Int.with N8),LRP012,4800,16.8,LRPE,0,20.455,3.655,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z8004.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z8004.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z8004.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z8004-1,Hatimara-Kakaldi(int.with Z8005),LRPS,0,0,LRP007c,0,7.61,7.610,0.0,118.0,104.0,0.0,145.0,39.0,30.0,73.0,2236.0,535.0,304.0,561.0,0.0,3280.0,865.0,4145.0,4145.0
+Z8004-2,Kakaldi(int.with Z8005)-Int.with Z8203,LRP007c,0,7.61,LRP012,4800,16.8,9.190,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+Z8004-3,Int.with Z8203-Srinagar(Int.with N8),LRP012,4800,16.8,LRPE,0,20.455,3.655,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

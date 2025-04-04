@@ -1,6 +1,6 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),N205.traffic.htm
-N205-1,Chandipool-Int.with N209,LRPS,0,0,LRPS,1850,1.85,1.850,0.0,176.0,190.0,31.0,38.0,204.0,43.0,92.0,1119.0,378.0,127.0,230.0,0.0,2271.0,357.0,2628.0,2628.0,N205.traffic.htm
-N205-2,Int.with N209-Keen Bridge (Int.with N208),LRPS,1850,1.85,LRPS,2478,2.478,0.628,0.0,176.0,190.0,31.0,38.0,204.0,43.0,92.0,1119.0,378.0,127.0,230.0,0.0,2271.0,357.0,2628.0,2628.0,N205.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,N205.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,N205.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+N205-1,Chandipool-Int.with N209,LRPS,0,0,LRPS,1850,1.85,1.850,0.0,176.0,190.0,31.0,38.0,204.0,43.0,92.0,1119.0,378.0,127.0,230.0,0.0,2271.0,357.0,2628.0,2628.0
+N205-2,Int.with N209-Keen Bridge (Int.with N208),LRPS,1850,1.85,LRPS,2478,2.478,0.628,0.0,176.0,190.0,31.0,38.0,204.0,43.0,92.0,1119.0,378.0,127.0,230.0,0.0,2271.0,357.0,2628.0,2628.0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

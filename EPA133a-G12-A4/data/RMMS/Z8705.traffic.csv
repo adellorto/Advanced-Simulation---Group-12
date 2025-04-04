@@ -1,8 +1,8 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z8705.traffic.htm
-Z8705-1,Bhandaria-Paikkhali(int.with Z8706),LRPS,0,0,LRP003,156,3.196,3.196,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z8705.traffic.htm
-Z8705-2,Paikkhali(int.with Z8706)-Binapani(int.with Z8052),LRP003,156,3.196,LRP007,465,7.505,4.309,0.0,50.0,89.0,84.0,67.0,39.0,25.0,38.0,662.0,494.0,209.0,241.0,0.0,1548.0,450.0,1998.0,1998.0,Z8705.traffic.htm
-Z8705-3,Binapani(int.with Z8052)-Bandakada(int.with Z8740),LRP007,465,7.505,LRP007,2960,10,2.495,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS,Z8705.traffic.htm
-Z8705-4,Bandakada(int.with Z8740)-Kanthalia,LRP007,2960,10,LRP011,815,11.885,1.885,0.0,50.0,89.0,84.0,67.0,39.0,25.0,38.0,662.0,494.0,209.0,241.0,0.0,1548.0,450.0,1998.0,1998.0,Z8705.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z8705.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z8705.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z8705-1,Bhandaria-Paikkhali(int.with Z8706),LRPS,0,0,LRP003,156,3.196,3.196,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+Z8705-2,Paikkhali(int.with Z8706)-Binapani(int.with Z8052),LRP003,156,3.196,LRP007,465,7.505,4.309,0.0,50.0,89.0,84.0,67.0,39.0,25.0,38.0,662.0,494.0,209.0,241.0,0.0,1548.0,450.0,1998.0,1998.0
+Z8705-3,Binapani(int.with Z8052)-Bandakada(int.with Z8740),LRP007,465,7.505,LRP007,2960,10,2.495,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,*  NS
+Z8705-4,Bandakada(int.with Z8740)-Kanthalia,LRP007,2960,10,LRP011,815,11.885,1.885,0.0,50.0,89.0,84.0,67.0,39.0,25.0,38.0,662.0,494.0,209.0,241.0,0.0,1548.0,450.0,1998.0,1998.0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,

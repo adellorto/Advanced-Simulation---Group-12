@@ -1,7 +1,7 @@
-Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic,source_file
-,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT),Z8915.traffic.htm
-Z8915-1,Bagmara - Bangla Bazar (Int.with R890),LRPS,0,0,LRP004,1020,4.35,4.350,0.0,152.0,146.0,104.0,92.0,85.0,67.0,126.0,940.0,662.0,602.0,546.0,0.0,2374.0,1148.0,3522.0,3522.0,Z8915.traffic.htm
-Z8915-2,Bangla Bazar (Int.with R890) - Int.with Z8916,LRP004,1020,4.35,LRP010,1150,10.47,6.120,0.0,77.0,172.0,11.0,126.0,26.0,7.0,25.0,1025.0,872.0,396.0,380.0,0.0,2341.0,776.0,3117.0,3117.0,Z8915.traffic.htm
-Z8915-3,Int.with Z8916 - Daulatkhan,LRP010,1150,10.47,LRP014,2290,15.66,5.190,0.0,77.0,172.0,11.0,126.0,26.0,7.0,25.0,1025.0,872.0,396.0,380.0,0.0,2341.0,776.0,3117.0,3117.0,Z8915.traffic.htm
-,,,,,,,,,,,,,,,,,,,,,,,,,,Z8915.traffic.htm
-*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,,Z8915.traffic.htm
+Link no,Name,Start location,Start location,Start location,End location,End location,End location,Length,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Traffic Data,Total,Total,Total,Traffic
+,,LRP,Offset,Chainage,LRP,Offset,Chainage,(Km),Heavy Truck,Medium Truck,Small Truck,Large Bus,Medium Bus,Micro Bus,Utility,Car,Auto Rickshaw,Motor Cycle,Bi-Cycle,Cycle Rickshaw,Cart,Motorized,Non Motorized,Total AADT,(AADT)
+Z8915-1,Bagmara - Bangla Bazar (Int.with R890),LRPS,0,0,LRP004,1020,4.35,4.350,0.0,152.0,146.0,104.0,92.0,85.0,67.0,126.0,940.0,662.0,602.0,546.0,0.0,2374.0,1148.0,3522.0,3522.0
+Z8915-2,Bangla Bazar (Int.with R890) - Int.with Z8916,LRP004,1020,4.35,LRP010,1150,10.47,6.120,0.0,77.0,172.0,11.0,126.0,26.0,7.0,25.0,1025.0,872.0,396.0,380.0,0.0,2341.0,776.0,3117.0,3117.0
+Z8915-3,Int.with Z8916 - Daulatkhan,LRP010,1150,10.47,LRP014,2290,15.66,5.190,0.0,77.0,172.0,11.0,126.0,26.0,7.0,25.0,1025.0,872.0,396.0,380.0,0.0,2341.0,776.0,3117.0,3117.0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+*  Traffic survey was not done on the link. It was assumed that the traffic will be equivalent to that of another link. Please click on the AADT figure to view the referenced link.  Traffic survey is done once in a year. This information was last updated in the year,,,,,,,,,,,,,,,,,,,,,,,,,
