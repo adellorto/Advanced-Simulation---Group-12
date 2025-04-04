@@ -4,13 +4,14 @@ model/
 │── bridge_condition_refactors.py            # The dataframe that translates `string` bridge conditions to numerical values
 │── Compute_metrics.py                       # The main file that runs all the other files and generates the final scores for criticality and vulnerability
 │── data_clean.py                            # Raw RMMS data cleaner
-│── data_pull.py                             # taking .traffic.htm data from the RMMS folder and parsing it into a dataframe
-│── README.md                                # This file
+│── data_pull.py                             # taking .traffic.htm data from the RMMS folder and parsing it into a dataframe of road sections
+│── data_pull_entire road.py                # Taking the average AADT for each road and merging it with length and identification data
 │── merging_vulnerability_roads              # Code taht brings together all risk factors for the roads
+│── README.md                                # This file
 │── road_condition_categories.py             # The dataframe that assigns categories to the condition of the roads,and translates them to numerical values
-│── road_condition_pull                      # This file extracts the condition of the roads from .detail.htm files in the RMMS folder 
-│── vulnerability_data.py                    # Assigns the weight of flood risk to each road
+│── road_condition_pull                      # This file extracts the influencing factorsfor the road condition from .detail.htm files in the RMMS folder 
 │── vulnerability_data_earthquake.py         # Assigns the weight of earthquake risk to each road
+│── vulnerability_data_floods.py             # Assigns the weight of flood risk to each road
 │── vulnerability_data_rivererosion.py       # Assigns the weight of river erosion risk to each road
 
 ```
