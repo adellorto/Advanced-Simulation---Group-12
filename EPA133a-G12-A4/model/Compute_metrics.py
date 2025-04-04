@@ -129,7 +129,7 @@ def compute_vulnerability(df):
 df= pd.read_csv("../data/processed_data/input_road_vulnerability.csv")
 
 df= compute_vulnerability(df)
-print(df)
+print(df) 
 
 #Save the road vulnerability DataFrame with vulnerability scores to a new CSV file
 output_path = "../analysis/vulnerability_scores_roads_ranked.csv"
@@ -137,3 +137,70 @@ output_path = "../analysis/vulnerability_scores_roads_ranked.csv"
 #cut top 10 vulnerable roads
 top_vulnerable_roads = df.head(10)
 top_vulnerable_roads.to_csv("../analysis/top_vulnerable_roads.csv", index=False)
+
+
+
+
+
+
+# Define the vulnerability function for bridges
+def compute_bridge_vulnerability(df):
+    df = df.copy()
+
+    # Ensure numeric columns are filled so that the calculation can happen even for NaN values
+    df["condition"] = pd.to_numeric(df["condition"], errors="coerce").fillna(0)
+    df["avg_flood_score"] = pd.to_numeric(df["avg_flood_score"], errors="coerce").fillna(0)
+    df["avg_erosion_score"] = pd.to_numeric(df["avg_erosion_score"], errors="coerce").fillna(0)
+    df["avg_earthquake_score"] = pd.to_numeric(df["avg_earthquake_score"], errors="coerce").fillna(0)
+
+    # Combine all environmental risks into a single weighted risk score
+    combined_risk = df["avg_flood_score"] + df["avg_erosion_score"] + df["avg_earthquake_score"]
+    df["Vulnerability"] = df["condition"] * combined_risk
+
+    # Normalize the vulnerability scores
+    df["Vulnerability"] = df["Vulnerability"] / df["Vulnerability"].max()
+
+    # Rank the vulnerability scores
+    df = df.sort_values(by="Vulnerability", ascending=False)
+
+    return df
+
+# Load the bridge vulnerability scores
+bridge_vulnerability_df = pd.read_csv("../data/processed_data/input_bridge_vulnerability.csv")
+
+# Load the bridge condition data
+bridge_condition_df = pd.read_csv("../data/processed_data/brridges_condition_refactored.csv")
+
+# Inspect columns to check for duplicates
+print("Columns in bridge_condition_df before removing duplicates:")
+print(bridge_condition_df.columns)
+
+# Remove duplicate columns
+bridge_condition_df = bridge_condition_df.loc[:, ~bridge_condition_df.columns.duplicated()]
+
+# Drop duplicate rows based on 'LRPName' to ensure uniqueness
+bridge_condition_df = bridge_condition_df.drop_duplicates(subset="LRPName")
+
+# Drop duplicate columns in the bridge vulnerability DataFrame
+bridge_vulnerability_df = bridge_vulnerability_df.loc[:, ~bridge_vulnerability_df.columns.duplicated()]
+# Drop duplicate rows based on 'LRPName' to ensure uniqueness
+bridge_vulnerability_df = bridge_vulnerability_df.drop_duplicates(subset="LRPName")
+
+# Merge the vulnerability scores with the bridge condition data
+merged_bridge_df = bridge_vulnerability_df.merge(bridge_condition_df, on="LRPName", how="left")
+
+# Compute vulnerability for bridges
+merged_bridge_df = compute_bridge_vulnerability(merged_bridge_df)
+
+# Save the bridge vulnerability DataFrame with vulnerability scores to a new CSV file
+output_path = "../analysis/vulnerability_scores_bridges_ranked.csv"
+merged_bridge_df.to_csv(output_path, index=False)
+
+# Cut top 10 vulnerable bridges
+top_vulnerable_bridges = merged_bridge_df.head(10)
+top_vulnerable_bridges.to_csv("../analysis/top_vulnerable_bridges.csv", index=False)
+
+# Display the results
+print(f"The ranked bridge vulnerability scores have been saved to '{output_path}'.")
+print("Top 10 vulnerable bridges:")
+print(top_vulnerable_bridges)

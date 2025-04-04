@@ -1,0 +1,11 @@
+LRPName,avg_flood_score,avg_erosion_score,avg_earthquake_score,vulnerability_score,road,length,condition,roadName,Vulnerability
+LRP098c,0.6666666666666666,0.0,1.0,0.5555555555555555,N8,6.0,3,Dhaka (Jatrabari)-Mawa-Bhanga-Barisal-Patuakhali Road,1.0
+LRP193b,0.3333333333333333,0.0,1.0,0.4444444444444444,N7,2.85,2,Dauladia-Faridpur (Goalchamot)-Magura-Jhenaidah-Jessore-Khulna-Mongla (Digraj) Road,0.5333333333333333
+LRP029e,0.3333333333333333,0.0,1.0,0.4444444444444444,Z7021,14.4,2,Arpara-Kaliganj Road,0.5333333333333333
+LRP029f,0.5,0.0,0.75,0.4166666666666667,R314,1.85,2,Gafargaon-Bormi-Mawna Road,0.5
+LRP111c,0.3333333333333333,0.0,0.5,0.2777777777777777,R545,12.8,3,Bogra-Naogaon-Mohadebpur-Patnitala-Dhamoirhat-Joypurhat Road,0.5
+LRP016f,0.3333333333333333,0.0,0.5,0.2777777777777777,Z1445,1.5,3,Kachua-Gulbahar-Matlab Dakhin (Kashimpur) Road,0.5
+LRP042e,0.6666666666666666,0.0,0.5,0.3888888888888888,R203,4.0,2,Bhulta-Araihazar-Bancharampur-Nabinagar-Shibpur-Radhika Road,0.4666666666666666
+LRP018f,0.6666666666666666,0.0,0.5,0.3888888888888888,Z1401,5.7,2,Lalmai-Barura-Jalam-Adda-Jagatpur Road,0.4666666666666666
+LRP054d,0.6666666666666666,0.0,0.5,0.3888888888888888,R203,11.68,2,Bhulta-Araihazar-Bancharampur-Nabinagar-Shibpur-Radhika Road,0.4666666666666666
+LRP043e,0.0,0.0,1.0,0.3333333333333333,R870,6.7,2,Barisal-Jhalokati-Rajapur-Bhandaria-Pirojpur Road,0.4
