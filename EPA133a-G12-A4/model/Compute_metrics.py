@@ -105,7 +105,7 @@ df_bridges = df_bridges.sort_values(by="Criticality_scores", ascending=False)
 df_bridges["Criticality_scores"].plot(kind="kde")
 plt.show()
 
-#cut top 10 critical roads
+#cut top 10 critical bridges
 top_critical_bridges = df_bridges.head(10)
 #print(top_critical_bridges)
 df_bridges.to_csv("../analysis/top_critical_bridges.csv", index=False)
