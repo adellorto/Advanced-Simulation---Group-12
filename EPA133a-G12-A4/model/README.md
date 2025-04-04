@@ -6,6 +6,7 @@ model/
 │── data_clean.py                            # Raw RMMS data cleaner
 │── data_pull.py                             # taking .traffic.htm data from the RMMS folder and parsing it into a dataframe
 │── README.md                                # This file
+│── merging_vulnerability_roads              # Code taht brings together all risk factors for the roads
 │── road_condition_categories.py             # The dataframe that assigns categories to the condition of the roads,and translates them to numerical values
 │── road_condition_pull                      # This file extracts the condition of the roads from .detail.htm files in the RMMS folder 
 │── vulnerability_data.py                    # Assigns the weight of flood risk to each road
